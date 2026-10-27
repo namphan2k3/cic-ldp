@@ -7,7 +7,7 @@ import {
   getLandingFormsBySite,
   getDb,
 } from '@cic/db';
-import { getAdminSession } from '@/lib/adminAuth';
+import { getAdminSession, resolveInstanceSiteCode } from '@/lib/adminAuth';
 import { SiteCmsHeader } from '../components/cms/SiteCmsHeader';
 import { SiteCmsEditorLayout } from '../components/cms/SiteCmsEditorLayout';
 import { SiteMediaManagerTab } from '../components/cms/SiteMediaManagerTab';
@@ -46,7 +46,7 @@ export default async function SiteSpecificCmsPage({
     redirect(`/admin/login?next=/admin/${siteCode}`);
   }
 
-  const envSiteCode = process.env.DEFAULT_SITE_CODE?.trim() || null;
+  const envSiteCode = await resolveInstanceSiteCode();
   const lockedSiteCode =
     envSiteCode || (session.role === 'site_admin' ? session.allowedSiteCode : null);
 

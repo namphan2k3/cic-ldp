@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { redirect } from 'next/navigation';
 import { getAllLandingSites, getDb } from '@cic/db';
-import { getAdminSession } from '@/lib/adminAuth';
+import { getAdminSession, resolveInstanceSiteCode } from '@/lib/adminAuth';
 import { MasterHeader } from './components/master/MasterHeader';
 import {
   TrafficAnalyticsTab,
@@ -47,7 +47,7 @@ interface MasterAdminPageProps {
 export default async function MasterAdminHubPage({ searchParams }: MasterAdminPageProps) {
   const sp = await searchParams;
   const activeTab = sp.tab || 'dashboard';
-  const envSiteCode = process.env.DEFAULT_SITE_CODE?.trim() || null;
+  const envSiteCode = await resolveInstanceSiteCode();
   const requestedSite = sp.site && sp.site !== 'ALL' ? sp.site.trim() : null;
 
   const session = await getAdminSession(

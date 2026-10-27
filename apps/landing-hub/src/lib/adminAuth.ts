@@ -1,6 +1,6 @@
 import crypto from 'node:crypto';
 import { cookies, headers } from 'next/headers';
-import { getDb } from '@cic/db';
+import { getDb, getLandingSiteByDomain } from '@cic/db';
 
 export const ADMIN_COOKIE_NAME = 'cic_landing_session';
 const SECRET_KEY = process.env.AUTH_SECRET || 'cic-landing-platform-supabase-auth-secret-2026';
@@ -20,6 +20,33 @@ export async function getHostPortSlug(): Promise<string> {
   } catch {
     return 'localhost';
   }
+}
+
+/**
+ * Resolves the locked site code if running either:
+ * 1. As a standalone package (DEFAULT_SITE_CODE env var), OR
+ * 2. On a custom domain mapped to a specific site in Multi-Domain shared mode (e.g. https://robotcongtrinh.vn/admin)
+ */
+export async function resolveInstanceSiteCode(): Promise<string | null> {
+  const envSite = process.env.DEFAULT_SITE_CODE?.trim();
+  if (envSite) return envSite;
+  try {
+    const reqHeaders = await headers();
+    const rawHost = (reqHeaders.get('x-forwarded-host') || reqHeaders.get('host') || '')
+      .toLowerCase()
+      .split(':')[0]
+      .replace(/^www\./, '')
+      .trim();
+    if (rawHost && rawHost !== 'localhost' && rawHost !== '127.0.0.1') {
+      const matched = await getLandingSiteByDomain(rawHost);
+      if (matched) {
+        return matched.landing_site_code;
+      }
+    }
+  } catch {
+    // ignore header/db lookup errors
+  }
+  return null;
 }
 
 export function getAdminCookieName(siteCode?: string | null, hostSlug?: string | null): string {
@@ -80,12 +107,13 @@ export async function getAdminSession(
 ): Promise<AdminSession | null> {
   const cookieStore = await cookies();
   const hostSlug = await getHostPortSlug();
-  const standaloneSite = process.env.DEFAULT_SITE_CODE?.trim() || null;
+  const standaloneSite = await resolveInstanceSiteCode();
 
-  // 1. Standalone Server Mode: strictly isolated to this port + standalone site
+  // 1. Standalone Server or Custom Domain Mode: strictly isolated to this host/port + site
   if (standaloneSite) {
     const standaloneCookies = [
       getAdminCookieName(standaloneSite, hostSlug),
+      `cic_active_session_${hostSlug}`,
       `cic_standalone_session_${standaloneSite}`,
     ];
     for (const name of standaloneCookies) {
@@ -204,14 +232,27 @@ export async function authenticateAdminUser(
     };
   }
 
-  const standaloneSite = process.env.DEFAULT_SITE_CODE?.trim() || null;
+  const standaloneSite = await resolveInstanceSiteCode();
   const effectiveTarget = standaloneSite || targetScopeOrSite?.trim() || 'MASTER';
 
   if (effectiveTarget === 'MASTER') {
+    // If a site_admin logs in at /admin/login without a site param, automatically scope them to their assigned site
+    if (acc.role === 'site_admin' && acc.landing_site_code) {
+      return {
+        success: true,
+        session: {
+          username: acc.username,
+          displayName: acc.display_name,
+          role: acc.role,
+          allowedSiteCode: acc.landing_site_code,
+          activeScope: `site:${acc.landing_site_code}`,
+        },
+      };
+    }
     if (acc.role !== 'super_admin') {
       return {
         success: false,
-        error: `Tài khoản "${acc.username}" chỉ có quyền quản trị trang "${acc.landing_site_code}", không có quyền truy cập Quản trị Tổng.`,
+        error: `Tài khoản "${acc.username}" không có quyền truy cập Quản trị Tổng.`,
       };
     }
   } else if (acc.role !== 'super_admin' && acc.landing_site_code !== effectiveTarget) {

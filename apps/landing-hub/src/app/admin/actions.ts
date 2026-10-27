@@ -510,6 +510,7 @@ export async function loginAdminAction(
     createSessionToken,
     getAdminCookieName,
     getHostPortSlug,
+    resolveInstanceSiteCode,
   } = await import('@/lib/adminAuth');
 
   const reqHeaders = await headers();
@@ -529,7 +530,7 @@ export async function loginAdminAction(
     };
   }
 
-  const instanceSiteCode = process.env.DEFAULT_SITE_CODE?.trim() || null;
+  const instanceSiteCode = await resolveInstanceSiteCode();
   const effectiveTarget = instanceSiteCode || targetSiteCode?.trim() || 'MASTER';
   const res = await authenticateAdminUser(username, password, effectiveTarget);
   if (!res.success || !res.session) {
@@ -573,10 +574,12 @@ export async function loginAdminAction(
 
 export async function logoutAdminAction() {
   const { cookies } = await import('next/headers');
-  const { getAdminCookieName, getHostPortSlug } = await import('@/lib/adminAuth');
+  const { getAdminCookieName, getHostPortSlug, resolveInstanceSiteCode } = await import(
+    '@/lib/adminAuth'
+  );
   const cookieStore = await cookies();
   const hostSlug = await getHostPortSlug();
-  const standaloneSite = process.env.DEFAULT_SITE_CODE?.trim() || null;
+  const standaloneSite = await resolveInstanceSiteCode();
 
   if (standaloneSite) {
     cookieStore.delete(getAdminCookieName(standaloneSite, hostSlug));

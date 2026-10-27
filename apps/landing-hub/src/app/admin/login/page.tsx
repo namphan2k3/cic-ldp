@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import { redirect } from 'next/navigation';
-import { getAdminSession } from '@/lib/adminAuth';
+import { getAdminSession, resolveInstanceSiteCode } from '@/lib/adminAuth';
 import { LoginForm } from './LoginForm';
 
 export const dynamic = 'force-dynamic';
@@ -28,7 +28,8 @@ export default async function AdminLoginPage({
       ? nextSiteMatch[1].toLowerCase()
       : null;
 
-  const lockedSiteCode = process.env.DEFAULT_SITE_CODE?.trim() || parsedSite || null;
+  const instanceSiteCode = await resolveInstanceSiteCode();
+  const lockedSiteCode = instanceSiteCode || parsedSite || null;
   const session = await getAdminSession(lockedSiteCode || 'MASTER');
   if (session) {
     redirect(nextRaw);

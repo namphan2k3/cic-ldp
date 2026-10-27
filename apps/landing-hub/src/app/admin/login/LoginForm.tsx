@@ -28,7 +28,16 @@ export function LoginForm({
         setLoading(false);
         return;
       }
-      router.push(nextUrl || '/admin');
+      if (
+        (!nextUrl || nextUrl === '/admin') &&
+        res.role === 'site_admin' &&
+        res.allowedSiteCode &&
+        !lockedSiteCode
+      ) {
+        router.push(`/admin/${res.allowedSiteCode}`);
+      } else {
+        router.push(nextUrl || '/admin');
+      }
       router.refresh();
     } catch {
       setErrorMsg('Không thể kết nối máy chủ xác thực.');
