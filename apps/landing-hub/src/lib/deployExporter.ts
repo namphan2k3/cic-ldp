@@ -171,9 +171,10 @@ function copyDirFiltered(srcDir: string, destDir: string, excludeNames: Set<stri
     if (excludeNames.has(entry.name)) continue;
     const srcPath = path.join(srcDir, entry.name);
     const destPath = path.join(destDir, entry.name);
-    if (entry.isDirectory()) {
+    const stat = fs.statSync(srcPath);
+    if (stat.isDirectory()) {
       copyDirFiltered(srcPath, destPath, excludeNames);
-    } else if (entry.isFile()) {
+    } else if (stat.isFile()) {
       fs.copyFileSync(srcPath, destPath);
     }
   }
