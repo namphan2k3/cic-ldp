@@ -67,6 +67,7 @@ Mỗi tài khoản riêng bên dưới **chỉ có quyền truy cập và chỉn
 1. **Chỉnh sửa Giao diện trực quan (Tab `Chỉnh sửa Giao diện`)**:
    - **Sửa chữ**: Bấm trực tiếp vào tiêu đề, đoạn văn, nút bấm trên khung trang đích để gõ nội dung mới (giữ nguyên 100% phông chữ và cỡ chữ gốc).
    - **Thay ảnh**: Bấm nút **`🖼 Thay ảnh`** trên ảnh bất kỳ $\rightarrow$ chọn ảnh có sẵn hoặc tải ảnh mới từ máy tính lên.
+   - **Thay link Video YouTube**: Bấm nút **`🎬 Thay link YouTube`** ở góc phải trên của bất kỳ khung video nào (hoặc vào mục **Chỉnh sửa nâng cao** $\rightarrow$ **Video YouTube**), dán link YouTube mới (`youtube.com/watch?v=...`, `youtu.be/...`, `shorts/...` hoặc mã ID 11 ký tự) để cập nhật ngay lập tức.
    - **Lưu & Xuất bản**: Bấm **Lưu nháp** để xem thử hoặc **Xuất bản** để áp dụng ngay lên trang chính thức. Có thể hoàn tác về các bản cũ tại tab **Lịch sử Phiên bản**.
 2. **Khách hàng đăng ký & Google Sheets (Tab `Khách hàng đăng ký`)**:
    - Tự động lưu khách hàng điền form vào PostgreSQL và đồng bộ 2 chiều với Google Sheets (nút **"Đồng bộ từ Google Sheets"** hoặc **"Xuất Excel .CSV"**).

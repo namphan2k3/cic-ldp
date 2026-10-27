@@ -184,6 +184,41 @@ export function SiteCmsEditorLayout({
           isSecondDuoImage: msg.payload?.isSecondDuoImage,
         });
         setMediaOpen(true);
+      } else if (msg.type === 'CMS_YOUTUBE_REPLACE') {
+        const { anchor, oldYoutubeId, newYoutubeId } = msg.payload || {};
+        if (!oldYoutubeId || !newYoutubeId || oldYoutubeId === newYoutubeId) return;
+        const hinted = resolveSectionCodeFromAnchor(anchor, sections);
+        if (hinted) setActiveCode(hinted);
+
+        setPayloadsMap((prev) => {
+          const next = { ...prev };
+          const orderedCodes = hinted
+            ? [hinted, ...Object.keys(prev).filter((c) => c !== hinted)]
+            : Object.keys(prev);
+          let targetCode = hinted || orderedCodes[0] || 'hero';
+
+          // Replace in any structured items array (e.g. video_slider or infrastructure)
+          for (const code of orderedCodes) {
+            const rawJson = JSON.stringify(prev[code] || {});
+            if (rawJson.includes(oldYoutubeId)) {
+              next[code] = JSON.parse(rawJson.split(oldYoutubeId).join(newYoutubeId));
+              targetCode = code;
+              markDirty(code);
+            }
+          }
+
+          const curSecPayload = next[targetCode] || {};
+          const curVideoOverrides = { ...(curSecPayload.video_overrides || {}) };
+          for (const [k, v] of Object.entries(curVideoOverrides)) {
+            if (v === oldYoutubeId) {
+              curVideoOverrides[k] = newYoutubeId;
+            }
+          }
+          curVideoOverrides[oldYoutubeId] = newYoutubeId;
+          next[targetCode] = { ...curSecPayload, video_overrides: curVideoOverrides };
+          markDirty(targetCode);
+          return next;
+        });
       } else if (msg.type === 'CMS_MODAL_OPENED') {
         if (msg.sectionCode) setActiveCode(msg.sectionCode);
         setShowModalEditor(true);

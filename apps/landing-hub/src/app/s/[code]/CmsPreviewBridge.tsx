@@ -27,6 +27,17 @@ function normalizeUrlPath(rawUrl: string): string {
   }
 }
 
+function extractYoutubeId(raw: string | null | undefined): string {
+  if (!raw) return '';
+  const trimmed = raw.trim();
+  const m = trimmed.match(
+    /(?:youtube(?:-nocookie)?\.com\/(?:embed\/|watch\?v=|shorts\/)|youtu\.be\/|img\.youtube\.com\/vi\/)([a-zA-Z0-9_-]{11})/i
+  );
+  if (m && m[1]) return m[1];
+  if (/^[a-zA-Z0-9_-]{11}$/.test(trimmed)) return trimmed;
+  return '';
+}
+
 function extractBgUrl(bgVal: string | null | undefined): string {
   if (!bgVal || bgVal === 'none') return '';
   const m = bgVal.match(/url\(["']?([^"')]+)["']?\)/i);
@@ -195,6 +206,7 @@ export function CmsPreviewBridge({ isPreview = true, sections = [] }: CmsPreview
       const textOverrides: Record<string, string> = {};
       const imageOverrides: Record<string, string> = {};
       const linkOverrides: Record<string, string> = {};
+      const videoOverrides: Record<string, string> = {};
 
       for (const sec of liveSections) {
         const p = sec.payload || {};
@@ -207,6 +219,22 @@ export function CmsPreviewBridge({ isPreview = true, sections = [] }: CmsPreview
         if (p.link_overrides && typeof p.link_overrides === 'object') {
           Object.assign(linkOverrides, p.link_overrides);
         }
+        if (p.video_overrides && typeof p.video_overrides === 'object') {
+          Object.assign(videoOverrides, p.video_overrides);
+        }
+      }
+
+      if (Object.keys(videoOverrides).length > 0) {
+        document.querySelectorAll<HTMLIFrameElement>('iframe[src*="youtube"]').forEach((ifr) => {
+          const curVid = extractYoutubeId(ifr.getAttribute('src') || ifr.src);
+          if (!curVid) return;
+          if (!ifr.dataset.cmsInitialVid) ifr.dataset.cmsInitialVid = curVid;
+          const initVid = ifr.dataset.cmsInitialVid;
+          const nextVid = videoOverrides[initVid] || videoOverrides[curVid];
+          if (nextVid && nextVid !== curVid) {
+            ifr.src = `https://www.youtube.com/embed/${nextVid}`;
+          }
+        });
       }
 
       const textKeys = Object.keys(textOverrides);
@@ -414,8 +442,78 @@ export function CmsPreviewBridge({ isPreview = true, sections = [] }: CmsPreview
         background: #1d4ed8;
         transform: scale(1.06);
       }
+      .cms-youtube-edit-btn {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        z-index: 99990;
+        border: 2px solid #ffffff;
+        border-radius: 999px;
+        background: #dc2626;
+        color: #ffffff;
+        padding: 6px 12px;
+        font: 700 12px/1.2 Roboto, Arial, sans-serif;
+        box-shadow: 0 6px 18px rgba(15, 23, 42, 0.5);
+        cursor: pointer;
+        display: inline-flex;
+        align-items: center;
+        gap: 5px;
+      }
+      .cms-youtube-edit-btn:hover {
+        background: #b91c1c;
+        transform: scale(1.05);
+      }
     `;
     document.head.appendChild(styleEl);
+
+    const attachYoutubeEditBadges = () => {
+      document.querySelectorAll<HTMLIFrameElement>('iframe[src*="youtube"]').forEach((ifr) => {
+        const parent = ifr.parentElement;
+        if (!parent || parent.querySelector('.cms-youtube-edit-btn')) return;
+        const pos = window.getComputedStyle(parent).position;
+        if (pos === 'static') parent.style.position = 'relative';
+
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'cms-youtube-edit-btn';
+        btn.dataset.cmsNoEdit = '1';
+        btn.textContent = '🎬 Thay link YouTube';
+        btn.addEventListener('click', (ev) => {
+          ev.preventDefault();
+          ev.stopPropagation();
+          const curSrc = ifr.getAttribute('src') || ifr.src;
+          const curVid = extractYoutubeId(curSrc);
+          if (!ifr.dataset.cmsInitialVid && curVid) {
+            ifr.dataset.cmsInitialVid = curVid;
+          }
+          const oldVid = ifr.dataset.cmsInitialVid || curVid;
+          const input = window.prompt(
+            'Nhập link YouTube mới (watch?v=..., youtu.be/..., shorts/...) hoặc mã ID 11 ký tự:',
+            curVid ? `https://www.youtube.com/watch?v=${curVid}` : curSrc
+          );
+          if (!input) return;
+          const newVid = extractYoutubeId(input);
+          if (!newVid) {
+            window.alert('Link YouTube không hợp lệ. Vui lòng dán link dạng https://www.youtube.com/watch?v=...');
+            return;
+          }
+          ifr.src = `https://www.youtube.com/embed/${newVid}`;
+          window.parent.postMessage(
+            {
+              type: 'CMS_YOUTUBE_REPLACE',
+              payload: {
+                anchor: findSectionAnchor(ifr),
+                oldYoutubeId: oldVid,
+                newYoutubeId: newVid,
+              },
+            },
+            '*'
+          );
+        });
+        parent.appendChild(btn);
+      });
+    };
+    attachYoutubeEditBadges();
 
     const mediaBtn = document.createElement('button');
     mediaBtn.type = 'button';
@@ -464,7 +562,10 @@ export function CmsPreviewBridge({ isPreview = true, sections = [] }: CmsPreview
     };
 
     enableInlineEditing();
-    const observer = new MutationObserver(() => enableInlineEditing());
+    const observer = new MutationObserver(() => {
+      enableInlineEditing();
+      attachYoutubeEditBadges();
+    });
     observer.observe(document.body, { childList: true, subtree: true });
 
     const handleFocusIn = (e: FocusEvent) => {

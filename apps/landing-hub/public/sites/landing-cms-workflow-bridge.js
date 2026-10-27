@@ -204,6 +204,17 @@
     return m ? m[1] : '';
   }
 
+  function extractYoutubeId(raw) {
+    if (!raw) return '';
+    var s = String(raw).trim();
+    var m = s.match(
+      /(?:youtube(?:-nocookie)?\.com\/(?:embed\/|watch\?v=|shorts\/)|youtu\.be\/|img\.youtube\.com\/vi\/)([a-zA-Z0-9_-]{11})/i
+    );
+    if (m && m[1]) return m[1];
+    if (/^[a-zA-Z0-9_-]{11}$/.test(s)) return s;
+    return '';
+  }
+
   // 1. Ensure page preloaders never hang & eager-load LadiPage lazy backgrounds
   function dismissPreloaders() {
     var ids = ['preloader', 'loader', 'loading', 'page-loader'];
@@ -310,6 +321,7 @@
     var textOverrides = {};
     var imageOverrides = {};
     var linkOverrides = {};
+    var videoOverrides = {};
     var siteMap = SITE_SECTION_MAP[siteCode] || {};
 
     for (var i = 0; i < sections.length; i++) {
@@ -327,6 +339,68 @@
       }
       if (p.link_overrides && typeof p.link_overrides === 'object') {
         Object.assign(linkOverrides, p.link_overrides);
+      }
+      if (p.video_overrides && typeof p.video_overrides === 'object') {
+        Object.assign(videoOverrides, p.video_overrides);
+      }
+    }
+
+    // Apply YouTube video overrides to iframes, .ladi-video thumbnails/players, and YouTube links
+    var vidKeys = Object.keys(videoOverrides);
+    if (vidKeys.length > 0) {
+      var ytIframes = document.querySelectorAll('iframe[src*="youtube"]');
+      for (var yi = 0; yi < ytIframes.length; yi++) {
+        var ifr = ytIframes[yi];
+        var curVid = extractYoutubeId(ifr.getAttribute('src') || ifr.src);
+        if (!curVid) continue;
+        if (!ifr.dataset.cmsInitialVid) ifr.dataset.cmsInitialVid = curVid;
+        var initVid = ifr.dataset.cmsInitialVid;
+        var nextVid = videoOverrides[initVid] || videoOverrides[curVid];
+        if (nextVid && nextVid !== curVid) {
+          ifr.src = 'https://www.youtube.com/embed/' + nextVid;
+        }
+      }
+
+      var ladiVideos = document.querySelectorAll('.ladi-video');
+      for (var lv = 0; lv < ladiVideos.length; lv++) {
+        (function (vBox) {
+          var bgEl = vBox.querySelector('.ladi-video-background') || vBox;
+          var bgUrl = extractBgUrl(window.getComputedStyle(bgEl).backgroundImage);
+          var curVid = extractYoutubeId(bgUrl);
+          if (!curVid) return;
+          if (!vBox.dataset.cmsInitialVid) vBox.dataset.cmsInitialVid = curVid;
+          var initVid = vBox.dataset.cmsInitialVid;
+          var nextVid = videoOverrides[initVid] || videoOverrides[curVid];
+          if (nextVid) {
+            vBox.dataset.cmsCurrentVid = nextVid;
+            bgEl.style.setProperty(
+              'background-image',
+              'url("https://img.youtube.com/vi/' + nextVid + '/hqdefault.jpg")',
+              'important'
+            );
+            if (!vBox.dataset.cmsVideoBound) {
+              vBox.dataset.cmsVideoBound = '1';
+              vBox.addEventListener(
+                'click',
+                function (ev) {
+                  if (ev.target && ev.target.closest && ev.target.closest('.cms-youtube-edit-btn')) {
+                    return;
+                  }
+                  var activeVid = vBox.dataset.cmsCurrentVid;
+                  if (!activeVid) return;
+                  ev.preventDefault();
+                  ev.stopPropagation();
+                  ev.stopImmediatePropagation();
+                  vBox.innerHTML =
+                    '<iframe src="https://www.youtube.com/embed/' +
+                    activeVid +
+                    '?autoplay=1" style="width:100%;height:100%;border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
+                },
+                true
+              );
+            }
+          }
+        })(ladiVideos[lv]);
       }
     }
 
@@ -1259,8 +1333,82 @@
       'img:hover, .ladi-image:hover { outline: 2px dashed #0284c7 !important; outline-offset: 2px !important; cursor: pointer !important; }' +
       '.cms-image-edit-btn { position: fixed; z-index: 2147483645; border: 2px solid #ffffff; border-radius: 999px; background: #ea580c; color: #ffffff; padding: 7px 14px; font: 700 12px/1.2 Roboto, Arial, sans-serif; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.55); cursor: pointer; display: inline-flex; align-items: center; gap: 6px; transition: transform 0.12s ease, background-color 0.12s ease; }' +
       '.cms-image-edit-btn[hidden] { display: none !important; }' +
-      '.cms-image-edit-btn:hover { background: #1d4ed8; transform: scale(1.06); }';
+      '.cms-image-edit-btn:hover { background: #1d4ed8; transform: scale(1.06); }' +
+      '.cms-youtube-edit-btn { position: absolute; top: 8px; right: 8px; z-index: 2147483644; border: 2px solid #ffffff; border-radius: 999px; background: #dc2626; color: #ffffff; padding: 6px 12px; font: 700 12px/1.2 Roboto, Arial, sans-serif; box-shadow: 0 6px 18px rgba(15, 23, 42, 0.55); cursor: pointer; display: inline-flex; align-items: center; gap: 5px; }' +
+      '.cms-youtube-edit-btn:hover { background: #b91c1c; transform: scale(1.05); }';
     document.head.appendChild(styleEl);
+
+    function attachYoutubeEditBadges() {
+      var videoContainers = document.querySelectorAll('.ladi-video, iframe[src*="youtube"]');
+      for (var i = 0; i < videoContainers.length; i++) {
+        (function (node) {
+          var isIframe = node.tagName === 'IFRAME';
+          var hostEl = isIframe ? node.parentElement : node;
+          if (!hostEl || hostEl.querySelector('.cms-youtube-edit-btn')) return;
+          if (window.getComputedStyle(hostEl).position === 'static') {
+            hostEl.style.position = 'relative';
+          }
+          var btn = document.createElement('button');
+          btn.type = 'button';
+          btn.className = 'cms-youtube-edit-btn';
+          btn.dataset.cmsNoEdit = '1';
+          btn.textContent = '🎬 Thay link YouTube';
+          btn.addEventListener(
+            'click',
+            function (ev) {
+              ev.preventDefault();
+              ev.stopPropagation();
+              ev.stopImmediatePropagation();
+              var bgEl = !isIframe ? node.querySelector('.ladi-video-background') || node : null;
+              var curRaw = isIframe
+                ? node.getAttribute('src') || node.src
+                : extractBgUrl(window.getComputedStyle(bgEl).backgroundImage);
+              var curVid = node.dataset.cmsCurrentVid || extractYoutubeId(curRaw);
+              if (!node.dataset.cmsInitialVid && curVid) {
+                node.dataset.cmsInitialVid = curVid;
+              }
+              var oldVid = node.dataset.cmsInitialVid || curVid;
+              var input = window.prompt(
+                'Nhập link YouTube mới (watch?v=..., youtu.be/..., shorts/...) hoặc mã ID 11 ký tự:',
+                curVid ? 'https://www.youtube.com/watch?v=' + curVid : curRaw
+              );
+              if (!input) return;
+              var newVid = extractYoutubeId(input);
+              if (!newVid) {
+                window.alert(
+                  'Link YouTube không hợp lệ. Vui lòng dán link dạng https://www.youtube.com/watch?v=...'
+                );
+                return;
+              }
+              node.dataset.cmsCurrentVid = newVid;
+              if (isIframe) {
+                node.src = 'https://www.youtube.com/embed/' + newVid;
+              } else if (bgEl) {
+                bgEl.style.setProperty(
+                  'background-image',
+                  'url("https://img.youtube.com/vi/' + newVid + '/hqdefault.jpg")',
+                  'important'
+                );
+              }
+              window.parent.postMessage(
+                {
+                  type: 'CMS_YOUTUBE_REPLACE',
+                  payload: {
+                    anchor: resolveCanonicalSectionFromElement(node),
+                    oldYoutubeId: oldVid,
+                    newYoutubeId: newVid,
+                  },
+                },
+                '*'
+              );
+            },
+            true
+          );
+          hostEl.appendChild(btn);
+        })(videoContainers[i]);
+      }
+    }
+    attachYoutubeEditBadges();
 
     var mediaBtn = document.createElement('button');
     mediaBtn.type = 'button';
@@ -1335,6 +1483,7 @@
       for (var k = 0; k < allNodes.length; k++) {
         var node = allNodes[k];
         if (node === mediaBtn || mediaBtn.contains(node)) continue;
+        if (node.closest && node.closest('.ladi-video')) continue;
         var bgVal = window.getComputedStyle(node).backgroundImage;
         var bgUrl = extractBgUrl(bgVal);
         if (bgUrl) {

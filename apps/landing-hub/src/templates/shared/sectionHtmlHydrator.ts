@@ -21,6 +21,7 @@ export function hydrateSectionHtml(
   const textOverrides: Record<string, string> = {};
   const imageOverrides: Record<string, string> = {};
   const linkOverrides: Record<string, string> = {};
+  const videoOverrides: Record<string, string> = {};
 
   for (const p of [...allPayloads, payload]) {
     if (!p || typeof p !== 'object') continue;
@@ -33,6 +34,15 @@ export function hydrateSectionHtml(
     if (p.link_overrides && typeof p.link_overrides === 'object') {
       Object.assign(linkOverrides, p.link_overrides);
     }
+    if (p.video_overrides && typeof p.video_overrides === 'object') {
+      Object.assign(videoOverrides, p.video_overrides);
+    }
+  }
+
+  // 0. Apply YouTube video ID overrides
+  for (const [oldVid, newVid] of Object.entries(videoOverrides)) {
+    if (!oldVid || !newVid || oldVid === newVid) continue;
+    html = html.split(oldVid).join(newVid);
   }
 
   // 1. Apply image overrides (longest URL first)
@@ -83,10 +93,18 @@ export function hydrateStyleCss(
 ): string {
   let css = rawCss;
   const imageOverrides: Record<string, string> = {};
+  const videoOverrides: Record<string, string> = {};
   for (const p of allPayloads) {
     if (p?.image_overrides && typeof p.image_overrides === 'object') {
       Object.assign(imageOverrides, p.image_overrides);
     }
+    if (p?.video_overrides && typeof p.video_overrides === 'object') {
+      Object.assign(videoOverrides, p.video_overrides);
+    }
+  }
+  for (const [oldVid, newVid] of Object.entries(videoOverrides)) {
+    if (!oldVid || !newVid || oldVid === newVid) continue;
+    css = css.split(oldVid).join(newVid);
   }
   const imgEntries = Object.entries(imageOverrides).sort((a, b) => b[0].length - a[0].length);
   for (const [oldSrc, newSrc] of imgEntries) {
