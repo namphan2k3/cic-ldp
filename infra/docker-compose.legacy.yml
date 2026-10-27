@@ -1,0 +1,86 @@
+# Các web Laravel cũ chạy trên Postgres chung (mỗi web 1 schema riêng)
+#   nghenoithat.vn      -> http://localhost:4310  (schema nghenoithat)
+#   vietnambim.com      -> http://localhost:4311  (schema vietnambim)
+#   app.netzero2050.vn  -> http://localhost:4312  (schema netzero_app)
+#
+# Chạy:  docker compose --env-file .env -f infra/docker-compose.legacy.yml up -d --build
+# (chạy từ thư mục d:\web-data\cic-platform)
+#
+# Trên máy chủ Viettel: đặt LEGACY_DB_HOST_DOCKER=supabase-db và LEGACY_DB_PORT_DOCKER=5432
+# rồi gắn các service vào cùng network với Supabase.
+
+x-legacy-common: &legacy-common
+  restart: unless-stopped
+  extra_hosts:
+    - "host.docker.internal:host-gateway"
+
+x-db-env: &db-env
+  DB_CONNECTION: pgsql
+  DB_HOST: ${LEGACY_DB_HOST_DOCKER:-host.docker.internal}
+  DB_PORT: ${LEGACY_DB_PORT_DOCKER:-54322}
+  DB_DATABASE: ${LEGACY_DB_DATABASE:-postgres}
+  DB_SSLMODE: disable
+
+services:
+  nghenoithat:
+    <<: *legacy-common
+    build:
+      context: ./legacy/php
+      args: { PHP_VERSION: "7.4" }
+    image: cic-legacy-php:7.4
+    container_name: cic-legacy-nghenoithat
+    ports: ["127.0.0.1:4310:80"]
+    environment:
+      <<: *db-env
+      DB_SCHEMA: "nghenoithat,extensions"
+      DB_USERNAME: nghenoithat_app
+      DB_PASSWORD: ${LEGACY_NGHENOITHAT_DB_PASSWORD}
+      APP_URL: ${LEGACY_NGHENOITHAT_URL:-http://localhost:4310}
+    volumes:
+      - ../legacy-apps/nghenoithat:/var/www/html
+
+  vietnambim:
+    <<: *legacy-common
+    build:
+      context: ./legacy/php
+      args: { PHP_VERSION: "7.4" }
+    image: cic-legacy-php:7.4
+    container_name: cic-legacy-vietnambim
+    ports: ["127.0.0.1:4311:80"]
+    environment:
+      <<: *db-env
+      DB_SCHEMA: "vietnambim,extensions"
+      DB_USERNAME: vietnambim_app
+      DB_PASSWORD: ${LEGACY_VIETNAMBIM_DB_PASSWORD}
+      APP_URL: ${LEGACY_VIETNAMBIM_URL:-http://localhost:4311}
+    volumes:
+      - ../legacy-apps/vietnambim:/var/www/html
+
+  netzero-app:
+    <<: *legacy-common
+    build:
+      context: ./legacy/php
+      args: { PHP_VERSION: "8.2" }
+    image: cic-legacy-php:8.2
+    container_name: cic-legacy-netzero-app
+    ports: ["127.0.0.1:4312:80"]
+    environment:
+      <<: *db-env
+      DB_SCHEMA: "netzero_app,extensions"
+      DB_USERNAME: netzero_app_user
+      DB_PASSWORD: ${LEGACY_NETZERO_DB_PASSWORD}
+      APP_URL: ${LEGACY_NETZERO_URL:-http://localhost:4312}
+      # Code ép HTTPS khi APP_ENV != local. Local để 'local'; lên server đặt PRODUCTION
+      APP_ENV: ${LEGACY_NETZERO_APP_ENV:-local}
+    volumes:
+      - ../legacy-apps/netzero-app:/var/www/html
+
+  # Chỉ dùng khi chuyển dữ liệu MySQL -> Postgres (xong có thể tắt)
+  mysql-staging:
+    image: mysql:8.0
+    container_name: cic-mysql-staging
+    profiles: ["migrate"]
+    environment:
+      MYSQL_ROOT_PASSWORD: staging_root
+    command: ["--character-set-server=utf8mb4", "--collation-server=utf8mb4_unicode_ci", "--default-authentication-plugin=mysql_native_password"]
+    ports: ["127.0.0.1:33306:3306"]

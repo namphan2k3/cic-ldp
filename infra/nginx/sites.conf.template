@@ -1,0 +1,71 @@
+# Nginx Multi-Domain Reverse Proxy Configuration for CIC Unified Platform (Viettel Server)
+
+upstream cic_web_portal {
+    server host.docker.internal:4300;
+}
+
+upstream cic_landing_hub {
+    server landing-hub:4301;
+}
+
+upstream cic_data_hub {
+    server data-hub:4302;
+}
+
+# 1. Main Portal (cic.com.vn)
+server {
+    listen 80;
+    server_name cic.com.vn www.cic.com.vn;
+
+    client_max_body_size 50M;
+
+    location / {
+        proxy_pass http://cic_web_portal;
+        proxy_http_version 1.1;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+
+# 2. Data Hub — Sheet Sync, Multi-Site Config & Backup Portal (data.cic.com.vn)
+server {
+    listen 80;
+    server_name data.cic.com.vn;
+
+    client_max_body_size 100M;
+
+    location / {
+        proxy_pass http://cic_data_hub;
+        proxy_http_version 1.1;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+
+# 3. Unified Landing Pages (cmsintellicad.vn, robotcongtrinh.vn, enjicad.vn, *.cic.com.vn)
+server {
+    listen 80;
+    server_name
+        cmsintellicad.vn www.cmsintellicad.vn intellicad.cic.com.vn
+        robotcongtrinh.vn www.robotcongtrinh.vn robot.cic.com.vn
+        enjicad.vn www.enjicad.vn
+        allplan.cic.com.vn
+        bim.cic.com.vn
+        escon.cic.com.vn
+        revit.cic.com.vn;
+
+    client_max_body_size 25M;
+
+    location / {
+        proxy_pass http://cic_landing_hub;
+        proxy_http_version 1.1;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}

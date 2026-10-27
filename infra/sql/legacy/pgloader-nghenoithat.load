@@ -1,0 +1,19 @@
+LOAD DATABASE
+  FROM mysql://root:staging_root@host.docker.internal:33306/nghenoithat
+  INTO postgresql://postgres:{{PG_PW}}@host.docker.internal:54322/postgres
+
+WITH include drop, create tables, create indexes, reset sequences, foreign keys,
+     quote identifiers, workers = 4, concurrency = 1, prefetch rows = 5000
+
+SET PostgreSQL PARAMETERS maintenance_work_mem to '256MB', work_mem to '32MB'
+
+CAST type tinyint to smallint drop typemod,
+     type datetime to timestamp drop default drop not null using zero-dates-to-null,
+     type timestamp to timestamp drop default drop not null using zero-dates-to-null,
+     type date to date drop default drop not null using zero-dates-to-null,
+     type enum to text drop typemod,
+     type set to text drop typemod,
+     type year to integer drop typemod
+
+BEFORE LOAD DO
+  $$ CREATE SCHEMA IF NOT EXISTS nghenoithat; $$;

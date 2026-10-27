@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Next.js & Turbo build caches
+.next/
+.turbo/
+out/
+dist/
+
+# Generated standalone deployment packages (can be re-exported anytime via Admin UI or API)
+dist-deploy/
+
+# Temporary audit, legacy, and database backup dumps
+.tmp-audit/
+legacy-apps/
+credentials/
+infra/supabase/backups/
+
+# Local environment secrets (keep .env.example committed)
+.env
+.env.local
+.env.*.local
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+*.log

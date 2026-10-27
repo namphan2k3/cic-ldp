@@ -1,0 +1,47 @@
+{
+  "name": "cic-platform",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "dev:landing": "npm --workspace @cic/landing-hub run dev",
+    "dev:data-hub": "npm --workspace @cic/data-hub run dev",
+    "dev:worker": "npm --workspace @cic/sync-worker run dev",
+    "build:landing": "npm --workspace @cic/landing-hub run build",
+    "start:landing": "npm --workspace @cic/landing-hub run start",
+    "build:data-hub": "npm --workspace @cic/data-hub run build",
+    "test": "vitest run",
+    "verify:schema": "node infra/scripts/verify-platform-schema.mjs",
+    "db:seed": "node seed/auto-seed.mjs",
+    "seed:platform": "node --env-file=.env --import tsx infra/scripts/seed-platform-sites-and-sheets.ts"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.9.0",
+    "@supabase/supabase-js": "^2.99.0",
+    "dotenv": "^17.2.3",
+    "googleapis": "^171.4.0",
+    "lucide-react": "^0.546.0",
+    "next": "^16.2.1",
+    "nodemailer": "^7.0.11",
+    "postgres": "^3.4.7",
+    "react": "^19.0.1",
+    "react-dom": "^19.0.1",
+    "xlsx-js-style": "^1.2.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.1",
+    "@types/node": "^22.14.0",
+    "@types/nodemailer": "^7.0.4",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "tailwindcss": "^4.2.1",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.2",
+    "vitest": "^4.0.18"
+  }
+}

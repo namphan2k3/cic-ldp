@@ -1,0 +1,1186 @@
+{
+    "cms-intellicad": {
+        "vi": {
+            "seo": {
+                "title": "CMS IntelliCAD – Giải pháp CAD bản quyền tối ưu chi phí | TechAZ",
+                "description": "CMS IntelliCAD tương thích DWG, LISP và quy trình AutoCAD. Đăng ký tư vấn và dùng thử miễn phí 30 ngày."
+            },
+            "nav": {
+                "home": "Trang chủ",
+                "advantages": "Ưu điểm",
+                "compare": "So sánh AutoCAD®",
+                "version": "IntelliCAD 14.0",
+                "requirements": "Yêu cầu hệ thống",
+                "resources": "Thư viện",
+                "faq": "Hỏi đáp",
+                "contact": "Đăng ký nhận báo giá",
+                "trial": "Dùng thử miễn phí 30 ngày"
+            },
+            "header": {
+                "subtitle": "Phần mềm CAD 2D\/3D Bản Quyền Vĩnh Viễn",
+                "quote": "ĐĂNG KÝ NHẬN BÁO GIÁ"
+            },
+            "hero": {
+                "badge": "Giải Pháp CMS IntelliCAD Bản Quyền Vĩnh Viễn",
+                "title_line": "CMS INTELLICAD –",
+                "title_accent": "GIẢI PHÁP CAD THAY THẾ MẠNH MẼ",
+                "description_1": "CMS IntelliCAD là phần mềm CAD chuyên nghiệp, cung cấp đầy đủ các công cụ thiết kế 2D và 3D, hỗ trợ định dạng DWG và mang đến môi trường làm việc quen thuộc cho người dùng CAD.",
+                "description_2": "CMS IntelliCAD là giải pháp phù hợp cho các doanh nghiệp, kỹ sư, kiến trúc sư, đơn vị tư vấn thiết kế, cũng như doanh nghiệp trong lĩnh vực sản xuất, cơ khí và chế tạo, đang tìm kiếm một phần mềm CAD chuyên nghiệp, hiệu năng cao và tối ưu chi phí đầu tư.",
+                "compare_versions": "SO SÁNH BẢN PE \/ PE PLUS",
+                "pricing": {
+                    "badge": "Chi Phí Đầu Tư Bản Quyền Tối Ưu",
+                    "types": "Vĩnh Viễn \/ Theo Năm \/ Theo Nhu Cầu",
+                    "from": "Bản quyền CMS IntelliCAD chính hãng chỉ từ:",
+                    "price": "7.500.000 VNĐ",
+                    "note": "*(Áp dụng ưu đãi khi mua từ 2 license trở lên)",
+                    "standalone": "Bản Standalone (Máy đơn)",
+                    "network": "Bản Network (License Mạng)",
+                    "options": [
+                        "Bản quyền vĩnh viễn",
+                        "Thuê bao theo năm",
+                        "Theo nhu cầu sử dụng"
+                    ]
+                },
+                "visual": {
+                    "real_ui": "Giao Diện Thực Tế",
+                    "title": "Mô phỏng Giao diện CAD trực quan",
+                    "specs": [
+                        {
+                            "label": "Tương thích",
+                            "value": "DWG Native"
+                        },
+                        {
+                            "label": "Công nghệ",
+                            "value": "64-Bit Multi-Core"
+                        },
+                        {
+                            "label": "Lập trình",
+                            "value": "LISP, FAS, VLX, .NET"
+                        }
+                    ]
+                },
+                "licensing": {
+                    "badge": "Hình Thức Cấp Phép Bản Quyền",
+                    "title": "HÌNH THỨC CẤP PHÉP BẢN QUYỀN",
+                    "description": "CMS IntelliCAD có các bản chính dựa trên nhóm tính năng: <strong>Premium Edition (PE)<\/strong>, <strong>Premium Edition Plus (PE Plus)<\/strong> và <strong>Easy Run<\/strong>:"
+                },
+                "versions": [
+                    {
+                        "name": "1. PE (Premium Edition)",
+                        "icon": "monitor",
+                        "tag": "Cốt Lõi 2D\/3D",
+                        "description": "Bao gồm đầy đủ các công cụ thiết kế 2D cốt lõi, đồng thời hỗ trợ mô hình hóa 3D, kết xuất hình ảnh (Rendering), BIM Underlay và làm việc với các định dạng tệp bên ngoài."
+                    },
+                    {
+                        "name": "2. PE Plus (Premium Edition Plus)",
+                        "icon": "award",
+                        "tag": "Nâng Cao & ACIS",
+                        "description": "Bổ sung các tính năng mô hình hóa 3D nâng cao, hỗ trợ đầy đủ việc chỉnh sửa khối ACIS Solid, cùng nhiều công cụ nâng cao giúp tăng năng suất làm việc."
+                    },
+                    {
+                        "name": "3. Easy Run",
+                        "icon": "zap",
+                        "tag": "Không Cần Cài Đặt",
+                        "description": "CMS IntelliCAD hỗ trợ chạy trực tiếp không cần cài đặt, đáp ứng nhu cầu sử dụng linh động và cấp phép cho một máy có kết nối internet tại một thời điểm."
+                    }
+                ]
+            },
+            "advantages": {
+                "eyebrow": "Nền Tảng CAD Chuyên Nghiệp",
+                "title": "ƯU ĐIỂM VƯỢT TRỘI",
+                "description": "Các ưu điểm của CMS IntelliCAD",
+                "items": [
+                    {
+                        "title": "Hiệu năng cao, chi phí hợp lý",
+                        "text": "CMS IntelliCAD cung cấp đầy đủ các công cụ thiết kế CAD chuyên nghiệp, đáp ứng tốt nhu cầu thiết kế 2D và 3D với chi phí đầu tư hợp lý."
+                    },
+                    {
+                        "title": "Giao diện quen thuộc, dễ sử dụng",
+                        "text": "Giao diện và các thao tác của CMS IntelliCAD quen thuộc với người dùng CAD, giúp dễ dàng chuyển đổi và sử dụng mà không mất nhiều thời gian làm quen."
+                    },
+                    {
+                        "title": "Tương thích định dạng CAD phổ biến",
+                        "text": "CMS IntelliCAD hỗ trợ các định dạng phổ biến như DWG, DXF, thuận tiện cho việc mở, chỉnh sửa và trao đổi bản vẽ."
+                    },
+                    {
+                        "title": "Hỗ trợ thiết kế 2D và 3D",
+                        "text": "CMS IntelliCAD cung cấp các công cụ thiết kế 2D và 3D, phù hợp với nhiều lĩnh vực như kiến trúc, xây dựng, cơ khí, giao thông, điện, địa chất, khai thác mỏ và trắc địa."
+                    },
+                    {
+                        "title": "Hỗ trợ LISP và tùy biến",
+                        "text": "CMS IntelliCAD hỗ trợ LISP, VBA, .NET\/API và nhiều công cụ tùy biến, giúp doanh nghiệp tiếp tục sử dụng các công cụ và quy trình CAD hiện có."
+                    },
+                    {
+                        "title": "Nhiều lựa chọn bản quyền",
+                        "text": "Có các hình thức Standalone và Network, phù hợp từ cá nhân đến doanh nghiệp có hàng trăm người dùng."
+                    }
+                ]
+            },
+            "compare": {
+                "eyebrow": "Đối Chiếu Kỹ Thuật Chính Thức",
+                "title": "SO SÁNH CMS INTELLICAD VÀ AUTOCAD®",
+                "description": "Khả năng tương thích 100% DWG, hỗ trợ 2D\/3D & LISP API với chi phí tối ưu.",
+                "pdf_button": "XEM TÀI LIỆU SO SÁNH (PDF)",
+                "points": [
+                    {
+                        "category": "I. Tương thích & Định dạng File",
+                        "title": "Tương thích 100% DWG\/DXF gốc",
+                        "description": "Mở, chỉnh sửa & lưu tệp DWG gốc. Hỗ trợ MicroStation .DGN, PDF Vector, .DWF & chữ ký số bản vẽ.",
+                        "intellicad": "Tương thích tuyệt đối DWG gốc",
+                        "autocad": "Định dạng chuẩn AutoCAD®"
+                    },
+                    {
+                        "category": "II. Công cụ 3D, BIM & LISP API",
+                        "title": "Hỗ trợ 3D Solid, BIM & LISP\/VBA API",
+                        "description": "Đính kèm tệp BIM (.IFC, .RVT), Đám mây điểm Point Cloud (.RCP\/.RCS). Chạy trực tiếp LISP\/FAS\/VLX, VBA 7.1 & .NET API.",
+                        "intellicad": "Tích hợp sẵn BIM, 3D & LISP",
+                        "autocad": "AutoCAD LT không hỗ trợ 3D\/BIM"
+                    },
+                    {
+                        "category": "III. Bản quyền & Chi phí",
+                        "title": "Sở hữu vĩnh viễn (Mua đứt)",
+                        "description": "Sở hữu vĩnh viễn không lo gia hạn hàng năm. Tiết kiệm tới 90% ngân sách (giá chỉ từ 6.200.000 VNĐ\/license) so với mô hình thuê bao bắt buộc.",
+                        "intellicad": "Mua đứt vĩnh viễn \/ Thuê bao",
+                        "autocad": "Thuê bao năm (Subscription)"
+                    }
+                ],
+                "matrix_title": "Bảng So Sánh Tính Năng Trọng Tâm",
+                "source": "Nguồn: CÔNG TY CỔ PHẦN TECHAZ",
+                "headers": [
+                    "Tính Năng \/ Khả Năng Xử Lý",
+                    "IntelliCAD PE",
+                    "IntelliCAD PE Plus",
+                    "AutoCAD® LT",
+                    "AutoCAD® Full"
+                ],
+                "rows": [
+                    {
+                        "feature": "Đọc \/ Ghi tệp .DWG gốc",
+                        "pe": true,
+                        "pe_plus": true,
+                        "autocad_lt": true,
+                        "autocad_full": true
+                    },
+                    {
+                        "feature": "Đính kèm tệp BIM (*.ifc, *.rvt) & Point Cloud (.rcp)",
+                        "pe": true,
+                        "pe_plus": true,
+                        "autocad_lt": false,
+                        "autocad_full": true
+                    },
+                    {
+                        "feature": "Lập trình LISP (.lsp, .fas, .vlx) & VBA 7.1 \/ .NET",
+                        "pe": true,
+                        "pe_plus": true,
+                        "autocad_lt": "Hạn chế",
+                        "autocad_full": true
+                    },
+                    {
+                        "feature": "Mô hình hóa 3D Solids ACIS \/ STEP \/ IGES",
+                        "pe": false,
+                        "pe_plus": true,
+                        "autocad_lt": false,
+                        "autocad_full": true
+                    },
+                    {
+                        "feature": "Hình thức sở hữu bản quyền",
+                        "pe": "Sở hữu vĩnh viễn",
+                        "pe_plus": "Sở hữu vĩnh viễn",
+                        "autocad_lt": "Thuê bao năm",
+                        "autocad_full": "Thuê bao năm"
+                    }
+                ],
+                "modal": {
+                    "title": "Tài Liệu So Sánh CMS IntelliCAD và AutoCAD®",
+                    "publisher": "Phát hành chính thức bởi CÔNG TY CỔ PHẦN TECHAZ",
+                    "overview_title": "Tổng Quan Tài Liệu Kỹ Thuật (PDF 3 Trang)",
+                    "overview": "CMS IntelliCAD Premium Edition (PE) được thiết kế để mang đến khả năng tương thích tối đa với phần mềm Autodesk AutoCAD® và hoàn toàn có thể lập trình với hàng trăm giải pháp của bên thứ ba. CMS IntelliCAD cung cấp bộ công cụ vẽ 2D và 3D đầy đủ, là giải pháp thay thế CAD thực sự tốt nhất cho doanh nghiệp.",
+                    "sections_title": "Các Hạng Mục So Sánh Chi Tiết Trong Tài Liệu:",
+                    "sections": [
+                        {
+                            "title": "1. Tương thích DWG & Định dạng tệp:",
+                            "text": "Hỗ trợ DWG\/DXF\/DWT gốc, MicroStation .DGN, chữ ký số."
+                        },
+                        {
+                            "title": "2. Nhập\/Xuất Dữ liệu & PDF:",
+                            "text": "Xuất PDF 2D\/3D, Nhập PDF Vector trực tiếp thành CAD, STEP, IGES, 3D Collada (.DAE)."
+                        },
+                        {
+                            "title": "3. Mô hình hóa 3D, BIM & Point Cloud:",
+                            "text": "Đính kèm BIM .IFC \/ .RVT \/ .RFA, Đám mây điểm .RCP\/.RCS, 3D Solids ACIS, AEC."
+                        },
+                        {
+                            "title": "4. Lập trình API & Mở rộng:",
+                            "text": "AutoLISP (.lsp, .fas, .vlx), DCL, VBA 7.1, .NET 4.5 API, Object IRX, Script Recorder."
+                        },
+                        {
+                            "title": "5. Tiện ích Quản lý & Giao diện:",
+                            "text": "Menu AutoCAD (.mnu, .scr), TrueType font, Express tools, Tool palettes, Explorer."
+                        },
+                        {
+                            "title": "6. Add-ons & Rendering:",
+                            "text": "Render 3D chuyên nghiệp ARTISAN, Bảng ETOOLBOX tự động hóa bản vẽ."
+                        }
+                    ],
+                    "agent": "Đại lý ủy quyền chính thức:",
+                    "company": "CÔNG TY CỔ PHẦN TECHAZ - Hotline: 0979 596 954",
+                    "note": "Nhấn Đăng ký để nhận bản tài liệu đầy đủ gửi qua Email hoặc Zalo.",
+                    "close": "Đóng",
+                    "download": "NHẬN FILE TÀI LIỆU PDF (MIỄN PHÍ)"
+                }
+            },
+            "requirements": {
+                "eyebrow": "Thông Số Kỹ Thuật Lắp Đặt",
+                "title": "YÊU CẦU HỆ THỐNG CMS INTELLICAD (Windows)",
+                "description": "Bảng tra cứu cấu hình phần cứng tối thiểu và khuyến nghị để phần mềm vận hành tối ưu, mượt mà trên hệ thống làm việc của doanh nghiệp.",
+                "headers": {
+                    "component": "Thành phần",
+                    "minimum": "Yêu cầu tối thiểu",
+                    "old": "CMS IntelliCAD 8.1 và các bản cũ hơn",
+                    "system": "Yêu cầu hệ thống",
+                    "new": "CMS IntelliCAD 10.0 và các bản mới hơn (14.0)"
+                },
+                "specs": [
+                    {
+                        "title": "Hệ điều hành",
+                        "icon": "laptop",
+                        "old": "Microsoft® Windows 8.x, Windows 7, Windows Vista®, bao gồm cả 32-bit và 64-bit.",
+                        "new": "Hệ điều hành 64-bit Microsoft® Windows. Hệ điều hành Microsoft® Windows 64-bit ảo chạy trên MAC OS yêu cầu giấy phép khóa USB."
+                    },
+                    {
+                        "title": "Bộ vi xử lý (CPU)",
+                        "icon": "cpu",
+                        "old": "Từ Intel Pentium 4 trở lên.",
+                        "new": "Từ Intel Core i5 trở lên (Khuyên dùng Intel Core i7 hoặc AMD Ryzen 7)."
+                    },
+                    {
+                        "title": "Bộ nhớ trong (RAM)",
+                        "icon": "check-circle-2",
+                        "old": "Tối thiểu 2 GB.",
+                        "new": "Tối thiểu 2 GB (Khuyên dùng 8 GB - 16 GB cho tệp DWG lớn\/3D)."
+                    },
+                    {
+                        "title": "Dung lượng ổ cứng",
+                        "icon": "hard-drive",
+                        "old": "Trống 500 MB.",
+                        "new": "Trống 7 GB (Khuyên dùng ổ cứng SSD NVMe)."
+                    },
+                    {
+                        "title": "Đồ họa & Màn hình",
+                        "icon": "monitor",
+                        "old": "Độ phân giải VGA 1024 x 768 hoặc cao hơn. Card đồ họa tương thích với OpenGL Phiên bản 1.4 trở lên.",
+                        "new": "Độ phân giải VGA 1024 x 768 hoặc cao hơn. Khuyên dùng Card rời, hỗ trợ OpenGL ES."
+                    },
+                    {
+                        "title": "Thiết bị trỏ, chuột",
+                        "icon": "mouse-pointer",
+                        "full": "Các thiết bị tương thích với hệ điều hành Microsoft."
+                    }
+                ],
+                "mobile_title": "Bảng Yêu Cầu Cấu Hình CMS IntelliCAD",
+                "mobile_old": "CMS IntelliCAD 8.1 & Cũ hơn:",
+                "mobile_new": "CMS IntelliCAD 10.0 - 14.0 (Mới nhất):",
+                "note_title": "Lưu ý hỗ trợ:",
+                "note": "Đội ngũ kỹ thuật TechAZ hỗ trợ tư vấn kiểm tra tương thích phần cứng và hỗ trợ cài đặt hoàn toàn miễn phí.",
+                "cta": "TƯ VẤN CẤU HÌNH PHÙ HỢP"
+            },
+            "resources": {
+                "eyebrow": "Thư Viện Tài Nguyên & Hỗ Trợ LISP TechAZ",
+                "title": "THƯ VIỆN TÀI LIỆU, VIDEO & LISP HỖ TRỢ CAD",
+                "description": "Chúng tôi chuẩn bị sẵn một thư viện gồm các tài liệu, video hướng dẫn và file LISP hỗ trợ nhằm giúp bạn có trải nghiệm sử dụng CMS IntelliCAD thuận tiện, tối ưu hóa tốc độ hoàn thiện bản vẽ.",
+                "button": "DÙNG THỬ MIỄN PHÍ 30 NGÀY",
+                "lisp_button": "ĐĂNG KÝ ĐỂ NHẬN LISP",
+                "note": "Tải file hỗ trợ & nhận tư vấn kỹ thuật cài đặt hoàn toàn miễn phí từ TechAZ",
+                "image_alt": "CMS IntelliCAD 64bit Product Box, Disc & 3D Monitor Display"
+            },
+            "faq": {
+                "eyebrow": "Giải Đáp Khái Niệm & Kỹ Thuật Ban Đầu",
+                "title": "Thắc Mắc Thường Gặp Về CMS IntelliCAD",
+                "description": "Tổng hợp các câu hỏi thắc mắc phổ biến nhất về tính tương thích, cấp phép, LISP và dữ liệu 3D\/BIM.",
+                "search_placeholder": "Tìm kiếm thắc mắc (ví dụ: DWG, LISP, bản quyền, Windows...)...",
+                "categories": {
+                    "all": "Tất cả câu hỏi",
+                    "general": "Tổng quan",
+                    "compatibility": "Định dạng DWG & PDF",
+                    "licensing": "Cấp phép",
+                    "technical": "Phiên bản PE\/PE Plus"
+                },
+                "empty_prefix": "Không tìm thấy câu hỏi phù hợp với từ khóa",
+                "warning_title": "Khuyến nghị từ TechAZ:",
+                "warning": "Cần xác nhận rõ mục đích sử dụng với tài liệu kỹ thuật để không hiểu sai về phạm vi tính năng.",
+                "items": [
+                    {
+                        "category": "general",
+                        "question": "CMS IntelliCAD có phải là AutoCAD không?",
+                        "answer": "Không. CMS IntelliCAD là sản phẩm CAD độc lập do tập đoàn CAD-Manufacturing Solutions, Inc. (CMS - Mỹ) phát triển dựa trên nền tảng công nghệ của IntelliCAD Technology Consortium (ITC). Phần mềm được thiết kế với độ tương thích rất cao với định dạng DWG và quy trình làm việc chuẩn CAD, giúp kỹ sư dễ dàng thao tác mà không cần đào tạo lại phức tạp."
+                    },
+                    {
+                        "category": "compatibility",
+                        "question": "CMS IntelliCAD có mở và chỉnh sửa được các bản vẽ DWG cũ không?",
+                        "answer": "Có. CMS IntelliCAD công bố hỗ trợ mở, chỉnh sửa và lưu trực tiếp tệp DWG gốc. Kỹ sư có thể làm việc mượt mà với Xref, block thuộc tính, layout và nét in. Tuy nhiên, TechAZ khuyến nghị doanh nghiệp nên chạy thử nghiệm (pilot) với bộ tệp bản vẽ thực tế có font đặc thù (VNI, TCVN3) hoặc proxy object trước khi chuyển đổi toàn bộ hệ thống."
+                    },
+                    {
+                        "category": "licensing",
+                        "question": "CMS IntelliCAD có bản quyền vĩnh viễn không?",
+                        "answer": "Có. Hãng CMS cung cấp hình thức bản quyền Standalone vĩnh viễn (Perpetual License), mua một lần dùng mãi mãi. Ngoài ra, để đáp ứng linh hoạt ngân sách doanh nghiệp, CMS cũng cung cấp các lựa chọn thuê bao 365 ngày (License Lease), USB Dongle cứng, Network License (quản lý tập trung trên máy chủ) và Subscription.",
+                        "cta": "NHẬN BÁO GIÁ CÁC GÓI CẤP PHÉP"
+                    },
+                    {
+                        "category": "technical",
+                        "question": "Phiên bản PE và PE Plus khác nhau như thế nào?",
+                        "answer": "Phiên bản PE (Standard) phù hợp với đa số công việc thiết kế 2D, dựng hình 3D Surface, nhập PDF vector, tùy chỉnh giao diện và lập trình LISP\/VBA\/.NET. Phiên bản PE Plus bổ sung thêm công nghệ dựng khối 3D Solid ACIS, khả năng nhập\/xuất tệp 3D STEP\/IGES, hỗ trợ đối tượng kiến trúc AEC (tường, cửa, cầu thang, sàn) và đọc underlay tệp IFC\/Revit.",
+                        "cta": "XEM BẢNG SO SÁNH PHIÊN BẢN CHI TIẾT",
+                        "href": "#so-sanh-autocad"
+                    },
+                    {
+                        "category": "technical",
+                        "question": "CMS IntelliCAD có chạy được các file LISP, VBA và Plugin hiện có không?",
+                        "answer": "Có. CMS IntelliCAD hỗ trợ trọn bộ môi trường lập trình bao gồm LISP\/DCL, Microsoft VBA 7.1, .NET 4.5 API, SDS và DRX\/IRX C++. Phiên bản mới 14.1 bổ sung hỗ trợ các file LISP biên dịch dạng .FAS và .VLX. Mức độ tương thích cụ thể phụ thuộc vào cấu trúc đoạn mã, vì vậy TechAZ hỗ trợ khách hàng kiểm thử trực tiếp các file LISP\/Plugin nội bộ trên bộ cài thực tế.",
+                        "cta": "ĐĂNG KÝ KIỂM THỬ LISP MIỄN PHÍ",
+                        "need": "receive_lisp"
+                    },
+                    {
+                        "category": "compatibility",
+                        "question": "CMS IntelliCAD tương thích với hệ điều hành nào?",
+                        "answer": "CMS IntelliCAD tương thích với Microsoft Windows, bao gồm Windows 10 và 11. Nó cũng tích hợp tốt với lưu trữ đám mây và môi trường máy chủ dựa trên Windows, giúp dễ dàng quản lý giữa các nhóm làm việc trên mạng."
+                    }
+                ]
+            },
+            "form": {
+                "eyebrow": "Tư Vấn Tận Tâm Từ Chuyên Gia TechAZ",
+                "title": "ĐĂNG KÝ NHẬN BÁO GIÁ \/ DÙNG THỬ",
+                "description": "Đội ngũ TechAZ sẽ liên hệ ngay để hỗ trợ cung cấp bản quyền dùng thử, tư vấn đúng phiên bản.",
+                "form_title": "Thông Tin Yêu Cầu Tư Vấn & Dùng Thử",
+                "full_name": "Họ và Tên",
+                "phone": "Số Điện Thoại",
+                "work_email": "Email Công Việc",
+                "company": "Công Ty \/ Đơn Vị",
+                "primary_need": "Nhu Cầu Chính",
+                "product_version": "Phiên Bản Quan Tâm",
+                "device_quantity": "Số máy",
+                "notes_label": "Số Lượng Máy \/ Ghi Chú Yêu Cầu Về DWG, LISP, Font...",
+                "notes_lisp_label": "Ghi Chú Yêu Cầu Về LISP, DWG, Font...",
+                "consent": "Bằng việc gửi form, bạn đồng ý để TechAZ xử lý dữ liệu liên hệ nhằm mục đích tư vấn sản phẩm và hỗ trợ kỹ thuật theo quy định bảo mật.",
+                "submit": "GỬI ĐĂNG KÝ VÀ NHẬN BÁO GIÁ",
+                "submitting": "Đang gửi thông tin...",
+                "success": "Yêu cầu của bạn đã được gửi thành công. Đội ngũ chuyên gia TechAZ đã ghi nhận và sẽ liên hệ trong thời gian sớm nhất.",
+                "error": "Chưa thể gửi yêu cầu vào lúc này. Thông tin đã được lưu; vui lòng thử lại sau.",
+                "trial_modal_title": "Đăng ký dùng thử thành công",
+                "trial_modal_description": "Thông tin của bạn đã được gửi tới TechAZ. Bạn có thể tải bộ cài CMS IntelliCAD 14.1 ngay bên dưới.",
+                "trial_download": "TẢI BỘ CÀI DÙNG THỬ",
+                "lisp_modal_title": "Đăng ký nhận LISP thành công",
+                "lisp_modal_description": "Thông tin của bạn đã được gửi tới TechAZ. Bạn có thể tải bộ LISP dành cho IntelliCAD ngay bên dưới.",
+                "lisp_download": "TẢI LISP INTELLICAD",
+                "trial_close": "Đóng",
+                "placeholders": {
+                    "full_name": "Nguyễn Văn A",
+                    "phone": "0912 345 678",
+                    "work_email": "kientrucsur@company.com",
+                    "company": "Công ty Tư Vấn Thiết Kế ABC",
+                    "requirements": "Mô tả số lượng user, định dạng tệp vẽ thường dùng hoặc thắc mắc LISP\/Plugin..."
+                },
+                "company_info": {
+                    "name": "CÔNG TY CỔ PHẦN TECHAZ",
+                    "role": "Đơn Vị Phân Phối Chính Thức CMS IntelliCAD",
+                    "description": "Chúng tôi cam kết đồng hành và hỗ trợ kỹ thuật tận tâm cho doanh nghiệp trong suốt quá trình kiểm thử và chuyển đổi bản quyền phần mềm CAD.",
+                    "contact_title": "Thông Tin Liên Hệ",
+                    "address": "Shophouse SH2-16, Khu đô thị Centa Riverside, Từ Sơn, Bắc Ninh",
+                    "hours": "Thứ 2 - Thứ 6: 08:00 - 17:30",
+                    "security_title": "Bảo Mật Thông Tin:",
+                    "security": "Cam kết không tiết lộ thông tin dự án & bản vẽ của doanh nghiệp."
+                },
+                "benefits_title": "Quyền Lợi Khi Đăng Ký",
+                "benefits": [
+                    "Nhận key dùng thử bản đầy đủ 30 ngày",
+                    "Tài liệu hướng dẫn cài đặt & chuyển đổi Tiếng Việt",
+                    "Hỗ trợ test file DWG, LISP, font chữ trực tiếp"
+                ]
+            },
+            "needs": {
+                "trial_30_days": "Đăng ký Dùng thử 30 Ngày",
+                "receive_lisp": "Đăng ký Nhận LISP",
+                "product_consultation": "Nhận tư vấn sản phẩm",
+                "request_quote": "Yêu cầu báo giá",
+                "software_upgrade": "Nâng cấp phần mềm",
+                "cad_migration": "Tư vấn chuyển đổi từ phần mềm CAD khác",
+                "other": "Khác"
+            },
+            "products": {
+                "pe": "CMS IntelliCAD PE",
+                "pe_plus": "CMS IntelliCAD PE Plus (Khuyên dùng)",
+                "easy_run": "CMS IntelliCAD PE Easy Run (Cloud)"
+            },
+            "footer": {
+                "company": "CÔNG TY CỔ PHẦN TECHAZ",
+                "description": "Đơn vị cung cấp giải pháp bản quyền phần mềm thiết kế kỹ thuật CAD\/CAM\/BIM hàng đầu tại Việt Nam. Cam kết đồng hành kỹ thuật 24\/7.",
+                "community": "CỘNG ĐỒNG TECHAZ (FANPAGE FACEBOOK)",
+                "contact_title": "Thông Tin Liên Hệ",
+                "address": "Shophouse SH2-16, Khu đô thị Centa Riverside, Từ Sơn, Bắc Ninh",
+                "hours": "Thứ 2 - Thứ 6: 08:00 - 17:30",
+                "copyright": "© 2026 CÔNG TY CỔ PHẦN TECHAZ. All Rights Reserved.",
+                "back_to_top": "Về đầu trang ↑"
+            },
+            "floating": {
+                "title": "Dùng thử CMS IntelliCAD 30 Ngày Miễn Phí",
+                "description": "Tương thích DWG 2026, chạy LISP & Ribbon UI",
+                "call": "Gọi Tư Vấn",
+                "quote": "ĐĂNG KÝ DÙNG THỬ",
+                "close": "Đóng thanh đăng ký"
+            },
+            "chat": {
+                "callout": "Tư vấn AI IntelliCAD",
+                "open": "Mở Trợ lý AI tư vấn",
+                "title": "Trợ Lý AI IntelliCAD",
+                "subtitle": "Giải đáp tính năng & bản quyền 24\/7",
+                "reset": "Xóa lịch sử chat",
+                "close": "Đóng cửa sổ",
+                "trial": "Hỗ trợ dùng thử 30 ngày free",
+                "register": "Đăng Ký",
+                "welcome": "Xin chào! Tôi là Trợ lý AI của <strong class=\"font-bold text-slate-900\">TechAZ & CMS IntelliCAD<\/strong>.<div class=\"h-1.5\"><\/div>Tôi có thể giải đáp ngay mọi thắc mắc về <strong class=\"font-bold text-slate-900\">tính năng 2D\/3D<\/strong>, <strong class=\"font-bold text-slate-900\">khả năng tương thích AutoCAD\/LISP<\/strong>, <strong class=\"font-bold text-slate-900\">bảng giá bản quyền vĩnh viễn<\/strong> và <strong class=\"font-bold text-slate-900\">quy trình dùng thử 30 ngày<\/strong>. Bạn muốn tìm hiểu nội dung nào?",
+                "reset_message": "Cuộc trò chuyện đã được làm mới! Bạn cần hỗ trợ câu hỏi nào tiếp theo về CMS IntelliCAD?",
+                "fallback": "Chức năng AI chưa được kết nối trên phiên bản Laravel. Bạn có thể liên hệ trực tiếp hotline 0979 596 954 hoặc để lại thông tin trong mục Đăng Ký để nhân viên TechAZ gọi lại tư vấn!",
+                "questions": [
+                    "Bản quyền vĩnh viễn là gì?",
+                    "So sánh phiên bản PE và PE Plus",
+                    "Có chạy được LISP, VBA và tệp .DWG 2026 không?",
+                    "Cấu hình máy tính yêu cầu?",
+                    "Hướng dẫn đăng ký dùng thử 30 ngày"
+                ],
+                "placeholder": "Hỏi về tính năng, LISP, bản quyền PE\/PE Plus...",
+                "send": "Gửi câu hỏi",
+                "powered": "Giao diện tư vấn TechAZ"
+            },
+            "chat_powered": "Hỗ trợ bởi Gemini AI & TechAZ",
+            "styles": {
+                "licensing_title": {
+                    "font_size_desktop": 31,
+                    "text_align": "center"
+                },
+                "licensing_body": {
+                    "font_size_desktop": 17
+                },
+                "licensing_card": {
+                    "font_size_desktop": 15
+                },
+                "advantages_card_title": {
+                    "font_size_desktop": 18
+                },
+                "advantages_card_body": {
+                    "font_size_desktop": 15
+                },
+                "comparison_table_body": {
+                    "font_size_desktop": 14
+                },
+                "resources_body": {
+                    "font_size_desktop": 16.5
+                },
+                "faq_question": {
+                    "font_size_desktop": 16.5
+                },
+                "faq_answer": {
+                    "font_size_desktop": 15
+                },
+                "hero_license_titles": {
+                    "font_size_desktop": 13.5
+                },
+                "hero_license_options": {
+                    "font_size_desktop": 14
+                },
+                "licensing_card_title": {
+                    "font_size_desktop": 18
+                },
+                "requirements_note": {
+                    "font_size_desktop": 13.5
+                },
+                "resources_note": {
+                    "font_size_desktop": 13
+                },
+                "form_company_body": {
+                    "font_size_desktop": 14.5
+                }
+            }
+        },
+        "en": {
+            "seo": {
+                "title": "CMS IntelliCAD – Cost-effective licensed CAD | TechAZ",
+                "description": "CMS IntelliCAD supports DWG, LISP and familiar AutoCAD workflows. Request a consultation and a free 30-day trial."
+            },
+            "nav": {
+                "home": "Home",
+                "advantages": "Advantages",
+                "compare": "VS AutoCAD®",
+                "version": "IntelliCAD 14.0",
+                "requirements": "Requirements",
+                "resources": "Library",
+                "faq": "FAQ",
+                "contact": "Contact Us",
+                "trial": "Free 30-day trial"
+            },
+            "header": {
+                "subtitle": "Permanent Licensed 2D\/3D CAD Software",
+                "quote": "REGISTER FOR QUOTE"
+            },
+            "hero": {
+                "badge": "Permanent CMS IntelliCAD Licensing Solution",
+                "title_line": "CMS INTELLICAD –",
+                "title_accent": "A POWERFUL CAD ALTERNATIVE",
+                "description_1": "CMS IntelliCAD is professional CAD software offering comprehensive 2D and 3D design tools, DWG support and a familiar working environment for CAD users.",
+                "description_2": "CMS IntelliCAD suits businesses, engineers, architects and design consultants seeking professional, high-performance CAD software with optimized investment costs.",
+                "compare_versions": "COMPARE PE \/ PE PLUS",
+                "pricing": {
+                    "badge": "Optimized License Investment",
+                    "types": "Perpetual \/ Annual \/ On Demand",
+                    "from": "Genuine CMS IntelliCAD licenses from:",
+                    "price": "7,500,000 VND",
+                    "note": "*(Promotional price for two or more licenses)",
+                    "standalone": "Standalone License",
+                    "network": "Network License",
+                    "options": [
+                        "Perpetual license",
+                        "Annual subscription",
+                        "On-demand licensing"
+                    ]
+                },
+                "visual": {
+                    "real_ui": "Actual Interface",
+                    "title": "Interactive CAD interface demo",
+                    "specs": [
+                        {
+                            "label": "Compatibility",
+                            "value": "DWG Native"
+                        },
+                        {
+                            "label": "Technology",
+                            "value": "64-Bit Multi-Core"
+                        },
+                        {
+                            "label": "Programming",
+                            "value": "LISP, FAS, VLX, .NET"
+                        }
+                    ]
+                },
+                "licensing": {
+                    "badge": "License Options",
+                    "title": "LICENSE OPTIONS",
+                    "description": "CMS IntelliCAD editions are based on feature groups: <strong>Premium Edition (PE)<\/strong>, <strong>Premium Edition Plus (PE Plus)<\/strong> and <strong>Easy Run<\/strong>:"
+                },
+                "versions": [
+                    {
+                        "name": "1. PE (Premium Edition)",
+                        "icon": "monitor",
+                        "tag": "Core 2D\/3D",
+                        "description": "Includes core 2D design tools plus 3D modeling, rendering, BIM underlay and external file format support."
+                    },
+                    {
+                        "name": "2. PE Plus (Premium Edition Plus)",
+                        "icon": "award",
+                        "tag": "Advanced & ACIS",
+                        "description": "Adds advanced 3D modeling, complete ACIS Solid editing and productivity tools."
+                    },
+                    {
+                        "name": "3. Easy Run",
+                        "icon": "zap",
+                        "tag": "No Installation",
+                        "description": "CMS IntelliCAD supports direct execution without installation, meeting the need for flexible usage and allowing licensing for one internet-connected machine at a time."
+                    }
+                ]
+            },
+            "advantages": {
+                "eyebrow": "Professional CAD Platform",
+                "title": "OUTSTANDING ADVANTAGES",
+                "description": "The advantages of CMS IntelliCAD",
+                "items": [
+                    {
+                        "title": "High performance, reasonable cost",
+                        "text": "CMS IntelliCAD provides comprehensive professional CAD design tools for 2D and 3D work at a reasonable investment cost."
+                    },
+                    {
+                        "title": "Familiar, easy-to-use interface",
+                        "text": "CMS IntelliCAD provides familiar CAD operations, enabling an easy transition without extensive retraining."
+                    },
+                    {
+                        "title": "Popular CAD format compatibility",
+                        "text": "CMS IntelliCAD supports popular formats such as DWG and DXF for opening, editing and exchanging drawings."
+                    },
+                    {
+                        "title": "2D and 3D design support",
+                        "text": "CMS IntelliCAD provides 2D and 3D tools for architecture, construction, mechanical, transportation, electrical, geological, mining and surveying work."
+                    },
+                    {
+                        "title": "LISP and customization support",
+                        "text": "CMS IntelliCAD supports LISP, VBA, .NET\/API and customization tools so businesses can retain their existing CAD workflows."
+                    },
+                    {
+                        "title": "Multiple licensing options",
+                        "text": "Standalone and Network licensing supports individuals through organizations with hundreds of users."
+                    }
+                ]
+            },
+            "compare": {
+                "eyebrow": "Official Technical Comparison",
+                "title": "CMS INTELLICAD VS AUTOCAD®",
+                "description": "100% DWG compatibility, 2D\/3D and LISP API support at an optimized cost.",
+                "pdf_button": "VIEW COMPARISON DOCUMENT (PDF)",
+                "points": [
+                    {
+                        "category": "I. Compatibility & File Formats",
+                        "title": "100% native DWG\/DXF compatibility",
+                        "description": "Open, edit and save native DWG files. Supports MicroStation .DGN, vector PDF, .DWF and drawing digital signatures.",
+                        "intellicad": "Full native DWG compatibility",
+                        "autocad": "Standard AutoCAD® format"
+                    },
+                    {
+                        "category": "II. 3D, BIM & LISP API Tools",
+                        "title": "3D Solid, BIM & LISP\/VBA API support",
+                        "description": "Attach BIM files (.IFC, .RVT) and Point Clouds (.RCP\/.RCS). Run LISP\/FAS\/VLX, VBA 7.1 and .NET API directly.",
+                        "intellicad": "Built-in BIM, 3D & LISP",
+                        "autocad": "AutoCAD LT lacks 3D\/BIM"
+                    },
+                    {
+                        "category": "III. Licensing & Cost",
+                        "title": "Perpetual ownership",
+                        "description": "Own the software permanently without annual renewal. Save up to 90% versus mandatory subscription licensing.",
+                        "intellicad": "Perpetual \/ Subscription",
+                        "autocad": "Annual subscription"
+                    }
+                ],
+                "matrix_title": "Core Feature Comparison",
+                "source": "Source: TECHAZ JOINT STOCK COMPANY",
+                "headers": [
+                    "Feature \/ Capability",
+                    "IntelliCAD PE",
+                    "IntelliCAD PE Plus",
+                    "AutoCAD® LT",
+                    "AutoCAD® Full"
+                ],
+                "rows": [
+                    {
+                        "feature": "Read \/ Write native .DWG files",
+                        "pe": true,
+                        "pe_plus": true,
+                        "autocad_lt": true,
+                        "autocad_full": true
+                    },
+                    {
+                        "feature": "Attach BIM (*.ifc, *.rvt) & Point Cloud (.rcp)",
+                        "pe": true,
+                        "pe_plus": true,
+                        "autocad_lt": false,
+                        "autocad_full": true
+                    },
+                    {
+                        "feature": "LISP (.lsp, .fas, .vlx), VBA 7.1 \/ .NET",
+                        "pe": true,
+                        "pe_plus": true,
+                        "autocad_lt": "Limited",
+                        "autocad_full": true
+                    },
+                    {
+                        "feature": "3D Solids ACIS \/ STEP \/ IGES modeling",
+                        "pe": false,
+                        "pe_plus": true,
+                        "autocad_lt": false,
+                        "autocad_full": true
+                    },
+                    {
+                        "feature": "License ownership model",
+                        "pe": "Perpetual",
+                        "pe_plus": "Perpetual",
+                        "autocad_lt": "Annual",
+                        "autocad_full": "Annual"
+                    }
+                ],
+                "modal": {
+                    "title": "CMS IntelliCAD and AutoCAD® Comparison",
+                    "publisher": "Officially published by TECHAZ JOINT STOCK COMPANY",
+                    "overview_title": "Technical Document Overview (3-page PDF)",
+                    "overview": "CMS IntelliCAD Premium Edition (PE) is designed for maximum compatibility with Autodesk AutoCAD® and can be programmed with hundreds of third-party solutions. It provides comprehensive 2D and 3D drafting tools as a practical CAD alternative for businesses.",
+                    "sections_title": "Detailed comparison topics in the document:",
+                    "sections": [
+                        {
+                            "title": "1. DWG & file format compatibility:",
+                            "text": "Native DWG\/DXF\/DWT, MicroStation .DGN and digital signatures."
+                        },
+                        {
+                            "title": "2. Data import\/export & PDF:",
+                            "text": "2D\/3D PDF export, vector PDF import, STEP, IGES and 3D Collada."
+                        },
+                        {
+                            "title": "3. 3D, BIM & Point Cloud:",
+                            "text": "BIM IFC\/Revit, RCP\/RCS Point Clouds, ACIS solids and AEC."
+                        },
+                        {
+                            "title": "4. Programming APIs:",
+                            "text": "AutoLISP, DCL, VBA 7.1, .NET 4.5 API, Object IRX and Script Recorder."
+                        },
+                        {
+                            "title": "5. Management & interface tools:",
+                            "text": "AutoCAD menus, TrueType fonts, Express tools, Tool palettes and Explorer."
+                        },
+                        {
+                            "title": "6. Add-ons & Rendering:",
+                            "text": "Professional ARTISAN rendering and ETOOLBOX drawing automation."
+                        }
+                    ],
+                    "agent": "Official authorized distributor:",
+                    "company": "TECHAZ JOINT STOCK COMPANY - Hotline: 0979 596 954",
+                    "note": "Register to receive the complete document by email or Zalo.",
+                    "close": "Close",
+                    "download": "GET THE PDF DOCUMENT (FREE)"
+                }
+            },
+            "requirements": {
+                "eyebrow": "Installation Specifications",
+                "title": "CMS INTELLICAD SYSTEM REQUIREMENTS (Windows)",
+                "description": "Minimum and recommended hardware specifications for smooth, optimized operation across your organization.",
+                "headers": {
+                    "component": "Component",
+                    "minimum": "Minimum requirements",
+                    "old": "CMS IntelliCAD 8.1 and earlier",
+                    "system": "System requirements",
+                    "new": "CMS IntelliCAD 10.0 and later (14.0)"
+                },
+                "specs": [
+                    {
+                        "title": "Operating system",
+                        "icon": "laptop",
+                        "old": "Microsoft® Windows 8.x, Windows 7 and Windows Vista®, including 32-bit and 64-bit.",
+                        "new": "64-bit Microsoft® Windows. Virtual 64-bit Microsoft® Windows running on MAC OS requires a USB key license."
+                    },
+                    {
+                        "title": "Processor (CPU)",
+                        "icon": "cpu",
+                        "old": "Intel Pentium 4 or later.",
+                        "new": "Intel Core i5 or later (Intel Core i7 or AMD Ryzen 7 recommended)."
+                    },
+                    {
+                        "title": "Memory (RAM)",
+                        "icon": "check-circle-2",
+                        "old": "Minimum 2 GB.",
+                        "new": "Minimum 2 GB (8 GB–16 GB recommended for large DWG\/3D files)."
+                    },
+                    {
+                        "title": "Disk space",
+                        "icon": "hard-drive",
+                        "old": "500 MB free.",
+                        "new": "7 GB free (SSD NVMe recommended)."
+                    },
+                    {
+                        "title": "Graphics & display",
+                        "icon": "monitor",
+                        "old": "VGA resolution 1024 x 768 or higher. OpenGL 1.4-compatible graphics card or later.",
+                        "new": "VGA resolution 1024 x 768 or higher. Dedicated graphics with OpenGL ES recommended."
+                    },
+                    {
+                        "title": "Pointing device, mouse",
+                        "icon": "mouse-pointer",
+                        "full": "Devices compatible with Microsoft operating systems."
+                    }
+                ],
+                "mobile_title": "CMS IntelliCAD Configuration Requirements",
+                "mobile_old": "CMS IntelliCAD 8.1 & earlier:",
+                "mobile_new": "CMS IntelliCAD 10.0–14.0 (Latest):",
+                "note_title": "Support note:",
+                "note": "The TechAZ technical team provides free hardware compatibility advice and installation support.",
+                "cta": "GET CONFIGURATION ADVICE"
+            },
+            "resources": {
+                "eyebrow": "TechAZ Resource & LISP Support Library",
+                "title": "CAD DOCUMENT, VIDEO & LISP SUPPORT LIBRARY",
+                "description": "We provide documents, tutorials and supporting LISP files to make CMS IntelliCAD easier to use and accelerate drawing completion.",
+                "button": "FREE 30-DAY TRIAL",
+                "lisp_button": "REGISTER TO RECEIVE LISP",
+                "note": "Download support files and receive free installation advice from TechAZ",
+                "image_alt": "CMS IntelliCAD 64bit Product Box, Disc & 3D Monitor Display"
+            },
+            "faq": {
+                "eyebrow": "Initial Concept & Technical Answers",
+                "title": "Frequently Asked Questions About CMS IntelliCAD",
+                "description": "Answers to common questions about compatibility, licensing, LISP and 3D\/BIM data.",
+                "search_placeholder": "Search questions (for example: DWG, LISP, licensing, Windows...)...",
+                "categories": {
+                    "all": "All questions",
+                    "general": "Overview",
+                    "compatibility": "DWG & PDF formats",
+                    "licensing": "Licensing",
+                    "technical": "PE\/PE Plus editions"
+                },
+                "empty_prefix": "No questions matched",
+                "warning_title": "TechAZ recommendation:",
+                "warning": "Confirm your intended use against the technical documentation to avoid misunderstanding the feature scope.",
+                "items": [
+                    {
+                        "category": "general",
+                        "question": "Is CMS IntelliCAD the same as AutoCAD?",
+                        "answer": "No. CMS IntelliCAD is an independent CAD product developed by CAD-Manufacturing Solutions, Inc. in the United States on technology from the IntelliCAD Technology Consortium. It offers high DWG and standard CAD workflow compatibility."
+                    },
+                    {
+                        "category": "compatibility",
+                        "question": "Can CMS IntelliCAD edit older DWG drawings?",
+                        "answer": "Yes. CMS IntelliCAD supports opening, editing and directly saving native DWG files, including Xrefs, attributed blocks, layouts and plot styles. TechAZ recommends a pilot using drawings with custom fonts or proxy objects before full migration."
+                    },
+                    {
+                        "category": "licensing",
+                        "question": "Does CMS IntelliCAD offer perpetual licensing?",
+                        "answer": "Yes. CMS offers perpetual Standalone licensing as well as 365-day leases, USB dongles, centrally managed Network licenses and subscriptions.",
+                        "cta": "REQUEST LICENSE PACKAGE PRICING"
+                    },
+                    {
+                        "category": "technical",
+                        "question": "What is the difference between PE and PE Plus?",
+                        "answer": "PE supports most 2D design, 3D surfaces, vector PDF import, interface customization and LISP\/VBA\/.NET programming. PE Plus adds ACIS 3D solids, STEP\/IGES exchange, AEC objects and IFC\/Revit underlays.",
+                        "cta": "VIEW DETAILED EDITION COMPARISON",
+                        "href": "#so-sanh-autocad"
+                    },
+                    {
+                        "category": "technical",
+                        "question": "Can CMS IntelliCAD run existing LISP, VBA and plugins?",
+                        "answer": "Yes. CMS IntelliCAD supports LISP\/DCL, Microsoft VBA 7.1, .NET 4.5 API, SDS and DRX\/IRX C++. Version 14.1 also supports compiled .FAS and .VLX files. TechAZ can test internal LISP and plugin files.",
+                        "cta": "REGISTER FOR FREE LISP TESTING",
+                        "need": "receive_lisp"
+                    },
+                    {
+                        "category": "compatibility",
+                        "question": "Which operating systems support CMS IntelliCAD?",
+                        "answer": "CMS IntelliCAD supports Microsoft Windows, including Windows 10 and 11, and works with cloud storage and Windows-based server environments."
+                    }
+                ]
+            },
+            "form": {
+                "eyebrow": "Dedicated Advice From TechAZ Experts",
+                "title": "REQUEST A QUOTE \/ FREE TRIAL",
+                "description": "TechAZ will contact you promptly with trial licensing and advice on the right edition.",
+                "form_title": "Consultation & Trial Request Details",
+                "full_name": "Full Name",
+                "phone": "Phone Number",
+                "work_email": "Work Email",
+                "company": "Company \/ Organization",
+                "primary_need": "Primary Need",
+                "product_version": "Product Edition",
+                "device_quantity": "Devices",
+                "notes_label": "Number of Devices \/ DWG, LISP and Font Requirements",
+                "notes_lisp_label": "LISP, DWG and Font Requirements",
+                "consent": "By submitting this form, you agree that TechAZ may process your contact details for product consultation and technical support under its privacy policy.",
+                "submit": "SUBMIT REGISTRATION & REQUEST QUOTE",
+                "submitting": "Submitting information...",
+                "success": "Your request was submitted successfully. The TechAZ expert team will contact you shortly.",
+                "error": "We could not submit the request now. Your information was saved securely; please try again later.",
+                "trial_modal_title": "Trial registration successful",
+                "trial_modal_description": "Your information has been sent to TechAZ. You can download the CMS IntelliCAD 14.1 installer below.",
+                "trial_download": "DOWNLOAD TRIAL INSTALLER",
+                "lisp_modal_title": "LISP registration successful",
+                "lisp_modal_description": "Your information has been sent to TechAZ. You can download the IntelliCAD LISP package below.",
+                "lisp_download": "DOWNLOAD INTELLICAD LISP",
+                "trial_close": "Close",
+                "placeholders": {
+                    "full_name": "John Smith",
+                    "phone": "+84 912 345 678",
+                    "work_email": "architect@company.com",
+                    "company": "ABC Design Consultancy",
+                    "requirements": "Describe user count, drawing formats, LISP or plugin requirements..."
+                },
+                "company_info": {
+                    "name": "TECHAZ JOINT STOCK COMPANY",
+                    "role": "Official CMS IntelliCAD Distributor",
+                    "description": "We provide dedicated technical support throughout software evaluation and CAD license migration.",
+                    "contact_title": "Contact Information",
+                    "address": "Shophouse SH2-16, Centa Riverside Urban Area, Tu Son, Bac Ninh",
+                    "hours": "Monday–Friday: 08:00–17:30",
+                    "security_title": "Information Security:",
+                    "security": "Your project and drawing information will remain confidential."
+                },
+                "benefits_title": "Registration Benefits",
+                "benefits": [
+                    "Receive a full 30-day trial key",
+                    "Vietnamese installation and migration guide",
+                    "Direct DWG, LISP and font testing support"
+                ]
+            },
+            "needs": {
+                "trial_30_days": "Register for a 30-day trial",
+                "receive_lisp": "Register to Receive LISP",
+                "product_consultation": "Product consultation",
+                "request_quote": "Request a quote",
+                "software_upgrade": "Software upgrade",
+                "cad_migration": "Migration from other CAD software",
+                "other": "Other"
+            },
+            "products": {
+                "pe": "CMS IntelliCAD PE",
+                "pe_plus": "CMS IntelliCAD PE Plus (Recommended)",
+                "easy_run": "CMS IntelliCAD PE Easy Run (Cloud)"
+            },
+            "footer": {
+                "company": "TECHAZ JOINT STOCK COMPANY",
+                "description": "A leading provider of licensed CAD\/CAM\/BIM engineering software solutions in Vietnam, with dedicated technical support.",
+                "community": "TECHAZ COMMUNITY (FACEBOOK FANPAGE)",
+                "contact_title": "Contact Information",
+                "address": "Shophouse SH2-16, Centa Riverside Urban Area, Tu Son, Bac Ninh",
+                "hours": "Monday–Friday: 08:00–17:30",
+                "copyright": "© 2026 TECHAZ JOINT STOCK COMPANY. All Rights Reserved.",
+                "back_to_top": "Back to top ↑"
+            },
+            "floating": {
+                "title": "Try CMS IntelliCAD Free for 30 Days",
+                "description": "DWG 2026 compatible, LISP & Ribbon UI",
+                "call": "Call for Advice",
+                "quote": "REGISTER FOR A QUOTE",
+                "close": "Close registration bar"
+            },
+            "chat": {
+                "callout": "IntelliCAD AI Advice",
+                "open": "Open AI assistant",
+                "title": "IntelliCAD AI Assistant",
+                "subtitle": "Feature & licensing answers 24\/7",
+                "reset": "Clear chat history",
+                "close": "Close window",
+                "trial": "Free 30-day trial support",
+                "register": "Register",
+                "welcome": "Hello! I am the AI assistant for <strong class=\"font-bold text-slate-900\">TechAZ & CMS IntelliCAD<\/strong>.<div class=\"h-1.5\"><\/div>I can help with <strong class=\"font-bold text-slate-900\">2D\/3D features<\/strong>, <strong class=\"font-bold text-slate-900\">AutoCAD\/LISP compatibility<\/strong>, perpetual licensing and the 30-day trial process.",
+                "reset_message": "The conversation has been refreshed. What else would you like to know about CMS IntelliCAD?",
+                "fallback": "The AI service is not connected in this Laravel version. Call 0979 596 954 or submit the registration form for direct TechAZ assistance.",
+                "questions": [
+                    "What is a perpetual license?",
+                    "Compare PE and PE Plus",
+                    "Does it run LISP, VBA and DWG 2026?",
+                    "What computer is required?",
+                    "How do I register for the 30-day trial?"
+                ],
+                "placeholder": "Ask about features, LISP or PE\/PE Plus licensing...",
+                "send": "Send question",
+                "powered": "TechAZ consultation interface"
+            },
+            "chat_powered": "Powered by Gemini AI & TechAZ"
+        }
+    },
+    "robot-cong-trinh": {
+        "vi": {
+            "seo": {
+                "title": "Robot công trình | CIC",
+                "description": "Khám phá các giải pháp robot xây dựng, kiểm tra dưới nước và vệ sinh cống ngầm do CIC phân phối. Liên hệ tư vấn theo nhu cầu công trình."
+            },
+            "header": {
+                "skip": "Đến nội dung chính",
+                "tagline": "CÔNG TY CP CÔNG NGHỆ<br>VÀ TƯ VẤN CIC",
+                "nav_intro": "Giới thiệu",
+                "nav_robot": "Robot xây dựng",
+                "nav_infrastructure": "Robot Hạ tầng",
+                "nav_faq": "Câu hỏi thường gặp",
+                "cta": "Đăng ký tư vấn"
+            },
+            "hero": {
+                "eyebrow": "CIC · Giải pháp robot công trình",
+                "title": "Công nghệ tiên tiến.<br>Thi công <em>thông minh.<\/em>",
+                "description": "Đưa robot vào công trường để hỗ trợ nâng cao năng suất, kiểm soát chất lượng và giảm các công việc nặng, lặp lại.",
+                "primary_cta": "Khám phá robot",
+                "secondary_cta": "Tư vấn cho công trình",
+                "strapline": "XÂY DỰNG · ĐO LƯỜNG · HẠ TẦNG",
+                "link": "Khám phá giải pháp"
+            },
+            "intro": {
+                "eyebrow": "Giới thiệu",
+                "topic": "Robot xây dựng:",
+                "title": "Đầu tư vào <em>kết quả,<\/em> không chỉ đầu tư thiết bị",
+                "statement": "Giá trị lớn nhất của robot xây dựng không nằm ở việc công trường có thêm một thiết bị hiện đại. Giá trị thực sự nằm ở khả năng biến một công việc vốn phụ thuộc nhiều vào con người thành <strong>một quy trình có thể đo lường, kiểm soát và lặp lại.<\/strong>",
+                "subtitle": "Giải pháp robot cho những nhu cầu thực tế.",
+                "description": "CIC phân phối các giải pháp robot phục vụ thi công xây dựng, kiểm tra và bảo trì hạ tầng. Trọng tâm là bốn nhóm robot xây dựng: hoàn thiện sàn bê tông, phun bả và xả nhám, lát gạch nền, cán vữa sàn tự động.",
+                "description_2": "Mỗi nhóm thiết bị phù hợp với một công đoạn và điều kiện triển khai riêng. CIC tiếp nhận nhu cầu để tư vấn lựa chọn robot theo loại công trình, khối lượng công việc và mặt bằng thi công.",
+                "fit_1": "Đúng công việc",
+                "fit_2": "Phù hợp mặt bằng",
+                "fit_3": "Gắn với nhu cầu"
+            },
+            "catalog": {
+                "eyebrow": "Danh mục robot",
+                "title": "Bốn nhóm robot xây dựng.",
+                "description": "Tự động hóa các công đoạn có khối lượng lớn và yêu cầu chất lượng đồng đều.",
+                "items": [
+                    {
+                        "label": "SÀN BÊ TÔNG",
+                        "tag": "Hoàn thiện sàn",
+                        "title": "Robot hoàn thiện sàn bê tông",
+                        "model": "ZP420C · MG210B",
+                        "price": "1.014.000.000 VNĐ · 1.091.000.000 VNĐ",
+                        "description": "San phẳng bê tông bằng laser với ZP420C; xoa nền và xoa mịn bê tông với MG210B.",
+                        "application": "Nhà xưởng, kho logistics, bãi đỗ xe và mặt bằng bê tông quy mô lớn.",
+                        "cta": "Xem chi tiết"
+                    },
+                    {
+                        "label": "TƯỜNG & TRẦN",
+                        "tag": "Hoàn thiện bề mặt",
+                        "title": "Robot tích hợp phun bả và xả nhám",
+                        "model": "JPD433D",
+                        "price": "2.086.000.000 VNĐ",
+                        "description": "Phun sơn nước, phun bả, gạt phẳng bả và xả nhám thông qua việc thay đổi đầu công tác.",
+                        "application": "Chung cư, khách sạn, văn phòng có diện tích tường, trần lớn và thiết kế lặp lại.",
+                        "cta": "Xem chi tiết"
+                    },
+                    {
+                        "label": "LÁT GẠCH",
+                        "tag": "Thi công gạch nền",
+                        "title": "Robot lát gạch nền bằng keo dán gạch",
+                        "model": "TZ432B",
+                        "price": "2.636.000.000 VNĐ",
+                        "description": "Kết hợp cánh tay sáu trục, cảm biến và xe tự hành để hỗ trợ gắp, bôi keo và đặt gạch.",
+                        "application": "Gạch khổ lớn tại chung cư, trung tâm thương mại, khách sạn, sân bay và nhà ga.",
+                        "cta": "Xem chi tiết"
+                    },
+                    {
+                        "label": "ĐO LƯỜNG",
+                        "tag": "Dữ liệu hiện trường",
+                        "title": "Robot cán vữa sàn tự động",
+                        "model": "JP210C",
+                        "price": "337.000.000",
+                        "description": "Chuyên dụng cho công tác cán vữa sàn với hiệu suất cao đạt 100m2\/1h; độ chính xác cao:Dung sai độ phẳng ±1 mm\/7 m và sử dụng nguồn điện linh hoạt.",
+                        "application": "Các dự án thi công như nhà ở dân dụng, hạ tầng giáo dục, đầu mối giao thông, tòa nhà thương mại và nhà xưởng công nghiệp.",
+                        "cta": "Xem chi tiết"
+                    }
+                ],
+                "application_label": "Phù hợp:",
+                "price_label": "Giá:",
+                "download_profile": "Tải Profile Robot Xây Dựng",
+                "profile_file": "file\/robot-xay-dung.pdf",
+                "video_eyebrow": "Robot tại công trường",
+                "video_title": "Xem robot làm việc tại công trình",
+                "video_description": "Quan sát trực tiếp khả năng di chuyển, cơ cấu tay robot tự hành và chất lượng bề mặt thực tế tại các công trình.",
+                "video_caption": "Robot hoàn thiện sàn bê tông",
+                "video_url": "https:\/\/www.youtube.com\/watch?v=ZsjXqYKYeYw",
+                "video_embed_url": "https:\/\/www.youtube.com\/embed\/ZsjXqYKYeYw",
+                "video_caption_2": "Robot tích hợp phun bả và xả nhám",
+                "video_url_2": "https:\/\/www.youtube.com\/watch?v=VlaRWTbqR10",
+                "video_embed_url_2": "https:\/\/www.youtube.com\/embed\/VlaRWTbqR10",
+                "video_caption_3": "Robot lát gạch",
+                "video_url_3": "https:\/\/www.youtube.com\/watch?v=dnCv71DL71o",
+                "video_embed_url_3": "https:\/\/www.youtube.com\/embed\/dnCv71DL71o",
+                "video_caption_4": "Robot cán vữa sàn tự động",
+                "video_url_4": "https:\/\/www.youtube.com\/watch?v=A8rCWo780Bc",
+                "video_embed_url_4": "https:\/\/www.youtube.com\/embed\/A8rCWo780Bc",
+                "youtube": "Xem trên YouTube"
+            },
+            "infrastructure": {
+                "eyebrow": "Giải pháp Robot khác",
+                "title": "Robot kiểm tra &amp; bảo trì hạ tầng.",
+                "price_label": "Giá:",
+                "items": [
+                    {
+                        "brand": "QYSEA",
+                        "title": "Robot kiểm tra dưới nước",
+                        "price": "376.700.000 VNĐ",
+                        "description": "FIFISH E-MASTER PLUS hỗ trợ kiểm tra, chụp ảnh và đánh giá hiện trạng hạ tầng dưới nước ở độ sâu tới 200 m.",
+                        "video_title": "Video giới thiệu robot kiểm tra dưới nước",
+                        "video_caption": "Robot kiểm tra dưới nước",
+                        "video_url": "https:\/\/www.youtube.com\/watch?v=poVO5OeM3RA",
+                        "video_embed_url": "https:\/\/www.youtube.com\/embed\/poVO5OeM3RA",
+                        "video_url_2": "https:\/\/www.youtube.com\/watch?v=EAzc6FuEOfs",
+                        "video_embed_url_2": "https:\/\/www.youtube.com\/embed\/EAzc6FuEOfs"
+                    },
+                    {
+                        "brand": "Sewer Robotics · Hà Lan",
+                        "title": "Robot vệ sinh cống ngầm",
+                        "price": "Liên hệ",
+                        "description": "Model R125 sử dụng tia nước áp lực cao để xử lý tác nhân gây tắc nghẽn, phù hợp cống có đường kính 250–1.000 mm.",
+                        "video_title": "Video giới thiệu robot kiểm tra cống ngầm",
+                        "video_caption": "Robot kiểm tra cống ngầm",
+                        "video_url": "https:\/\/www.youtube.com\/watch?v=ga0pU5Apcu4",
+                        "video_embed_url": "https:\/\/www.youtube.com\/embed\/ga0pU5Apcu4",
+                        "video_url_2": "https:\/\/www.youtube.com\/watch?v=PhEulGAeC0o",
+                        "video_embed_url_2": "https:\/\/www.youtube.com\/embed\/PhEulGAeC0o"
+                    }
+                ],
+                "cta": "Tìm hiểu giải pháp",
+                "youtube": "Xem trên YouTube"
+            },
+            "form": {
+                "eyebrow": "Kết nối với CIC",
+                "title": "Chọn robot phù hợp<br>với công trình của bạn.",
+                "description": "Chia sẻ hạng mục, quy mô và nhu cầu triển khai. CIC sẽ có cơ sở tư vấn giải pháp và cấu hình thiết bị phù hợp.",
+                "contact_label": "Trao đổi trực tiếp với CIC",
+                "phone": "036 575 6854",
+                "phone_2": "",
+                "email": "info@cic.com.vn",
+                "email_2": "",
+                "form_title": "Đăng ký tư vấn giải pháp",
+                "name": "Họ và tên *",
+                "phone_label": "Số điện thoại *",
+                "company": "Công ty \/ Đơn vị",
+                "email_label": "Email *",
+                "interest": "Giải pháp quan tâm *",
+                "message": "Nhu cầu của bạn",
+                "submit": "Gửi đăng ký tư vấn",
+                "note": "Thông tin được gửi bảo mật tới CIC để chuyên viên liên hệ tư vấn. Bằng việc gửi biểu mẫu, bạn đồng ý để CIC sử dụng thông tin cho mục đích hỗ trợ yêu cầu này.",
+                "select_placeholder": "Chọn nhóm robot",
+                "options": [
+                    "Hoàn thiện sàn bê tông",
+                    "Phun bả và xả nhám",
+                    "Lát gạch nền",
+                    "Đo lường hiện trường",
+                    "Kiểm tra dưới nước",
+                    "Vệ sinh cống ngầm",
+                    "Cần CIC tư vấn lựa chọn"
+                ],
+                "success": "Cảm ơn bạn. CIC đã nhận được yêu cầu và sẽ liên hệ sớm.",
+                "error": "Chưa thể gửi yêu cầu lúc này. Thông tin đã được lưu dự phòng để xử lý; vui lòng thử lại sau."
+            },
+            "faq": {
+                "eyebrow": "Giải đáp",
+                "title": "Bạn đang<br>quan tâm điều gì?",
+                "description": "Những thông tin cần cân nhắc trước khi đưa robot vào công trường.",
+                "items": [
+                    {
+                        "question": "Robot xây dựng phù hợp với công trình nào?",
+                        "answer": "Robot phù hợp với các hạng mục có khối lượng lớn, mặt bằng đủ điều kiện vận hành và công việc lặp lại. Ví dụ: sàn nhà xưởng, tường và trần chung cư, nền trung tâm thương mại. Cần đánh giá từng công trình và từng loại robot trước khi lựa chọn."
+                    },
+                    {
+                        "question": "Robot có thay thế hoàn toàn nhân công không?",
+                        "answer": "Robot hỗ trợ tự động hóa một số công đoạn. Công tác chuẩn bị mặt bằng, cấp vật tư, vận hành, giám sát và xử lý vị trí đặc biệt vẫn cần con người. Riêng lát gạch, vị trí sát tường, góc hẹp hoặc mặt bằng phức tạp có thể cần hỗ trợ thủ công."
+                    },
+                    {
+                        "question": "Cần cung cấp thông tin gì để được tư vấn?",
+                        "answer": "Bạn nên chuẩn bị loại công trình, hạng mục cần triển khai, diện tích hoặc khối lượng, điều kiện mặt bằng, vật liệu sử dụng và thời gian dự kiến. Bản vẽ hoặc hình ảnh hiện trường sẽ giúp việc trao đổi cụ thể hơn."
+                    },
+                    {
+                        "question": "Chi phí đầu tư robot được xác định như thế nào?",
+                        "answer": "Chi phí phụ thuộc vào dòng robot, cấu hình, đầu công tác và phạm vi triển khai. Liên hệ CIC để trao đổi nhu cầu và nhận báo giá theo cấu hình phù hợp."
+                    },
+                    {
+                        "question": "CIC có phân phối robot ngoài lĩnh vực thi công không?",
+                        "answer": "Có. Ngoài bốn nhóm robot xây dựng, danh mục còn có FIFISH E-MASTER PLUS của QYSEA phục vụ kiểm tra dưới nước và Model R125 của Sewer Robotics phục vụ vệ sinh cống ngầm."
+                    },
+                    {
+                        "question": "Tôi cần trao đổi về vận hành và bảo hành ở đâu?",
+                        "answer": "Liên hệ CIC để xác nhận nội dung hướng dẫn vận hành, điều kiện bảo hành và hỗ trợ kỹ thuật theo từng model và hợp đồng trước khi đặt hàng."
+                    }
+                ]
+            },
+            "footer": {
+                "company": "CÔNG TY CP CÔNG NGHỆ<br>VÀ TƯ VẤN CIC",
+                "description": "Giải pháp công nghệ cho xây dựng<br>và hạ tầng.",
+                "contact": "LIÊN HỆ",
+                "address": "Tầng 4, Tòa nhà VG Building, 235 Nguyễn Trãi, Phường Khương Đình, Hà Nội",
+                "hotline_label": "Hotline:",
+                "hotline": "036 575 6854",
+                "hotline_2": "032 680 7661",
+                "telephone_label": "Điện thoại:",
+                "telephone": "024 3976 1381",
+                "email_label": "Email:",
+                "email": "info@cic.com.vn",
+                "email_2": "",
+                "website_label": "Website:",
+                "website": "www.cic.com.vn ↗",
+                "facebook_label": "Facebook:",
+                "facebook": "Fanpage CIC ↗",
+                "explore": "KHÁM PHÁ",
+                "nav_intro": "Giới thiệu giải pháp",
+                "nav_robot": "Robot xây dựng",
+                "nav_infrastructure": "Robot Hạ tầng",
+                "nav_form": "Đăng ký tư vấn",
+                "nav_faq": "Câu hỏi thường gặp",
+                "copyright": "© Bản quyền thuộc Công ty Cổ phần Công nghệ và Tư vấn CIC",
+                "privacy_policy": "Chính sách sử dụng và bảo mật thông tin",
+                "signature": "Công nghệ xây dựng · Robot công trình"
+            },
+            "media": {
+                "measurement_robot": "images\/cms\/b7fd48602d24924178b80f6df4b588d8.png"
+            }
+        }
+    }
+}
