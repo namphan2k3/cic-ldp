@@ -131,7 +131,8 @@ export default async function LandingHubIndexPage({
 
   const reqHeaders = await headers();
   const rawHost = (reqHeaders.get('host') || '').toLowerCase().split(':')[0];
-  if (rawHost && rawHost !== 'localhost' && rawHost !== '127.0.0.1') {
+  const isLocalhost = !rawHost || rawHost === 'localhost' || rawHost === '127.0.0.1';
+  if (!isLocalhost) {
     const matchedSite = await getLandingSiteByDomain(rawHost);
     if (matchedSite) {
       return LandingSitePage({
@@ -181,7 +182,8 @@ export default async function LandingHubIndexPage({
           </div>
         </div>
 
-        {/* Master Account Credentials Directory Table */}
+        {/* Master Account Credentials Directory Table (Localhost Dev Only) */}
+        {isLocalhost && (
         <div className="overflow-hidden rounded-xl border border-slate-200 bg-white shadow-2xs">
           <div className="flex flex-wrap items-center justify-between gap-3 border-b border-slate-200 bg-[#0b1b36] px-6 py-4 text-white">
             <div>
@@ -325,6 +327,7 @@ export default async function LandingHubIndexPage({
             </table>
           </div>
         </div>
+        )}
 
         {/* Website Cards Grid */}
         <div className="grid grid-cols-1 gap-5 md:grid-cols-2">
@@ -370,18 +373,22 @@ export default async function LandingHubIndexPage({
                       <span className="text-slate-500">Tên miền chính:</span>
                       <strong className="font-mono text-slate-800">{site.primary_domain}</strong>
                     </div>
-                    <div className="flex items-center justify-between gap-2">
-                      <span className="text-slate-500">Tài khoản quản trị:</span>
-                      <code className="rounded border border-slate-200 bg-white px-2 py-0.5 font-mono font-bold text-[#0b1b36]">
-                        {cred.username}
-                      </code>
-                    </div>
-                    <div className="flex items-center justify-between gap-2">
-                      <span className="text-slate-500">Mật khẩu:</span>
-                      <code className="rounded border border-slate-200 bg-white px-2 py-0.5 font-mono font-bold text-slate-800">
-                        {cred.password}
-                      </code>
-                    </div>
+                    {isLocalhost && (
+                      <>
+                        <div className="flex items-center justify-between gap-2">
+                          <span className="text-slate-500">Tài khoản quản trị:</span>
+                          <code className="rounded border border-slate-200 bg-white px-2 py-0.5 font-mono font-bold text-[#0b1b36]">
+                            {cred.username}
+                          </code>
+                        </div>
+                        <div className="flex items-center justify-between gap-2">
+                          <span className="text-slate-500">Mật khẩu:</span>
+                          <code className="rounded border border-slate-200 bg-white px-2 py-0.5 font-mono font-bold text-slate-800">
+                            {cred.password}
+                          </code>
+                        </div>
+                      </>
+                    )}
                   </div>
                 </div>
 
