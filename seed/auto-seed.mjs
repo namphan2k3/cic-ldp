@@ -223,8 +223,134 @@ async function runAutoSeed() {
       `;
     }
 
+    // 10. Auto-pull latest leads from configured Google Sheets on first run if Service Account credentials exist
+    try {
+      const credDir = process.env.GOOGLE_CREDENTIALS_DIR
+        ? path.resolve(process.env.GOOGLE_CREDENTIALS_DIR)
+        : path.resolve(__dirname, '../credentials');
+      const credFiles =
+        fs.existsSync(credDir) && fs.statSync(credDir).isDirectory()
+          ? fs.readdirSync(credDir).filter((f) => f.endsWith('.json'))
+          : [];
+
+      if (credFiles.length > 0 || (process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL && process.env.GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY)) {
+        const { JWT } = await import('google-auth-library');
+        const { sheets: googleSheets } = await import('googleapis/build/src/apis/sheets/index.js');
+
+        const creds = [];
+        for (const cf of credFiles) {
+          try {
+            const p = JSON.parse(fs.readFileSync(path.join(credDir, cf), 'utf8'));
+            if (p.client_email && p.private_key) {
+              creds.push({
+                email: p.client_email,
+                key: String(p.private_key).replace(/\\n/g, '\n'),
+              });
+            }
+          } catch {}
+        }
+        if (process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL && process.env.GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY) {
+          creds.push({
+            email: process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL.trim(),
+            key: process.env.GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY.replace(/\\n/g, '\n'),
+          });
+        }
+
+        const parseDate = (raw) => {
+          const s = String(raw || '').trim();
+          const m = s.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})(?:\s+(\d{1,2}):(\d{1,2})(?::(\d{1,2}))?)?/);
+          if (m) {
+            return new Date(Number(m[3]), Number(m[2]) - 1, Number(m[1]), Number(m[4] || 0), Number(m[5] || 0), Number(m[6] || 0));
+          }
+          const d = new Date(s);
+          return Number.isNaN(d.getTime()) ? new Date() : d;
+        };
+
+        let syncedCount = 0;
+        for (const f of rawData.forms || []) {
+          const cfg = f.google_sheet_config_json || {};
+          const spreadsheetId = cfg.spreadsheet_id;
+          if (!spreadsheetId || spreadsheetId.startsWith('16E6Z')) continue;
+
+          const siteCode = siteIdToCode[f.landing_site_id] || '';
+          const tabs = new Set([cfg.sheet_name || 'LADIPAGE']);
+          if (cfg.sheet_name_conditional_map) {
+            for (const t of Object.values(cfg.sheet_name_conditional_map)) {
+              if (typeof t === 'string' && t.trim()) tabs.add(t.trim());
+            }
+          }
+
+          for (const tabName of tabs) {
+            for (const cred of creds) {
+              try {
+                const auth = new JWT({
+                  email: cred.email,
+                  key: cred.key,
+                  scopes: ['https://www.googleapis.com/auth/spreadsheets.readonly'],
+                });
+                const api = googleSheets({ version: 'v4', auth });
+                const range = `'${String(tabName).replace(/'/g, "''")}'!A1:ZZ`;
+                const res = await api.spreadsheets.values.get({
+                  spreadsheetId,
+                  range,
+                  valueRenderOption: 'FORMATTED_VALUE',
+                });
+                const rows = res.data.values || [];
+                let headerOffset = 0;
+                if ((rows[0] || []).filter(Boolean).length <= 1 && (rows[1] || []).filter(Boolean).length >= 3) {
+                  headerOffset = 1;
+                }
+                for (const rawRow of rows.slice(headerOffset + 1)) {
+                  const r = rawRow.map((c) => String(c ?? '').trim());
+                  const fullName = r[1] || '';
+                  const phone = (r[2] || '').replace(/^'/, '');
+                  const email = r[3] || '';
+                  const company = r[4] || '';
+                  if (!fullName && !phone && !email) continue;
+
+                  const isCad = siteCode === 'cms-intellicad';
+                  const isLisp = String(tabName).toUpperCase().includes('LISP');
+                  const payload = isCad
+                    ? isLisp
+                      ? { primary_need: r[5] || 'receive_lisp', requirements: r[6] || '', source_label: r[7] || 'Trực tiếp', care_status: r[8] || '', pic: r[9] || '', care_note: r[10] || '', sheet_tab: tabName }
+                      : { primary_need: r[5] || '', product_version: r[6] || '', device_quantity: r[7] || '', requirements: r[8] || '', source_label: r[9] || 'Trực tiếp', care_status: r[10] || '', pic: r[11] || '', care_note: r[12] || '', sheet_tab: tabName }
+                    : { primary_need: r[5] || '', requirements: r[6] || '', care_status: r[7] || '', pic: r[8] || '', care_note: r[9] || '', sheet_tab: tabName };
+
+                  const existing = await sql`
+                    SELECT landing_lead_submission_id FROM cic_landing.landing_lead_submissions
+                    WHERE landing_site_id = ${f.landing_site_id}
+                      AND COALESCE(customer_phone, '') = ${phone}
+                      AND COALESCE(customer_email, '') = ${email}
+                      AND COALESCE(customer_full_name, '') = ${fullName}
+                    LIMIT 1
+                  `;
+                  if (existing.length === 0) {
+                    await sql`
+                      INSERT INTO cic_landing.landing_lead_submissions (
+                        landing_form_id, landing_site_id, customer_full_name, customer_phone,
+                        customer_email, customer_company, submitted_fields_json, utm_source, submitted_at_utc
+                      ) VALUES (
+                        ${f.landing_form_id}, ${f.landing_site_id}, ${fullName || null}, ${phone || null},
+                        ${email || null}, ${company || null}, ${sql.json(payload)},
+                        ${payload.source_label || 'Google Sheets Sync'}, ${parseDate(r[0])}
+                      )
+                    `;
+                  }
+                  syncedCount++;
+                }
+                break;
+              } catch {}
+            }
+          }
+        }
+        if (syncedCount > 0) {
+          console.log(`[Auto-Seed] Đã đồng bộ trực tiếp ${syncedCount} dòng khách hàng từ Google Sheets.`);
+        }
+      }
+    } catch {}
+
     console.log(
-      `[Auto-Seed] Hoàn tất nạp Database: ${(rawData.sites || []).length} website, ${(rawData.sections || []).length} mục nội dung, ${(rawData.media || []).length} tệp media.`
+      `[Auto-Seed] Hoàn tất nạp Database: ${(rawData.sites || []).length} website, ${(rawData.sections || []).length} mục nội dung, ${(rawData.media || []).length} tệp media, ${(rawData.leads || []).length} khách hàng từ Google Sheets.`
     );
     await sql.end();
     process.exit(0);

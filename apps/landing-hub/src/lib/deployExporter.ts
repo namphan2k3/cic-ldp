@@ -202,7 +202,13 @@ export async function exportDeployFolder(
   }
   fs.mkdirSync(outputDir, { recursive: true });
 
-  // 1. Export database snapshot
+  // 1. Pull latest leads from Google Sheets (if configured) and export database snapshot
+  try {
+    const { pullLeadsFromGoogleSheets } = await import('./googleSheetsSync');
+    await pullLeadsFromGoogleSheets(isSpecific ? targetSiteCode : undefined);
+  } catch {
+    // Continue with existing DB leads if Google Sheets credentials are absent or offline
+  }
   const payload = await buildSeedPayload(targetSiteCode);
   const seedDir = path.join(outputDir, 'seed');
   fs.mkdirSync(seedDir, { recursive: true });

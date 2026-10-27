@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-27T04:10:53.509Z",
+  "exportedAt": "2026-10-27T07:12:34.864Z",
   "targetSiteCode": "ALL",
   "sectionTypes": [
     {
@@ -11,7 +11,7 @@
       "preview_image_url": null,
       "is_active": true,
       "created_at_utc": "2026-10-23T03:42:39.943Z",
-      "updated_at_utc": "2026-10-26T08:39:31.014Z"
+      "updated_at_utc": "2026-10-27T04:11:03.615Z"
     },
     {
       "landing_section_type_code": "catalog",
@@ -22,7 +22,7 @@
       "preview_image_url": null,
       "is_active": true,
       "created_at_utc": "2026-10-23T03:42:39.940Z",
-      "updated_at_utc": "2026-10-26T08:39:31.030Z"
+      "updated_at_utc": "2026-10-27T04:11:03.625Z"
     },
     {
       "landing_section_type_code": "comparison",
@@ -33,7 +33,7 @@
       "preview_image_url": null,
       "is_active": true,
       "created_at_utc": "2026-10-23T03:42:39.945Z",
-      "updated_at_utc": "2026-10-26T08:39:31.046Z"
+      "updated_at_utc": "2026-10-27T04:11:03.630Z"
     },
     {
       "landing_section_type_code": "consultation_form",
@@ -44,7 +44,7 @@
       "preview_image_url": null,
       "is_active": true,
       "created_at_utc": "2026-10-23T03:42:39.963Z",
-      "updated_at_utc": "2026-10-26T08:39:31.061Z"
+      "updated_at_utc": "2026-10-27T04:11:03.635Z"
     },
     {
       "landing_section_type_code": "faq",
@@ -55,7 +55,7 @@
       "preview_image_url": null,
       "is_active": true,
       "created_at_utc": "2026-10-23T03:42:39.968Z",
-      "updated_at_utc": "2026-10-26T08:39:31.080Z"
+      "updated_at_utc": "2026-10-27T04:11:03.642Z"
     },
     {
       "landing_section_type_code": "floating_cta",
@@ -66,7 +66,7 @@
       "preview_image_url": null,
       "is_active": true,
       "created_at_utc": "2026-10-23T03:42:39.973Z",
-      "updated_at_utc": "2026-10-26T08:39:31.104Z"
+      "updated_at_utc": "2026-10-27T04:11:03.646Z"
     },
     {
       "landing_section_type_code": "footer",
@@ -77,7 +77,7 @@
       "preview_image_url": null,
       "is_active": true,
       "created_at_utc": "2026-10-23T03:42:39.971Z",
-      "updated_at_utc": "2026-10-26T08:39:31.129Z"
+      "updated_at_utc": "2026-10-27T04:11:03.650Z"
     },
     {
       "landing_section_type_code": "header",
@@ -88,7 +88,7 @@
       "preview_image_url": null,
       "is_active": true,
       "created_at_utc": "2026-10-23T03:42:39.925Z",
-      "updated_at_utc": "2026-10-26T08:39:31.144Z"
+      "updated_at_utc": "2026-10-27T04:11:03.657Z"
     },
     {
       "landing_section_type_code": "hero",
@@ -99,7 +99,7 @@
       "preview_image_url": null,
       "is_active": true,
       "created_at_utc": "2026-10-23T03:42:39.936Z",
-      "updated_at_utc": "2026-10-26T08:39:31.159Z"
+      "updated_at_utc": "2026-10-27T04:11:03.660Z"
     },
     {
       "landing_section_type_code": "infrastructure",
@@ -110,7 +110,7 @@
       "preview_image_url": null,
       "is_active": true,
       "created_at_utc": "2026-10-23T03:42:39.961Z",
-      "updated_at_utc": "2026-10-26T08:39:31.177Z"
+      "updated_at_utc": "2026-10-27T04:11:03.663Z"
     },
     {
       "landing_section_type_code": "intro",
@@ -121,7 +121,7 @@
       "preview_image_url": null,
       "is_active": true,
       "created_at_utc": "2026-10-23T03:42:39.938Z",
-      "updated_at_utc": "2026-10-26T08:39:31.189Z"
+      "updated_at_utc": "2026-10-27T04:11:03.667Z"
     },
     {
       "landing_section_type_code": "requirements",
@@ -132,7 +132,7 @@
       "preview_image_url": null,
       "is_active": true,
       "created_at_utc": "2026-10-23T03:42:39.950Z",
-      "updated_at_utc": "2026-10-26T08:39:31.197Z"
+      "updated_at_utc": "2026-10-27T04:11:03.672Z"
     },
     {
       "landing_section_type_code": "resources",
@@ -143,7 +143,7 @@
       "preview_image_url": null,
       "is_active": true,
       "created_at_utc": "2026-10-23T03:42:39.956Z",
-      "updated_at_utc": "2026-10-26T08:39:31.216Z"
+      "updated_at_utc": "2026-10-27T04:11:03.678Z"
     },
     {
       "landing_section_type_code": "video_slider",
@@ -154,7 +154,7 @@
       "preview_image_url": null,
       "is_active": true,
       "created_at_utc": "2026-10-23T03:42:39.959Z",
-      "updated_at_utc": "2026-10-26T08:39:31.231Z"
+      "updated_at_utc": "2026-10-27T04:11:03.683Z"
     }
   ],
   "sites": [
@@ -196,7 +196,7 @@
         "fb_pixel_id": ""
       },
       "created_at_utc": "2026-10-26T04:29:26.700Z",
-      "updated_at_utc": "2026-10-26T08:38:49.551Z"
+      "updated_at_utc": "2026-10-27T04:11:03.690Z"
     },
     {
       "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
@@ -236,7 +236,7 @@
         "fb_pixel_id": ""
       },
       "created_at_utc": "2026-10-26T04:29:29.857Z",
-      "updated_at_utc": "2026-10-26T08:39:31.259Z"
+      "updated_at_utc": "2026-10-27T04:11:03.696Z"
     },
     {
       "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
@@ -277,7 +277,7 @@
         "fb_pixel_id": ""
       },
       "created_at_utc": "2026-10-26T04:29:27.402Z",
-      "updated_at_utc": "2026-10-26T08:38:53.574Z"
+      "updated_at_utc": "2026-10-27T04:11:03.702Z"
     },
     {
       "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
@@ -312,7 +312,7 @@
       },
       "tracking_config_json": {},
       "created_at_utc": "2026-10-27T02:49:19.065Z",
-      "updated_at_utc": "2026-10-27T03:28:08.902Z"
+      "updated_at_utc": "2026-10-27T04:11:03.711Z"
     },
     {
       "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
@@ -357,7 +357,7 @@
         "fb_pixel_id": "1588699922986390"
       },
       "created_at_utc": "2026-10-23T03:42:39.976Z",
-      "updated_at_utc": "2026-10-26T08:38:37.068Z"
+      "updated_at_utc": "2026-10-27T04:11:03.716Z"
     },
     {
       "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
@@ -392,7 +392,7 @@
       },
       "tracking_config_json": {},
       "created_at_utc": "2026-10-27T02:49:13.991Z",
-      "updated_at_utc": "2026-10-27T03:28:05.538Z"
+      "updated_at_utc": "2026-10-27T04:11:03.724Z"
     },
     {
       "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
@@ -434,7 +434,7 @@
         "fb_pixel_id": ""
       },
       "created_at_utc": "2026-10-26T04:29:27.935Z",
-      "updated_at_utc": "2026-10-26T08:39:01.575Z"
+      "updated_at_utc": "2026-10-27T04:11:03.729Z"
     },
     {
       "landing_site_id": "de556d0b-f32e-49e1-a97c-58888395418d",
@@ -471,7 +471,7 @@
       },
       "tracking_config_json": {},
       "created_at_utc": "2026-10-27T02:49:15.409Z",
-      "updated_at_utc": "2026-10-27T03:28:06.090Z"
+      "updated_at_utc": "2026-10-27T04:11:03.732Z"
     },
     {
       "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
@@ -511,7 +511,7 @@
         "fb_pixel_id": ""
       },
       "created_at_utc": "2026-10-26T04:29:28.550Z",
-      "updated_at_utc": "2026-10-26T08:39:09.827Z"
+      "updated_at_utc": "2026-10-27T04:11:03.738Z"
     },
     {
       "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
@@ -546,7 +546,7 @@
       },
       "tracking_config_json": {},
       "created_at_utc": "2026-10-27T02:49:17.780Z",
-      "updated_at_utc": "2026-10-27T03:28:07.435Z"
+      "updated_at_utc": "2026-10-27T04:11:03.750Z"
     },
     {
       "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
@@ -581,7 +581,7 @@
       },
       "tracking_config_json": {},
       "created_at_utc": "2026-10-27T02:49:18.357Z",
-      "updated_at_utc": "2026-10-27T03:28:07.955Z"
+      "updated_at_utc": "2026-10-27T04:11:03.760Z"
     },
     {
       "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
@@ -616,7 +616,7 @@
       },
       "tracking_config_json": {},
       "created_at_utc": "2026-10-27T02:49:16.287Z",
-      "updated_at_utc": "2026-10-27T03:28:06.789Z"
+      "updated_at_utc": "2026-10-27T04:11:03.767Z"
     },
     {
       "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
@@ -656,7 +656,7 @@
         "fb_pixel_id": ""
       },
       "created_at_utc": "2026-10-26T04:29:29.254Z",
-      "updated_at_utc": "2026-10-26T08:39:18.391Z"
+      "updated_at_utc": "2026-10-27T04:11:03.776Z"
     },
     {
       "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
@@ -701,7 +701,7 @@
         "fb_pixel_id": ""
       },
       "created_at_utc": "2026-10-23T03:42:39.986Z",
-      "updated_at_utc": "2026-10-26T08:38:42.164Z"
+      "updated_at_utc": "2026-10-27T04:11:03.780Z"
     }
   ],
   "pages": [
@@ -719,7 +719,7 @@
       },
       "published_at_utc": "2026-10-27T02:49:17.799Z",
       "created_at_utc": "2026-10-27T02:49:17.799Z",
-      "updated_at_utc": "2026-10-27T03:28:07.443Z"
+      "updated_at_utc": "2026-10-27T04:11:03.784Z"
     },
     {
       "landing_page_id": "246037ba-5519-4cb7-b8a0-da7173114b40",
@@ -735,7 +735,7 @@
       },
       "published_at_utc": "2026-10-26T04:29:29.706Z",
       "created_at_utc": "2026-10-26T04:29:29.706Z",
-      "updated_at_utc": "2026-10-26T08:39:18.402Z"
+      "updated_at_utc": "2026-10-27T04:11:03.795Z"
     },
     {
       "landing_page_id": "3ba2d20a-4a53-442e-ab02-df399c654bef",
@@ -751,7 +751,7 @@
       },
       "published_at_utc": "2026-10-26T04:29:29.587Z",
       "created_at_utc": "2026-10-26T04:29:29.587Z",
-      "updated_at_utc": "2026-10-26T08:39:18.409Z"
+      "updated_at_utc": "2026-10-27T04:11:03.799Z"
     },
     {
       "landing_page_id": "6b09936d-b0a8-4a02-800b-8b527479a08d",
@@ -767,7 +767,7 @@
       },
       "published_at_utc": "2026-10-27T02:49:16.301Z",
       "created_at_utc": "2026-10-27T02:49:16.301Z",
-      "updated_at_utc": "2026-10-27T03:28:06.798Z"
+      "updated_at_utc": "2026-10-27T04:11:03.805Z"
     },
     {
       "landing_page_id": "2ad6920c-65a3-44fe-9f56-6a4ed7d5794e",
@@ -783,7 +783,7 @@
       },
       "published_at_utc": "2026-10-26T04:29:27.224Z",
       "created_at_utc": "2026-10-26T04:29:27.224Z",
-      "updated_at_utc": "2026-10-26T08:38:49.558Z"
+      "updated_at_utc": "2026-10-27T04:11:03.815Z"
     },
     {
       "landing_page_id": "d65c6d5c-1cf5-464f-b7e4-d0c9f4b8ff4b",
@@ -799,7 +799,7 @@
       },
       "published_at_utc": "2026-10-26T04:29:27.124Z",
       "created_at_utc": "2026-10-26T04:29:27.124Z",
-      "updated_at_utc": "2026-10-26T08:38:49.563Z"
+      "updated_at_utc": "2026-10-27T04:11:03.825Z"
     },
     {
       "landing_page_id": "003a4a2d-9fac-4c36-9626-50be931c873a",
@@ -815,7 +815,7 @@
       },
       "published_at_utc": "2026-10-27T02:49:14.003Z",
       "created_at_utc": "2026-10-27T02:49:14.003Z",
-      "updated_at_utc": "2026-10-27T03:28:05.548Z"
+      "updated_at_utc": "2026-10-27T04:11:03.831Z"
     },
     {
       "landing_page_id": "ab0f1f69-09d8-4f44-a0d3-1a4aaee638a9",
@@ -831,7 +831,7 @@
       },
       "published_at_utc": "2026-10-23T03:42:40.106Z",
       "created_at_utc": "2026-10-23T03:42:40.106Z",
-      "updated_at_utc": "2026-10-26T08:38:42.169Z"
+      "updated_at_utc": "2026-10-27T04:11:03.841Z"
     },
     {
       "landing_page_id": "3add6a74-bfd9-46ab-b59c-d9d2a70f6fae",
@@ -847,7 +847,7 @@
       },
       "published_at_utc": "2026-10-26T04:29:28.406Z",
       "created_at_utc": "2026-10-26T04:29:28.406Z",
-      "updated_at_utc": "2026-10-26T08:39:01.579Z"
+      "updated_at_utc": "2026-10-27T04:11:03.847Z"
     },
     {
       "landing_page_id": "dbd7217b-be5a-471f-93f5-c270c834a08c",
@@ -863,7 +863,7 @@
       },
       "published_at_utc": "2026-10-26T04:29:28.138Z",
       "created_at_utc": "2026-10-26T04:29:28.138Z",
-      "updated_at_utc": "2026-10-26T08:39:01.587Z"
+      "updated_at_utc": "2026-10-27T04:11:03.857Z"
     },
     {
       "landing_page_id": "04648612-dd8a-4bd3-ad2f-977544a2730c",
@@ -879,7 +879,7 @@
       },
       "published_at_utc": "2026-10-27T02:49:13.923Z",
       "created_at_utc": "2026-10-27T02:49:13.923Z",
-      "updated_at_utc": "2026-10-27T03:28:05.487Z"
+      "updated_at_utc": "2026-10-27T04:11:03.862Z"
     },
     {
       "landing_page_id": "c8792e53-6766-4813-9cee-9a9580604280",
@@ -895,7 +895,7 @@
       },
       "published_at_utc": "2026-10-23T03:42:40.054Z",
       "created_at_utc": "2026-10-23T03:42:40.054Z",
-      "updated_at_utc": "2026-10-26T08:38:37.076Z"
+      "updated_at_utc": "2026-10-27T04:11:03.867Z"
     },
     {
       "landing_page_id": "b492b20e-dbff-41ea-b557-a33ffbd6608d",
@@ -911,7 +911,7 @@
       },
       "published_at_utc": "2026-10-23T03:42:39.991Z",
       "created_at_utc": "2026-10-23T03:42:39.991Z",
-      "updated_at_utc": "2026-10-26T08:38:37.088Z"
+      "updated_at_utc": "2026-10-27T04:11:03.874Z"
     },
     {
       "landing_page_id": "ab5b171b-2db7-4f9b-9924-2e498038a0fc",
@@ -927,7 +927,7 @@
       },
       "published_at_utc": "2026-10-27T02:49:15.492Z",
       "created_at_utc": "2026-10-27T02:49:15.492Z",
-      "updated_at_utc": "2026-10-27T03:28:06.156Z"
+      "updated_at_utc": "2026-10-27T04:11:03.877Z"
     },
     {
       "landing_page_id": "39aa3dd2-b8e7-4dd5-879b-d81c1c406b97",
@@ -943,7 +943,7 @@
       },
       "published_at_utc": "2026-10-27T02:49:15.420Z",
       "created_at_utc": "2026-10-27T02:49:15.420Z",
-      "updated_at_utc": "2026-10-27T03:28:06.100Z"
+      "updated_at_utc": "2026-10-27T04:11:03.881Z"
     },
     {
       "landing_page_id": "1bfc93e4-1154-4347-94d4-f8cd4183a7d1",
@@ -959,7 +959,7 @@
       },
       "published_at_utc": "2026-10-27T02:49:15.555Z",
       "created_at_utc": "2026-10-27T02:49:15.555Z",
-      "updated_at_utc": "2026-10-27T03:28:06.211Z"
+      "updated_at_utc": "2026-10-27T04:11:03.883Z"
     },
     {
       "landing_page_id": "95f77848-6093-4387-a4a4-cf46f147ebb1",
@@ -975,7 +975,7 @@
       },
       "published_at_utc": "2026-10-26T04:29:27.803Z",
       "created_at_utc": "2026-10-26T04:29:27.803Z",
-      "updated_at_utc": "2026-10-27T03:28:05.416Z"
+      "updated_at_utc": "2026-10-27T04:11:03.889Z"
     },
     {
       "landing_page_id": "517d3ef8-a4d8-4aef-bd78-705c037f4ec9",
@@ -991,7 +991,7 @@
       },
       "published_at_utc": "2026-10-26T04:29:27.631Z",
       "created_at_utc": "2026-10-26T04:29:27.631Z",
-      "updated_at_utc": "2026-10-26T08:38:53.588Z"
+      "updated_at_utc": "2026-10-27T04:11:03.892Z"
     },
     {
       "landing_page_id": "5b58a2af-2ed9-4f0b-8586-fd4dc3cad7a0",
@@ -1007,7 +1007,7 @@
       },
       "published_at_utc": "2026-10-27T02:49:19.074Z",
       "created_at_utc": "2026-10-27T02:49:19.074Z",
-      "updated_at_utc": "2026-10-27T03:28:08.909Z"
+      "updated_at_utc": "2026-10-27T04:11:03.895Z"
     },
     {
       "landing_page_id": "c0b9109e-bb64-408b-98b4-59ddc3dfa54d",
@@ -1023,7 +1023,7 @@
       },
       "published_at_utc": "2026-10-27T02:49:18.366Z",
       "created_at_utc": "2026-10-27T02:49:18.366Z",
-      "updated_at_utc": "2026-10-27T03:28:07.971Z"
+      "updated_at_utc": "2026-10-27T04:11:03.899Z"
     },
     {
       "landing_page_id": "b20bf0d9-f40d-4223-9953-3c687379bc54",
@@ -1039,7 +1039,7 @@
       },
       "published_at_utc": "2026-10-26T04:29:29.171Z",
       "created_at_utc": "2026-10-26T04:29:29.171Z",
-      "updated_at_utc": "2026-10-26T08:39:09.838Z"
+      "updated_at_utc": "2026-10-27T04:11:03.905Z"
     },
     {
       "landing_page_id": "cd8867c0-64c4-4fd2-93b5-f239ab31b7dd",
@@ -1055,7 +1055,7 @@
       },
       "published_at_utc": "2026-10-26T04:29:28.925Z",
       "created_at_utc": "2026-10-26T04:29:28.925Z",
-      "updated_at_utc": "2026-10-26T08:39:09.851Z"
+      "updated_at_utc": "2026-10-27T04:11:03.909Z"
     },
     {
       "landing_page_id": "cd0ba88a-a455-4341-b956-c5a639bd6176",
@@ -1071,7 +1071,7 @@
       },
       "published_at_utc": "2026-10-26T04:29:30.242Z",
       "created_at_utc": "2026-10-26T04:29:30.242Z",
-      "updated_at_utc": "2026-10-26T08:39:31.278Z"
+      "updated_at_utc": "2026-10-27T04:11:03.914Z"
     },
     {
       "landing_page_id": "e6867a1f-1c68-4988-a023-5856df04c447",
@@ -1087,7 +1087,7 @@
       },
       "published_at_utc": "2026-10-26T04:29:30.115Z",
       "created_at_utc": "2026-10-26T04:29:30.115Z",
-      "updated_at_utc": "2026-10-26T08:39:31.293Z"
+      "updated_at_utc": "2026-10-27T04:11:03.919Z"
     }
   ],
   "sections": [
@@ -7180,7 +7180,7 @@
       "typography_config_json": {},
       "custom_css_class": null,
       "created_at_utc": "2026-10-23T04:24:17.833Z",
-      "updated_at_utc": "2026-10-27T04:34:32.653Z"
+      "updated_at_utc": "2026-10-27T06:21:03.585Z"
     },
     {
       "landing_page_section_id": "31b435c7-43e9-4c74-95be-45dd867a1fc6",
@@ -7204,7 +7204,7 @@
       "typography_config_json": {},
       "custom_css_class": null,
       "created_at_utc": "2026-10-23T04:24:17.836Z",
-      "updated_at_utc": "2026-10-27T04:34:32.653Z"
+      "updated_at_utc": "2026-10-27T06:21:03.585Z"
     },
     {
       "landing_page_section_id": "d39337bb-d89c-4dc1-9721-7c5e43f88f33",
@@ -7229,7 +7229,7 @@
       "typography_config_json": {},
       "custom_css_class": null,
       "created_at_utc": "2026-10-23T04:24:17.838Z",
-      "updated_at_utc": "2026-10-27T04:34:32.653Z"
+      "updated_at_utc": "2026-10-27T06:21:03.585Z"
     },
     {
       "landing_page_section_id": "aa4263f6-3684-45ee-bb1e-b76a10e4aaa2",
@@ -7317,7 +7317,7 @@
       "typography_config_json": {},
       "custom_css_class": null,
       "created_at_utc": "2026-10-23T04:24:17.841Z",
-      "updated_at_utc": "2026-10-27T04:59:44.293Z"
+      "updated_at_utc": "2026-10-27T06:21:03.585Z"
     },
     {
       "landing_page_section_id": "c745ba09-1af7-4072-8364-ec6a5bfd5dde",
@@ -7356,7 +7356,7 @@
       "typography_config_json": {},
       "custom_css_class": null,
       "created_at_utc": "2026-10-23T04:24:17.847Z",
-      "updated_at_utc": "2026-10-27T04:34:32.653Z"
+      "updated_at_utc": "2026-10-27T06:21:03.585Z"
     },
     {
       "landing_page_section_id": "581d080e-dda0-41ac-8246-83ce86cc75fb",
@@ -7372,7 +7372,7 @@
             "cta": "Tìm hiểu giải pháp",
             "link": "https://www.cic.com.vn/san-pham/fifish-e-master-plus---ro-bot-kiem-tra-duoi-nuoc-1-p412.html",
             "brand": "FIFISH",
-            "price": "Liên hệ",
+            "price": "<span style=\"background-color: rgb(255, 255, 255);\">376.700.000 VNĐ</span>",
             "title": "Robot nạo vét cống ngầm dưới nước",
             "videos": [
               {
@@ -7420,7 +7420,7 @@
       "typography_config_json": {},
       "custom_css_class": null,
       "created_at_utc": "2026-10-23T04:24:17.849Z",
-      "updated_at_utc": "2026-10-27T04:59:44.299Z"
+      "updated_at_utc": "2026-10-27T06:21:03.585Z"
     },
     {
       "landing_page_section_id": "76c8f689-2b71-459f-9480-2c46f7a81cf0",
@@ -7464,7 +7464,7 @@
       "typography_config_json": {},
       "custom_css_class": null,
       "created_at_utc": "2026-10-23T04:24:17.852Z",
-      "updated_at_utc": "2026-10-27T04:34:32.653Z"
+      "updated_at_utc": "2026-10-27T06:21:03.585Z"
     },
     {
       "landing_page_section_id": "e4dfad12-264e-4f58-96c9-fd8b0aa6fc66",
@@ -7508,7 +7508,7 @@
       "typography_config_json": {},
       "custom_css_class": null,
       "created_at_utc": "2026-10-23T04:24:17.854Z",
-      "updated_at_utc": "2026-10-27T04:34:32.653Z"
+      "updated_at_utc": "2026-10-27T06:21:03.585Z"
     },
     {
       "landing_page_section_id": "b9eaf1b5-5511-4f22-9a01-4d52ded8544d",
@@ -7550,7 +7550,7 @@
       "typography_config_json": {},
       "custom_css_class": null,
       "created_at_utc": "2026-10-23T04:24:17.857Z",
-      "updated_at_utc": "2026-10-27T04:34:32.653Z"
+      "updated_at_utc": "2026-10-27T06:21:03.585Z"
     },
     {
       "landing_page_section_id": "087a4a72-f9a0-40bc-b3cc-2daff05f7447",
@@ -13224,7 +13224,7 @@
       },
       "is_form_active": true,
       "created_at_utc": "2026-10-27T02:49:17.863Z",
-      "updated_at_utc": "2026-10-27T03:28:07.505Z"
+      "updated_at_utc": "2026-10-27T04:11:05.082Z"
     },
     {
       "landing_form_id": "f8251c22-e6d6-417c-b6e6-6c563dcc8028",
@@ -13374,7 +13374,7 @@
       },
       "is_form_active": true,
       "created_at_utc": "2026-10-26T04:29:29.835Z",
-      "updated_at_utc": "2026-10-26T08:39:18.534Z"
+      "updated_at_utc": "2026-10-27T04:11:05.087Z"
     },
     {
       "landing_form_id": "e782eeb3-b190-447c-8cf7-27096ee20f59",
@@ -13447,7 +13447,7 @@
       },
       "is_form_active": true,
       "created_at_utc": "2026-10-27T02:49:16.390Z",
-      "updated_at_utc": "2026-10-27T03:28:06.838Z"
+      "updated_at_utc": "2026-10-27T04:11:05.093Z"
     },
     {
       "landing_form_id": "baf29b38-58d5-45ac-abac-c34a4f4c4bf8",
@@ -13597,7 +13597,7 @@
       },
       "is_form_active": true,
       "created_at_utc": "2026-10-26T04:29:27.380Z",
-      "updated_at_utc": "2026-10-26T08:38:49.712Z"
+      "updated_at_utc": "2026-10-27T04:11:05.096Z"
     },
     {
       "landing_form_id": "a81667ca-ee73-4791-8db6-f3189841d24c",
@@ -13670,7 +13670,7 @@
       },
       "is_form_active": true,
       "created_at_utc": "2026-10-27T02:49:14.059Z",
-      "updated_at_utc": "2026-10-27T03:28:05.603Z"
+      "updated_at_utc": "2026-10-27T04:11:05.099Z"
     },
     {
       "landing_form_id": "0ad016ae-3b7d-4f9f-9879-0af03cd9cf48",
@@ -13775,7 +13775,7 @@
       ],
       "google_sheet_config_json": {
         "sheet_name": "Landing Page",
-        "last_sync_at": "2026-10-26T03:20:25.927Z",
+        "last_sync_at": "2026-10-27T07:12:29.156Z",
         "spreadsheet_id": "1izAJ8r7SeyicYJ2tNnCxXlSah-6meMlpYwQqvaU_A24",
         "initial_sync_completed": true,
         "initial_sync_completed_at": "2026-10-23T09:13:14.306368+00:00",
@@ -13815,7 +13815,7 @@
       },
       "is_form_active": true,
       "created_at_utc": "2026-10-23T03:42:40.179Z",
-      "updated_at_utc": "2026-10-26T08:38:42.220Z"
+      "updated_at_utc": "2026-10-27T07:12:29.157Z"
     },
     {
       "landing_form_id": "0d7538f4-dcf5-455b-8410-e3d093902cf0",
@@ -13965,7 +13965,7 @@
       },
       "is_form_active": true,
       "created_at_utc": "2026-10-26T04:29:28.532Z",
-      "updated_at_utc": "2026-10-26T08:39:01.749Z"
+      "updated_at_utc": "2026-10-27T04:11:05.109Z"
     },
     {
       "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
@@ -14096,7 +14096,7 @@
       ],
       "google_sheet_config_json": {
         "sheet_name": "LADIPAGE",
-        "last_sync_at": "2026-10-26T03:20:24.167Z",
+        "last_sync_at": "2026-10-27T07:12:31.886Z",
         "spreadsheet_id": "1789qGEPsGXONe_1fDxzA8xYCJDmV-TsHuS5fCiI7GiI",
         "initial_sync_completed": true,
         "initial_sync_completed_at": "2026-10-23T09:13:14.306368+00:00",
@@ -14162,7 +14162,7 @@
       },
       "is_form_active": true,
       "created_at_utc": "2026-10-23T03:42:40.159Z",
-      "updated_at_utc": "2026-10-26T08:38:37.202Z"
+      "updated_at_utc": "2026-10-27T07:12:31.887Z"
     },
     {
       "landing_form_id": "c7f39d9c-497a-45af-8942-1f4685dcb2c9",
@@ -14235,7 +14235,7 @@
       },
       "is_form_active": true,
       "created_at_utc": "2026-10-27T02:49:15.623Z",
-      "updated_at_utc": "2026-10-27T03:28:06.271Z"
+      "updated_at_utc": "2026-10-27T04:11:05.116Z"
     },
     {
       "landing_form_id": "6b4637c4-f5ea-4aa5-9fb2-e51c2d2873ca",
@@ -14385,7 +14385,7 @@
       },
       "is_form_active": true,
       "created_at_utc": "2026-10-26T04:29:27.917Z",
-      "updated_at_utc": "2026-10-26T08:38:53.743Z"
+      "updated_at_utc": "2026-10-27T04:11:05.122Z"
     },
     {
       "landing_form_id": "a4fb5f6b-1c76-44c0-96d1-3fcf1229b776",
@@ -14458,7 +14458,7 @@
       },
       "is_form_active": true,
       "created_at_utc": "2026-10-27T02:49:19.119Z",
-      "updated_at_utc": "2026-10-27T03:28:08.971Z"
+      "updated_at_utc": "2026-10-27T04:11:05.126Z"
     },
     {
       "landing_form_id": "73360e32-a969-4dfa-b631-6a3a72203882",
@@ -14531,7 +14531,7 @@
       },
       "is_form_active": true,
       "created_at_utc": "2026-10-27T02:49:18.415Z",
-      "updated_at_utc": "2026-10-27T03:28:08.016Z"
+      "updated_at_utc": "2026-10-27T04:11:05.130Z"
     },
     {
       "landing_form_id": "b1995e1e-fcc5-4507-916b-17296f45f2fa",
@@ -14681,7 +14681,7 @@
       },
       "is_form_active": true,
       "created_at_utc": "2026-10-26T04:29:29.240Z",
-      "updated_at_utc": "2026-10-26T08:39:10.040Z"
+      "updated_at_utc": "2026-10-27T04:11:05.136Z"
     },
     {
       "landing_form_id": "a2c5d59b-69ec-4a5a-b8ac-89f19bf8f0db",
@@ -14831,7 +14831,7 @@
       },
       "is_form_active": true,
       "created_at_utc": "2026-10-26T04:29:30.383Z",
-      "updated_at_utc": "2026-10-26T08:39:31.569Z"
+      "updated_at_utc": "2026-10-27T04:11:05.143Z"
     }
   ],
   "media": [
@@ -14849,7 +14849,7 @@
       "alt_text_en": "02-editor.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:11.287Z",
-      "updated_at_utc": "2026-10-26T08:38:37.207Z"
+      "updated_at_utc": "2026-10-27T04:11:05.153Z"
     },
     {
       "landing_media_asset_id": "483d2772-8e1e-4775-a252-c1c4e3e46236",
@@ -14865,7 +14865,7 @@
       "alt_text_en": "03-media.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:11.343Z",
-      "updated_at_utc": "2026-10-26T08:38:37.226Z"
+      "updated_at_utc": "2026-10-27T04:11:05.186Z"
     },
     {
       "landing_media_asset_id": "f46ca780-d858-4b42-a38b-3b5211f92209",
@@ -14881,7 +14881,7 @@
       "alt_text_en": "04-history.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:11.390Z",
-      "updated_at_utc": "2026-10-26T08:38:37.309Z"
+      "updated_at_utc": "2026-10-27T04:11:05.252Z"
     },
     {
       "landing_media_asset_id": "03deeb68-6c84-4568-abfa-2f18b4e1ed59",
@@ -14897,7 +14897,7 @@
       "alt_text_en": "cad_engineers_bg_1785984144734.jpg",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:11.442Z",
-      "updated_at_utc": "2026-10-26T08:38:37.324Z"
+      "updated_at_utc": "2026-10-27T04:11:05.284Z"
     },
     {
       "landing_media_asset_id": "2df0ac2a-3835-4299-8fc0-15091773a40d",
@@ -14913,7 +14913,7 @@
       "alt_text_en": "ef5b21dbacec6c404929c75c2e6e710c.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:11.644Z",
-      "updated_at_utc": "2026-10-26T08:38:37.392Z"
+      "updated_at_utc": "2026-10-27T04:11:05.407Z"
     },
     {
       "landing_media_asset_id": "2aa24607-54a4-45d8-9fbf-c27c8e1ba8a8",
@@ -14929,7 +14929,7 @@
       "alt_text_en": "cms_box_monitor_1785990083366.jpg",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:11.850Z",
-      "updated_at_utc": "2026-10-26T08:38:37.633Z"
+      "updated_at_utc": "2026-10-27T04:11:05.629Z"
     },
     {
       "landing_media_asset_id": "1a4988d0-d667-4215-ac98-ec24eae9ca24",
@@ -14945,7 +14945,7 @@
       "alt_text_en": "company_logo.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:11.889Z",
-      "updated_at_utc": "2026-10-26T08:38:37.729Z"
+      "updated_at_utc": "2026-10-27T04:11:05.697Z"
     },
     {
       "landing_media_asset_id": "e6dddde9-9dc6-41e2-ae6b-9ca708dda682",
@@ -14961,7 +14961,7 @@
       "alt_text_en": "favicon.ico",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:11.901Z",
-      "updated_at_utc": "2026-10-26T08:38:37.743Z"
+      "updated_at_utc": "2026-10-27T04:11:05.708Z"
     },
     {
       "landing_media_asset_id": "c8fd3659-300a-4cac-ad81-bb7f5dece78b",
@@ -14977,7 +14977,7 @@
       "alt_text_en": "intellicad-hero.jpg",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:11.933Z",
-      "updated_at_utc": "2026-10-26T08:38:37.758Z"
+      "updated_at_utc": "2026-10-27T04:11:05.722Z"
     },
     {
       "landing_media_asset_id": "cc6a612a-2849-4048-887d-9f06b0555895",
@@ -14993,7 +14993,7 @@
       "alt_text_en": "intellicad_3d_laptop_1785898332833.jpg",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.019Z",
-      "updated_at_utc": "2026-10-26T08:38:37.864Z"
+      "updated_at_utc": "2026-10-27T04:11:05.790Z"
     },
     {
       "landing_media_asset_id": "d062cb6a-3b53-4ee7-898e-bfa8287067ea",
@@ -15009,7 +15009,7 @@
       "alt_text_en": "logo.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.054Z",
-      "updated_at_utc": "2026-10-26T08:38:37.983Z"
+      "updated_at_utc": "2026-10-27T04:11:05.861Z"
     },
     {
       "landing_media_asset_id": "37a73ee0-954d-40fb-ba41-a417929c5c50",
@@ -15025,7 +15025,7 @@
       "alt_text_en": "Lisp Intellicad.rar",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.095Z",
-      "updated_at_utc": "2026-10-26T08:38:38.096Z"
+      "updated_at_utc": "2026-10-27T04:11:05.871Z"
     },
     {
       "landing_media_asset_id": "616afdab-19f7-4879-b2bb-be5cfda4cca8",
@@ -15041,7 +15041,7 @@
       "alt_text_en": "TechAZ_So_Sanh_IntelliCAD_AutoCAD.pdf",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.130Z",
-      "updated_at_utc": "2026-10-26T08:38:38.159Z"
+      "updated_at_utc": "2026-10-27T04:11:05.897Z"
     },
     {
       "landing_media_asset_id": "7fe9f64d-86d3-443a-9ec0-6082b94a2447",
@@ -15057,7 +15057,7 @@
       "alt_text_en": "02-editor.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.168Z",
-      "updated_at_utc": "2026-10-26T08:38:42.230Z"
+      "updated_at_utc": "2026-10-27T04:11:05.969Z"
     },
     {
       "landing_media_asset_id": "b99579b8-51ae-41d0-a660-f030bbc6224b",
@@ -15073,7 +15073,7 @@
       "alt_text_en": "03-media.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.200Z",
-      "updated_at_utc": "2026-10-26T08:38:42.261Z"
+      "updated_at_utc": "2026-10-27T04:11:06.007Z"
     },
     {
       "landing_media_asset_id": "962bc2c9-8259-4372-a9b5-0335e89b4878",
@@ -15089,7 +15089,7 @@
       "alt_text_en": "04-history.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.239Z",
-      "updated_at_utc": "2026-10-26T08:38:42.377Z"
+      "updated_at_utc": "2026-10-27T04:11:06.073Z"
     },
     {
       "landing_media_asset_id": "416b9b00-63e9-4cce-8557-20ae8161b05b",
@@ -15105,7 +15105,7 @@
       "alt_text_en": "b7fd48602d24924178b80f6df4b588d8.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.272Z",
-      "updated_at_utc": "2026-10-26T08:38:42.389Z"
+      "updated_at_utc": "2026-10-27T04:11:06.093Z"
     },
     {
       "landing_media_asset_id": "aa397712-b600-4673-a3a7-e5f239f9d2b9",
@@ -15121,7 +15121,7 @@
       "alt_text_en": "c8b7047c4105d4b85c6a49a0ca6c98ab.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.289Z",
-      "updated_at_utc": "2026-10-26T08:38:42.411Z"
+      "updated_at_utc": "2026-10-27T04:11:06.149Z"
     },
     {
       "landing_media_asset_id": "2f05ade1-96e4-4450-8e76-6cd0445aa733",
@@ -15137,7 +15137,7 @@
       "alt_text_en": "logo.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.298Z",
-      "updated_at_utc": "2026-10-26T08:38:42.416Z"
+      "updated_at_utc": "2026-10-27T04:11:06.159Z"
     },
     {
       "landing_media_asset_id": "7910b3a7-2a2d-4101-b9fb-3de36eefb082",
@@ -15153,7 +15153,7 @@
       "alt_text_en": "favicon.ico",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.302Z",
-      "updated_at_utc": "2026-10-26T08:38:42.420Z"
+      "updated_at_utc": "2026-10-27T04:11:06.164Z"
     },
     {
       "landing_media_asset_id": "49d4b1ae-c0b6-49b1-a296-aac7649fc3bd",
@@ -15169,7 +15169,7 @@
       "alt_text_en": "banner_footer_1.jpg",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.311Z",
-      "updated_at_utc": "2026-10-26T08:38:42.423Z"
+      "updated_at_utc": "2026-10-27T04:11:06.172Z"
     },
     {
       "landing_media_asset_id": "5085c25e-e484-416c-8cb2-bd855ff9a21a",
@@ -15185,7 +15185,7 @@
       "alt_text_en": "banner_footer_2.jpg",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.326Z",
-      "updated_at_utc": "2026-10-26T08:38:42.433Z"
+      "updated_at_utc": "2026-10-27T04:11:06.190Z"
     },
     {
       "landing_media_asset_id": "ce3be6d5-e88b-408e-a454-876beef3216f",
@@ -15201,7 +15201,7 @@
       "alt_text_en": "banner_footer_3.jpg",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.347Z",
-      "updated_at_utc": "2026-10-26T08:38:42.447Z"
+      "updated_at_utc": "2026-10-27T04:11:06.208Z"
     },
     {
       "landing_media_asset_id": "1e2aadf7-81fa-48c5-bc09-a8a26eef9c32",
@@ -15217,7 +15217,7 @@
       "alt_text_en": "banner_footer_4.jpg",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.386Z",
-      "updated_at_utc": "2026-10-26T08:38:42.467Z"
+      "updated_at_utc": "2026-10-27T04:11:06.237Z"
     },
     {
       "landing_media_asset_id": "5da74c51-8c9b-44d3-a716-6c3b75732fcb",
@@ -15233,7 +15233,7 @@
       "alt_text_en": "robot-1874acec2e23.jpg",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.465Z",
-      "updated_at_utc": "2026-10-26T08:38:42.514Z"
+      "updated_at_utc": "2026-10-27T04:11:06.295Z"
     },
     {
       "landing_media_asset_id": "f630bb11-fd1a-4cb2-a171-6b995dd538b2",
@@ -15249,7 +15249,7 @@
       "alt_text_en": "robot-1874acec2e24.jpg",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.517Z",
-      "updated_at_utc": "2026-10-26T08:38:42.582Z"
+      "updated_at_utc": "2026-10-27T04:11:06.343Z"
     },
     {
       "landing_media_asset_id": "6add0e11-89f9-4d19-8168-17186522d0ef",
@@ -15265,7 +15265,7 @@
       "alt_text_en": "robot-5ae49108c24d.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.540Z",
-      "updated_at_utc": "2026-10-26T08:38:42.606Z"
+      "updated_at_utc": "2026-10-27T04:11:06.399Z"
     },
     {
       "landing_media_asset_id": "0467837b-5101-4e7b-b34e-050b2cb23255",
@@ -15281,7 +15281,7 @@
       "alt_text_en": "robot-8d323f9c6754.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.553Z",
-      "updated_at_utc": "2026-10-26T08:38:42.632Z"
+      "updated_at_utc": "2026-10-27T04:11:06.426Z"
     },
     {
       "landing_media_asset_id": "f73c2163-514e-447f-a47b-c27425615ad5",
@@ -15297,7 +15297,7 @@
       "alt_text_en": "robot-b159450f47fd.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.579Z",
-      "updated_at_utc": "2026-10-26T08:38:42.636Z"
+      "updated_at_utc": "2026-10-27T04:11:06.434Z"
     },
     {
       "landing_media_asset_id": "849c99e1-b9bf-47b9-b007-b9be2df23eca",
@@ -15313,7 +15313,7 @@
       "alt_text_en": "robot-c069c42c66d6.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.614Z",
-      "updated_at_utc": "2026-10-26T08:38:42.669Z"
+      "updated_at_utc": "2026-10-27T04:11:06.479Z"
     },
     {
       "landing_media_asset_id": "3a5f9d7c-cf81-4167-8a01-9357f5f260e7",
@@ -15329,7 +15329,7 @@
       "alt_text_en": "robot-c575d3e750b7.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.631Z",
-      "updated_at_utc": "2026-10-26T08:38:42.683Z"
+      "updated_at_utc": "2026-10-27T04:11:06.496Z"
     },
     {
       "landing_media_asset_id": "eda93bed-b36c-4f21-96af-025b0f620b90",
@@ -15345,7 +15345,7 @@
       "alt_text_en": "robot-e6e6f41c09de.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.647Z",
-      "updated_at_utc": "2026-10-26T08:38:42.700Z"
+      "updated_at_utc": "2026-10-27T04:11:06.514Z"
     },
     {
       "landing_media_asset_id": "6e0e3d7e-fd5e-4b43-aebe-3d19f008fda0",
@@ -15361,7 +15361,7 @@
       "alt_text_en": "robot-e8ec0ecd53b7.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.680Z",
-      "updated_at_utc": "2026-10-26T08:38:42.720Z"
+      "updated_at_utc": "2026-10-27T04:11:06.539Z"
     },
     {
       "landing_media_asset_id": "7382882a-e4d8-4aec-b827-de4a6b2a32f4",
@@ -15377,7 +15377,7 @@
       "alt_text_en": "robot-ef7d081caac2.png",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.712Z",
-      "updated_at_utc": "2026-10-26T08:38:42.763Z"
+      "updated_at_utc": "2026-10-27T04:11:06.586Z"
     },
     {
       "landing_media_asset_id": "4aaf2cb4-c8f5-4f09-9818-5df4c57fc2e4",
@@ -15393,7 +15393,7 @@
       "alt_text_en": "profile-robot-xay-dung.pdf",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:12.972Z",
-      "updated_at_utc": "2026-10-26T08:38:42.785Z"
+      "updated_at_utc": "2026-10-27T04:11:06.623Z"
     },
     {
       "landing_media_asset_id": "d2162787-faad-4bb8-b710-0f1950e6d767",
@@ -15409,7 +15409,7 @@
       "alt_text_en": "Robot x├вy dс╗▒ng",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:13.427Z",
-      "updated_at_utc": "2026-10-26T08:38:43.183Z"
+      "updated_at_utc": "2026-10-27T04:11:07.320Z"
     },
     {
       "landing_media_asset_id": "fd6c11bd-7f64-4093-8a79-665a99508c84",
@@ -15425,7 +15425,7 @@
       "alt_text_en": "Robot x├вy dс╗▒ng.pdf",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:13.897Z",
-      "updated_at_utc": "2026-10-26T08:38:43.549Z"
+      "updated_at_utc": "2026-10-27T04:11:07.767Z"
     },
     {
       "landing_media_asset_id": "4bb652e6-c674-4c0c-bb6d-44862c7d3f6b",
@@ -15441,7 +15441,7 @@
       "alt_text_en": "robot-xay-dung.pdf",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:14.331Z",
-      "updated_at_utc": "2026-10-26T08:38:44.014Z"
+      "updated_at_utc": "2026-10-27T04:11:08.378Z"
     },
     {
       "landing_media_asset_id": "1a811a9b-d3b2-478f-a8a8-0838449bc3e1",
@@ -15457,7 +15457,7 @@
       "alt_text_en": "Robot x├вy dс╗▒ng.pdf",
       "storage_provider": "supabase_pg_bytea",
       "created_at_utc": "2026-10-23T04:21:14.831Z",
-      "updated_at_utc": "2026-10-26T08:38:44.646Z"
+      "updated_at_utc": "2026-10-27T04:11:09.067Z"
     },
     {
       "landing_media_asset_id": "c5fc5bb4-2eb1-4973-bcb5-9385761dc3b6",
@@ -15473,7 +15473,7 @@
       "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - allplan-logo-20210412081348.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:17.508Z",
-      "updated_at_utc": "2026-10-26T08:38:49.721Z"
+      "updated_at_utc": "2026-10-27T04:11:09.645Z"
     },
     {
       "landing_media_asset_id": "593b22ce-4ab6-414c-87d6-9f517874b397",
@@ -15489,7 +15489,7 @@
       "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 2-00_00_00-00_00_30-20210406040229.gif",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:17.516Z",
-      "updated_at_utc": "2026-10-26T08:38:49.732Z"
+      "updated_at_utc": "2026-10-27T04:11:09.662Z"
     },
     {
       "landing_media_asset_id": "29f3df79-5c8d-4ec6-b61a-d110f3a7fb5f",
@@ -15505,7 +15505,7 @@
       "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - call-icon-5-20210412081602.gif",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:17.665Z",
-      "updated_at_utc": "2026-10-26T08:38:49.908Z"
+      "updated_at_utc": "2026-10-27T04:11:09.783Z"
     },
     {
       "landing_media_asset_id": "e842f6cf-16a8-4439-9647-dc05dcc06975",
@@ -15521,7 +15521,7 @@
       "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - four-track-extension-between-olten-and-aarau-eppenberg-tunnel-switzerland-min-20210407043823.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:17.682Z",
-      "updated_at_utc": "2026-10-26T08:38:49.927Z"
+      "updated_at_utc": "2026-10-27T04:11:09.802Z"
     },
     {
       "landing_media_asset_id": "7b84b05d-53e3-4f31-8f6a-1986c83c09a2",
@@ -15537,7 +15537,7 @@
       "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - hotel-complex-costabella-min-20210407043856.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:17.697Z",
-      "updated_at_utc": "2026-10-26T08:38:49.934Z"
+      "updated_at_utc": "2026-10-27T04:11:09.815Z"
     },
     {
       "landing_media_asset_id": "0f0695ea-beb2-4bfa-b6db-9805dd6f9131",
@@ -15553,7 +15553,7 @@
       "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - hydroelectric-power-plant-middle-marsyangdi-nepal-1-min-20210407043908.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:17.714Z",
-      "updated_at_utc": "2026-10-26T08:38:49.944Z"
+      "updated_at_utc": "2026-10-27T04:11:09.830Z"
     },
     {
       "landing_media_asset_id": "7de488d8-207c-43eb-9d35-47e87c8328ae",
@@ -15569,7 +15569,7 @@
       "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - pumping-station-katwijk-netherlands-min-20210407043957.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:17.728Z",
-      "updated_at_utc": "2026-10-26T08:38:49.954Z"
+      "updated_at_utc": "2026-10-27T04:11:09.842Z"
     },
     {
       "landing_media_asset_id": "a3857f31-07d4-4e07-8db5-bf11118c7e40",
@@ -15585,7 +15585,7 @@
       "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 3-20210405033642.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:17.737Z",
-      "updated_at_utc": "2026-10-26T08:38:49.965Z"
+      "updated_at_utc": "2026-10-27T04:11:09.853Z"
     },
     {
       "landing_media_asset_id": "3af76510-1dcd-438f-89f0-f57b106667ac",
@@ -15601,7 +15601,7 @@
       "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 2-20210405033457.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:17.749Z",
-      "updated_at_utc": "2026-10-26T08:38:49.970Z"
+      "updated_at_utc": "2026-10-27T04:11:09.861Z"
     },
     {
       "landing_media_asset_id": "d63aa676-e75d-4368-9cce-bed205d36416",
@@ -15617,7 +15617,7 @@
       "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 1-20210405023015.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:17.760Z",
-      "updated_at_utc": "2026-10-26T08:38:49.980Z"
+      "updated_at_utc": "2026-10-27T04:11:09.870Z"
     },
     {
       "landing_media_asset_id": "ccad9dff-2070-4c33-b1f6-206a0ab322d3",
@@ -15633,7 +15633,7 @@
       "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 6-20210405034511.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:17.767Z",
-      "updated_at_utc": "2026-10-26T08:38:49.986Z"
+      "updated_at_utc": "2026-10-27T04:11:09.879Z"
     },
     {
       "landing_media_asset_id": "addc970a-41ac-4c1c-86f7-a8d26e879551",
@@ -15649,7 +15649,7 @@
       "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - download-20210412081112.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:17.779Z",
-      "updated_at_utc": "2026-10-26T08:38:49.997Z"
+      "updated_at_utc": "2026-10-27T04:11:09.888Z"
     },
     {
       "landing_media_asset_id": "62f63270-e74d-4d8c-8932-9c66c1efd1cf",
@@ -15665,7 +15665,7 @@
       "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 1-20210405033608.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:17.786Z",
-      "updated_at_utc": "2026-10-26T08:38:50.003Z"
+      "updated_at_utc": "2026-10-27T04:11:09.893Z"
     },
     {
       "landing_media_asset_id": "436df444-60a2-4473-b2c7-d4ec59ce4937",
@@ -15681,7 +15681,7 @@
       "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 5-20210405034442.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:17.797Z",
-      "updated_at_utc": "2026-10-26T08:38:50.014Z"
+      "updated_at_utc": "2026-10-27T04:11:09.900Z"
     },
     {
       "landing_media_asset_id": "f820347a-ae82-4095-991f-959df57b57c0",
@@ -15697,7 +15697,7 @@
       "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường Logo",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:17.802Z",
-      "updated_at_utc": "2026-10-26T08:38:50.018Z"
+      "updated_at_utc": "2026-10-27T04:11:09.911Z"
     },
     {
       "landing_media_asset_id": "a0907bcb-20b1-4523-bfd4-682a6be9ac40",
@@ -15713,7 +15713,7 @@
       "alt_text_en": "Favicon",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:17.812Z",
-      "updated_at_utc": "2026-10-26T08:38:50.026Z"
+      "updated_at_utc": "2026-10-27T04:11:09.920Z"
     },
     {
       "landing_media_asset_id": "cb852e32-cac6-49f9-9a9b-978de7f5d81a",
@@ -15729,7 +15729,7 @@
       "alt_text_en": "Brochure Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:17.817Z",
-      "updated_at_utc": "2026-10-26T08:38:50.031Z"
+      "updated_at_utc": "2026-10-27T04:11:09.929Z"
     },
     {
       "landing_media_asset_id": "a4ab5856-0936-4355-8ba1-3a0996414fda",
@@ -15745,7 +15745,7 @@
       "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường Hero",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:17.865Z",
-      "updated_at_utc": "2026-10-26T08:38:50.095Z"
+      "updated_at_utc": "2026-10-27T04:11:09.986Z"
     },
     {
       "landing_media_asset_id": "3ca5a6f8-904f-4110-ba52-e202e3cc1e14",
@@ -15761,7 +15761,7 @@
       "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - logo-cic-20200221081126.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.031Z",
-      "updated_at_utc": "2026-10-26T08:38:53.749Z"
+      "updated_at_utc": "2026-10-27T04:11:09.993Z"
     },
     {
       "landing_media_asset_id": "77b7ba17-8d9c-41b6-bebf-5f6e05a5a985",
@@ -15777,7 +15777,7 @@
       "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - call-icon-5-20200327021012.gif",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.041Z",
-      "updated_at_utc": "2026-10-26T08:38:53.761Z"
+      "updated_at_utc": "2026-10-27T04:11:10.004Z"
     },
     {
       "landing_media_asset_id": "46ee2b86-6361-4bfa-9de1-ea29874a467d",
@@ -15793,7 +15793,7 @@
       "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - chung-cu-phuc-dat-20210423093843.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.061Z",
-      "updated_at_utc": "2026-10-26T08:38:53.784Z"
+      "updated_at_utc": "2026-10-27T04:11:10.027Z"
     },
     {
       "landing_media_asset_id": "eab36dde-4227-4c3b-b998-bdc2f1e54467",
@@ -15809,7 +15809,7 @@
       "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - dat-xanh-20200611081814.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.079Z",
-      "updated_at_utc": "2026-10-26T08:38:53.798Z"
+      "updated_at_utc": "2026-10-27T04:11:10.043Z"
     },
     {
       "landing_media_asset_id": "9ddb046d-b75e-4821-919a-27e3c1f98af0",
@@ -15825,7 +15825,7 @@
       "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - nha-xuong-tai-binh-duong-20210423092758.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.092Z",
-      "updated_at_utc": "2026-10-26T08:38:53.812Z"
+      "updated_at_utc": "2026-10-27T04:11:10.056Z"
     },
     {
       "landing_media_asset_id": "535281df-acf4-42eb-bcb8-af818a6c73d7",
@@ -15841,7 +15841,7 @@
       "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - benh-vien-gia-dinh-20210423093913.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.101Z",
-      "updated_at_utc": "2026-10-26T08:38:53.824Z"
+      "updated_at_utc": "2026-10-27T04:11:10.070Z"
     },
     {
       "landing_media_asset_id": "ce991f85-6765-4188-b2d9-33deee5ce19d",
@@ -15857,7 +15857,7 @@
       "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - ecoba-20200630070858.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.113Z",
-      "updated_at_utc": "2026-10-26T08:38:53.835Z"
+      "updated_at_utc": "2026-10-27T04:11:10.083Z"
     },
     {
       "landing_media_asset_id": "6cd0176e-07fe-43da-a21a-ba9bff7d2e85",
@@ -15873,7 +15873,7 @@
       "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - cost-20200624023831.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.125Z",
-      "updated_at_utc": "2026-10-26T08:38:53.857Z"
+      "updated_at_utc": "2026-10-27T04:11:10.104Z"
     },
     {
       "landing_media_asset_id": "0b31df9d-682e-4c5e-abeb-868b1b166da0",
@@ -15889,7 +15889,7 @@
       "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - c8576eb0ea19124b5657b4fd7973dae28faf102f_s2_n2-20200611081813.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.130Z",
-      "updated_at_utc": "2026-10-26T08:38:53.882Z"
+      "updated_at_utc": "2026-10-27T04:11:10.111Z"
     },
     {
       "landing_media_asset_id": "ee20fd01-f480-4189-850c-6298238717cb",
@@ -15905,7 +15905,7 @@
       "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - picture4-20200326093759.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.136Z",
-      "updated_at_utc": "2026-10-26T08:38:53.894Z"
+      "updated_at_utc": "2026-10-27T04:11:10.121Z"
     },
     {
       "landing_media_asset_id": "8958e10c-8a86-476f-9072-666cd6efac1c",
@@ -15921,7 +15921,7 @@
       "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - thay-doi-20200624023831.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.146Z",
-      "updated_at_utc": "2026-10-26T08:38:53.900Z"
+      "updated_at_utc": "2026-10-27T04:11:10.129Z"
     },
     {
       "landing_media_asset_id": "6be16405-1575-4883-9846-e90137b04777",
@@ -15937,7 +15937,7 @@
       "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - data-20200624023831.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.151Z",
-      "updated_at_utc": "2026-10-26T08:38:53.911Z"
+      "updated_at_utc": "2026-10-27T04:11:10.138Z"
     },
     {
       "landing_media_asset_id": "0262e878-6d03-49e4-89ec-ae212d63aae7",
@@ -15953,7 +15953,7 @@
       "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - 5-1503128133747-20200706024437.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.160Z",
-      "updated_at_utc": "2026-10-26T08:38:53.918Z"
+      "updated_at_utc": "2026-10-27T04:11:10.145Z"
     },
     {
       "landing_media_asset_id": "e48ab056-34ce-4d81-a8ab-a8faba1d2357",
@@ -15969,7 +15969,7 @@
       "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - 557eba5865e8ee0d50b57394afd8580ebf1235c7_s2_n2-20200611081813.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.165Z",
-      "updated_at_utc": "2026-10-26T08:38:53.927Z"
+      "updated_at_utc": "2026-10-27T04:11:10.153Z"
     },
     {
       "landing_media_asset_id": "788e98bf-639f-4532-94f9-bc610f2c1596",
@@ -15985,7 +15985,7 @@
       "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện Logo",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.176Z",
-      "updated_at_utc": "2026-10-26T08:38:53.933Z"
+      "updated_at_utc": "2026-10-27T04:11:10.159Z"
     },
     {
       "landing_media_asset_id": "b6f3d63a-bd69-4251-97df-17957db134f0",
@@ -16001,7 +16001,7 @@
       "alt_text_en": "Favicon",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.183Z",
-      "updated_at_utc": "2026-10-26T08:38:53.945Z"
+      "updated_at_utc": "2026-10-27T04:11:10.166Z"
     },
     {
       "landing_media_asset_id": "ef6cce3a-17bd-4295-a8b1-137df6728cb5",
@@ -16017,7 +16017,7 @@
       "alt_text_en": "Brochure CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.191Z",
-      "updated_at_utc": "2026-10-26T08:38:53.952Z"
+      "updated_at_utc": "2026-10-27T04:11:10.179Z"
     },
     {
       "landing_media_asset_id": "d1495627-60a5-4f48-8574-e811400bae6d",
@@ -16033,7 +16033,7 @@
       "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện Hero",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.242Z",
-      "updated_at_utc": "2026-10-26T08:38:54.041Z"
+      "updated_at_utc": "2026-10-27T04:11:10.231Z"
     },
     {
       "landing_media_asset_id": "e1dc1205-dfcb-488f-87e1-545e25c0e73f",
@@ -16049,7 +16049,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - Logo-CIC.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.450Z",
-      "updated_at_utc": "2026-10-26T08:39:01.760Z"
+      "updated_at_utc": "2026-10-27T04:11:10.242Z"
     },
     {
       "landing_media_asset_id": "ec4e4ac4-601d-4d2a-bc4c-f9a21b7dff60",
@@ -16065,7 +16065,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.459Z",
-      "updated_at_utc": "2026-10-26T08:39:01.773Z"
+      "updated_at_utc": "2026-10-27T04:11:10.249Z"
     },
     {
       "landing_media_asset_id": "873bcc5e-17a5-4c54-8360-4be3bd242e58",
@@ -16081,7 +16081,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo1.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.465Z",
-      "updated_at_utc": "2026-10-26T08:39:01.780Z"
+      "updated_at_utc": "2026-10-27T04:11:10.258Z"
     },
     {
       "landing_media_asset_id": "31b38f2b-27f3-4d91-a632-6a309cfdcfb0",
@@ -16097,7 +16097,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo2.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.469Z",
-      "updated_at_utc": "2026-10-26T08:39:01.792Z"
+      "updated_at_utc": "2026-10-27T04:11:10.267Z"
     },
     {
       "landing_media_asset_id": "b499e40f-25db-4304-af7d-6cf0224ddbf5",
@@ -16113,7 +16113,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo3.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.481Z",
-      "updated_at_utc": "2026-10-26T08:39:01.800Z"
+      "updated_at_utc": "2026-10-27T04:11:10.288Z"
     },
     {
       "landing_media_asset_id": "6a34feaa-7f1e-47a4-97d6-f48bcb4d791d",
@@ -16129,7 +16129,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo4.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.490Z",
-      "updated_at_utc": "2026-10-26T08:39:01.810Z"
+      "updated_at_utc": "2026-10-27T04:11:10.295Z"
     },
     {
       "landing_media_asset_id": "a543103e-2f32-4e5a-872b-1bc35c152c25",
@@ -16145,7 +16145,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo5.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.497Z",
-      "updated_at_utc": "2026-10-26T08:39:01.817Z"
+      "updated_at_utc": "2026-10-27T04:11:10.305Z"
     },
     {
       "landing_media_asset_id": "ac8395ad-02d4-43b1-930d-d32ae8cdc38b",
@@ -16161,7 +16161,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.502Z",
-      "updated_at_utc": "2026-10-26T08:39:01.825Z"
+      "updated_at_utc": "2026-10-27T04:11:10.312Z"
     },
     {
       "landing_media_asset_id": "7a7e7ab0-54a8-4568-858f-0f327b11c583",
@@ -16177,7 +16177,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - favicon.ico",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.513Z",
-      "updated_at_utc": "2026-10-26T08:39:01.834Z"
+      "updated_at_utc": "2026-10-27T04:11:10.319Z"
     },
     {
       "landing_media_asset_id": "067dcdac-164b-4214-8c04-ed46db555316",
@@ -16193,7 +16193,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - header.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.528Z",
-      "updated_at_utc": "2026-10-26T08:39:01.855Z"
+      "updated_at_utc": "2026-10-27T04:11:10.336Z"
     },
     {
       "landing_media_asset_id": "28a4317b-a912-481f-9185-3c448366d9d5",
@@ -16209,7 +16209,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - header-shadow.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.535Z",
-      "updated_at_utc": "2026-10-26T08:39:01.861Z"
+      "updated_at_utc": "2026-10-27T04:11:10.348Z"
     },
     {
       "landing_media_asset_id": "6cf9e213-15e1-482a-9d05-efc6b3295614",
@@ -16225,7 +16225,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - mobile.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.547Z",
-      "updated_at_utc": "2026-10-26T08:39:01.870Z"
+      "updated_at_utc": "2026-10-27T04:11:10.357Z"
     },
     {
       "landing_media_asset_id": "75483694-45d2-4891-92ba-0e30fc0434a8",
@@ -16241,7 +16241,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - tab1.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.560Z",
-      "updated_at_utc": "2026-10-26T08:39:01.882Z"
+      "updated_at_utc": "2026-10-27T04:11:10.370Z"
     },
     {
       "landing_media_asset_id": "5cf37b83-f68d-45a5-812f-b18cce5297f9",
@@ -16257,7 +16257,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - tab2.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.567Z",
-      "updated_at_utc": "2026-10-26T08:39:01.892Z"
+      "updated_at_utc": "2026-10-27T04:11:10.378Z"
     },
     {
       "landing_media_asset_id": "0425215a-8544-46f2-9cc7-8c2d80f29021",
@@ -16273,7 +16273,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - tab3.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.578Z",
-      "updated_at_utc": "2026-10-26T08:39:01.898Z"
+      "updated_at_utc": "2026-10-27T04:11:10.386Z"
     },
     {
       "landing_media_asset_id": "3409653e-822c-429d-892c-5917c0782926",
@@ -16289,7 +16289,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - so-do.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.592Z",
-      "updated_at_utc": "2026-10-26T08:39:01.923Z"
+      "updated_at_utc": "2026-10-27T04:11:10.395Z"
     },
     {
       "landing_media_asset_id": "96be8550-bde2-4b11-8f3a-c059c522cfe3",
@@ -16305,7 +16305,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - hinhanh.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.623Z",
-      "updated_at_utc": "2026-10-26T08:39:01.966Z"
+      "updated_at_utc": "2026-10-27T04:11:10.432Z"
     },
     {
       "landing_media_asset_id": "5ed75107-078e-4541-a879-425d2fa63e7d",
@@ -16321,7 +16321,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - tab2.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.655Z",
-      "updated_at_utc": "2026-10-26T08:39:01.990Z"
+      "updated_at_utc": "2026-10-27T04:11:10.462Z"
     },
     {
       "landing_media_asset_id": "f440cf51-3c3f-4404-91e0-4fd21b2eef42",
@@ -16337,7 +16337,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt Logo",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.680Z",
-      "updated_at_utc": "2026-10-26T08:39:02.008Z"
+      "updated_at_utc": "2026-10-27T04:11:10.487Z"
     },
     {
       "landing_media_asset_id": "9a7701d8-89d1-4792-b315-9686c560c4f4",
@@ -16353,7 +16353,7 @@
       "alt_text_en": "Favicon",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.694Z",
-      "updated_at_utc": "2026-10-26T08:39:02.013Z"
+      "updated_at_utc": "2026-10-27T04:11:10.492Z"
     },
     {
       "landing_media_asset_id": "a2c343ae-2873-462d-b23e-30444cdc5669",
@@ -16369,7 +16369,7 @@
       "alt_text_en": "Brochure EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.712Z",
-      "updated_at_utc": "2026-10-26T08:39:02.028Z"
+      "updated_at_utc": "2026-10-27T04:11:10.511Z"
     },
     {
       "landing_media_asset_id": "6ff8327f-c120-414b-96de-77e070fe8ec4",
@@ -16385,7 +16385,7 @@
       "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt Hero",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.766Z",
-      "updated_at_utc": "2026-10-26T08:39:02.091Z"
+      "updated_at_utc": "2026-10-27T04:11:10.573Z"
     },
     {
       "landing_media_asset_id": "6cd60db2-f45e-469a-9bc7-3371cf0534ad",
@@ -16401,7 +16401,7 @@
       "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - logo.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.937Z",
-      "updated_at_utc": "2026-10-26T08:39:10.047Z"
+      "updated_at_utc": "2026-10-27T04:11:10.580Z"
     },
     {
       "landing_media_asset_id": "d44ad68c-3d19-437b-8ecf-4c56da28d710",
@@ -16417,7 +16417,7 @@
       "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - logo_cic_90.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.949Z",
-      "updated_at_utc": "2026-10-26T08:39:10.057Z"
+      "updated_at_utc": "2026-10-27T04:11:10.588Z"
     },
     {
       "landing_media_asset_id": "f75764d5-34f0-48df-9b2d-2ffb7536226e",
@@ -16433,7 +16433,7 @@
       "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - logo.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.960Z",
-      "updated_at_utc": "2026-10-26T08:39:10.066Z"
+      "updated_at_utc": "2026-10-27T04:11:10.593Z"
     },
     {
       "landing_media_asset_id": "ec427fe8-8ea4-4922-b666-540c50970fc8",
@@ -16449,7 +16449,7 @@
       "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - logo.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.970Z",
-      "updated_at_utc": "2026-10-26T08:39:10.075Z"
+      "updated_at_utc": "2026-10-27T04:11:10.598Z"
     },
     {
       "landing_media_asset_id": "d129d07e-b4ad-4bfe-b743-cf9139899469",
@@ -16465,7 +16465,7 @@
       "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - logo.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.982Z",
-      "updated_at_utc": "2026-10-26T08:39:10.083Z"
+      "updated_at_utc": "2026-10-27T04:11:10.606Z"
     },
     {
       "landing_media_asset_id": "e35edffb-5e69-4080-9207-8e3e8742f30d",
@@ -16481,7 +16481,7 @@
       "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - logo_escon_100.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.993Z",
-      "updated_at_utc": "2026-10-26T08:39:10.089Z"
+      "updated_at_utc": "2026-10-27T04:11:10.612Z"
     },
     {
       "landing_media_asset_id": "ca2b0fbb-5ae4-4233-a597-3c017bbc39e7",
@@ -16497,7 +16497,7 @@
       "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - parallels-logo.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:18.998Z",
-      "updated_at_utc": "2026-10-26T08:39:10.093Z"
+      "updated_at_utc": "2026-10-27T04:11:10.620Z"
     },
     {
       "landing_media_asset_id": "83bc0b91-7dc0-41b9-b1bd-0657c3f3c160",
@@ -16513,7 +16513,7 @@
       "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - panel-logo.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.003Z",
-      "updated_at_utc": "2026-10-26T08:39:10.102Z"
+      "updated_at_utc": "2026-10-27T04:11:10.625Z"
     },
     {
       "landing_media_asset_id": "257f8419-a631-44b7-a011-37a5c819aa5a",
@@ -16529,7 +16529,7 @@
       "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - favicon.ico",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.012Z",
-      "updated_at_utc": "2026-10-26T08:39:10.106Z"
+      "updated_at_utc": "2026-10-27T04:11:10.630Z"
     },
     {
       "landing_media_asset_id": "fe5e092f-ada9-4f38-ac68-f953bd36761a",
@@ -16545,7 +16545,7 @@
       "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - faviconcic.ico",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.016Z",
-      "updated_at_utc": "2026-10-26T08:39:10.110Z"
+      "updated_at_utc": "2026-10-27T04:11:10.638Z"
     },
     {
       "landing_media_asset_id": "2a0a1124-884e-461d-93a8-87cb11867e0d",
@@ -16561,7 +16561,7 @@
       "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - favicon.ico",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.025Z",
-      "updated_at_utc": "2026-10-26T08:39:10.115Z"
+      "updated_at_utc": "2026-10-27T04:11:10.643Z"
     },
     {
       "landing_media_asset_id": "4fc9c6f0-ec15-471d-b54a-d2b128959b9f",
@@ -16577,7 +16577,7 @@
       "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - favicon.ico",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.029Z",
-      "updated_at_utc": "2026-10-26T08:39:10.119Z"
+      "updated_at_utc": "2026-10-27T04:11:10.648Z"
     },
     {
       "landing_media_asset_id": "50a1ba87-8c35-4393-b37b-f838e5f72e90",
@@ -16593,7 +16593,7 @@
       "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - hero_bg_demo.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.033Z",
-      "updated_at_utc": "2026-10-26T08:39:10.123Z"
+      "updated_at_utc": "2026-10-27T04:11:10.658Z"
     },
     {
       "landing_media_asset_id": "60b3e02a-1476-4d26-8a9c-f0ad4a83af00",
@@ -16609,7 +16609,7 @@
       "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - hero_bg_demo_old.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.062Z",
-      "updated_at_utc": "2026-10-26T08:39:10.168Z"
+      "updated_at_utc": "2026-10-27T04:11:10.686Z"
     },
     {
       "landing_media_asset_id": "da4e4c83-d9c3-4107-99fe-8c2c8d68dd48",
@@ -16625,7 +16625,7 @@
       "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - banner_img.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.082Z",
-      "updated_at_utc": "2026-10-26T08:39:10.195Z"
+      "updated_at_utc": "2026-10-27T04:11:10.706Z"
     },
     {
       "landing_media_asset_id": "527dc2b5-e4d5-4e76-9d87-9b7857b98be5",
@@ -16641,7 +16641,7 @@
       "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - banner_img.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.094Z",
-      "updated_at_utc": "2026-10-26T08:39:10.219Z"
+      "updated_at_utc": "2026-10-27T04:11:10.714Z"
     },
     {
       "landing_media_asset_id": "70ab790a-c61f-4fc8-b168-46f2435e66df",
@@ -16657,7 +16657,7 @@
       "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - feature-mockup1.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.100Z",
-      "updated_at_utc": "2026-10-26T08:39:10.231Z"
+      "updated_at_utc": "2026-10-27T04:11:10.726Z"
     },
     {
       "landing_media_asset_id": "882867a5-30e4-4006-9faa-788f30038918",
@@ -16673,7 +16673,7 @@
       "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - feature-mockup2.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.151Z",
-      "updated_at_utc": "2026-10-26T08:39:10.265Z"
+      "updated_at_utc": "2026-10-27T04:11:10.782Z"
     },
     {
       "landing_media_asset_id": "13fbd9e8-1a6a-4dfa-9200-74cdf467836b",
@@ -16689,7 +16689,7 @@
       "alt_text_en": "Favicon",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.171Z",
-      "updated_at_utc": "2026-10-26T08:39:10.291Z"
+      "updated_at_utc": "2026-10-27T04:11:10.805Z"
     },
     {
       "landing_media_asset_id": "c2c90a32-e704-4dd4-bcd1-07689addf2aa",
@@ -16705,7 +16705,7 @@
       "alt_text_en": "Brochure Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.177Z",
-      "updated_at_utc": "2026-10-26T08:39:10.299Z"
+      "updated_at_utc": "2026-10-27T04:11:10.813Z"
     },
     {
       "landing_media_asset_id": "f0604aab-b75c-42d1-b13e-6718023ee789",
@@ -16721,7 +16721,7 @@
       "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng Hero",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.227Z",
-      "updated_at_utc": "2026-10-26T08:39:10.348Z"
+      "updated_at_utc": "2026-10-27T04:11:10.877Z"
     },
     {
       "landing_media_asset_id": "ba22d0b1-5448-4c1a-b673-1ed647781c2e",
@@ -16737,7 +16737,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.452Z",
-      "updated_at_utc": "2026-10-26T08:39:18.538Z"
+      "updated_at_utc": "2026-10-27T04:11:10.913Z"
     },
     {
       "landing_media_asset_id": "b768d0a5-db9b-4753-9f55-4b917b59ac5f",
@@ -16753,7 +16753,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - client-logo-055.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.462Z",
-      "updated_at_utc": "2026-10-26T08:39:18.548Z"
+      "updated_at_utc": "2026-10-27T04:11:10.924Z"
     },
     {
       "landing_media_asset_id": "a9e026b5-626a-4a7c-8e35-383d2aa8a0b3",
@@ -16769,7 +16769,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo1-hover.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.467Z",
-      "updated_at_utc": "2026-10-26T08:39:18.565Z"
+      "updated_at_utc": "2026-10-27T04:11:10.931Z"
     },
     {
       "landing_media_asset_id": "2fa0c008-05fe-420f-84ad-fc2726729cc4",
@@ -16785,7 +16785,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo8-hover.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.477Z",
-      "updated_at_utc": "2026-10-26T08:39:18.571Z"
+      "updated_at_utc": "2026-10-27T04:11:10.942Z"
     },
     {
       "landing_media_asset_id": "a5df75b4-3362-4120-9c70-79a8df37feba",
@@ -16801,7 +16801,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo6-hover.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.481Z",
-      "updated_at_utc": "2026-10-26T08:39:18.601Z"
+      "updated_at_utc": "2026-10-27T04:11:10.952Z"
     },
     {
       "landing_media_asset_id": "aeef72a6-c9d0-4dbc-b164-390a906dba2c",
@@ -16817,7 +16817,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo10-hover.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.490Z",
-      "updated_at_utc": "2026-10-26T08:39:18.676Z"
+      "updated_at_utc": "2026-10-27T04:11:10.976Z"
     },
     {
       "landing_media_asset_id": "44f26bbd-815e-4ad1-9afa-7732ff796318",
@@ -16833,7 +16833,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo2-hover.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.496Z",
-      "updated_at_utc": "2026-10-26T08:39:18.706Z"
+      "updated_at_utc": "2026-10-27T04:11:10.990Z"
     },
     {
       "landing_media_asset_id": "a1d80470-1437-4446-8835-c830126fb7e2",
@@ -16849,7 +16849,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - client-logo-01-1.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.501Z",
-      "updated_at_utc": "2026-10-26T08:39:18.720Z"
+      "updated_at_utc": "2026-10-27T04:11:11.009Z"
     },
     {
       "landing_media_asset_id": "12b736ed-847c-4066-b27a-cc7a7d8358b6",
@@ -16865,7 +16865,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo4-hover.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.512Z",
-      "updated_at_utc": "2026-10-26T08:39:18.727Z"
+      "updated_at_utc": "2026-10-27T04:11:11.021Z"
     },
     {
       "landing_media_asset_id": "d28d04a8-d65f-4bb9-ab09-9b07ecf0b691",
@@ -16881,7 +16881,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - client-logo-02-2.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.517Z",
-      "updated_at_utc": "2026-10-26T08:39:18.738Z"
+      "updated_at_utc": "2026-10-27T04:11:11.028Z"
     },
     {
       "landing_media_asset_id": "90e9b89d-e4fb-43b5-8e98-643bd1f381f7",
@@ -16897,7 +16897,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo5-hover.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.526Z",
-      "updated_at_utc": "2026-10-26T08:39:18.747Z"
+      "updated_at_utc": "2026-10-27T04:11:11.036Z"
     },
     {
       "landing_media_asset_id": "43e525c6-dd6f-4f02-b9ff-497d726aaa57",
@@ -16913,7 +16913,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo9-hover.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.531Z",
-      "updated_at_utc": "2026-10-26T08:39:18.804Z"
+      "updated_at_utc": "2026-10-27T04:11:11.044Z"
     },
     {
       "landing_media_asset_id": "ca9dac36-17b1-4b89-84e0-459e0fa65ae8",
@@ -16929,7 +16929,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo7-hover.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.536Z",
-      "updated_at_utc": "2026-10-26T08:39:18.827Z"
+      "updated_at_utc": "2026-10-27T04:11:11.053Z"
     },
     {
       "landing_media_asset_id": "3e70e6a6-b06c-4f02-9a75-d8730126da2a",
@@ -16945,7 +16945,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo3-hover.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.546Z",
-      "updated_at_utc": "2026-10-26T08:39:18.841Z"
+      "updated_at_utc": "2026-10-27T04:11:11.059Z"
     },
     {
       "landing_media_asset_id": "9b3a0fdc-bcba-4490-91c8-11c5401350cc",
@@ -16961,7 +16961,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo_cic.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.551Z",
-      "updated_at_utc": "2026-10-26T08:39:18.852Z"
+      "updated_at_utc": "2026-10-27T04:11:11.064Z"
     },
     {
       "landing_media_asset_id": "74223a64-6cb5-4406-9452-5e804b7dbb34",
@@ -16977,7 +16977,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - parallels-logo.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.560Z",
-      "updated_at_utc": "2026-10-26T08:39:18.860Z"
+      "updated_at_utc": "2026-10-27T04:11:11.075Z"
     },
     {
       "landing_media_asset_id": "fe217e1a-e271-41d6-97c7-0f5f911dc5d3",
@@ -16993,7 +16993,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - client-logo-04-4.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.565Z",
-      "updated_at_utc": "2026-10-26T08:39:18.873Z"
+      "updated_at_utc": "2026-10-27T04:11:11.081Z"
     },
     {
       "landing_media_asset_id": "0d7acab5-19f2-4ca3-a1ca-a06e23f71845",
@@ -17009,7 +17009,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - panel-logo.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.570Z",
-      "updated_at_utc": "2026-10-26T08:39:18.884Z"
+      "updated_at_utc": "2026-10-27T04:11:11.091Z"
     },
     {
       "landing_media_asset_id": "fe7acb3f-97ad-4ee5-a8fc-f23258dfd111",
@@ -17025,7 +17025,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC Logo",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.580Z",
-      "updated_at_utc": "2026-10-26T08:39:18.891Z"
+      "updated_at_utc": "2026-10-27T04:11:11.097Z"
     },
     {
       "landing_media_asset_id": "4e54f2b8-80c2-47df-aa1f-8da44d89f5c3",
@@ -17041,7 +17041,7 @@
       "alt_text_en": "Favicon",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.588Z",
-      "updated_at_utc": "2026-10-26T08:39:18.904Z"
+      "updated_at_utc": "2026-10-27T04:11:11.107Z"
     },
     {
       "landing_media_asset_id": "235c370a-01d7-41a3-9524-4cafa8d2b70b",
@@ -17057,7 +17057,7 @@
       "alt_text_en": "Brochure Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.596Z",
-      "updated_at_utc": "2026-10-26T08:39:18.921Z"
+      "updated_at_utc": "2026-10-27T04:11:11.116Z"
     },
     {
       "landing_media_asset_id": "ee17f30c-860e-43b0-b652-de733a50347a",
@@ -17073,7 +17073,7 @@
       "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC Hero",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.666Z",
-      "updated_at_utc": "2026-10-26T08:39:19.004Z"
+      "updated_at_utc": "2026-10-27T04:11:11.189Z"
     },
     {
       "landing_media_asset_id": "5a891a6a-d039-43d8-8084-a95bef970ad4",
@@ -17089,7 +17089,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo1-hover.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.844Z",
-      "updated_at_utc": "2026-10-26T08:39:31.594Z"
+      "updated_at_utc": "2026-10-27T04:11:11.195Z"
     },
     {
       "landing_media_asset_id": "444975a7-48d3-499a-b573-0ccaccb51179",
@@ -17105,7 +17105,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo8-hover.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.849Z",
-      "updated_at_utc": "2026-10-26T08:39:31.607Z"
+      "updated_at_utc": "2026-10-27T04:11:11.203Z"
     },
     {
       "landing_media_asset_id": "e99e5b5c-fcda-4f74-8380-3babfb2485fb",
@@ -17121,7 +17121,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo_2.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.857Z",
-      "updated_at_utc": "2026-10-26T08:39:31.621Z"
+      "updated_at_utc": "2026-10-27T04:11:11.209Z"
     },
     {
       "landing_media_asset_id": "93c88dc1-9502-4225-b0d7-a408ad8e138f",
@@ -17137,7 +17137,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo6-hover.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.862Z",
-      "updated_at_utc": "2026-10-26T08:39:31.630Z"
+      "updated_at_utc": "2026-10-27T04:11:11.227Z"
     },
     {
       "landing_media_asset_id": "93e7c27b-f228-4202-ac8a-343ee50921e2",
@@ -17153,7 +17153,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo10-hover.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.866Z",
-      "updated_at_utc": "2026-10-26T08:39:31.643Z"
+      "updated_at_utc": "2026-10-27T04:11:11.236Z"
     },
     {
       "landing_media_asset_id": "86fa184e-622e-4819-be47-51e77e1ce9f3",
@@ -17169,7 +17169,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - Logo-VietsovPetro.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.875Z",
-      "updated_at_utc": "2026-10-26T08:39:31.654Z"
+      "updated_at_utc": "2026-10-27T04:11:11.243Z"
     },
     {
       "landing_media_asset_id": "fe0bde4f-c2c0-4ed2-8dd1-704b92da2bf6",
@@ -17185,7 +17185,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.880Z",
-      "updated_at_utc": "2026-10-26T08:39:31.665Z"
+      "updated_at_utc": "2026-10-27T04:11:11.249Z"
     },
     {
       "landing_media_asset_id": "bd9cf9eb-e9ae-46da-a836-ce01bee11274",
@@ -17201,7 +17201,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - Logo_IDCo.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.886Z",
-      "updated_at_utc": "2026-10-26T08:39:31.679Z"
+      "updated_at_utc": "2026-10-27T04:11:11.257Z"
     },
     {
       "landing_media_asset_id": "e162ad33-e8de-4cee-a116-e09af055e2c3",
@@ -17217,7 +17217,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo2-hover.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.894Z",
-      "updated_at_utc": "2026-10-26T08:39:31.694Z"
+      "updated_at_utc": "2026-10-27T04:11:11.262Z"
     },
     {
       "landing_media_asset_id": "34c963d9-6337-4a0c-b398-ad409d99f98a",
@@ -17233,7 +17233,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo4-hover.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.898Z",
-      "updated_at_utc": "2026-10-26T08:39:31.702Z"
+      "updated_at_utc": "2026-10-27T04:11:11.271Z"
     },
     {
       "landing_media_asset_id": "e5876cbb-fb46-437d-9162-b52a9da2b25f",
@@ -17249,7 +17249,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - Logo-HoaBinh.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.903Z",
-      "updated_at_utc": "2026-10-26T08:39:31.741Z"
+      "updated_at_utc": "2026-10-27T04:11:11.277Z"
     },
     {
       "landing_media_asset_id": "9fb21fd0-55ff-40ba-8008-39324c457854",
@@ -17265,7 +17265,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo5-hover.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.912Z",
-      "updated_at_utc": "2026-10-26T08:39:31.775Z"
+      "updated_at_utc": "2026-10-27T04:11:11.282Z"
     },
     {
       "landing_media_asset_id": "bdb5ab46-5de4-48a1-ac43-db4e0e4e595a",
@@ -17281,7 +17281,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - CC1-logo.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.916Z",
-      "updated_at_utc": "2026-10-26T08:39:31.795Z"
+      "updated_at_utc": "2026-10-27T04:11:11.289Z"
     },
     {
       "landing_media_asset_id": "4ee18140-ef53-4c12-9ddc-a211749fdc8b",
@@ -17297,7 +17297,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo-NAGECCO.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.925Z",
-      "updated_at_utc": "2026-10-26T08:39:31.824Z"
+      "updated_at_utc": "2026-10-27T04:11:11.295Z"
     },
     {
       "landing_media_asset_id": "1004899f-ab6d-498f-83c7-82bff55648fb",
@@ -17313,7 +17313,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo9-hover.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.929Z",
-      "updated_at_utc": "2026-10-26T08:39:31.832Z"
+      "updated_at_utc": "2026-10-27T04:11:11.305Z"
     },
     {
       "landing_media_asset_id": "9bb0e081-a76e-49a4-a88f-b3a9a8d3f642",
@@ -17329,7 +17329,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo7-hover.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.933Z",
-      "updated_at_utc": "2026-10-26T08:39:31.847Z"
+      "updated_at_utc": "2026-10-27T04:11:11.311Z"
     },
     {
       "landing_media_asset_id": "0bb7eb66-8977-4f4f-9832-01fd1023b4fb",
@@ -17345,7 +17345,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo10.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.942Z",
-      "updated_at_utc": "2026-10-26T08:39:31.859Z"
+      "updated_at_utc": "2026-10-27T04:11:11.320Z"
     },
     {
       "landing_media_asset_id": "ea76ba78-48c4-4a3f-93aa-996659100988",
@@ -17361,7 +17361,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo1.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.947Z",
-      "updated_at_utc": "2026-10-26T08:39:31.869Z"
+      "updated_at_utc": "2026-10-27T04:11:11.325Z"
     },
     {
       "landing_media_asset_id": "fbcfa9b1-fd63-4ad6-ba7b-9e8b9b088e41",
@@ -17377,7 +17377,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC Logo",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.951Z",
-      "updated_at_utc": "2026-10-26T08:39:31.882Z"
+      "updated_at_utc": "2026-10-27T04:11:11.335Z"
     },
     {
       "landing_media_asset_id": "ee743cf0-963c-4047-beb6-433e0535b3e4",
@@ -17393,7 +17393,7 @@
       "alt_text_en": "Favicon",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.959Z",
-      "updated_at_utc": "2026-10-26T08:39:31.894Z"
+      "updated_at_utc": "2026-10-27T04:11:11.348Z"
     },
     {
       "landing_media_asset_id": "50147fb6-c5fb-4ac1-97e7-492f3962baf5",
@@ -17409,7 +17409,7 @@
       "alt_text_en": "Brochure Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:19.963Z",
-      "updated_at_utc": "2026-10-26T08:39:31.906Z"
+      "updated_at_utc": "2026-10-27T04:11:11.363Z"
     },
     {
       "landing_media_asset_id": "816251dd-22fa-4b0f-a1d3-629c287f034e",
@@ -17425,7 +17425,7 @@
       "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC Hero",
       "storage_provider": "local",
       "created_at_utc": "2026-10-26T07:27:20.014Z",
-      "updated_at_utc": "2026-10-26T08:39:32.207Z"
+      "updated_at_utc": "2026-10-27T04:11:11.420Z"
     },
     {
       "landing_media_asset_id": "1d37bfc9-126a-4c19-885d-d26cbed71136",
@@ -17441,7 +17441,7 @@
       "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - cubicost-logo-20200325034634.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:05.669Z",
-      "updated_at_utc": "2026-10-27T03:28:05.669Z"
+      "updated_at_utc": "2026-10-27T04:11:11.426Z"
     },
     {
       "landing_media_asset_id": "606babf7-a2cb-4a10-aa06-fefe71b01a3a",
@@ -17457,7 +17457,7 @@
       "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - cubicost-logo-20200325034634.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:05.681Z",
-      "updated_at_utc": "2026-10-27T03:28:05.681Z"
+      "updated_at_utc": "2026-10-27T04:11:11.438Z"
     },
     {
       "landing_media_asset_id": "f5da23df-6ac8-4c0b-9162-7a618d022265",
@@ -17473,7 +17473,7 @@
       "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - logocic-20191218034215.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:05.690Z",
-      "updated_at_utc": "2026-10-27T03:28:05.690Z"
+      "updated_at_utc": "2026-10-27T04:11:11.453Z"
     },
     {
       "landing_media_asset_id": "a1de1175-e1c2-43f0-971d-fdb03035430e",
@@ -17489,7 +17489,7 @@
       "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - logocic-20191218034215.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:05.701Z",
-      "updated_at_utc": "2026-10-27T03:28:05.701Z"
+      "updated_at_utc": "2026-10-27T04:11:11.461Z"
     },
     {
       "landing_media_asset_id": "ac0da401-87f3-42fd-b9fb-01a7451ab145",
@@ -17505,7 +17505,7 @@
       "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - logo-cic-20200221081126.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:05.708Z",
-      "updated_at_utc": "2026-10-27T03:28:05.708Z"
+      "updated_at_utc": "2026-10-27T04:11:11.471Z"
     },
     {
       "landing_media_asset_id": "8d2517d8-6f8c-4eb0-8328-3ae981fae533",
@@ -17521,7 +17521,7 @@
       "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - cubicost-favicon-20200327013432.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:05.716Z",
-      "updated_at_utc": "2026-10-27T03:28:05.716Z"
+      "updated_at_utc": "2026-10-27T04:11:11.479Z"
     },
     {
       "landing_media_asset_id": "df64f2fc-575f-4f6a-84a0-668a6fdf8ce1",
@@ -17537,7 +17537,7 @@
       "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - lam-viec-nhom-20200330021101.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:05.725Z",
-      "updated_at_utc": "2026-10-27T03:28:05.725Z"
+      "updated_at_utc": "2026-10-27T04:11:11.492Z"
     },
     {
       "landing_media_asset_id": "5dd5c838-e122-436c-9a70-a064b3b7d909",
@@ -17553,7 +17553,7 @@
       "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - lam-viec-nhom-20200330021101.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:05.776Z",
-      "updated_at_utc": "2026-10-27T03:28:05.776Z"
+      "updated_at_utc": "2026-10-27T04:11:11.540Z"
     },
     {
       "landing_media_asset_id": "15f0fa79-bd04-4a1d-9120-2dc38e49eefe",
@@ -17569,7 +17569,7 @@
       "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - 3246-20200330021406.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:05.821Z",
-      "updated_at_utc": "2026-10-27T03:28:05.821Z"
+      "updated_at_utc": "2026-10-27T04:11:11.598Z"
     },
     {
       "landing_media_asset_id": "a010674d-2c53-4f02-a038-1030d1a0cc4d",
@@ -17585,7 +17585,7 @@
       "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - 3246-20200330021406.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:05.853Z",
-      "updated_at_utc": "2026-10-27T03:28:05.853Z"
+      "updated_at_utc": "2026-10-27T04:11:11.642Z"
     },
     {
       "landing_media_asset_id": "7e2a9a65-1378-4a06-ad0c-0b268cfb6414",
@@ -17601,7 +17601,7 @@
       "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - call-icon-5-20200327021012.gif",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:05.886Z",
-      "updated_at_utc": "2026-10-27T03:28:05.886Z"
+      "updated_at_utc": "2026-10-27T04:11:11.678Z"
     },
     {
       "landing_media_asset_id": "ec9cad0f-d7b6-406c-b93d-c02ac000e9b6",
@@ -17617,7 +17617,7 @@
       "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - bao-gia-20200330064910.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:05.920Z",
-      "updated_at_utc": "2026-10-27T03:28:05.920Z"
+      "updated_at_utc": "2026-10-27T04:11:11.714Z"
     },
     {
       "landing_media_asset_id": "19d12c75-ce3a-4f60-840a-f7b80009023b",
@@ -17633,7 +17633,7 @@
       "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - duoi-20200330020620.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:05.939Z",
-      "updated_at_utc": "2026-10-27T03:28:05.939Z"
+      "updated_at_utc": "2026-10-27T04:11:11.755Z"
     },
     {
       "landing_media_asset_id": "bacb24fe-229a-4b28-b211-395be79062bd",
@@ -17649,7 +17649,7 @@
       "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - bao-cao-20200326081647.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:05.958Z",
-      "updated_at_utc": "2026-10-27T03:28:05.958Z"
+      "updated_at_utc": "2026-10-27T04:11:11.787Z"
     },
     {
       "landing_media_asset_id": "03cf4ab9-c66f-4f10-ba4d-ecb6520b2590",
@@ -17665,7 +17665,7 @@
       "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - bao-cao-20200326081647.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:05.982Z",
-      "updated_at_utc": "2026-10-27T03:28:05.982Z"
+      "updated_at_utc": "2026-10-27T04:11:11.811Z"
     },
     {
       "landing_media_asset_id": "a26754c8-810f-45d7-8480-a8f4d1bcac90",
@@ -17681,7 +17681,7 @@
       "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - 23185-20200330021406.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.003Z",
-      "updated_at_utc": "2026-10-27T03:28:06.003Z"
+      "updated_at_utc": "2026-10-27T04:11:11.854Z"
     },
     {
       "landing_media_asset_id": "b99833d1-416c-4fc0-bc06-0e77b101cae6",
@@ -17697,7 +17697,7 @@
       "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM Logo",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.019Z",
-      "updated_at_utc": "2026-10-27T03:28:06.019Z"
+      "updated_at_utc": "2026-10-27T04:11:11.881Z"
     },
     {
       "landing_media_asset_id": "f1543cb3-895d-478c-95b9-994486bf1232",
@@ -17713,7 +17713,7 @@
       "alt_text_en": "Favicon",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.027Z",
-      "updated_at_utc": "2026-10-27T03:28:06.027Z"
+      "updated_at_utc": "2026-10-27T04:11:11.912Z"
     },
     {
       "landing_media_asset_id": "c8fc8255-e617-41ae-915b-f696cca54cac",
@@ -17729,7 +17729,7 @@
       "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM Hero",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.037Z",
-      "updated_at_utc": "2026-10-27T03:28:06.037Z"
+      "updated_at_utc": "2026-10-27T04:11:11.923Z"
     },
     {
       "landing_media_asset_id": "cd63b5f8-1e51-4500-9a68-26155153f0a1",
@@ -17745,7 +17745,7 @@
       "alt_text_en": "Brochure Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.043Z",
-      "updated_at_utc": "2026-10-27T03:28:06.043Z"
+      "updated_at_utc": "2026-10-27T04:11:11.937Z"
     },
     {
       "landing_media_asset_id": "632fbb08-472d-4ec0-8b7a-2df1ef3a90b1",
@@ -17761,7 +17761,7 @@
       "alt_text_en": "enjiCAD Pro — Phần mềm CAD Bản quyền Vĩnh viễn cho Kỹ sư Việt - coteccons-logo-2014-20230307033425-jhkhc.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.330Z",
-      "updated_at_utc": "2026-10-27T03:28:06.330Z"
+      "updated_at_utc": "2026-10-27T04:11:11.997Z"
     },
     {
       "landing_media_asset_id": "ee46eb66-ae85-4965-874b-9aea0bc7d229",
@@ -17777,7 +17777,7 @@
       "alt_text_en": "enjiCAD Pro — Phần mềm CAD Bản quyền Vĩnh viễn cho Kỹ sư Việt - enjicad-logo-only-20200709074610.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.343Z",
-      "updated_at_utc": "2026-10-27T03:28:06.343Z"
+      "updated_at_utc": "2026-10-27T04:11:12.014Z"
     },
     {
       "landing_media_asset_id": "989e06c7-1af8-42f5-83fa-04807f71b923",
@@ -17793,7 +17793,7 @@
       "alt_text_en": "enjiCAD Pro — Phần mềm CAD Bản quyền Vĩnh viễn cho Kỹ sư Việt - enjicad-logo-only-20200709074610.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.357Z",
-      "updated_at_utc": "2026-10-27T03:28:06.357Z"
+      "updated_at_utc": "2026-10-27T04:11:12.027Z"
     },
     {
       "landing_media_asset_id": "4ecb99f9-df4f-4cbf-91a2-f13bf5bf422a",
@@ -17809,7 +17809,7 @@
       "alt_text_en": "enjiCAD Pro — Phần mềm CAD Bản quyền Vĩnh viễn cho Kỹ sư Việt - logo-enjicad-20200518071231.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.382Z",
-      "updated_at_utc": "2026-10-27T03:28:06.382Z"
+      "updated_at_utc": "2026-10-27T04:11:12.041Z"
     },
     {
       "landing_media_asset_id": "a5e5a32f-86bf-4637-8316-75d69b5addb9",
@@ -17825,7 +17825,7 @@
       "alt_text_en": "enjiCAD Pro — Phần mềm CAD Bản quyền Vĩnh viễn cho Kỹ sư Việt - enjicad-logo-favicon-20200515092500.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.391Z",
-      "updated_at_utc": "2026-10-27T03:28:06.391Z"
+      "updated_at_utc": "2026-10-27T04:11:12.056Z"
     },
     {
       "landing_media_asset_id": "253ff1ea-f198-46c4-b808-982e6273b6a0",
@@ -17841,7 +17841,7 @@
       "alt_text_en": "enjiCAD Pro — Phần mềm CAD Bản quyền Vĩnh viễn cho Kỹ sư Việt - logo-20220420021136.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.405Z",
-      "updated_at_utc": "2026-10-27T03:28:06.405Z"
+      "updated_at_utc": "2026-10-27T04:11:12.065Z"
     },
     {
       "landing_media_asset_id": "9b861bad-9425-4b26-996c-33c87c7cc154",
@@ -17857,7 +17857,7 @@
       "alt_text_en": "enjiCAD Pro — Phần mềm CAD Bản quyền Vĩnh viễn cho Kỹ sư Việt - logo-20220308063400.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.426Z",
-      "updated_at_utc": "2026-10-27T03:28:06.426Z"
+      "updated_at_utc": "2026-10-27T04:11:12.077Z"
     },
     {
       "landing_media_asset_id": "ffb50db0-5640-497d-8b45-22fa33751baf",
@@ -17873,7 +17873,7 @@
       "alt_text_en": "enjiCAD Pro — Phần mềm CAD Bản quyền Vĩnh viễn cho Kỹ sư Việt - 1280px-ihi_logosvg-20220420023606.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.438Z",
-      "updated_at_utc": "2026-10-27T03:28:06.438Z"
+      "updated_at_utc": "2026-10-27T04:11:12.087Z"
     },
     {
       "landing_media_asset_id": "19cfabd7-4608-4112-8ad0-931a4ef99991",
@@ -17889,7 +17889,7 @@
       "alt_text_en": "enjiCAD Pro — Phần mềm CAD Bản quyền Vĩnh viễn cho Kỹ sư Việt - logo-cic-20200514020157.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.447Z",
-      "updated_at_utc": "2026-10-27T03:28:06.447Z"
+      "updated_at_utc": "2026-10-27T04:11:12.092Z"
     },
     {
       "landing_media_asset_id": "cabcd4c3-3611-448f-a1b0-2004798fcabf",
@@ -17905,7 +17905,7 @@
       "alt_text_en": "enjiCAD Pro — Phần mềm CAD Bản quyền Vĩnh viễn cho Kỹ sư Việt - logo-cic-20200514020157.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.454Z",
-      "updated_at_utc": "2026-10-27T03:28:06.454Z"
+      "updated_at_utc": "2026-10-27T04:11:12.098Z"
     },
     {
       "landing_media_asset_id": "5653c612-08a8-4523-a575-b4b49419f01e",
@@ -17921,7 +17921,7 @@
       "alt_text_en": "enjiCAD Pro — Phần mềm CAD Bản quyền Vĩnh viễn cho Kỹ sư Việt - untitled-1-20191217074453.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.466Z",
-      "updated_at_utc": "2026-10-27T03:28:06.466Z"
+      "updated_at_utc": "2026-10-27T04:11:12.110Z"
     },
     {
       "landing_media_asset_id": "6ee0c0a5-26f1-4614-92e9-04d41816f554",
@@ -17937,7 +17937,7 @@
       "alt_text_en": "enjiCAD Pro — Phần mềm CAD Bản quyền Vĩnh viễn cho Kỹ sư Việt - untitled-1-20191217074453.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.532Z",
-      "updated_at_utc": "2026-10-27T03:28:06.532Z"
+      "updated_at_utc": "2026-10-27T04:11:12.224Z"
     },
     {
       "landing_media_asset_id": "3e401213-14e7-47b3-a3be-0f78b2cf76e0",
@@ -17953,7 +17953,7 @@
       "alt_text_en": "enjiCAD Pro — Phần mềm CAD Bản quyền Vĩnh viễn cho Kỹ sư Việt - enji-laptop-mockup-20200518072000.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.573Z",
-      "updated_at_utc": "2026-10-27T03:28:06.573Z"
+      "updated_at_utc": "2026-10-27T04:11:12.289Z"
     },
     {
       "landing_media_asset_id": "5e1c788a-518f-435c-b6db-257060403716",
@@ -17969,7 +17969,7 @@
       "alt_text_en": "enjiCAD Pro — Phần mềm CAD Bản quyền Vĩnh viễn cho Kỹ sư Việt - cd-mockup-20220405013840.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.604Z",
-      "updated_at_utc": "2026-10-27T03:28:06.604Z"
+      "updated_at_utc": "2026-10-27T04:11:12.338Z"
     },
     {
       "landing_media_asset_id": "a058f6af-8708-4406-896f-48e13d29b6e3",
@@ -17985,7 +17985,7 @@
       "alt_text_en": "enjiCAD Pro — Phần mềm CAD Bản quyền Vĩnh viễn cho Kỹ sư Việt - enji-laptop-mockup-20200518072000.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.636Z",
-      "updated_at_utc": "2026-10-27T03:28:06.636Z"
+      "updated_at_utc": "2026-10-27T04:11:12.373Z"
     },
     {
       "landing_media_asset_id": "e26b112d-17ad-41ff-b65b-73a60813e466",
@@ -18001,7 +18001,7 @@
       "alt_text_en": "enjiCAD Pro — Phần mềm CAD Bản quyền Vĩnh viễn cho Kỹ sư Việt - 5a39105fd6684_1513689183-20220620041723.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.657Z",
-      "updated_at_utc": "2026-10-27T03:28:06.657Z"
+      "updated_at_utc": "2026-10-27T04:11:12.396Z"
     },
     {
       "landing_media_asset_id": "18c1848a-317e-495f-887a-44dc34469a78",
@@ -18017,7 +18017,7 @@
       "alt_text_en": "enjiCAD Pro — Phần mềm CAD Bản quyền Vĩnh viễn cho Kỹ sư Việt Logo",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.687Z",
-      "updated_at_utc": "2026-10-27T03:28:06.687Z"
+      "updated_at_utc": "2026-10-27T04:11:12.420Z"
     },
     {
       "landing_media_asset_id": "a23bd9b2-2cf6-446a-ac8c-eadf363afc3c",
@@ -18033,7 +18033,7 @@
       "alt_text_en": "Favicon",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.701Z",
-      "updated_at_utc": "2026-10-27T03:28:06.701Z"
+      "updated_at_utc": "2026-10-27T04:11:12.449Z"
     },
     {
       "landing_media_asset_id": "20c323ee-2ffd-4d60-afd8-9401eb940e08",
@@ -18049,7 +18049,7 @@
       "alt_text_en": "enjiCAD Pro — Phần mềm CAD Bản quyền Vĩnh viễn cho Kỹ sư Việt Hero",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.709Z",
-      "updated_at_utc": "2026-10-27T03:28:06.709Z"
+      "updated_at_utc": "2026-10-27T04:11:12.463Z"
     },
     {
       "landing_media_asset_id": "34a5c867-25aa-475a-9b3d-ef8f1783c872",
@@ -18065,7 +18065,7 @@
       "alt_text_en": "Brochure enjiCAD Pro — Phần mềm CAD Bản quyền Vĩnh viễn cho Kỹ sư Việt",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.722Z",
-      "updated_at_utc": "2026-10-27T03:28:06.722Z"
+      "updated_at_utc": "2026-10-27T04:11:12.502Z"
     },
     {
       "landing_media_asset_id": "66c91924-5827-441e-b1aa-02509e77e5c5",
@@ -18081,7 +18081,7 @@
       "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - pile-test-png-logo-20200220095501.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.886Z",
-      "updated_at_utc": "2026-10-27T03:28:06.886Z"
+      "updated_at_utc": "2026-10-27T04:11:12.594Z"
     },
     {
       "landing_media_asset_id": "a9aa36cd-a22f-493b-bfb5-47a6b756dc27",
@@ -18097,7 +18097,7 @@
       "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - pile-test-png-logo-20200220095501.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.902Z",
-      "updated_at_utc": "2026-10-27T03:28:06.902Z"
+      "updated_at_utc": "2026-10-27T04:11:12.613Z"
     },
     {
       "landing_media_asset_id": "3fb8933a-1b88-4d66-b539-0c560ec0c670",
@@ -18113,7 +18113,7 @@
       "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - logocic-20191218034215.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.918Z",
-      "updated_at_utc": "2026-10-27T03:28:06.918Z"
+      "updated_at_utc": "2026-10-27T04:11:12.629Z"
     },
     {
       "landing_media_asset_id": "a1668742-605a-44bc-89f5-c4c9740d84fc",
@@ -18129,7 +18129,7 @@
       "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - logocic-20191218034215.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.927Z",
-      "updated_at_utc": "2026-10-27T03:28:06.927Z"
+      "updated_at_utc": "2026-10-27T04:11:12.640Z"
     },
     {
       "landing_media_asset_id": "8db64efb-689a-4be9-925c-70be0e4f6635",
@@ -18145,7 +18145,7 @@
       "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - logo-cic-20200221081126.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.940Z",
-      "updated_at_utc": "2026-10-27T03:28:06.940Z"
+      "updated_at_utc": "2026-10-27T04:11:12.652Z"
     },
     {
       "landing_media_asset_id": "685f185c-c853-48fd-968e-37b588cd1e72",
@@ -18161,7 +18161,7 @@
       "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - banner-1-20200302090248.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.952Z",
-      "updated_at_utc": "2026-10-27T03:28:06.952Z"
+      "updated_at_utc": "2026-10-27T04:11:12.659Z"
     },
     {
       "landing_media_asset_id": "5370b319-7747-4109-91e0-ed4eb0843971",
@@ -18177,7 +18177,7 @@
       "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - banner-1-20200302090248.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.969Z",
-      "updated_at_utc": "2026-10-27T03:28:06.969Z"
+      "updated_at_utc": "2026-10-27T04:11:12.680Z"
     },
     {
       "landing_media_asset_id": "e71a01e6-e72e-4ffb-bcaf-783383528d98",
@@ -18193,7 +18193,7 @@
       "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - scluw9l6c220200221083151.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:06.986Z",
-      "updated_at_utc": "2026-10-27T03:28:06.986Z"
+      "updated_at_utc": "2026-10-27T04:11:12.704Z"
     },
     {
       "landing_media_asset_id": "fe90d3b2-fdb1-4f72-b2e3-0497ea745a72",
@@ -18209,7 +18209,7 @@
       "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - scluw9l6c220200221083151.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.036Z",
-      "updated_at_utc": "2026-10-27T03:28:07.036Z"
+      "updated_at_utc": "2026-10-27T04:11:12.837Z"
     },
     {
       "landing_media_asset_id": "b08c4a47-c50e-4c40-b67b-4991b4d46cf8",
@@ -18225,7 +18225,7 @@
       "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - pet_with_android-20200221092107.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.094Z",
-      "updated_at_utc": "2026-10-27T03:28:07.094Z"
+      "updated_at_utc": "2026-10-27T04:11:12.890Z"
     },
     {
       "landing_media_asset_id": "b4b23240-11ab-4ff4-b99d-510639330f6e",
@@ -18241,7 +18241,7 @@
       "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - pet_with_android-20200221092107.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.136Z",
-      "updated_at_utc": "2026-10-27T03:28:07.136Z"
+      "updated_at_utc": "2026-10-27T04:11:12.940Z"
     },
     {
       "landing_media_asset_id": "2f72b7dd-3c89-4a51-bd7b-96a07bc8d825",
@@ -18257,7 +18257,7 @@
       "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - 29881-20200220095011.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.175Z",
-      "updated_at_utc": "2026-10-27T03:28:07.175Z"
+      "updated_at_utc": "2026-10-27T04:11:12.982Z"
     },
     {
       "landing_media_asset_id": "dd404d89-2eb1-4163-b0ca-00db435c6e1d",
@@ -18273,7 +18273,7 @@
       "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - bit_system-png-20200221082101.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.207Z",
-      "updated_at_utc": "2026-10-27T03:28:07.207Z"
+      "updated_at_utc": "2026-10-27T04:11:13.049Z"
     },
     {
       "landing_media_asset_id": "67bb642a-29b2-44f2-b685-c4bbbffafd52",
@@ -18289,7 +18289,7 @@
       "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - bit_system-png-20200221082101.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.236Z",
-      "updated_at_utc": "2026-10-27T03:28:07.236Z"
+      "updated_at_utc": "2026-10-27T04:11:13.085Z"
     },
     {
       "landing_media_asset_id": "c252f4b2-9d01-4105-a0dc-f71baaa681ef",
@@ -18305,7 +18305,7 @@
       "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - 16234-20200224025922.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.271Z",
-      "updated_at_utc": "2026-10-27T03:28:07.271Z"
+      "updated_at_utc": "2026-10-27T04:11:13.110Z"
     },
     {
       "landing_media_asset_id": "62945f60-94aa-4c83-bead-77f798adabb0",
@@ -18321,7 +18321,7 @@
       "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - piletest-ava-20200327024912.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.291Z",
-      "updated_at_utc": "2026-10-27T03:28:07.291Z"
+      "updated_at_utc": "2026-10-27T04:11:13.131Z"
     },
     {
       "landing_media_asset_id": "ed9ebf63-3a59-47e9-a631-ba37b00ef20b",
@@ -18337,7 +18337,7 @@
       "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi Logo",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.317Z",
-      "updated_at_utc": "2026-10-27T03:28:07.317Z"
+      "updated_at_utc": "2026-10-27T04:11:13.154Z"
     },
     {
       "landing_media_asset_id": "1b748b2b-fb00-400e-b55b-b8b0580bfe45",
@@ -18353,7 +18353,7 @@
       "alt_text_en": "Favicon",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.334Z",
-      "updated_at_utc": "2026-10-27T03:28:07.334Z"
+      "updated_at_utc": "2026-10-27T04:11:13.168Z"
     },
     {
       "landing_media_asset_id": "0d10b8f9-be58-4f3f-a76c-28f14902c862",
@@ -18369,7 +18369,7 @@
       "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi Hero",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.351Z",
-      "updated_at_utc": "2026-10-27T03:28:07.351Z"
+      "updated_at_utc": "2026-10-27T04:11:13.190Z"
     },
     {
       "landing_media_asset_id": "69d35e1c-2536-4bb4-9b3b-86e36655152a",
@@ -18385,7 +18385,7 @@
       "alt_text_en": "Brochure Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.364Z",
-      "updated_at_utc": "2026-10-27T03:28:07.364Z"
+      "updated_at_utc": "2026-10-27T04:11:13.211Z"
     },
     {
       "landing_media_asset_id": "531a840f-3804-4118-a20a-7ff26082a416",
@@ -18401,7 +18401,7 @@
       "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - enjicad-logo-only-20200709074610.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.553Z",
-      "updated_at_utc": "2026-10-27T03:28:07.553Z"
+      "updated_at_utc": "2026-10-27T04:11:13.297Z"
     },
     {
       "landing_media_asset_id": "5ef27bfe-57ae-4c47-b59d-f3d5bd7d45e4",
@@ -18417,7 +18417,7 @@
       "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - enjicad-logo-only-20200709074610.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.566Z",
-      "updated_at_utc": "2026-10-27T03:28:07.566Z"
+      "updated_at_utc": "2026-10-27T04:11:13.331Z"
     },
     {
       "landing_media_asset_id": "09a3fcda-a14a-4420-bf1e-9fa1539f1c0f",
@@ -18433,7 +18433,7 @@
       "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - logo-20220420021136.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.575Z",
-      "updated_at_utc": "2026-10-27T03:28:07.575Z"
+      "updated_at_utc": "2026-10-27T04:11:13.357Z"
     },
     {
       "landing_media_asset_id": "36ee1935-65c3-4974-b796-0b1dbf8ee7ee",
@@ -18449,7 +18449,7 @@
       "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - foxit_software_logosvg-20221229082130-c8xki.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.586Z",
-      "updated_at_utc": "2026-10-27T03:28:07.586Z"
+      "updated_at_utc": "2026-10-27T04:11:13.373Z"
     },
     {
       "landing_media_asset_id": "850f3517-5ee5-42eb-81a6-48fe0e5916b7",
@@ -18465,7 +18465,7 @@
       "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - foxit_software_logosvg-20221229072612-sfqyo.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.594Z",
-      "updated_at_utc": "2026-10-27T03:28:07.594Z"
+      "updated_at_utc": "2026-10-27T04:11:13.387Z"
     },
     {
       "landing_media_asset_id": "4c99cba1-69c5-4a2c-8c7e-abc656263696",
@@ -18481,7 +18481,7 @@
       "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - logo-20220308063400.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.605Z",
-      "updated_at_utc": "2026-10-27T03:28:07.605Z"
+      "updated_at_utc": "2026-10-27T04:11:13.396Z"
     },
     {
       "landing_media_asset_id": "9b5c4feb-dba9-48b2-a942-8cf92f42d063",
@@ -18497,7 +18497,7 @@
       "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - 1280px-ihi_logosvg-20220420023606.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.615Z",
-      "updated_at_utc": "2026-10-27T03:28:07.615Z"
+      "updated_at_utc": "2026-10-27T04:11:13.411Z"
     },
     {
       "landing_media_asset_id": "d6302542-d176-4d84-860c-d3280f768b30",
@@ -18513,7 +18513,7 @@
       "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - logo-cic-20200514020157.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.621Z",
-      "updated_at_utc": "2026-10-27T03:28:07.621Z"
+      "updated_at_utc": "2026-10-27T04:11:13.422Z"
     },
     {
       "landing_media_asset_id": "dcb05340-c5b7-43b8-87bf-8514f5994855",
@@ -18529,7 +18529,7 @@
       "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - logo-cic-20200514020157.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.627Z",
-      "updated_at_utc": "2026-10-27T03:28:07.627Z"
+      "updated_at_utc": "2026-10-27T04:11:13.434Z"
     },
     {
       "landing_media_asset_id": "232291be-ef72-4c08-bfaf-a1b4fbc50452",
@@ -18545,7 +18545,7 @@
       "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - header-20221229091013-gj_xr.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.637Z",
-      "updated_at_utc": "2026-10-27T03:28:07.637Z"
+      "updated_at_utc": "2026-10-27T04:11:13.445Z"
     },
     {
       "landing_media_asset_id": "0f27d35c-62e4-45c4-821a-7f83698377ec",
@@ -18561,7 +18561,7 @@
       "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - header-20221229091013-gj_xr.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.650Z",
-      "updated_at_utc": "2026-10-27T03:28:07.650Z"
+      "updated_at_utc": "2026-10-27T04:11:13.464Z"
     },
     {
       "landing_media_asset_id": "8fa40dd5-b59d-4857-829f-d02c925b06f8",
@@ -18577,7 +18577,7 @@
       "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - untitled-1-20191217074453.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.665Z",
-      "updated_at_utc": "2026-10-27T03:28:07.665Z"
+      "updated_at_utc": "2026-10-27T04:11:13.487Z"
     },
     {
       "landing_media_asset_id": "73b5e769-b511-4e86-9686-9cb262ba2392",
@@ -18593,7 +18593,7 @@
       "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - untitled-1-20191217074453.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.736Z",
-      "updated_at_utc": "2026-10-27T03:28:07.736Z"
+      "updated_at_utc": "2026-10-27T04:11:13.557Z"
     },
     {
       "landing_media_asset_id": "538a0290-87c3-49a4-ac03-3825ad3368d0",
@@ -18609,7 +18609,7 @@
       "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - enji-laptop-mockup-20200518072000.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.779Z",
-      "updated_at_utc": "2026-10-27T03:28:07.779Z"
+      "updated_at_utc": "2026-10-27T04:11:13.611Z"
     },
     {
       "landing_media_asset_id": "da340828-5ecd-4a6d-b299-19c4427d19af",
@@ -18625,7 +18625,7 @@
       "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - cd-mockup-20220405013840.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.807Z",
-      "updated_at_utc": "2026-10-27T03:28:07.807Z"
+      "updated_at_utc": "2026-10-27T04:11:13.673Z"
     },
     {
       "landing_media_asset_id": "687426cb-943f-4579-87f8-73b672876431",
@@ -18641,7 +18641,7 @@
       "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - enji-laptop-mockup-20200518072000.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.837Z",
-      "updated_at_utc": "2026-10-27T03:28:07.837Z"
+      "updated_at_utc": "2026-10-27T04:11:13.712Z"
     },
     {
       "landing_media_asset_id": "288b1fe5-6e2f-46f9-a361-c2fa994fc186",
@@ -18657,7 +18657,7 @@
       "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền Logo",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.857Z",
-      "updated_at_utc": "2026-10-27T03:28:07.857Z"
+      "updated_at_utc": "2026-10-27T04:11:13.747Z"
     },
     {
       "landing_media_asset_id": "4d11718a-3dcc-44f7-9ae8-92b7f1744ee6",
@@ -18673,7 +18673,7 @@
       "alt_text_en": "Favicon",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.871Z",
-      "updated_at_utc": "2026-10-27T03:28:07.871Z"
+      "updated_at_utc": "2026-10-27T04:11:13.773Z"
     },
     {
       "landing_media_asset_id": "97466c01-f98f-4e1b-8bc8-a584c24be6e9",
@@ -18689,7 +18689,7 @@
       "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền Hero",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.883Z",
-      "updated_at_utc": "2026-10-27T03:28:07.883Z"
+      "updated_at_utc": "2026-10-27T04:11:13.806Z"
     },
     {
       "landing_media_asset_id": "1722304a-fc26-4604-aad6-7bd801462c84",
@@ -18705,7 +18705,7 @@
       "alt_text_en": "Brochure Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:07.891Z",
-      "updated_at_utc": "2026-10-27T03:28:07.891Z"
+      "updated_at_utc": "2026-10-27T04:11:13.845Z"
     },
     {
       "landing_media_asset_id": "f1da31ea-fa9a-4bf0-87ce-d1ae473e3393",
@@ -18721,7 +18721,7 @@
       "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - radiologo-20211221101005.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.058Z",
-      "updated_at_utc": "2026-10-27T03:28:08.058Z"
+      "updated_at_utc": "2026-10-27T04:11:13.942Z"
     },
     {
       "landing_media_asset_id": "f15d4dd1-7dce-4f07-81bc-68879ea3af45",
@@ -18737,7 +18737,7 @@
       "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - radiologo-20211221101005.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.070Z",
-      "updated_at_utc": "2026-10-27T03:28:08.070Z"
+      "updated_at_utc": "2026-10-27T04:11:13.953Z"
     },
     {
       "landing_media_asset_id": "bb3ccdc5-f40a-423d-9f99-3c9c85c4cd0d",
@@ -18753,7 +18753,7 @@
       "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - logocic-20191218034215.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.081Z",
-      "updated_at_utc": "2026-10-27T03:28:08.081Z"
+      "updated_at_utc": "2026-10-27T04:11:13.960Z"
     },
     {
       "landing_media_asset_id": "134c5e6c-6e64-4b4e-8177-38246b3b21d3",
@@ -18769,7 +18769,7 @@
       "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - logocic-20191218034215.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.088Z",
-      "updated_at_utc": "2026-10-27T03:28:08.088Z"
+      "updated_at_utc": "2026-10-27T04:11:13.975Z"
     },
     {
       "landing_media_asset_id": "1645d3e7-1096-469a-b435-d33ec59a0152",
@@ -18785,7 +18785,7 @@
       "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - logo-cic-20200221081126.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.099Z",
-      "updated_at_utc": "2026-10-27T03:28:08.099Z"
+      "updated_at_utc": "2026-10-27T04:11:13.985Z"
     },
     {
       "landing_media_asset_id": "8f5ad6ce-659e-4c44-89c5-3f380cd9f830",
@@ -18801,7 +18801,7 @@
       "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 1-20211221072657.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.115Z",
-      "updated_at_utc": "2026-10-27T03:28:08.115Z"
+      "updated_at_utc": "2026-10-27T04:11:13.997Z"
     },
     {
       "landing_media_asset_id": "527190e8-c882-4e72-a585-941bc5d5f164",
@@ -18817,7 +18817,7 @@
       "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 1-20211221072657.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.197Z",
-      "updated_at_utc": "2026-10-27T03:28:08.197Z"
+      "updated_at_utc": "2026-10-27T04:11:14.102Z"
     },
     {
       "landing_media_asset_id": "5c3f7d89-a867-4fee-a72c-a16c57e3e356",
@@ -18833,7 +18833,7 @@
       "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - download-20211222030421.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.315Z",
-      "updated_at_utc": "2026-10-27T03:28:08.315Z"
+      "updated_at_utc": "2026-10-27T04:11:14.193Z"
     },
     {
       "landing_media_asset_id": "31bb89fc-3cdd-4451-94c9-ae13a6055e8e",
@@ -18849,7 +18849,7 @@
       "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 10-20211222033204.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.357Z",
-      "updated_at_utc": "2026-10-27T03:28:08.357Z"
+      "updated_at_utc": "2026-10-27T04:11:14.277Z"
     },
     {
       "landing_media_asset_id": "79547d08-ffca-4d1f-9a35-1427202b3ed6",
@@ -18865,7 +18865,7 @@
       "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 8-20211222031251.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.486Z",
-      "updated_at_utc": "2026-10-27T03:28:08.486Z"
+      "updated_at_utc": "2026-10-27T04:11:14.324Z"
     },
     {
       "landing_media_asset_id": "e8ce2d4c-b134-44d4-9043-c05c00fe6b43",
@@ -18881,7 +18881,7 @@
       "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - download-20211222030421.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.607Z",
-      "updated_at_utc": "2026-10-27T03:28:08.607Z"
+      "updated_at_utc": "2026-10-27T04:11:14.384Z"
     },
     {
       "landing_media_asset_id": "70d23030-eed5-42f2-9130-c8027b905ae9",
@@ -18897,7 +18897,7 @@
       "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 8-20211222031251.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.671Z",
-      "updated_at_utc": "2026-10-27T03:28:08.671Z"
+      "updated_at_utc": "2026-10-27T04:11:14.427Z"
     },
     {
       "landing_media_asset_id": "2911920d-a8fb-4984-acef-1d19a536c361",
@@ -18913,7 +18913,7 @@
       "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 7-20211222023257.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.722Z",
-      "updated_at_utc": "2026-10-27T03:28:08.722Z"
+      "updated_at_utc": "2026-10-27T04:11:14.460Z"
     },
     {
       "landing_media_asset_id": "e4e75a0f-e491-47cb-b97a-68ee9df79638",
@@ -18929,7 +18929,7 @@
       "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 7-20211222023257.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.754Z",
-      "updated_at_utc": "2026-10-27T03:28:08.754Z"
+      "updated_at_utc": "2026-10-27T04:11:14.487Z"
     },
     {
       "landing_media_asset_id": "187827d6-ff98-4081-97c0-08edff27f936",
@@ -18945,7 +18945,7 @@
       "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - qr-zalo-20200303042740.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.783Z",
-      "updated_at_utc": "2026-10-27T03:28:08.783Z"
+      "updated_at_utc": "2026-10-27T04:11:14.506Z"
     },
     {
       "landing_media_asset_id": "e37c4cd8-43d5-43c1-9639-5ba036cc6b06",
@@ -18961,7 +18961,7 @@
       "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 1-20211222032140.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.804Z",
-      "updated_at_utc": "2026-10-27T03:28:08.804Z"
+      "updated_at_utc": "2026-10-27T04:11:14.542Z"
     },
     {
       "landing_media_asset_id": "fdb9f6a5-0628-47b1-a668-deb5524b3d4c",
@@ -18977,7 +18977,7 @@
       "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm Logo",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.821Z",
-      "updated_at_utc": "2026-10-27T03:28:08.821Z"
+      "updated_at_utc": "2026-10-27T04:11:14.560Z"
     },
     {
       "landing_media_asset_id": "546c6f79-b7fe-4752-a5df-308cd5782f1f",
@@ -18993,7 +18993,7 @@
       "alt_text_en": "Favicon",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.831Z",
-      "updated_at_utc": "2026-10-27T03:28:08.831Z"
+      "updated_at_utc": "2026-10-27T04:11:14.571Z"
     },
     {
       "landing_media_asset_id": "a8507c69-976d-4139-b899-1df8cb02e2c4",
@@ -19009,7 +19009,7 @@
       "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm Hero",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.839Z",
-      "updated_at_utc": "2026-10-27T03:28:08.839Z"
+      "updated_at_utc": "2026-10-27T04:11:14.578Z"
     },
     {
       "landing_media_asset_id": "594781e6-45a5-4139-9143-b2fde7043253",
@@ -19025,7 +19025,7 @@
       "alt_text_en": "Brochure RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:08.848Z",
-      "updated_at_utc": "2026-10-27T03:28:08.848Z"
+      "updated_at_utc": "2026-10-27T04:11:14.590Z"
     },
     {
       "landing_media_asset_id": "11c6bcb6-d6f3-4413-84b0-61dcb67fcdf6",
@@ -19041,7 +19041,7 @@
       "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - favicon-20200707080232.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.065Z",
-      "updated_at_utc": "2026-10-27T03:28:09.065Z"
+      "updated_at_utc": "2026-10-27T04:11:14.656Z"
     },
     {
       "landing_media_asset_id": "307c90ba-3e23-4574-bb2a-aa0d4eeea57a",
@@ -19057,7 +19057,7 @@
       "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - sequence-01-1-20200710080321.gif",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.094Z",
-      "updated_at_utc": "2026-10-27T03:28:09.094Z"
+      "updated_at_utc": "2026-10-27T04:11:14.690Z"
     },
     {
       "landing_media_asset_id": "27556cad-99d0-467a-a6e2-364a6923b9ba",
@@ -19073,7 +19073,7 @@
       "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - cd-mockup-20200812024922.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.398Z",
-      "updated_at_utc": "2026-10-27T03:28:09.398Z"
+      "updated_at_utc": "2026-10-27T04:11:14.952Z"
     },
     {
       "landing_media_asset_id": "56c32d4e-34f6-4c66-b4d6-d63dfa51ad38",
@@ -19089,7 +19089,7 @@
       "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - cd-mockup-20200812024922.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.440Z",
-      "updated_at_utc": "2026-10-27T03:28:09.440Z"
+      "updated_at_utc": "2026-10-27T04:11:14.995Z"
     },
     {
       "landing_media_asset_id": "65e384e9-fe24-4900-8e6e-99066655c57d",
@@ -19105,7 +19105,7 @@
       "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - 576dc9a0b9d3985f7844a72ed7605704-20200812024636.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.485Z",
-      "updated_at_utc": "2026-10-27T03:28:09.485Z"
+      "updated_at_utc": "2026-10-27T04:11:15.051Z"
     },
     {
       "landing_media_asset_id": "4edde421-e001-4175-b36d-e9754172a5b7",
@@ -19121,7 +19121,7 @@
       "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - call-icon-5-20200327021012.gif",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.515Z",
-      "updated_at_utc": "2026-10-27T03:28:09.515Z"
+      "updated_at_utc": "2026-10-27T04:11:15.076Z"
     },
     {
       "landing_media_asset_id": "9d2adab0-2bb0-4b51-b3cf-fc107d8cb04d",
@@ -19137,7 +19137,7 @@
       "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - 1725-20200610093037.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.540Z",
-      "updated_at_utc": "2026-10-27T03:28:09.540Z"
+      "updated_at_utc": "2026-10-27T04:11:15.110Z"
     },
     {
       "landing_media_asset_id": "c1e0e3cc-ac74-4fe4-a3ab-dd34d096f752",
@@ -19153,7 +19153,7 @@
       "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - 1725-20200610093037.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.568Z",
-      "updated_at_utc": "2026-10-27T03:28:09.568Z"
+      "updated_at_utc": "2026-10-27T04:11:15.131Z"
     },
     {
       "landing_media_asset_id": "67f6ede8-9037-4a86-90f8-29597dffad0e",
@@ -19169,7 +19169,7 @@
       "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - 576dc9a0b9d3985f7844a72ed7605704-20200812024636.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.601Z",
-      "updated_at_utc": "2026-10-27T03:28:09.601Z"
+      "updated_at_utc": "2026-10-27T04:11:15.153Z"
     },
     {
       "landing_media_asset_id": "bb46f679-0c37-4891-8707-cc66b12d0c39",
@@ -19185,7 +19185,7 @@
       "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - best-cheap-interior-house-paints-best-house-paints-interior-l-f827ec387e73f211-20200812025102.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.626Z",
-      "updated_at_utc": "2026-10-27T03:28:09.626Z"
+      "updated_at_utc": "2026-10-27T04:11:15.172Z"
     },
     {
       "landing_media_asset_id": "871bd9f5-d604-4072-aed1-a7033e818ab2",
@@ -19201,7 +19201,7 @@
       "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - chi-tiet-20200707074937.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.653Z",
-      "updated_at_utc": "2026-10-27T03:28:09.653Z"
+      "updated_at_utc": "2026-10-27T04:11:15.187Z"
     },
     {
       "landing_media_asset_id": "031220a2-8502-4632-96e6-030456a4255b",
@@ -19217,7 +19217,7 @@
       "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - chi-tiet-20200707074937.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.667Z",
-      "updated_at_utc": "2026-10-27T03:28:09.667Z"
+      "updated_at_utc": "2026-10-27T04:11:15.196Z"
     },
     {
       "landing_media_asset_id": "0c407fcb-b830-4ee0-b8f5-b7c66fd61bdc",
@@ -19233,7 +19233,7 @@
       "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - best-cheap-interior-house-paints-best-house-paints-interior-l-f827ec387e73f211-20200812025102.jpg",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.686Z",
-      "updated_at_utc": "2026-10-27T03:28:09.686Z"
+      "updated_at_utc": "2026-10-27T04:11:15.210Z"
     },
     {
       "landing_media_asset_id": "c91120d2-4ceb-487a-afa9-b7b5a7dab41a",
@@ -19249,7 +19249,7 @@
       "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - 1609-20200330021030.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.698Z",
-      "updated_at_utc": "2026-10-27T03:28:09.698Z"
+      "updated_at_utc": "2026-10-27T04:11:15.220Z"
     },
     {
       "landing_media_asset_id": "c1435e15-3659-49f4-878b-678b0beb85c3",
@@ -19265,7 +19265,7 @@
       "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - ava-20200713020255.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.709Z",
-      "updated_at_utc": "2026-10-27T03:28:09.709Z"
+      "updated_at_utc": "2026-10-27T04:11:15.229Z"
     },
     {
       "landing_media_asset_id": "153ebd4a-9dd8-46b5-8748-066a8f4f5523",
@@ -19281,7 +19281,7 @@
       "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - ava-20200713020255.png",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.723Z",
-      "updated_at_utc": "2026-10-27T03:28:09.723Z"
+      "updated_at_utc": "2026-10-27T04:11:15.242Z"
     },
     {
       "landing_media_asset_id": "2fe9f0f2-f967-4ff4-a065-9ab86b24b085",
@@ -19297,7 +19297,7 @@
       "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất Logo",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.739Z",
-      "updated_at_utc": "2026-10-27T03:28:09.739Z"
+      "updated_at_utc": "2026-10-27T04:11:15.252Z"
     },
     {
       "landing_media_asset_id": "556fd08f-b3d5-4edc-9eb3-ff64adb0320c",
@@ -19313,7 +19313,7 @@
       "alt_text_en": "Favicon",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.751Z",
-      "updated_at_utc": "2026-10-27T03:28:09.751Z"
+      "updated_at_utc": "2026-10-27T04:11:15.262Z"
     },
     {
       "landing_media_asset_id": "c7fa71e9-7f4c-4be8-b728-2c6cbb6dead8",
@@ -19329,7 +19329,7 @@
       "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất Hero",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.771Z",
-      "updated_at_utc": "2026-10-27T03:28:09.771Z"
+      "updated_at_utc": "2026-10-27T04:11:15.273Z"
     },
     {
       "landing_media_asset_id": "0ae51c8e-0200-4f21-96e8-081b5cd8e0e5",
@@ -19345,7 +19345,7 @@
       "alt_text_en": "Brochure Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất",
       "storage_provider": "local",
       "created_at_utc": "2026-10-27T03:28:09.786Z",
-      "updated_at_utc": "2026-10-27T03:28:09.786Z"
+      "updated_at_utc": "2026-10-27T04:11:15.284Z"
     }
   ],
   "leads": [
@@ -21107,6 +21107,36 @@
       "utm_content": null,
       "referrer_url": null,
       "submitted_at_utc": "2026-10-23T09:11:49.000Z"
+    },
+    {
+      "landing_lead_submission_id": "1e83030f-5a20-4e0c-9875-909b8462910e",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Lua Hai (Vũ Minh Tuấn)",
+      "customer_phone": "0774691356",
+      "customer_email": "hailua2711@gmail.com",
+      "customer_company": "Làm tự do",
+      "submitted_fields_json": {
+        "pic": "E Đức",
+        "care_note": "Khách đang trao đổi với anh Thìn. Đang có thắc mắc về mảng kết cấu: phần mềm Kata Pro.",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "đăng ký dùng thử 1 use bao gồm các chức năng vẽ 2D , Các chức năng hỗ trợ Lisp, VLX , DLL , Arx , API , VBA , .NET , C# / Không biết bản PE có chạy được các ƯD viết bằng các ngôn ngữ lập trình đã nêu không",
+        "source_label": "Trực tiếp",
+        "device_quantity": "1",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-25T01:58:21.000Z"
     },
     {
       "landing_lead_submission_id": "dc652da5-4ca7-4086-a9f7-870cf3692299",
@@ -23778,6 +23808,36 @@
       "utm_content": null,
       "referrer_url": null,
       "submitted_at_utc": "2026-10-26T08:39:42.627Z"
+    },
+    {
+      "landing_lead_submission_id": "fbb136e2-9139-45a7-9bb8-4bec572ba540",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "DucHai Do",
+      "customer_phone": "0964258656",
+      "customer_email": "doduchai90@gmail.com",
+      "customer_company": "Aden Services",
+      "submitted_fields_json": {
+        "pic": "",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "",
+        "primary_need": "request_quote",
+        "requirements": "1",
+        "source_label": "Trực tiếp",
+        "device_quantity": "5",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-27T01:49:41.000Z"
     }
   ],
   "pageViews": [
@@ -24030,44 +24090,8 @@
     {
       "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
       "view_date": "2026-10-25",
-      "views_count": 1,
+      "views_count": 2,
       "unique_visitors_count": 1
-    },
-    {
-      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
-      "view_date": "2026-10-26",
-      "views_count": 31,
-      "unique_visitors_count": 3
-    },
-    {
-      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
-      "view_date": "2026-10-26",
-      "views_count": 30,
-      "unique_visitors_count": 3
-    },
-    {
-      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
-      "view_date": "2026-10-26",
-      "views_count": 27,
-      "unique_visitors_count": 3
-    },
-    {
-      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
-      "view_date": "2026-10-26",
-      "views_count": 28,
-      "unique_visitors_count": 4
-    },
-    {
-      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
-      "view_date": "2026-10-26",
-      "views_count": 29,
-      "unique_visitors_count": 3
-    },
-    {
-      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
-      "view_date": "2026-10-26",
-      "views_count": 46,
-      "unique_visitors_count": 3
     },
     {
       "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
@@ -24082,16 +24106,40 @@
       "unique_visitors_count": 3
     },
     {
-      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
-      "view_date": "2026-10-27",
-      "views_count": 6,
-      "unique_visitors_count": 1
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "view_date": "2026-10-26",
+      "views_count": 31,
+      "unique_visitors_count": 3
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-10-26",
+      "views_count": 46,
+      "unique_visitors_count": 3
+    },
+    {
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "view_date": "2026-10-26",
+      "views_count": 29,
+      "unique_visitors_count": 3
     },
     {
       "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
-      "view_date": "2026-10-27",
-      "views_count": 6,
-      "unique_visitors_count": 1
+      "view_date": "2026-10-26",
+      "views_count": 28,
+      "unique_visitors_count": 4
+    },
+    {
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "view_date": "2026-10-26",
+      "views_count": 27,
+      "unique_visitors_count": 3
+    },
+    {
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "view_date": "2026-10-26",
+      "views_count": 30,
+      "unique_visitors_count": 3
     },
     {
       "landing_site_id": "de556d0b-f32e-49e1-a97c-58888395418d",
@@ -24100,40 +24148,28 @@
       "unique_visitors_count": 2
     },
     {
-      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
       "view_date": "2026-10-27",
-      "views_count": 3,
+      "views_count": 6,
       "unique_visitors_count": 1
     },
     {
-      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
       "view_date": "2026-10-27",
-      "views_count": 4,
+      "views_count": 6,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "view_date": "2026-10-27",
+      "views_count": 8,
       "unique_visitors_count": 2
     },
     {
-      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
       "view_date": "2026-10-27",
-      "views_count": 22,
+      "views_count": 21,
       "unique_visitors_count": 3
-    },
-    {
-      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
-      "view_date": "2026-10-27",
-      "views_count": 3,
-      "unique_visitors_count": 1
-    },
-    {
-      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
-      "view_date": "2026-10-27",
-      "views_count": 18,
-      "unique_visitors_count": 3
-    },
-    {
-      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
-      "view_date": "2026-10-27",
-      "views_count": 3,
-      "unique_visitors_count": 1
     },
     {
       "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
@@ -24148,16 +24184,46 @@
       "unique_visitors_count": 1
     },
     {
-      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
       "view_date": "2026-10-27",
-      "views_count": 13,
+      "views_count": 3,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "view_date": "2026-10-27",
+      "views_count": 18,
       "unique_visitors_count": 3
     },
     {
-      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
       "view_date": "2026-10-27",
-      "views_count": 15,
+      "views_count": 18,
       "unique_visitors_count": 3
+    },
+    {
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "view_date": "2026-10-27",
+      "views_count": 3,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "view_date": "2026-10-27",
+      "views_count": 22,
+      "unique_visitors_count": 3
+    },
+    {
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "view_date": "2026-10-27",
+      "views_count": 4,
+      "unique_visitors_count": 2
+    },
+    {
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "view_date": "2026-10-27",
+      "views_count": 3,
+      "unique_visitors_count": 1
     }
   ],
   "adminAccounts": [
