@@ -1,0 +1,17 @@
+{
+  "name": "@cic/data-hub",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0 --port 4302",
+    "build": "next build --webpack",
+    "start": "next start --hostname 0.0.0.0 --port 4302"
+  },
+  "dependencies": {
+    "@cic/auth": "*",
+    "@cic/db": "*",
+    "@cic/sheets": "*",
+    "@cic/sync-worker": "*"
+  }
+}

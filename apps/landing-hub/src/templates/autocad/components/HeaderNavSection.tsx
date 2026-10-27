@@ -1,0 +1,10 @@
+import React from 'react';
+import type { ModularSectionProps } from '../../shared/types';
+import { hydrateSectionHtml } from '../../shared/sectionHtmlHydrator';
+
+const SECTION_HTML = "<header>\r\n\t\t<div class=\"navbar navbar-default navbar-fixed-top\" role=\"navigation\">\r\n\t\t\t<div class=\"container\">\r\n\t\t\t\t<div class=\"navbar-header\">\r\n\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\".navbar-collapse\">\r\n\t\t\t\t\t\t<span class=\"sr-only\">Toggle navigation</span>\r\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\r\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\r\n\t\t\t\t\t\t<span class=\"icon-bar\"></span>\r\n\t\t\t\t\t</button>\r\n\t\t\t\t\t<a class=\"navbar-brand\" href=\"#\"><img src=\"/sites/autocad/img/logo.png\" alt=\"\"></a>\r\n\t\t\t\t</div>\r\n\t\t\t\t<div class=\"collapse navbar-collapse\">\r\n\t\t\t\t\t<ul class=\"nav navbar-nav\">\r\n\t\t\t\t\t\t<li><a id=\"GoToHome\" href=\"#home\" class=\"selected\">Trang chủ</a></li>\r\n\t\t\t\t\t\t<li><a id=\"GoToFeatures\" href=\"#features\" class=\"\">Tính năng</a></li>\t\r\n\t\t\t\t\t\t<li><a id=\"GoToDesc\" href=\"#whyreason\" class=\"\">Lý do chọn mua</a></li>                        \r\n\t\t\t\t\t\t<li><a id=\"GoToGallery\" href=\"#screenshot\" class=\"\">Hình ảnh</a></li>\r\n\t\t\t\t\t\t<li><a id=\"GoToPricing\" href=\"#pricing\" class=\"\">Các phiên bản</a></li>\r\n\t\t\t\t\t\t<li><a id=\"GoToTestimoni\" href=\"#client\">Khách hàng tiêu biểu</a></li>\r\n\t\t\t\t\t\t<li><a id=\"GoToContact\" href=\"#contact\">Liên hệ</a></li>\t\t\t\t\t\t\t\r\n\t\t\t\t\t</ul>\r\n\t\t\t\t\t<div class=\"navbar-right\">\r\n\t\t\t\t\t\t<a href=\"#register\" class=\"btn btn-primary\">TÔI MUỐN MUA NGAY</a>\r\n\t\t\t\t\t</div>\t\r\n\t\t\t\t</div><!--/.nav-collapse-->\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</header>\r\n\t<!--End header-->\r\n\t<!--End home-->\r\n";
+
+export function HeaderNavSection({ payload, allPayloads }: ModularSectionProps) {
+  const html = hydrateSectionHtml(SECTION_HTML, payload, allPayloads);
+  return <article data-anchor="header" style={{ display: 'contents' }} dangerouslySetInnerHTML={{ __html: html }} />;
+}

@@ -1,0 +1,16 @@
+{
+  "resources/css/landing.css": {
+    "file": "assets/landing-tQdBmMvT.css",
+    "src": "resources/css/landing.css",
+    "isEntry": true
+  },
+  "resources/js/landing.js": {
+    "file": "assets/landing-DE37XvzW.js",
+    "name": "landing",
+    "src": "resources/js/landing.js",
+    "isEntry": true,
+    "css": [
+      "assets/landing-tQdBmMvT.css"
+    ]
+  }
+}

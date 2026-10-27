@@ -1,0 +1,20 @@
+{
+  "name": "@cic/sync-worker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./backup": "./src/backup.ts",
+    "./health-check": "./src/health-check.ts",
+    "./form-delivery": "./src/form-delivery-worker.ts"
+  },
+  "scripts": {
+    "dev": "node --env-file=../../.env --import tsx src/index.ts",
+    "once": "node --env-file=../../.env --import tsx src/index.ts --once"
+  },
+  "dependencies": {
+    "@cic/db": "*",
+    "@cic/sheets": "*"
+  }
+}
