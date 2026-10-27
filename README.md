@@ -96,18 +96,27 @@ Sau khi chạy, truy cập:
 
 ---
 
-## 5. Tài khoản Đăng nhập Trang Quản trị Web CMS (`http://localhost:3004/admin/login`)
+## 5. Tài khoản Đăng nhập & Bảng Tên miền / Hạ tầng 14 Trang
 
-> **Lưu ý**:
-> - **Supabase Studio Self-Host (`http://localhost:54323`)** **KHÔNG** có màn hình đăng nhập (truy cập thẳng vào quản lý Database).
-> - Các tài khoản dưới đây là tài khoản dùng để đăng nhập vào **Trang Quản trị Web CMS của hệ thống Landing Page (`/admin/login`)** để sửa chữ, thay ảnh, xem danh sách khách hàng đăng ký:
+> Xem chi tiết tại tài liệu vận hành rút gọn: **[`HUONG_DAN_SU_DUNG.md`](./HUONG_DAN_SU_DUNG.md)**
 
-| Vai trò | Tài khoản (`username`) | Mật khẩu (`password`) | Phạm vi quyền |
-| :--- | :--- | :--- | :--- |
-| **Super Admin (Toàn quyền)** | `superadmin` | `CicAdmin@2026` | Quản trị tất cả 14 trang |
-| **Admin trang CMS IntelliCAD** | `cad_admin` | `cad@2026` | Chỉ quản trị `cms-intellicad` |
-| **Admin trang Robot Công trình** | `robot_admin` | `robot@2026` | Chỉ quản trị `robot-cong-trinh` |
-| **Admin từng trang khác** | `<site_code>_admin` *(VD: `allplan_admin`)* | `CicAdmin@2026` *(hoặc `<site_code>@2026`)* | Chỉ quản trị trang tương ứng |
+| # | Mã trang (`site_code`) | Tên miền chính (`primary_domain`) | Hạ tầng gốc | Tài khoản riêng | Mật khẩu | Cổng Độc lập |
+| :-: | :--- | :--- | :---: | :--- | :--- | :---: |
+| **0** | **Quản trị Tổng (`MASTER`)** | **Tất cả tên miền** | **Master Hub** | **`admin`** | **`cic@2026`** | **`:3004`** |
+| 1 | `cms-intellicad` | `cmsintellicad.vn` | Host Mắt Bão | `cad_admin` | `cad@2026` | `:3005` |
+| 2 | `robot-cong-trinh` | `robotcongtrinh.vn` | Host Mắt Bão | `robot_admin` | `robot@2026` | `:3006` |
+| 3 | `allplan` | `allplan.cic.com.vn` | LadiPage | `allplan_admin` | `allplan@2026` | `:3007` |
+| 4 | `bim` | `bim.cic.com.vn` | LadiPage | `bim_admin` | `bim@2026` | `:3008` |
+| 5 | `enjicad` | `enjicad.vn` | LadiPage | `enjicad_admin` | `enjicad@2026` | `:3009` |
+| 6 | `escon` | `escon.cic.com.vn` | Host Mắt Bão | `escon_admin` | `escon@2026` | `:3010` |
+| 7 | `revit` | `revit.cic.com.vn` | Host Mắt Bão | `revit_admin` | `revit@2026` | `:3011` |
+| 8 | `autocad` | `autocad.cic.com.vn` | Host Mắt Bão | `autocad_admin` | `autocad@2026` | `:3012` |
+| 9 | `cubicost` | `cubicost.cic.com.vn` | LadiPage | `cubicost_admin` | `cubicost@2026` | `:3013` |
+| 10 | `enjicadpro` | `enjicadpro.cic.com.vn` | LadiPage | `enjicadpro_admin` | `enjicadpro@2026` | `:3014` |
+| 11 | `piletest` | `piletest.cic.com.vn` | LadiPage | `piletest_admin` | `piletest@2026` | `:3015` |
+| 12 | `foxit` | `foxit.cic.com.vn` | LadiPage | `foxit_admin` | `foxit@2026` | `:3016` |
+| 13 | `maydocapngam` | `maydocapngam.cic.com.vn` | LadiPage | `maydocapngam_admin` | `maydocapngam@2026` | `:3017` |
+| 14 | `cabinetvision` | `cabinetvision.nghenoithat.vn` | LadiPage | `cabinetvision_admin` | `cabinetvision@2026` | `:3018` |
 
 ---
 
