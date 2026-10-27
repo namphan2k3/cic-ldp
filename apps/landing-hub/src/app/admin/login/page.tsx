@@ -19,14 +19,20 @@ export default async function AdminLoginPage({
   searchParams: Promise<{ next?: string }>;
 }) {
   const sp = await searchParams;
-  const nextSiteMatch = sp.next?.match(/^\/admin\/([a-z0-9-]+)$/i);
-  const targetSite = nextSiteMatch ? nextSiteMatch[1] : null;
-  const session = await getAdminSession(targetSite);
-  if (session) {
-    redirect(sp.next || '/admin');
-  }
+  const nextRaw = sp.next || '/admin';
+  const nextSiteMatch =
+    nextRaw.match(/^\/admin\/([a-z0-9-]+)(?:[/?#]|$)/i) ||
+    nextRaw.match(/[?&]site=([a-z0-9-]+)(?:&|$)/i);
+  const parsedSite =
+    nextSiteMatch && nextSiteMatch[1].toUpperCase() !== 'ALL'
+      ? nextSiteMatch[1].toLowerCase()
+      : null;
 
-  const lockedSiteCode = process.env.DEFAULT_SITE_CODE?.trim() || null;
+  const lockedSiteCode = process.env.DEFAULT_SITE_CODE?.trim() || parsedSite || null;
+  const session = await getAdminSession(lockedSiteCode || 'MASTER');
+  if (session) {
+    redirect(nextRaw);
+  }
 
   return (
     <div className="flex min-h-screen items-center justify-center bg-[#0b1b36] p-4">

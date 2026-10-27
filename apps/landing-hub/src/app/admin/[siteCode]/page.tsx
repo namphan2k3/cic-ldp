@@ -14,6 +14,7 @@ import { SiteMediaManagerTab } from '../components/cms/SiteMediaManagerTab';
 import { CmsUserGuideView } from '../components/cms/CmsUserGuideView';
 import { FormBuilderTab } from '../components/FormBuilderTab';
 import { RevisionsTab } from '../components/RevisionsTab';
+import { AdminSessionBoundary } from '../components/AdminSessionBoundary';
 
 export const dynamic = 'force-dynamic';
 
@@ -139,6 +140,7 @@ export default async function SiteSpecificCmsPage({
 
   return (
     <div className="min-h-screen bg-slate-100 text-slate-900">
+      <AdminSessionBoundary clearOnMount={false} />
       <SiteCmsHeader
         siteCode={site.landing_site_code}
         siteName={site.landing_site_name}

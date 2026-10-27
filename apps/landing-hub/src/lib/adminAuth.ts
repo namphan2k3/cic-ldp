@@ -1,16 +1,37 @@
 import crypto from 'node:crypto';
-import { cookies } from 'next/headers';
+import { cookies, headers } from 'next/headers';
 import { getDb } from '@cic/db';
 
 export const ADMIN_COOKIE_NAME = 'cic_landing_session';
 const SECRET_KEY = process.env.AUTH_SECRET || 'cic-landing-platform-supabase-auth-secret-2026';
 
-export function getAdminCookieName(siteCode?: string | null): string {
-  const standaloneSite = process.env.DEFAULT_SITE_CODE?.trim() || null;
-  if (standaloneSite) {
-    return `cic_standalone_session_${standaloneSite}`;
+export async function getHostPortSlug(): Promise<string> {
+  try {
+    const reqHeaders = await headers();
+    const rawHost = (
+      reqHeaders.get('x-forwarded-host') ||
+      reqHeaders.get('host') ||
+      'localhost'
+    )
+      .toLowerCase()
+      .trim()
+      .replace(/^127\.0\.0\.1\b/, 'localhost');
+    return rawHost.replace(/[^a-z0-9]+/g, '_').replace(/^_+|_+$/g, '') || 'localhost';
+  } catch {
+    return 'localhost';
   }
-  return siteCode ? `${ADMIN_COOKIE_NAME}_${siteCode}` : ADMIN_COOKIE_NAME;
+}
+
+export function getAdminCookieName(siteCode?: string | null, hostSlug?: string | null): string {
+  const standaloneSite = process.env.DEFAULT_SITE_CODE?.trim() || null;
+  const hp = hostSlug ? `_${hostSlug}` : '';
+  if (standaloneSite) {
+    return `cic_standalone_session${hp}_${standaloneSite}`;
+  }
+  if (siteCode && siteCode !== 'MASTER') {
+    return `${ADMIN_COOKIE_NAME}${hp}_${siteCode}`;
+  }
+  return `${ADMIN_COOKIE_NAME}${hp}`;
 }
 
 export interface AdminSession {
@@ -18,6 +39,7 @@ export interface AdminSession {
   displayName: string;
   role: 'super_admin' | 'site_admin';
   allowedSiteCode: string | null;
+  activeScope?: string;
   exp: number;
 }
 
@@ -57,45 +79,98 @@ export async function getAdminSession(
   requiredSiteCode?: string | null
 ): Promise<AdminSession | null> {
   const cookieStore = await cookies();
+  const hostSlug = await getHostPortSlug();
   const standaloneSite = process.env.DEFAULT_SITE_CODE?.trim() || null;
-  const effectiveSite = requiredSiteCode || standaloneSite || null;
-  const candidateNames = standaloneSite
-    ? [`cic_standalone_session_${standaloneSite}`]
-    : Array.from(
-        new Set([
-          getAdminCookieName(effectiveSite),
-          getAdminCookieName(),
-          ADMIN_COOKIE_NAME,
-        ])
-      );
 
-  for (const name of candidateNames) {
-    const raw = cookieStore.get(name)?.value;
-    const session = verifySessionToken(raw);
-    if (!session) continue;
-    if (
-      effectiveSite &&
-      session.role !== 'super_admin' &&
-      session.allowedSiteCode !== effectiveSite
-    ) {
-      continue;
+  // 1. Standalone Server Mode: strictly isolated to this port + standalone site
+  if (standaloneSite) {
+    const standaloneCookies = [
+      getAdminCookieName(standaloneSite, hostSlug),
+      `cic_standalone_session_${standaloneSite}`,
+    ];
+    for (const name of standaloneCookies) {
+      const raw = cookieStore.get(name)?.value;
+      const session = verifySessionToken(raw);
+      if (!session) continue;
+      if (
+        session.role !== 'super_admin' &&
+        session.allowedSiteCode !== standaloneSite
+      ) {
+        continue;
+      }
+      if (
+        session.activeScope &&
+        session.activeScope !== `standalone:${standaloneSite}` &&
+        session.activeScope !== `site:${standaloneSite}`
+      ) {
+        continue;
+      }
+      return session;
     }
+    return null;
+  }
+
+  // 2. Master Hub Mode: single active session cookie per host+port with strict scope check
+  const activeCookieName = `cic_active_session_${hostSlug}`;
+  const rawActive = cookieStore.get(activeCookieName)?.value;
+  const session = verifySessionToken(rawActive);
+
+  if (!session) {
+    return null;
+  }
+
+  const req = requiredSiteCode?.trim() || null;
+
+  // Unscoped API call (e.g. export routes): accept any valid active session on this host+port
+  if (!req) {
     return session;
   }
 
-  return null;
+  // Master Hub root (/admin without specific site filter): strictly requires MASTER scope & super_admin
+  if (req === 'MASTER') {
+    if (session.role === 'super_admin' && session.activeScope === 'MASTER') {
+      return session;
+    }
+    return null;
+  }
+
+  // /admin?site=<siteCode> (used by both site's own Analytics/Leads tabs and Master Hub site filter)
+  if (req.startsWith('MASTER_OR_SITE:')) {
+    const targetSite = req.slice('MASTER_OR_SITE:'.length);
+    if (session.activeScope === `site:${targetSite}`) {
+      if (session.role === 'super_admin' || session.allowedSiteCode === targetSite) {
+        return session;
+      }
+    }
+    if (session.activeScope === 'MASTER' && session.role === 'super_admin') {
+      return session;
+    }
+    return null;
+  }
+
+  // Specific site CMS (/admin/<siteCode>): strictly requires activeScope === 'site:<siteCode>'
+  if (session.activeScope !== `site:${req}`) {
+    return null;
+  }
+  if (session.role !== 'super_admin' && session.allowedSiteCode !== req) {
+    return null;
+  }
+
+  return session;
 }
 
 export async function authenticateAdminUser(
   username: string,
   password: string,
-  instanceSiteCode?: string | null
+  targetScopeOrSite?: string | null
 ): Promise<{ success: boolean; session?: Omit<AdminSession, 'exp'>; error?: string }> {
   const sql = getDb();
   const cleanUser = username.trim().toLowerCase();
   const USER_ALIASES: Record<string, string> = {
     cms_intellicad_admin: 'cad_admin',
+    'cms-intellicad_admin': 'cad_admin',
     robot_cong_trinh_admin: 'robot_admin',
+    'robot-cong-trinh_admin': 'robot_admin',
   };
   const lookupUser = USER_ALIASES[cleanUser] || cleanUser;
   const pwdHash = hashAdminPassword(password);
@@ -129,16 +204,28 @@ export async function authenticateAdminUser(
     };
   }
 
-  if (
-    instanceSiteCode &&
-    acc.role !== 'super_admin' &&
-    acc.landing_site_code !== instanceSiteCode
-  ) {
+  const standaloneSite = process.env.DEFAULT_SITE_CODE?.trim() || null;
+  const effectiveTarget = standaloneSite || targetScopeOrSite?.trim() || 'MASTER';
+
+  if (effectiveTarget === 'MASTER') {
+    if (acc.role !== 'super_admin') {
+      return {
+        success: false,
+        error: `Tài khoản "${acc.username}" chỉ có quyền quản trị trang "${acc.landing_site_code}", không có quyền truy cập Quản trị Tổng.`,
+      };
+    }
+  } else if (acc.role !== 'super_admin' && acc.landing_site_code !== effectiveTarget) {
     return {
       success: false,
-      error: `Tài khoản "${acc.username}" không thuộc quyền quản trị của trang ${instanceSiteCode}.`,
+      error: `Tài khoản "${acc.username}" không thuộc quyền quản trị của trang ${effectiveTarget}.`,
     };
   }
+
+  const activeScope = standaloneSite
+    ? `standalone:${standaloneSite}`
+    : effectiveTarget === 'MASTER'
+    ? 'MASTER'
+    : `site:${effectiveTarget}`;
 
   return {
     success: true,
@@ -147,6 +234,7 @@ export async function authenticateAdminUser(
       displayName: acc.display_name,
       role: acc.role,
       allowedSiteCode: acc.landing_site_code,
+      activeScope,
     },
   };
 }

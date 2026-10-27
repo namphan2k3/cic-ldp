@@ -11,6 +11,7 @@ import { SitesDirectoryTab, SiteSummaryItem } from './components/master/SitesDir
 import { UnifiedLeadsTab, UnifiedLeadItem } from './components/master/UnifiedLeadsTab';
 import { SystemUtilitiesTab, GlobalRevisionItem } from './components/master/SystemUtilitiesTab';
 import { FormBuilderTab } from './components/FormBuilderTab';
+import { AdminSessionBoundary } from './components/AdminSessionBoundary';
 
 export const dynamic = 'force-dynamic';
 
@@ -44,16 +45,32 @@ interface MasterAdminPageProps {
 }
 
 export default async function MasterAdminHubPage({ searchParams }: MasterAdminPageProps) {
-  const session = await getAdminSession();
-  if (!session) {
-    redirect('/admin/login?next=/admin');
-  }
-
   const sp = await searchParams;
   const activeTab = sp.tab || 'dashboard';
   const envSiteCode = process.env.DEFAULT_SITE_CODE?.trim() || null;
-  const lockedSiteCode =
-    envSiteCode || (session.role === 'site_admin' ? session.allowedSiteCode : null);
+  const requestedSite = sp.site && sp.site !== 'ALL' ? sp.site.trim() : null;
+
+  const session = await getAdminSession(
+    envSiteCode
+      ? envSiteCode
+      : requestedSite
+      ? `MASTER_OR_SITE:${requestedSite}`
+      : 'MASTER'
+  );
+  if (!session) {
+    const nextPath = requestedSite
+      ? `/admin?tab=${encodeURIComponent(activeTab)}&site=${encodeURIComponent(requestedSite)}`
+      : '/admin';
+    redirect(`/admin/login?next=${encodeURIComponent(nextPath)}`);
+  }
+
+  const scopedSiteFromSession = session.activeScope?.startsWith('site:')
+    ? session.activeScope.slice('site:'.length)
+    : session.role === 'site_admin'
+    ? session.allowedSiteCode
+    : null;
+
+  const lockedSiteCode = envSiteCode || scopedSiteFromSession || null;
   const selectedSite = lockedSiteCode || sp.site || 'ALL';
 
   const rawSites = await getAllLandingSites();
@@ -356,6 +373,7 @@ export default async function MasterAdminHubPage({ searchParams }: MasterAdminPa
 
   return (
     <div className="min-h-screen bg-[#f8fafc] text-[#0f172a]">
+      <AdminSessionBoundary clearOnMount={false} />
       <MasterHeader
         activeTab={activeTab}
         selectedSite={selectedSite}

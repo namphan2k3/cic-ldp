@@ -498,14 +498,18 @@ export async function pickFolderDialogAction(): Promise<{ path: string | null }>
   }
 }
 
-export async function loginAdminAction(username: string, password: string) {
+export async function loginAdminAction(
+  username: string,
+  password: string,
+  targetSiteCode?: string | null
+) {
   const { cookies, headers } = await import('next/headers');
   const { checkRateLimit } = await import('@/lib/security');
   const {
     authenticateAdminUser,
     createSessionToken,
     getAdminCookieName,
-    ADMIN_COOKIE_NAME,
+    getHostPortSlug,
   } = await import('@/lib/adminAuth');
 
   const reqHeaders = await headers();
@@ -513,7 +517,11 @@ export async function loginAdminAction(username: string, password: string) {
     reqHeaders.get('x-forwarded-for')?.split(',')[0]?.trim() ||
     reqHeaders.get('x-real-ip') ||
     '127.0.0.1';
-  const rate = checkRateLimit(`admin_login:${ip}:${username.trim().toLowerCase()}`, 8, 10 * 60 * 1000);
+  const rate = checkRateLimit(
+    `admin_login:${ip}:${username.trim().toLowerCase()}`,
+    8,
+    10 * 60 * 1000
+  );
   if (!rate.allowed) {
     return {
       success: false,
@@ -522,13 +530,15 @@ export async function loginAdminAction(username: string, password: string) {
   }
 
   const instanceSiteCode = process.env.DEFAULT_SITE_CODE?.trim() || null;
-  const res = await authenticateAdminUser(username, password, instanceSiteCode);
+  const effectiveTarget = instanceSiteCode || targetSiteCode?.trim() || 'MASTER';
+  const res = await authenticateAdminUser(username, password, effectiveTarget);
   if (!res.success || !res.session) {
     return { success: false, error: res.error || 'Đăng nhập thất bại.' };
   }
 
   const token = createSessionToken(res.session);
   const cookieStore = await cookies();
+  const hostSlug = await getHostPortSlug();
   const cookieOpts = {
     httpOnly: true,
     sameSite: 'lax' as const,
@@ -536,12 +546,20 @@ export async function loginAdminAction(username: string, password: string) {
     maxAge: 7 * 24 * 60 * 60,
   };
 
-  cookieStore.set(getAdminCookieName(instanceSiteCode), token, cookieOpts);
-  if (!instanceSiteCode) {
-    if (res.session.allowedSiteCode) {
-      cookieStore.set(getAdminCookieName(res.session.allowedSiteCode), token, cookieOpts);
+  // Clear any legacy or previous scope cookies on this host before setting the new scoped session
+  for (const c of cookieStore.getAll()) {
+    if (
+      c.name.startsWith('cic_landing_session') ||
+      c.name === `cic_active_session_${hostSlug}`
+    ) {
+      cookieStore.delete(c.name);
     }
-    cookieStore.set(ADMIN_COOKIE_NAME, token, cookieOpts);
+  }
+
+  if (instanceSiteCode) {
+    cookieStore.set(getAdminCookieName(instanceSiteCode, hostSlug), token, cookieOpts);
+  } else {
+    cookieStore.set(`cic_active_session_${hostSlug}`, token, cookieOpts);
   }
 
   revalidatePath('/admin');
@@ -549,17 +567,30 @@ export async function loginAdminAction(username: string, password: string) {
     success: true,
     role: res.session.role,
     allowedSiteCode: res.session.allowedSiteCode,
+    activeScope: res.session.activeScope,
   };
 }
 
 export async function logoutAdminAction() {
   const { cookies } = await import('next/headers');
-  const { getAdminCookieName, ADMIN_COOKIE_NAME } = await import('@/lib/adminAuth');
+  const { getAdminCookieName, getHostPortSlug } = await import('@/lib/adminAuth');
   const cookieStore = await cookies();
-  cookieStore.delete(getAdminCookieName());
-  cookieStore.delete(ADMIN_COOKIE_NAME);
-  cookieStore.delete('cic_landing_session_cms-intellicad');
-  cookieStore.delete('cic_landing_session_robot-cong-trinh');
+  const hostSlug = await getHostPortSlug();
+  const standaloneSite = process.env.DEFAULT_SITE_CODE?.trim() || null;
+
+  if (standaloneSite) {
+    cookieStore.delete(getAdminCookieName(standaloneSite, hostSlug));
+    cookieStore.delete(`cic_standalone_session_${standaloneSite}`);
+  } else {
+    cookieStore.delete(`cic_active_session_${hostSlug}`);
+  }
+
+  for (const c of cookieStore.getAll()) {
+    if (c.name.startsWith('cic_landing_session')) {
+      cookieStore.delete(c.name);
+    }
+  }
+
   revalidatePath('/admin');
   return { success: true };
 }

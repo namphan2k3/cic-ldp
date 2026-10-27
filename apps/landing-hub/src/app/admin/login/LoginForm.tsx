@@ -5,7 +5,7 @@ import { useRouter } from 'next/navigation';
 import { loginAdminAction } from '../actions';
 
 export function LoginForm({
-  lockedSiteCode: _lockedSiteCode,
+  lockedSiteCode,
   nextUrl,
 }: {
   lockedSiteCode: string | null;
@@ -22,7 +22,7 @@ export function LoginForm({
     setLoading(true);
     setErrorMsg(null);
     try {
-      const res = await loginAdminAction(username, password);
+      const res = await loginAdminAction(username, password, lockedSiteCode);
       if (!res.success) {
         setErrorMsg(res.error || 'Đăng nhập không thành công.');
         setLoading(false);

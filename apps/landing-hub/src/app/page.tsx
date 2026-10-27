@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { headers } from 'next/headers';
 import { getAllLandingSites, getLandingSiteByDomain } from '@cic/db';
 import LandingSitePage from './s/[code]/page';
+import { AdminSessionBoundary } from './admin/components/AdminSessionBoundary';
 
 export const dynamic = 'force-dynamic';
 
@@ -144,6 +145,7 @@ export default async function LandingHubIndexPage({
 
   return (
     <div className="min-h-screen bg-[#f8fafc] px-4 py-8 text-[#0f172a] sm:px-8">
+      <AdminSessionBoundary clearOnMount={true} />
       <div className="mx-auto max-w-[1400px] space-y-6">
         {/* Header */}
         <div className="flex flex-wrap items-center justify-between gap-4 rounded-xl border border-slate-200 bg-white px-6 py-5 shadow-2xs">
