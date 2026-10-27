@@ -64,11 +64,8 @@ export default async function MasterAdminHubPage({ searchParams }: MasterAdminPa
     redirect(`/admin/login?next=${encodeURIComponent(nextPath)}`);
   }
 
-  const scopedSiteFromSession = session.activeScope?.startsWith('site:')
-    ? session.activeScope.slice('site:'.length)
-    : session.role === 'site_admin'
-    ? session.allowedSiteCode
-    : null;
+  const scopedSiteFromSession =
+    session.role === 'site_admin' ? session.allowedSiteCode : null;
 
   const lockedSiteCode = envSiteCode || scopedSiteFromSession || null;
   const selectedSite = lockedSiteCode || sp.site || 'ALL';

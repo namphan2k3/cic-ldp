@@ -146,7 +146,7 @@ export default async function LandingHubIndexPage({
 
   return (
     <div className="min-h-screen bg-[#f8fafc] px-4 py-8 text-[#0f172a] sm:px-8">
-      <AdminSessionBoundary clearOnMount={true} />
+      <AdminSessionBoundary clearOnMount={false} />
       <div className="mx-auto max-w-[1400px] space-y-6">
         {/* Header */}
         <div className="flex flex-wrap items-center justify-between gap-4 rounded-xl border border-slate-200 bg-white px-6 py-5 shadow-2xs">

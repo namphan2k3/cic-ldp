@@ -149,38 +149,32 @@ export async function getAdminSession(
 
   const req = requiredSiteCode?.trim() || null;
 
+  // Super Admin has full access across Master Hub and all 14 sites without re-logging in
+  if (session.role === 'super_admin') {
+    return session;
+  }
+
   // Unscoped API call (e.g. export routes): accept any valid active session on this host+port
   if (!req) {
     return session;
   }
 
-  // Master Hub root (/admin without specific site filter): strictly requires MASTER scope & super_admin
+  // Master Hub root (/admin without specific site filter): strictly requires super_admin
   if (req === 'MASTER') {
-    if (session.role === 'super_admin' && session.activeScope === 'MASTER') {
-      return session;
-    }
     return null;
   }
 
-  // /admin?site=<siteCode> (used by both site's own Analytics/Leads tabs and Master Hub site filter)
+  // /admin?site=<siteCode> (used by site's own Analytics/Leads tabs)
   if (req.startsWith('MASTER_OR_SITE:')) {
     const targetSite = req.slice('MASTER_OR_SITE:'.length);
-    if (session.activeScope === `site:${targetSite}`) {
-      if (session.role === 'super_admin' || session.allowedSiteCode === targetSite) {
-        return session;
-      }
-    }
-    if (session.activeScope === 'MASTER' && session.role === 'super_admin') {
+    if (session.allowedSiteCode === targetSite) {
       return session;
     }
     return null;
   }
 
-  // Specific site CMS (/admin/<siteCode>): strictly requires activeScope === 'site:<siteCode>'
-  if (session.activeScope !== `site:${req}`) {
-    return null;
-  }
-  if (session.role !== 'super_admin' && session.allowedSiteCode !== req) {
+  // Specific site CMS (/admin/<siteCode>): site_admin can only access their assigned site
+  if (session.allowedSiteCode !== req) {
     return null;
   }
 
