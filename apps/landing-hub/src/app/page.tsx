@@ -130,7 +130,11 @@ export default async function LandingHubIndexPage({
   }
 
   const reqHeaders = await headers();
-  const rawHost = (reqHeaders.get('host') || '').toLowerCase().split(':')[0];
+  const rawHost = (reqHeaders.get('x-forwarded-host') || reqHeaders.get('host') || '')
+    .toLowerCase()
+    .split(':')[0]
+    .replace(/^www\./, '')
+    .trim();
   const isLocalhost = !rawHost || rawHost === 'localhost' || rawHost === '127.0.0.1';
   if (!isLocalhost) {
     const matchedSite = await getLandingSiteByDomain(rawHost);
