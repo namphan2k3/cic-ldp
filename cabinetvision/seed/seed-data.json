@@ -1,0 +1,996 @@
+{
+  "exportedAt": "2026-10-28T01:17:17.838Z",
+  "targetSiteCode": "cabinetvision",
+  "sectionTypes": [
+    {
+      "landing_section_type_code": "advantages",
+      "landing_section_type_name": "Ưu Điểm Vượt Trội",
+      "category": "feature",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.707Z",
+      "updated_at_utc": "2026-10-28T01:12:40.707Z"
+    },
+    {
+      "landing_section_type_code": "catalog",
+      "landing_section_type_name": "Danh Mục Tính Năng / Giải Pháp",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.719Z",
+      "updated_at_utc": "2026-10-28T01:12:40.719Z"
+    },
+    {
+      "landing_section_type_code": "comparison",
+      "landing_section_type_name": "Bảng So Sánh & Các Gói Bản Quyền",
+      "category": "comparison",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.725Z",
+      "updated_at_utc": "2026-10-28T01:12:40.725Z"
+    },
+    {
+      "landing_section_type_code": "consultation_form",
+      "landing_section_type_name": "Form Đăng Ký Tư Vấn & Tải Dùng Thử",
+      "category": "form",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.731Z",
+      "updated_at_utc": "2026-10-28T01:12:40.731Z"
+    },
+    {
+      "landing_section_type_code": "faq",
+      "landing_section_type_name": "Câu Hỏi Thường Gặp (FAQ)",
+      "category": "faq",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.739Z",
+      "updated_at_utc": "2026-10-28T01:12:40.739Z"
+    },
+    {
+      "landing_section_type_code": "floating_cta",
+      "landing_section_type_name": "Nút Liên Hệ Nổi (Floating CTA)",
+      "category": "cta",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.743Z",
+      "updated_at_utc": "2026-10-28T01:12:40.743Z"
+    },
+    {
+      "landing_section_type_code": "footer",
+      "landing_section_type_name": "Chân Trang (Footer)",
+      "category": "footer",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.750Z",
+      "updated_at_utc": "2026-10-28T01:12:40.750Z"
+    },
+    {
+      "landing_section_type_code": "header",
+      "landing_section_type_name": "Thanh Điều Hướng (Header)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.756Z",
+      "updated_at_utc": "2026-10-28T01:12:40.756Z"
+    },
+    {
+      "landing_section_type_code": "hero",
+      "landing_section_type_name": "Banner Chính (Hero Section)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.762Z",
+      "updated_at_utc": "2026-10-28T01:12:40.762Z"
+    },
+    {
+      "landing_section_type_code": "infrastructure",
+      "landing_section_type_name": "Infrastructure & Specialized Machinery",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.769Z",
+      "updated_at_utc": "2026-10-28T01:12:40.769Z"
+    },
+    {
+      "landing_section_type_code": "intro",
+      "landing_section_type_name": "Giới Thiệu Tổng Quan & Thống Kê",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.773Z",
+      "updated_at_utc": "2026-10-28T01:12:40.773Z"
+    },
+    {
+      "landing_section_type_code": "requirements",
+      "landing_section_type_name": "Yêu Cầu Cấu Hình Hệ Thống",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.777Z",
+      "updated_at_utc": "2026-10-28T01:12:40.777Z"
+    },
+    {
+      "landing_section_type_code": "resources",
+      "landing_section_type_name": "Tài Nguyên & Thư Viện Hỗ Trợ",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.781Z",
+      "updated_at_utc": "2026-10-28T01:12:40.781Z"
+    },
+    {
+      "landing_section_type_code": "video_slider",
+      "landing_section_type_name": "YouTube Video Showcase Slider",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.789Z",
+      "updated_at_utc": "2026-10-28T01:12:40.789Z"
+    }
+  ],
+  "sites": [
+    {
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "landing_site_code": "cabinetvision",
+      "landing_site_name": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất (LadiPage)",
+      "landing_site_type": "landing",
+      "primary_domain": "cabinetvision.nghenoithat.vn",
+      "custom_domains_json": [
+        "cabinetvision.nghenoithat.vn",
+        "www.cabinetvision.nghenoithat.vn"
+      ],
+      "supported_locales_json": [
+        "vi"
+      ],
+      "default_locale": "vi",
+      "site_status": "active",
+      "brand_config_json": {
+        "email": "info@cic.com.vn",
+        "address": "Tòa nhà CIC, 37 Lê Văn Thiêm, Nhân Chính, Thanh Xuân, Hà Nội",
+        "hotline": "0866 059 659",
+        "logo_alt": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất",
+        "logo_url": "/api/landing/media/cabinetvision/images/logo.png",
+        "favicon_url": "/api/landing/media/cabinetvision/images/favicon.ico",
+        "primary_color": "#b45309",
+        "hosting_origin": "LadiPage",
+        "bitrix_loader_url": "https://crm.cic.com.vn/upload/crm/site_button/loader_7_dpkpao.js"
+      },
+      "seo_meta_json": {
+        "title": "Phần mềm Cabinet Vision — Tự động hóa Thiết kế & Sản xuất CNC Ngành Gỗ",
+        "keywords": "Cabinet Vision, phần mềm thiết kế nội thất gỗ, sản xuất CNC ngành gỗ, Nesting, G-Code, CIC",
+        "og_image": "/api/landing/media/cabinetvision/images/hero.png",
+        "description": "Giải pháp phần mềm Cabinet Vision tự động hóa từ thiết kế 3D nội thất gỗ, bóc tách vật tư, tối ưu cắt ván (Nesting) đến xuất mã G-Code máy CNC."
+      },
+      "tracking_config_json": {},
+      "created_at_utc": "2026-10-28T01:12:40.810Z",
+      "updated_at_utc": "2026-10-28T01:12:40.810Z"
+    }
+  ],
+  "pages": [
+    {
+      "landing_page_id": "5b58a2af-2ed9-4f0b-8586-fd4dc3cad7a0",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "landing_page_slug": "home",
+      "landing_page_locale": "vi",
+      "page_title": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất",
+        "keywords": "Cabinet Vision, phần mềm thiết kế nội thất gỗ, sản xuất CNC ngành gỗ, Nesting, G-Code, CIC",
+        "og_image": "/api/landing/media/cabinetvision/images/hero.png",
+        "description": "Giải pháp phần mềm Cabinet Vision tự động hóa từ thiết kế 3D nội thất gỗ, bóc tách vật tư, tối ưu cắt ván (Nesting) đến xuất mã G-Code máy CNC."
+      },
+      "published_at_utc": "2026-10-27T02:49:19.074Z",
+      "created_at_utc": "2026-10-28T01:12:40.973Z",
+      "updated_at_utc": "2026-10-28T01:12:40.973Z"
+    }
+  ],
+  "sections": [
+    {
+      "landing_page_section_id": "6d254263-7ad9-487c-9fe4-0ccc56878088",
+      "landing_page_id": "5b58a2af-2ed9-4f0b-8586-fd4dc3cad7a0",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "SECTION16",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Thiết kế",
+            "description": "Cabinet Vision không chỉ là phần mềm CAD/CAM, đây là một giải pháp kỹ thuật tổng thể cho ngành công nghiệp sản xuất đồ nội thất tủ gỗ công nghiệp từ thiết kế tới sản xuất thành phẩm. Với hơn 30 năm xây dựng và phát triển, Cabinet Vision đã có sẵn ở 13 ngôn ngữ khác nhau với hơn 35.000 người sử dụng tại 52 quốc gia khác nhau."
+          },
+          {
+            "title": "TÍNH NĂNG NỔI BẬT",
+            "description": "• Xuất bản vẽ 3D một cách nhanh chóng và chân thực nhất. • Dễ dàng điều chỉnh các hiệu ứng ánh sáng, bóng tối và độ sáng với trình chỉnh sửa ánh sáng. • Linh hoạt thay đổi các vị trí nhìn bằng cách thiết lập vị trí và góc đặt của camera. • Xuất các bản vẽ 3D của bạn sang phần mềm bên thứ 3 để bài thuyết trình một cách chuyên nghiệp hơn."
+          },
+          {
+            "title": "Chi tiết",
+            "description": "088 691 6666"
+          },
+          {
+            "title": "S2M - Screen to Machine",
+            "description": "• Thiết kế và dựng hình trong không gian 3 chiều dễ dàng, tiện lợi. • Phù hợp với các đơn vị sản xuất đồ nội thất, chế biến gỗ từ quy mô nhà xưởng nhỏ cho đến các nhà máy sản xuất tự động hóa hoàn toàn tích hợp các mẫu thiết kế vào quy trình sản xuất."
+          },
+          {
+            "title": "TÍNH NĂNG KHÁC",
+            "description": "• Tiết kiệm thời gian với tính năng tự động tạo ra các bản vẽ mặt dựng, bản vẽ lắp ráp và bản vẽ chi tiết bộ phận • Chi tiết sản xuất các bộ phận trong bản vẽ bằng cách sử dụng tính năng card 2D. • Dễ dàng lắp đặt các bộ phận với tính năng tách rời tất cả các bộ phận trong bản vẽ và các chi tiết lắp ráp phụ kiện."
+          },
+          {
+            "title": "Dán nhãn",
+            "description": "• S2M Center là giải pháp phần mềm CAM tự động hóa mạnh mẽ nhất trong ngành chế biến gỗ, cho phép tự động xuất ra file G-Code để vận hành máy CNC. • Tính toán tiết kiệm tối đa nguyên vật liệu và chi phí nhân công bằng cách tự động hóa quy trình sản xuất. • Dễ dàng xuất danh sách ván cắt tối ưu hóa khối lượng nguyên liệu sử dụng trong sản xuất"
+          }
+        ],
+        "title": "Render",
+        "subtitle": "Thiết kế",
+        "description": "Cabinet Vision không chỉ là phần mềm CAD/CAM, đây là một giải pháp kỹ thuật tổng thể cho ngành công nghiệp sản xuất đồ nội thất tủ gỗ công nghiệp từ thiết kế tới sản xuất thành phẩm. Với hơn 30 năm xây dựng và phát triển, Cabinet Vision đã có sẵn ở 13 ngôn ngữ khác nhau với hơn 35.000 người sử dụng tại 52 quốc gia khác nhau."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.619Z",
+      "updated_at_utc": "2026-10-28T01:12:41.619Z"
+    },
+    {
+      "landing_page_section_id": "77a981cf-a0b2-4415-ae16-ec9445091445",
+      "landing_page_id": "5b58a2af-2ed9-4f0b-8586-fd4dc3cad7a0",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "SECTION16",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Thiết kế",
+            "description": "Cabinet Vision không chỉ là phần mềm CAD/CAM, đây là một giải pháp kỹ thuật tổng thể cho ngành công nghiệp sản xuất đồ nội thất tủ gỗ công nghiệp từ thiết kế tới sản xuất thành phẩm. Với hơn 30 năm xây dựng và phát triển, Cabinet Vision đã có sẵn ở 13 ngôn ngữ khác nhau với hơn 35.000 người sử dụng tại 52 quốc gia khác nhau."
+          },
+          {
+            "title": "TÍNH NĂNG NỔI BẬT",
+            "description": "• Xuất bản vẽ 3D một cách nhanh chóng và chân thực nhất. • Dễ dàng điều chỉnh các hiệu ứng ánh sáng, bóng tối và độ sáng với trình chỉnh sửa ánh sáng. • Linh hoạt thay đổi các vị trí nhìn bằng cách thiết lập vị trí và góc đặt của camera. • Xuất các bản vẽ 3D của bạn sang phần mềm bên thứ 3 để bài thuyết trình một cách chuyên nghiệp hơn."
+          },
+          {
+            "title": "Chi tiết",
+            "description": "088 691 6666"
+          },
+          {
+            "title": "S2M - Screen to Machine",
+            "description": "• Thiết kế và dựng hình trong không gian 3 chiều dễ dàng, tiện lợi. • Phù hợp với các đơn vị sản xuất đồ nội thất, chế biến gỗ từ quy mô nhà xưởng nhỏ cho đến các nhà máy sản xuất tự động hóa hoàn toàn tích hợp các mẫu thiết kế vào quy trình sản xuất."
+          },
+          {
+            "title": "TÍNH NĂNG KHÁC",
+            "description": "• Tiết kiệm thời gian với tính năng tự động tạo ra các bản vẽ mặt dựng, bản vẽ lắp ráp và bản vẽ chi tiết bộ phận • Chi tiết sản xuất các bộ phận trong bản vẽ bằng cách sử dụng tính năng card 2D. • Dễ dàng lắp đặt các bộ phận với tính năng tách rời tất cả các bộ phận trong bản vẽ và các chi tiết lắp ráp phụ kiện."
+          },
+          {
+            "title": "Dán nhãn",
+            "description": "• S2M Center là giải pháp phần mềm CAM tự động hóa mạnh mẽ nhất trong ngành chế biến gỗ, cho phép tự động xuất ra file G-Code để vận hành máy CNC. • Tính toán tiết kiệm tối đa nguyên vật liệu và chi phí nhân công bằng cách tự động hóa quy trình sản xuất. • Dễ dàng xuất danh sách ván cắt tối ưu hóa khối lượng nguyên liệu sử dụng trong sản xuất"
+          }
+        ],
+        "title": "Render",
+        "subtitle": "Thiết kế",
+        "description": "Cabinet Vision không chỉ là phần mềm CAD/CAM, đây là một giải pháp kỹ thuật tổng thể cho ngành công nghiệp sản xuất đồ nội thất tủ gỗ công nghiệp từ thiết kế tới sản xuất thành phẩm. Với hơn 30 năm xây dựng và phát triển, Cabinet Vision đã có sẵn ở 13 ngôn ngữ khác nhau với hơn 35.000 người sử dụng tại 52 quốc gia khác nhau."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.623Z",
+      "updated_at_utc": "2026-10-28T01:12:41.623Z"
+    },
+    {
+      "landing_page_section_id": "35ad1d29-c890-48a0-88ed-fca6898e5b6a",
+      "landing_page_id": "5b58a2af-2ed9-4f0b-8586-fd4dc3cad7a0",
+      "landing_section_type_code": "intro",
+      "section_anchor_id": "SECTION977",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Thiết kế",
+            "description": "• Xuất bản vẽ 3D một cách nhanh chóng và chân thực nhất. • Dễ dàng điều chỉnh các hiệu ứng ánh sáng, bóng tối và độ sáng với trình chỉnh sửa ánh sáng. • Linh hoạt thay đổi các vị trí nhìn bằng cách thiết lập vị trí và góc đặt của camera. • Xuất các bản vẽ 3D của bạn sang phần mềm bên thứ 3 để bài thuyết trình một cách chuyên nghiệp hơn."
+          },
+          {
+            "title": "TÍNH NĂNG NỔI BẬT",
+            "description": "088 691 6666"
+          },
+          {
+            "title": "Chi tiết",
+            "description": "• Thiết kế và dựng hình trong không gian 3 chiều dễ dàng, tiện lợi. • Phù hợp với các đơn vị sản xuất đồ nội thất, chế biến gỗ từ quy mô nhà xưởng nhỏ cho đến các nhà máy sản xuất tự động hóa hoàn toàn tích hợp các mẫu thiết kế vào quy trình sản xuất."
+          },
+          {
+            "title": "S2M - Screen to Machine",
+            "description": "• Tiết kiệm thời gian với tính năng tự động tạo ra các bản vẽ mặt dựng, bản vẽ lắp ráp và bản vẽ chi tiết bộ phận • Chi tiết sản xuất các bộ phận trong bản vẽ bằng cách sử dụng tính năng card 2D. • Dễ dàng lắp đặt các bộ phận với tính năng tách rời tất cả các bộ phận trong bản vẽ và các chi tiết lắp ráp phụ kiện."
+          },
+          {
+            "title": "TÍNH NĂNG KHÁC",
+            "description": "• S2M Center là giải pháp phần mềm CAM tự động hóa mạnh mẽ nhất trong ngành chế biến gỗ, cho phép tự động xuất ra file G-Code để vận hành máy CNC. • Tính toán tiết kiệm tối đa nguyên vật liệu và chi phí nhân công bằng cách tự động hóa quy trình sản xuất. • Dễ dàng xuất danh sách ván cắt tối ưu hóa khối lượng nguyên liệu sử dụng trong sản xuất"
+          },
+          {
+            "title": "Dán nhãn",
+            "description": "Công nghệ nhãn dán giúp in nhãn dán và dán vào các chi tiết. Bạn có toàn quyền kiểm soát dữ liệu được in trên nhãn dán. Kết hợp với S2M Center sẽ dễ dàng thêm mã vạch cho từng chi tiết đã cắt ra và chuyển sang các loại máy gia công khác (Máy gia công CNC P2P và các loại máy khoan lỗ và cam chốt), kết nối các khâu sản xuất với nhau liền mạch hơn."
+          }
+        ],
+        "title": "Render",
+        "subtitle": "Thiết kế",
+        "description": "• Xuất bản vẽ 3D một cách nhanh chóng và chân thực nhất. • Dễ dàng điều chỉnh các hiệu ứng ánh sáng, bóng tối và độ sáng với trình chỉnh sửa ánh sáng. • Linh hoạt thay đổi các vị trí nhìn bằng cách thiết lập vị trí và góc đặt của camera. • Xuất các bản vẽ 3D của bạn sang phần mềm bên thứ 3 để bài thuyết trình một cách chuyên nghiệp hơn."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.626Z",
+      "updated_at_utc": "2026-10-28T01:12:41.626Z"
+    },
+    {
+      "landing_page_section_id": "adc3c533-9903-42b8-a2b0-e11a252904cb",
+      "landing_page_id": "5b58a2af-2ed9-4f0b-8586-fd4dc3cad7a0",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "SECTION2",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "S2M - Screen to Machine",
+            "description": "• Tiết kiệm thời gian với tính năng tự động tạo ra các bản vẽ mặt dựng, bản vẽ lắp ráp và bản vẽ chi tiết bộ phận • Chi tiết sản xuất các bộ phận trong bản vẽ bằng cách sử dụng tính năng card 2D. • Dễ dàng lắp đặt các bộ phận với tính năng tách rời tất cả các bộ phận trong bản vẽ và các chi tiết lắp ráp phụ kiện."
+          },
+          {
+            "title": "TÍNH NĂNG KHÁC",
+            "description": "• S2M Center là giải pháp phần mềm CAM tự động hóa mạnh mẽ nhất trong ngành chế biến gỗ, cho phép tự động xuất ra file G-Code để vận hành máy CNC. • Tính toán tiết kiệm tối đa nguyên vật liệu và chi phí nhân công bằng cách tự động hóa quy trình sản xuất. • Dễ dàng xuất danh sách ván cắt tối ưu hóa khối lượng nguyên liệu sử dụng trong sản xuất"
+          },
+          {
+            "title": "Dán nhãn",
+            "description": "Công nghệ nhãn dán giúp in nhãn dán và dán vào các chi tiết. Bạn có toàn quyền kiểm soát dữ liệu được in trên nhãn dán. Kết hợp với S2M Center sẽ dễ dàng thêm mã vạch cho từng chi tiết đã cắt ra và chuyển sang các loại máy gia công khác (Máy gia công CNC P2P và các loại máy khoan lỗ và cam chốt), kết nối các khâu sản xuất với nhau liền mạch hơn."
+          },
+          {
+            "title": "Chỉnh sửa báo cáo",
+            "description": "Dễ dàng chỉnh sửa mẫu báo cáo để phù hợp với mục tiêu và mô hình xưởng sản xuất của doanh nghiệp."
+          },
+          {
+            "title": "Bố trí vân gỗ",
+            "description": "Cho phép bạn ghép vân gỗ theo chiều dọc và chiều ngang cho một tủ hoặc một nhóm tủ trong các công trình dự án cao cấp có yêu cầu độ thẩm mỹ cao."
+          },
+          {
+            "title": "Gia công mặt tủ bếp",
+            "description": "Cho phép bạn tạo ra các chi tiết liên kết trên mặt tủ bếp dễ dàng hơn, thuận lợi hơn cho việc lắp đặt mặt tủ bếp khi thi công."
+          }
+        ],
+        "title": "Chi tiết",
+        "subtitle": "S2M - Screen to Machine",
+        "description": "• Tiết kiệm thời gian với tính năng tự động tạo ra các bản vẽ mặt dựng, bản vẽ lắp ráp và bản vẽ chi tiết bộ phận • Chi tiết sản xuất các bộ phận trong bản vẽ bằng cách sử dụng tính năng card 2D. • Dễ dàng lắp đặt các bộ phận với tính năng tách rời tất cả các bộ phận trong bản vẽ và các chi tiết lắp ráp phụ kiện."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.629Z",
+      "updated_at_utc": "2026-10-28T01:12:41.629Z"
+    },
+    {
+      "landing_page_section_id": "5fd0e681-8592-4903-96a8-9bd93267456a",
+      "landing_page_id": "5b58a2af-2ed9-4f0b-8586-fd4dc3cad7a0",
+      "landing_section_type_code": "catalog",
+      "section_anchor_id": "SECTION1143",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Dán nhãn",
+            "description": "Công nghệ nhãn dán giúp in nhãn dán và dán vào các chi tiết. Bạn có toàn quyền kiểm soát dữ liệu được in trên nhãn dán. Kết hợp với S2M Center sẽ dễ dàng thêm mã vạch cho từng chi tiết đã cắt ra và chuyển sang các loại máy gia công khác (Máy gia công CNC P2P và các loại máy khoan lỗ và cam chốt), kết nối các khâu sản xuất với nhau liền mạch hơn."
+          },
+          {
+            "title": "Chỉnh sửa báo cáo",
+            "description": "Dễ dàng chỉnh sửa mẫu báo cáo để phù hợp với mục tiêu và mô hình xưởng sản xuất của doanh nghiệp."
+          },
+          {
+            "title": "Bố trí vân gỗ",
+            "description": "Cho phép bạn ghép vân gỗ theo chiều dọc và chiều ngang cho một tủ hoặc một nhóm tủ trong các công trình dự án cao cấp có yêu cầu độ thẩm mỹ cao."
+          },
+          {
+            "title": "Gia công mặt tủ bếp",
+            "description": "Cho phép bạn tạo ra các chi tiết liên kết trên mặt tủ bếp dễ dàng hơn, thuận lợi hơn cho việc lắp đặt mặt tủ bếp khi thi công."
+          },
+          {
+            "title": "LÀM VIỆC VỚI CABINET VISION",
+            "description": "LÀM VIỆC VỚI CABINET VISION Thiết kế nhanh chóng Xuất hình ảnh không gian 3D Xuất bản vẽ 2D Tối ưu rải ván với S2M GIẢM GIÁ"
+          },
+          {
+            "title": "Thiết kế nhanh chóng",
+            "description": "ĐẾN HẾT NGÀY 26/10"
+          }
+        ],
+        "title": "TÍNH NĂNG KHÁC",
+        "subtitle": "Dán nhãn",
+        "description": "Công nghệ nhãn dán giúp in nhãn dán và dán vào các chi tiết. Bạn có toàn quyền kiểm soát dữ liệu được in trên nhãn dán. Kết hợp với S2M Center sẽ dễ dàng thêm mã vạch cho từng chi tiết đã cắt ra và chuyển sang các loại máy gia công khác (Máy gia công CNC P2P và các loại máy khoan lỗ và cam chốt), kết nối các khâu sản xuất với nhau liền mạch hơn."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.634Z",
+      "updated_at_utc": "2026-10-28T01:12:41.634Z"
+    },
+    {
+      "landing_page_section_id": "a12f22ae-4932-46ac-a4bd-570524737351",
+      "landing_page_id": "5b58a2af-2ed9-4f0b-8586-fd4dc3cad7a0",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "SECTION1031",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Thiết kế nhanh chóng",
+            "description": "LÀM VIỆC VỚI CABINET VISION Thiết kế nhanh chóng Xuất hình ảnh không gian 3D Xuất bản vẽ 2D Tối ưu rải ván với S2M GIẢM GIÁ"
+          },
+          {
+            "title": "Xuất hình ảnh không gian 3D",
+            "description": "ĐẾN HẾT NGÀY 26/10"
+          },
+          {
+            "title": "Xuất bản vẽ 2D",
+            "description": "Vui lòng điền các thông tin dưới đây! Chúng tôi sẽ gửi bản dùng thử tới quý khách qua email đăng ký!"
+          },
+          {
+            "title": "Tối ưu rải ván với S2M",
+            "description": "GIẢM GIÁ"
+          },
+          {
+            "title": "10%",
+            "description": "LÀM VIỆC VỚI CABINET VISION Thiết kế nhanh chóng Xuất hình ảnh không gian 3D Xuất bản vẽ 2D Tối ưu rải ván với S2M GIẢM GIÁ"
+          },
+          {
+            "title": "ƯU ĐÃI",
+            "description": "LÀM VIỆC VỚI CABINET VISION Thiết kế nhanh chóng Xuất hình ảnh không gian 3D Xuất bản vẽ 2D Tối ưu rải ván với S2M GIẢM GIÁ"
+          }
+        ],
+        "title": "LÀM VIỆC VỚI CABINET VISION",
+        "subtitle": "Thiết kế nhanh chóng",
+        "description": "LÀM VIỆC VỚI CABINET VISION Thiết kế nhanh chóng Xuất hình ảnh không gian 3D Xuất bản vẽ 2D Tối ưu rải ván với S2M GIẢM GIÁ"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.637Z",
+      "updated_at_utc": "2026-10-28T01:12:41.637Z"
+    },
+    {
+      "landing_page_section_id": "a71e79f6-b7d3-4716-8561-7e2c6a77ce89",
+      "landing_page_id": "5b58a2af-2ed9-4f0b-8586-fd4dc3cad7a0",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "SECTION1197",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "ƯU ĐÃI",
+            "description": "GIẢM GIÁ"
+          },
+          {
+            "title": "LIÊN HỆ",
+            "description": "ĐẾN HẾT NGÀY 26/10"
+          },
+          {
+            "title": "Nhận bản dùng thử & tư vấn",
+            "description": "Vui lòng điền các thông tin dưới đây! Chúng tôi sẽ gửi bản dùng thử tới quý khách qua email đăng ký!"
+          },
+          {
+            "title": "ĐĂNG KÝ",
+            "description": "GIẢM GIÁ"
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "GIẢM GIÁ"
+          },
+          {
+            "title": "Hotline: 0866 059 659",
+            "description": "GIẢM GIÁ"
+          }
+        ],
+        "title": "10%",
+        "subtitle": "ƯU ĐÃI",
+        "description": "GIẢM GIÁ"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.639Z",
+      "updated_at_utc": "2026-10-28T01:12:41.639Z"
+    },
+    {
+      "landing_page_section_id": "1ece125a-bcf8-4578-be1f-596c30920a2d",
+      "landing_page_id": "5b58a2af-2ed9-4f0b-8586-fd4dc3cad7a0",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "SECTION704",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "LIÊN HỆ",
+            "description": "Vui lòng điền các thông tin dưới đây! Chúng tôi sẽ gửi bản dùng thử tới quý khách qua email đăng ký!"
+          },
+          {
+            "title": "Nhận bản dùng thử & tư vấn",
+            "description": "Vui lòng điền các thông tin dưới đây! Chúng tôi sẽ gửi bản dùng thử tới quý khách qua email đăng ký!"
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "Vui lòng điền các thông tin dưới đây! Chúng tôi sẽ gửi bản dùng thử tới quý khách qua email đăng ký!"
+          },
+          {
+            "title": "Hotline: 0866 059 659",
+            "description": "Vui lòng điền các thông tin dưới đây! Chúng tôi sẽ gửi bản dùng thử tới quý khách qua email đăng ký!"
+          },
+          {
+            "title": "Email: info@nghenoithat.vn",
+            "description": "Vui lòng điền các thông tin dưới đây! Chúng tôi sẽ gửi bản dùng thử tới quý khách qua email đăng ký!"
+          },
+          {
+            "title": "Website: nghenoithat.vn",
+            "description": "Vui lòng điền các thông tin dưới đây! Chúng tôi sẽ gửi bản dùng thử tới quý khách qua email đăng ký!"
+          }
+        ],
+        "title": "ƯU ĐÃI",
+        "subtitle": "LIÊN HỆ",
+        "description": "Vui lòng điền các thông tin dưới đây! Chúng tôi sẽ gửi bản dùng thử tới quý khách qua email đăng ký!"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.642Z",
+      "updated_at_utc": "2026-10-28T01:12:41.642Z"
+    }
+  ],
+  "forms": [
+    {
+      "landing_form_id": "a4fb5f6b-1c76-44c0-96d1-3fcf1229b776",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "form_code": "consultation_form",
+      "form_name": "Biểu mẫu Đăng ký Tư vấn & Báo giá (cabinetvision)",
+      "fields_schema_json": [
+        {
+          "name": "full_name",
+          "type": "text",
+          "label": "Họ và tên",
+          "required": true,
+          "placeholder": "Nhập họ và tên của bạn"
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "label": "Số điện thoại",
+          "required": true,
+          "placeholder": "Nhập số điện thoại liên hệ"
+        },
+        {
+          "name": "email",
+          "type": "email",
+          "label": "Email công việc",
+          "required": true,
+          "placeholder": "name@company.com"
+        },
+        {
+          "name": "company",
+          "type": "text",
+          "label": "Đơn vị / Công ty",
+          "required": false,
+          "placeholder": "Tên doanh nghiệp / tổ chức"
+        },
+        {
+          "name": "request_type",
+          "type": "select",
+          "label": "Nhu cầu tư vấn",
+          "options": [
+            {
+              "label": "Đăng ký dùng thử & Tài liệu kỹ thuật",
+              "value": "trial"
+            },
+            {
+              "label": "Nhận báo giá bản quyền / thiết bị",
+              "value": "quote"
+            },
+            {
+              "label": "Tư vấn giải pháp & Demo trực tiếp",
+              "value": "consultation"
+            }
+          ],
+          "required": true
+        }
+      ],
+      "notification_emails_json": [
+        "info@cic.com.vn"
+      ],
+      "google_sheet_config_json": {
+        "sheet_name": "CABINETVISION",
+        "spreadsheet_id": ""
+      },
+      "success_action": "modal_download",
+      "success_payload_json": {
+        "message": "Cảm ơn quý khách! Chuyên gia CIC sẽ liên hệ tư vấn trong thời gian sớm nhất.",
+        "modal_title": "Đăng ký thành công!",
+        "modal_description": "Quý khách có thể tải xuống tài liệu Brochure giới thiệu giải pháp ngay bên dưới:",
+        "default_download_url": "/api/landing/media/cabinetvision/downloads/brochure.pdf"
+      },
+      "is_form_active": true,
+      "created_at_utc": "2026-10-28T01:12:42.658Z",
+      "updated_at_utc": "2026-10-28T01:12:42.658Z"
+    }
+  ],
+  "media": [
+    {
+      "landing_media_asset_id": "11c6bcb6-d6f3-4413-84b0-61dcb67fcdf6",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "favicon-20200707080232",
+      "file_name": "favicon-20200707080232.png",
+      "file_path": "ladicdn/static.ladipage.net/5e410597f4aa8d0f29888a88/favicon-20200707080232.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "48757",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - favicon-20200707080232.png",
+      "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - favicon-20200707080232.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.697Z",
+      "updated_at_utc": "2026-10-28T01:12:50.697Z"
+    },
+    {
+      "landing_media_asset_id": "307c90ba-3e23-4574-bb2a-aa0d4eeea57a",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "sequence-01-1-20200710080321",
+      "file_name": "sequence-01-1-20200710080321.gif",
+      "file_path": "ladicdn/w.ladicdn.com/5e410597f4aa8d0f29888a88/sequence-01-1-20200710080321.gif",
+      "mime_type": "image/gif",
+      "file_size_bytes": "2406199",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - sequence-01-1-20200710080321.gif",
+      "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - sequence-01-1-20200710080321.gif",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.719Z",
+      "updated_at_utc": "2026-10-28T01:12:50.719Z"
+    },
+    {
+      "landing_media_asset_id": "27556cad-99d0-467a-a6e2-364a6923b9ba",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "cd-mockup-20200812024922",
+      "file_name": "cd-mockup-20200812024922.png",
+      "file_path": "ladicdn/w.ladicdn.com/s700x700/5e410597f4aa8d0f29888a88/cd-mockup-20200812024922.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "461156",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - cd-mockup-20200812024922.png",
+      "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - cd-mockup-20200812024922.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.940Z",
+      "updated_at_utc": "2026-10-28T01:12:50.940Z"
+    },
+    {
+      "landing_media_asset_id": "56c32d4e-34f6-4c66-b4d6-d63dfa51ad38",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "cd-mockup-20200812024922",
+      "file_name": "cd-mockup-20200812024922.png",
+      "file_path": "ladicdn/w.ladicdn.com/s650x650/5e410597f4aa8d0f29888a88/cd-mockup-20200812024922.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "404590",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - cd-mockup-20200812024922.png",
+      "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - cd-mockup-20200812024922.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.986Z",
+      "updated_at_utc": "2026-10-28T01:12:50.986Z"
+    },
+    {
+      "landing_media_asset_id": "65e384e9-fe24-4900-8e6e-99066655c57d",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "576dc9a0b9d3985f7844a72ed7605704-20200812024636",
+      "file_name": "576dc9a0b9d3985f7844a72ed7605704-20200812024636.jpg",
+      "file_path": "ladicdn/w.ladicdn.com/s768x1324/5e410597f4aa8d0f29888a88/576dc9a0b9d3985f7844a72ed7605704-20200812024636.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "247754",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - 576dc9a0b9d3985f7844a72ed7605704-20200812024636.jpg",
+      "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - 576dc9a0b9d3985f7844a72ed7605704-20200812024636.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:51.019Z",
+      "updated_at_utc": "2026-10-28T01:12:51.019Z"
+    },
+    {
+      "landing_media_asset_id": "4edde421-e001-4175-b36d-e9754172a5b7",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "call-icon-5-20200327021012",
+      "file_name": "call-icon-5-20200327021012.gif",
+      "file_path": "ladicdn/w.ladicdn.com/5e410597f4aa8d0f29888a88/call-icon-5-20200327021012.gif",
+      "mime_type": "image/gif",
+      "file_size_bytes": "234938",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - call-icon-5-20200327021012.gif",
+      "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - call-icon-5-20200327021012.gif",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:51.040Z",
+      "updated_at_utc": "2026-10-28T01:12:51.040Z"
+    },
+    {
+      "landing_media_asset_id": "9d2adab0-2bb0-4b51-b3cf-fc107d8cb04d",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "1725-20200610093037",
+      "file_name": "1725-20200610093037.jpg",
+      "file_path": "ladicdn/w.ladicdn.com/s1440x687/5e410597f4aa8d0f29888a88/1725-20200610093037.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "187231",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - 1725-20200610093037.jpg",
+      "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - 1725-20200610093037.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:51.063Z",
+      "updated_at_utc": "2026-10-28T01:12:51.063Z"
+    },
+    {
+      "landing_media_asset_id": "c1e0e3cc-ac74-4fe4-a3ab-dd34d096f752",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "1725-20200610093037",
+      "file_name": "1725-20200610093037.jpg",
+      "file_path": "ladicdn/w.ladicdn.com/s768x1082/5e410597f4aa8d0f29888a88/1725-20200610093037.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "187231",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - 1725-20200610093037.jpg",
+      "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - 1725-20200610093037.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:51.080Z",
+      "updated_at_utc": "2026-10-28T01:12:51.080Z"
+    },
+    {
+      "landing_media_asset_id": "67f6ede8-9037-4a86-90f8-29597dffad0e",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "576dc9a0b9d3985f7844a72ed7605704-20200812024636",
+      "file_name": "576dc9a0b9d3985f7844a72ed7605704-20200812024636.jpg",
+      "file_path": "ladicdn/w.ladicdn.com/s1440x857/5e410597f4aa8d0f29888a88/576dc9a0b9d3985f7844a72ed7605704-20200812024636.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "145013",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - 576dc9a0b9d3985f7844a72ed7605704-20200812024636.jpg",
+      "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - 576dc9a0b9d3985f7844a72ed7605704-20200812024636.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:51.100Z",
+      "updated_at_utc": "2026-10-28T01:12:51.100Z"
+    },
+    {
+      "landing_media_asset_id": "bb46f679-0c37-4891-8707-cc66b12d0c39",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "best-cheap-interior-house-paints-best-house-pain",
+      "file_name": "best-cheap-interior-house-paints-best-house-paints-interior-l-f827ec387e73f211-20200812025102.jpg",
+      "file_path": "ladicdn/w.ladicdn.com/s1440x620/5e410597f4aa8d0f29888a88/best-cheap-interior-house-paints-best-house-paints-interior-l-f827ec387e73f211-20200812025102.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "129966",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - best-cheap-interior-house-paints-best-house-paints-interior-l-f827ec387e73f211-20200812025102.jpg",
+      "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - best-cheap-interior-house-paints-best-house-paints-interior-l-f827ec387e73f211-20200812025102.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:51.125Z",
+      "updated_at_utc": "2026-10-28T01:12:51.125Z"
+    },
+    {
+      "landing_media_asset_id": "871bd9f5-d604-4072-aed1-a7033e818ab2",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "chi-tiet-20200707074937",
+      "file_name": "chi-tiet-20200707074937.png",
+      "file_path": "ladicdn/w.ladicdn.com/s650x500/5e410597f4aa8d0f29888a88/chi-tiet-20200707074937.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "64966",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - chi-tiet-20200707074937.png",
+      "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - chi-tiet-20200707074937.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:51.140Z",
+      "updated_at_utc": "2026-10-28T01:12:51.140Z"
+    },
+    {
+      "landing_media_asset_id": "031220a2-8502-4632-96e6-030456a4255b",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "chi-tiet-20200707074937",
+      "file_name": "chi-tiet-20200707074937.png",
+      "file_path": "ladicdn/w.ladicdn.com/s750x550/5e410597f4aa8d0f29888a88/chi-tiet-20200707074937.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "64966",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - chi-tiet-20200707074937.png",
+      "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - chi-tiet-20200707074937.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:51.152Z",
+      "updated_at_utc": "2026-10-28T01:12:51.152Z"
+    },
+    {
+      "landing_media_asset_id": "0c407fcb-b830-4ee0-b8f5-b7c66fd61bdc",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "best-cheap-interior-house-paints-best-house-pain",
+      "file_name": "best-cheap-interior-house-paints-best-house-paints-interior-l-f827ec387e73f211-20200812025102.jpg",
+      "file_path": "ladicdn/w.ladicdn.com/s768x667/5e410597f4aa8d0f29888a88/best-cheap-interior-house-paints-best-house-paints-interior-l-f827ec387e73f211-20200812025102.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "60037",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - best-cheap-interior-house-paints-best-house-paints-interior-l-f827ec387e73f211-20200812025102.jpg",
+      "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - best-cheap-interior-house-paints-best-house-paints-interior-l-f827ec387e73f211-20200812025102.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:51.165Z",
+      "updated_at_utc": "2026-10-28T01:12:51.165Z"
+    },
+    {
+      "landing_media_asset_id": "c91120d2-4ceb-487a-afa9-b7b5a7dab41a",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "1609-20200330021030",
+      "file_name": "1609-20200330021030.png",
+      "file_path": "ladicdn/w.ladicdn.com/s750x600/5e410597f4aa8d0f29888a88/1609-20200330021030.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "59729",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - 1609-20200330021030.png",
+      "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - 1609-20200330021030.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:51.173Z",
+      "updated_at_utc": "2026-10-28T01:12:51.173Z"
+    },
+    {
+      "landing_media_asset_id": "c1435e15-3659-49f4-878b-678b0beb85c3",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "ava-20200713020255",
+      "file_name": "ava-20200713020255.png",
+      "file_path": "ladicdn/w.ladicdn.com/s700x400/5e410597f4aa8d0f29888a88/ava-20200713020255.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "59073",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - ava-20200713020255.png",
+      "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - ava-20200713020255.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:51.185Z",
+      "updated_at_utc": "2026-10-28T01:12:51.185Z"
+    },
+    {
+      "landing_media_asset_id": "153ebd4a-9dd8-46b5-8748-066a8f4f5523",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "ava-20200713020255",
+      "file_name": "ava-20200713020255.png",
+      "file_path": "ladicdn/w.ladicdn.com/s800x450/5e410597f4aa8d0f29888a88/ava-20200713020255.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "59073",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - ava-20200713020255.png",
+      "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất - ava-20200713020255.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:51.197Z",
+      "updated_at_utc": "2026-10-28T01:12:51.197Z"
+    },
+    {
+      "landing_media_asset_id": "2fe9f0f2-f967-4ff4-a065-9ab86b24b085",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "brand_logo",
+      "file_name": "logo.png",
+      "file_path": "images/logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "48757",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất Logo",
+      "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất Logo",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:51.207Z",
+      "updated_at_utc": "2026-10-28T01:12:51.207Z"
+    },
+    {
+      "landing_media_asset_id": "556fd08f-b3d5-4edc-9eb3-ff64adb0320c",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "favicon",
+      "file_name": "favicon.ico",
+      "file_path": "images/favicon.ico",
+      "mime_type": "image/x-icon",
+      "file_size_bytes": "48757",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Favicon",
+      "alt_text_en": "Favicon",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:51.218Z",
+      "updated_at_utc": "2026-10-28T01:12:51.218Z"
+    },
+    {
+      "landing_media_asset_id": "c7fa71e9-7f4c-4be8-b728-2c6cbb6dead8",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "hero_banner",
+      "file_name": "hero.png",
+      "file_path": "images/hero.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "48757",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất Hero",
+      "alt_text_en": "Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất Hero",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:51.226Z",
+      "updated_at_utc": "2026-10-28T01:12:51.226Z"
+    },
+    {
+      "landing_media_asset_id": "0ae51c8e-0200-4f21-96e8-081b5cd8e0e5",
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "media_slot_code": "brochure_pdf",
+      "file_name": "brochure.pdf",
+      "file_path": "downloads/brochure.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": "671641",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Tài liệu Brochure Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất",
+      "alt_text_en": "Brochure Cabinet Vision — Phần mềm Thiết kế & Tự động hóa Sản xuất Ngành Gỗ Nội Thất",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:51.240Z",
+      "updated_at_utc": "2026-10-28T01:12:51.240Z"
+    }
+  ],
+  "leads": [],
+  "pageViews": [
+    {
+      "landing_site_id": "e7ab17d5-163d-465b-9dbe-f6b482f460c8",
+      "view_date": "2026-10-27",
+      "views_count": 3,
+      "unique_visitors_count": 1
+    }
+  ],
+  "adminAccounts": [
+    {
+      "username": "cabinetvision_admin",
+      "password_hash": "4a208b7ff43bd0a71c3bb331db13040694d36bd9e34b5d9ed62d0be880dc5b58",
+      "display_name": "Quản trị viên Cabinet Vision",
+      "role": "site_admin",
+      "landing_site_code": "cabinetvision",
+      "is_active": true
+    },
+    {
+      "username": "admin",
+      "password_hash": "2e6c21501300cc6fa4d50597c1c483c802b6d9f00f119f004d8344f663129109",
+      "display_name": "Quản trị Tổng CIC",
+      "role": "super_admin",
+      "landing_site_code": null,
+      "is_active": true
+    }
+  ]
+}

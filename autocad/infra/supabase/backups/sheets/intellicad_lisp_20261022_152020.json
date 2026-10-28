@@ -1,0 +1,177 @@
+{
+  "exportedAt": "2026-10-22T08:20:20.121Z",
+  "source": {
+    "id": "2",
+    "code": "intellicad_lisp",
+    "name": "CMS IntelliCAD — Khách tải bộ LISP (CMS INTELLICAD LISP)",
+    "spreadsheet_id": "1789qGEPsGXONe_1fDxzA8xYCJDmV-TsHuS5fCiI7GiI",
+    "sheet_name": "CMS INTELLICAD LISP",
+    "key_columns": [
+      "thoi_gian_gui",
+      "so_dien_thoai"
+    ],
+    "column_schema": [
+      {
+        "key": "thoi_gian_gui",
+        "type": "datetime",
+        "header": "Thời gian gửi",
+        "hidden": false,
+        "position": 1
+      },
+      {
+        "key": "ho_va_ten",
+        "type": "text",
+        "header": "Họ và tên",
+        "hidden": false,
+        "position": 2
+      },
+      {
+        "key": "so_dien_thoai",
+        "type": "phone",
+        "header": "Số điện thoại",
+        "hidden": false,
+        "position": 3
+      },
+      {
+        "key": "email_cong_viec",
+        "type": "email",
+        "header": "Email công việc",
+        "hidden": false,
+        "position": 4
+      },
+      {
+        "key": "cong_ty_don_vi",
+        "type": "text",
+        "header": "Công ty / Đơn vị",
+        "hidden": false,
+        "position": 5
+      },
+      {
+        "key": "nhu_cau_chinh",
+        "type": "text",
+        "header": "Nhu cầu chính",
+        "hidden": false,
+        "position": 6
+      },
+      {
+        "key": "ghi_chu_yeu_cau",
+        "type": "text",
+        "header": "Ghi chú yêu cầu",
+        "hidden": false,
+        "position": 7
+      },
+      {
+        "key": "ngon_ngu",
+        "type": "text",
+        "header": "Ngôn ngữ",
+        "hidden": false,
+        "position": 8
+      },
+      {
+        "key": "url_trang_gui_form",
+        "type": "url",
+        "header": "URL trang gửi form",
+        "hidden": false,
+        "position": 9
+      },
+      {
+        "key": "referrer",
+        "type": "url",
+        "header": "Referrer",
+        "hidden": false,
+        "position": 10
+      },
+      {
+        "key": "utm_source",
+        "type": "text",
+        "header": "UTM Source",
+        "hidden": false,
+        "position": 11
+      },
+      {
+        "key": "utm_medium",
+        "type": "text",
+        "header": "UTM Medium",
+        "hidden": false,
+        "position": 12
+      },
+      {
+        "key": "utm_campaign",
+        "type": "text",
+        "header": "UTM Campaign",
+        "hidden": false,
+        "position": 13
+      },
+      {
+        "key": "utm_content",
+        "type": "text",
+        "header": "UTM Content",
+        "hidden": false,
+        "position": 14
+      },
+      {
+        "key": "utm_term",
+        "type": "text",
+        "header": "UTM Term",
+        "hidden": false,
+        "position": 15
+      },
+      {
+        "key": "gclid",
+        "type": "text",
+        "header": "GCLID",
+        "hidden": false,
+        "position": 16
+      },
+      {
+        "key": "fbclid",
+        "type": "text",
+        "header": "FBCLID",
+        "hidden": false,
+        "position": 17
+      },
+      {
+        "key": "trang_thai",
+        "type": "text",
+        "header": "Trạng thái",
+        "hidden": false,
+        "position": 18
+      },
+      {
+        "key": "nguoi_phu_trach",
+        "type": "text",
+        "header": "Người phụ trách",
+        "hidden": false,
+        "position": 19
+      },
+      {
+        "key": "ghi_chu_cham_soc",
+        "type": "text",
+        "header": "Ghi chú chăm sóc",
+        "hidden": false,
+        "position": 20
+      }
+    ]
+  },
+  "rowCount": 1,
+  "rows": [
+    {
+      "row_key": "2026-08-17t10:31:05+07:00|0589567779",
+      "row_number": 3,
+      "data": {
+        "ngon_ngu": "vi",
+        "referrer": "https://cmsintellicad.vn/vi",
+        "ho_va_ten": "Trần Trung",
+        "nhu_cau_chinh": "receive_lisp",
+        "so_dien_thoai": "0589567779",
+        "thoi_gian_gui": "2026-08-17T10:31:05+07:00",
+        "cong_ty_don_vi": "Home",
+        "email_cong_viec": "ks.tranbaotrungtn@gmai.com",
+        "url_trang_gui_form": "https://cmsintellicad.vn/vi"
+      },
+      "data_hash": "bc2dc0f10b7e919861cb1e780dc1760d24068076e9cfe9f48e38bfefa98edfda",
+      "first_seen_at": "2026-10-22T08:20:18.390Z",
+      "last_seen_at": "2026-10-22T08:20:18.390Z"
+    }
+  ]
+}

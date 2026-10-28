@@ -1,0 +1,2367 @@
+{
+  "exportedAt": "2026-10-28T01:16:16.410Z",
+  "targetSiteCode": "revit",
+  "sectionTypes": [
+    {
+      "landing_section_type_code": "advantages",
+      "landing_section_type_name": "Ưu Điểm Vượt Trội",
+      "category": "feature",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.707Z",
+      "updated_at_utc": "2026-10-28T01:12:40.707Z"
+    },
+    {
+      "landing_section_type_code": "catalog",
+      "landing_section_type_name": "Danh Mục Tính Năng / Giải Pháp",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.719Z",
+      "updated_at_utc": "2026-10-28T01:12:40.719Z"
+    },
+    {
+      "landing_section_type_code": "comparison",
+      "landing_section_type_name": "Bảng So Sánh & Các Gói Bản Quyền",
+      "category": "comparison",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.725Z",
+      "updated_at_utc": "2026-10-28T01:12:40.725Z"
+    },
+    {
+      "landing_section_type_code": "consultation_form",
+      "landing_section_type_name": "Form Đăng Ký Tư Vấn & Tải Dùng Thử",
+      "category": "form",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.731Z",
+      "updated_at_utc": "2026-10-28T01:12:40.731Z"
+    },
+    {
+      "landing_section_type_code": "faq",
+      "landing_section_type_name": "Câu Hỏi Thường Gặp (FAQ)",
+      "category": "faq",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.739Z",
+      "updated_at_utc": "2026-10-28T01:12:40.739Z"
+    },
+    {
+      "landing_section_type_code": "floating_cta",
+      "landing_section_type_name": "Nút Liên Hệ Nổi (Floating CTA)",
+      "category": "cta",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.743Z",
+      "updated_at_utc": "2026-10-28T01:12:40.743Z"
+    },
+    {
+      "landing_section_type_code": "footer",
+      "landing_section_type_name": "Chân Trang (Footer)",
+      "category": "footer",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.750Z",
+      "updated_at_utc": "2026-10-28T01:12:40.750Z"
+    },
+    {
+      "landing_section_type_code": "header",
+      "landing_section_type_name": "Thanh Điều Hướng (Header)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.756Z",
+      "updated_at_utc": "2026-10-28T01:12:40.756Z"
+    },
+    {
+      "landing_section_type_code": "hero",
+      "landing_section_type_name": "Banner Chính (Hero Section)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.762Z",
+      "updated_at_utc": "2026-10-28T01:12:40.762Z"
+    },
+    {
+      "landing_section_type_code": "infrastructure",
+      "landing_section_type_name": "Infrastructure & Specialized Machinery",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.769Z",
+      "updated_at_utc": "2026-10-28T01:12:40.769Z"
+    },
+    {
+      "landing_section_type_code": "intro",
+      "landing_section_type_name": "Giới Thiệu Tổng Quan & Thống Kê",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.773Z",
+      "updated_at_utc": "2026-10-28T01:12:40.773Z"
+    },
+    {
+      "landing_section_type_code": "requirements",
+      "landing_section_type_name": "Yêu Cầu Cấu Hình Hệ Thống",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.777Z",
+      "updated_at_utc": "2026-10-28T01:12:40.777Z"
+    },
+    {
+      "landing_section_type_code": "resources",
+      "landing_section_type_name": "Tài Nguyên & Thư Viện Hỗ Trợ",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.781Z",
+      "updated_at_utc": "2026-10-28T01:12:40.781Z"
+    },
+    {
+      "landing_section_type_code": "video_slider",
+      "landing_section_type_name": "YouTube Video Showcase Slider",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.789Z",
+      "updated_at_utc": "2026-10-28T01:12:40.789Z"
+    }
+  ],
+  "sites": [
+    {
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "landing_site_code": "revit",
+      "landing_site_name": "Autodesk Revit — Giải pháp Thiết kế BIM Kiến trúc & Kết cấu (Host Mắt Bão)",
+      "landing_site_type": "landing",
+      "primary_domain": "revit.cic.com.vn",
+      "custom_domains_json": [
+        "revit.localhost",
+        "www.revit.cic.com.vn"
+      ],
+      "supported_locales_json": [
+        "vi",
+        "en"
+      ],
+      "default_locale": "vi",
+      "site_status": "active",
+      "brand_config_json": {
+        "email": "info@cic.com.vn",
+        "address": "Số 37 Lê Văn Thiêm, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",
+        "hotline": "0866 059 659",
+        "logo_url": "/api/landing/media/revit/images/logo.png",
+        "zalo_url": "https://zalo.me/0866059659",
+        "favicon_url": "/api/landing/media/revit/images/favicon.ico",
+        "primary_color": "#2563eb",
+        "hosting_origin": "Host Mắt Bão"
+      },
+      "seo_meta_json": {
+        "title": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC",
+        "keywords": "revit, CIC, phần mềm xây dựng, BIM, CAD, bản quyền chính hãng",
+        "og_image": "/api/landing/media/revit/images/hero.png",
+        "description": "Hợp nhất quy trình thiết kế đa bộ môn trên một mô hình thông tin duy nhất, tự động đồng bộ toàn bộ mặt bằng, mặt cắt, thống kê khối lượng và hồ sơ bản vẽ."
+      },
+      "tracking_config_json": {
+        "ga4_id": "",
+        "gtm_id": "",
+        "fb_pixel_id": ""
+      },
+      "created_at_utc": "2026-10-28T01:12:40.857Z",
+      "updated_at_utc": "2026-10-28T01:12:40.857Z"
+    }
+  ],
+  "pages": [
+    {
+      "landing_page_id": "246037ba-5519-4cb7-b8a0-da7173114b40",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "landing_page_slug": "home",
+      "landing_page_locale": "en",
+      "page_title": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC (EN)",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC",
+        "description": "Hợp nhất quy trình thiết kế đa bộ môn trên một mô hình thông tin duy nhất, tự động đồng bộ toàn bộ mặt bằng, mặt cắt, thống kê khối lượng và hồ sơ bản vẽ."
+      },
+      "published_at_utc": "2026-10-26T04:29:29.706Z",
+      "created_at_utc": "2026-10-28T01:12:40.877Z",
+      "updated_at_utc": "2026-10-28T01:12:40.877Z"
+    },
+    {
+      "landing_page_id": "3ba2d20a-4a53-442e-ab02-df399c654bef",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "landing_page_slug": "home",
+      "landing_page_locale": "vi",
+      "page_title": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC",
+        "description": "Hợp nhất quy trình thiết kế đa bộ môn trên một mô hình thông tin duy nhất, tự động đồng bộ toàn bộ mặt bằng, mặt cắt, thống kê khối lượng và hồ sơ bản vẽ."
+      },
+      "published_at_utc": "2026-10-26T04:29:29.587Z",
+      "created_at_utc": "2026-10-28T01:12:40.885Z",
+      "updated_at_utc": "2026-10-28T01:12:40.885Z"
+    }
+  ],
+  "sections": [
+    {
+      "landing_page_section_id": "bca3b9f1-b3f3-48bf-b500-c7220e760983",
+      "landing_page_id": "246037ba-5519-4cb7-b8a0-da7173114b40",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "header",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "AUTODESK BUILDING DESIGN SUITE 2016",
+            "description": "Tôi muốn mua"
+          },
+          {
+            "title": "Tại Sao Bạn Nên Chọn Chúng Tôi",
+            "description": "Cuộn xuống xem nhiều thông tin hơn"
+          },
+          {
+            "title": "Thương hiệu uy tín số 1",
+            "description": "Phân Phối Chính Hãng Bởi Công Ty Cổ Phần Tin Học Và Xây Dựng (CIC). Là Bộ Sản Phẩm Kết Hợp Giữa Mô Hình Thông Tin Xây Dựng BIM Và Công Cụ CAD, Giúp Thiết Kế, Mô Phỏng, Xây Dựng Các Tòa Nhà Đạt Hiệu Quả Cao, Chất Lượng Tốt Nhất."
+          },
+          {
+            "title": "Đi đầu về công nghệ mới",
+            "description": "CIC là đơn vị trực thuộc Bộ xây dựng với bề dày hơn 25 năm kinh nghiệm trong lĩnh vực công nghệ thông tin ngành xây dựng."
+          },
+          {
+            "title": "Hỗ trợ khách hàng tốt nhất",
+            "description": "--> Thương hiệu uy tín số 1 Hơn 25 năm hoạt động, đạt nhiều giải thưởng, danh hiệu của nhà nước, bộ xây dựng, bộ KHCN, bộ thông tin TT,..các hiệp hội trong và ngoài nước."
+          },
+          {
+            "title": "Những đặc điểm nổi bật",
+            "description": "--> Đi đầu về công nghệ mới Là đơn vị đầu tiên đưa giải pháp BIM tại Việt Nam, liên tục nghiên cứu đưa ra các giải pháp phần mềm mới tốt nhất cho thị trường"
+          }
+        ],
+        "title": "Phân phối chính hãng bởi CIC",
+        "logo_url": "/api/landing/media/revit/images/logo.png",
+        "subtitle": "AUTODESK BUILDING DESIGN SUITE 2016",
+        "cta_label": "Register Now",
+        "nav_items": [
+          {
+            "href": "#intro",
+            "label": "Overview"
+          },
+          {
+            "href": "#advantages",
+            "label": "Advantages"
+          },
+          {
+            "href": "#catalog",
+            "label": "Solutions"
+          },
+          {
+            "href": "#comparison",
+            "label": "Pricing & Packages"
+          },
+          {
+            "href": "#faq",
+            "label": "FAQ"
+          }
+        ],
+        "brand_name": "Autodesk Revit",
+        "description": "Tôi muốn mua"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.263Z",
+      "updated_at_utc": "2026-10-28T01:12:41.263Z"
+    },
+    {
+      "landing_page_section_id": "c3ec0190-cf8b-454e-b4a0-9be8c017f26f",
+      "landing_page_id": "246037ba-5519-4cb7-b8a0-da7173114b40",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "hero",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "Đối Tác Ủy Quyền Autodesk Tại Việt Nam — Công Ty Cổ Phần Công Nghệ & Tư Vấn CIC",
+        "items": [
+          {
+            "title": "AUTODESK BUILDING DESIGN SUITE 2016",
+            "description": "Tôi muốn mua"
+          },
+          {
+            "title": "Tại Sao Bạn Nên Chọn Chúng Tôi",
+            "description": "Cuộn xuống xem nhiều thông tin hơn"
+          },
+          {
+            "title": "Thương hiệu uy tín số 1",
+            "description": "Phân Phối Chính Hãng Bởi Công Ty Cổ Phần Tin Học Và Xây Dựng (CIC). Là Bộ Sản Phẩm Kết Hợp Giữa Mô Hình Thông Tin Xây Dựng BIM Và Công Cụ CAD, Giúp Thiết Kế, Mô Phỏng, Xây Dựng Các Tòa Nhà Đạt Hiệu Quả Cao, Chất Lượng Tốt Nhất."
+          },
+          {
+            "title": "Đi đầu về công nghệ mới",
+            "description": "CIC là đơn vị trực thuộc Bộ xây dựng với bề dày hơn 25 năm kinh nghiệm trong lĩnh vực công nghệ thông tin ngành xây dựng."
+          },
+          {
+            "title": "Hỗ trợ khách hàng tốt nhất",
+            "description": "--> Thương hiệu uy tín số 1 Hơn 25 năm hoạt động, đạt nhiều giải thưởng, danh hiệu của nhà nước, bộ xây dựng, bộ KHCN, bộ thông tin TT,..các hiệp hội trong và ngoài nước."
+          },
+          {
+            "title": "Những đặc điểm nổi bật",
+            "description": "--> Đi đầu về công nghệ mới Là đơn vị đầu tiên đưa giải pháp BIM tại Việt Nam, liên tục nghiên cứu đưa ra các giải pháp phần mềm mới tốt nhất cho thị trường"
+          }
+        ],
+        "stats": [
+          {
+            "label": "Kiến trúc (Architecture), Kết cấu (Structure) & Cơ điện (MEP) hợp nhất",
+            "value": "3 Trong 1"
+          },
+          {
+            "label": "Bản quyền Autodesk chính hãng kèm hóa đơn & chứng nhận từ CIC",
+            "value": "100%"
+          },
+          {
+            "label": "Giảm thiểu sai sót xung đột hồ sơ thi công tại công trường",
+            "value": "50%+"
+          },
+          {
+            "label": "Tặng kèm bộ Template & Family tiêu chuẩn Việt Nam do CIC biên soạn",
+            "value": "TCVN"
+          }
+        ],
+        "title": "Phân phối chính hãng bởi CIC",
+        "subtitle": "AUTODESK BUILDING DESIGN SUITE 2016",
+        "description": "Tôi muốn mua",
+        "hero_image_url": "/api/landing/media/revit/images/hero.png",
+        "primary_cta_href": "#consultation",
+        "primary_cta_label": "Download Trial & Quote",
+        "secondary_cta_href": "#comparison",
+        "secondary_cta_label": "View Brochure (PDF)"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.269Z",
+      "updated_at_utc": "2026-10-28T01:12:41.269Z"
+    },
+    {
+      "landing_page_section_id": "13779c71-8d95-40aa-b8f1-bf13f2bb92da",
+      "landing_page_id": "246037ba-5519-4cb7-b8a0-da7173114b40",
+      "landing_section_type_code": "intro",
+      "section_anchor_id": "intro",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "WHY CHOOSE CIC VIETNAM",
+        "items": [
+          {
+            "title": "Tại Sao Bạn Nên Chọn Chúng Tôi",
+            "description": "Phân Phối Chính Hãng Bởi Công Ty Cổ Phần Tin Học Và Xây Dựng (CIC). Là Bộ Sản Phẩm Kết Hợp Giữa Mô Hình Thông Tin Xây Dựng BIM Và Công Cụ CAD, Giúp Thiết Kế, Mô Phỏng, Xây Dựng Các Tòa Nhà Đạt Hiệu Quả Cao, Chất Lượng Tốt Nhất."
+          },
+          {
+            "title": "Thương hiệu uy tín số 1",
+            "description": "CIC là đơn vị trực thuộc Bộ xây dựng với bề dày hơn 25 năm kinh nghiệm trong lĩnh vực công nghệ thông tin ngành xây dựng."
+          },
+          {
+            "title": "Đi đầu về công nghệ mới",
+            "description": "--> Thương hiệu uy tín số 1 Hơn 25 năm hoạt động, đạt nhiều giải thưởng, danh hiệu của nhà nước, bộ xây dựng, bộ KHCN, bộ thông tin TT,..các hiệp hội trong và ngoài nước."
+          },
+          {
+            "title": "Hỗ trợ khách hàng tốt nhất",
+            "description": "--> Đi đầu về công nghệ mới Là đơn vị đầu tiên đưa giải pháp BIM tại Việt Nam, liên tục nghiên cứu đưa ra các giải pháp phần mềm mới tốt nhất cho thị trường"
+          },
+          {
+            "title": "Những đặc điểm nổi bật",
+            "description": "--> Hỗ trợ khách hàng tốt nhất Hỗ trợ 24/7, từ các chuyên gia hàng đầu nhiều năm kinh nghiệm về giải pháp BIM"
+          },
+          {
+            "title": "Thiết kế Chính Xác, Hạn Chế Lỗi",
+            "description": "Building Information Modeling (BIM) đang giúp thay đổi trong việc xây dựng các tòa nhà, cơ sở hạ tầng, các tiện ích được quy hoạch, thiết kế, xây dựng và quản lý.., trực quan, mô phỏng, và phối hợp kích hoạt bởi các giải pháp Autodesk BIM cung cấp rõ ràng hơn cho tất cả các bên liên quan trên toàn bộ vòng đời dự án."
+          }
+        ],
+        "title": "AUTODESK BUILDING DESIGN SUITE 2016",
+        "subtitle": "Tại Sao Bạn Nên Chọn Chúng Tôi",
+        "description": "Phân Phối Chính Hãng Bởi Công Ty Cổ Phần Tin Học Và Xây Dựng (CIC). Là Bộ Sản Phẩm Kết Hợp Giữa Mô Hình Thông Tin Xây Dựng BIM Và Công Cụ CAD, Giúp Thiết Kế, Mô Phỏng, Xây Dựng Các Tòa Nhà Đạt Hiệu Quả Cao, Chất Lượng Tốt Nhất."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.272Z",
+      "updated_at_utc": "2026-10-28T01:12:41.272Z"
+    },
+    {
+      "landing_page_section_id": "545bdaf5-3668-4af0-8688-fea8562cced7",
+      "landing_page_id": "246037ba-5519-4cb7-b8a0-da7173114b40",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "advantages",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "KEY ADVANTAGES",
+        "items": [
+          {
+            "title": "Thương hiệu uy tín số 1",
+            "description": "CIC là đơn vị trực thuộc Bộ xây dựng với bề dày hơn 25 năm kinh nghiệm trong lĩnh vực công nghệ thông tin ngành xây dựng."
+          },
+          {
+            "title": "Đi đầu về công nghệ mới",
+            "description": "--> Thương hiệu uy tín số 1 Hơn 25 năm hoạt động, đạt nhiều giải thưởng, danh hiệu của nhà nước, bộ xây dựng, bộ KHCN, bộ thông tin TT,..các hiệp hội trong và ngoài nước."
+          },
+          {
+            "title": "Hỗ trợ khách hàng tốt nhất",
+            "description": "--> Đi đầu về công nghệ mới Là đơn vị đầu tiên đưa giải pháp BIM tại Việt Nam, liên tục nghiên cứu đưa ra các giải pháp phần mềm mới tốt nhất cho thị trường"
+          },
+          {
+            "title": "Những đặc điểm nổi bật",
+            "description": "--> Hỗ trợ khách hàng tốt nhất Hỗ trợ 24/7, từ các chuyên gia hàng đầu nhiều năm kinh nghiệm về giải pháp BIM"
+          },
+          {
+            "title": "Thiết kế Chính Xác, Hạn Chế Lỗi",
+            "description": "Building Information Modeling (BIM) đang giúp thay đổi trong việc xây dựng các tòa nhà, cơ sở hạ tầng, các tiện ích được quy hoạch, thiết kế, xây dựng và quản lý.., trực quan, mô phỏng, và phối hợp kích hoạt bởi các giải pháp Autodesk BIM cung cấp rõ ràng hơn cho tất cả các bên liên quan trên toàn bộ vòng đời dự án."
+          },
+          {
+            "title": "Quản lý công việc nhanh",
+            "description": "Do BIM chỉ dùng 1 mô hình làm lõi trung gian nên tất cả các mặt cắt, mặt bằng, bảng biểu..đều link đến và tự động cập nhật mỗi khi thay đổi, do đó luôn khớp chính xác với bản vẽ."
+          }
+        ],
+        "title": "Tại Sao Bạn Nên Chọn Chúng Tôi",
+        "subtitle": "Thương hiệu uy tín số 1",
+        "description": "CIC là đơn vị trực thuộc Bộ xây dựng với bề dày hơn 25 năm kinh nghiệm trong lĩnh vực công nghệ thông tin ngành xây dựng."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.274Z",
+      "updated_at_utc": "2026-10-28T01:12:41.274Z"
+    },
+    {
+      "landing_page_section_id": "b8b80938-1b01-49f3-80f0-b02afc70f8bf",
+      "landing_page_id": "246037ba-5519-4cb7-b8a0-da7173114b40",
+      "landing_section_type_code": "catalog",
+      "section_anchor_id": "catalog",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "PRODUCT MODULES",
+        "items": [
+          {
+            "title": "Thiết kế Chính Xác, Hạn Chế Lỗi",
+            "description": "Building Information Modeling (BIM) đang giúp thay đổi trong việc xây dựng các tòa nhà, cơ sở hạ tầng, các tiện ích được quy hoạch, thiết kế, xây dựng và quản lý.., trực quan, mô phỏng, và phối hợp kích hoạt bởi các giải pháp Autodesk BIM cung cấp rõ ràng hơn cho tất cả các bên liên quan trên toàn bộ vòng đời dự án."
+          },
+          {
+            "title": "Quản lý công việc nhanh",
+            "description": "Do BIM chỉ dùng 1 mô hình làm lõi trung gian nên tất cả các mặt cắt, mặt bằng, bảng biểu..đều link đến và tự động cập nhật mỗi khi thay đổi, do đó luôn khớp chính xác với bản vẽ."
+          },
+          {
+            "title": "Phần mềm toàn diện",
+            "description": "Với Bim bạn có thể được thực hiện với máy tính để bàn, điện toán đám mây, web, và các nền tảng di động. Truy xuất theo thời gian thực,đáp ứng tốt hơn các nhu cầu của đổi dự án"
+          },
+          {
+            "title": "Tích hợp nhiều công cụ",
+            "description": "Công nghệ tiên tiến giúp thiết kế, trực quan, mô phỏng, và phối hợp các công cụ dành cho quy trình BIM và nền tảng CAD."
+          },
+          {
+            "title": "Hỗ trợ đào tạo",
+            "description": "Phần mềm Autodesk Building Design Suite 2016 phiên bản Premium và Ultimate bao gồm Autodesk Revit 2016. Được truy cập vào một tập hợp rộng lớn hơn của các công cụ để giúp sắp xếp công việc của bạn và cộng tác hiệu quả hơn với lĩnh vực thiết kế xây dựng khác trên nền tảng Revit®."
+          },
+          {
+            "title": "Giảm giá đặc biệt",
+            "description": "Hỗ trợ đào tạo CIC giới thiệu các khóa học ưu đãi đặc biệt dành tặng cho bạn."
+          }
+        ],
+        "title": "Những đặc điểm nổi bật",
+        "subtitle": "Thiết kế Chính Xác, Hạn Chế Lỗi",
+        "description": "Building Information Modeling (BIM) đang giúp thay đổi trong việc xây dựng các tòa nhà, cơ sở hạ tầng, các tiện ích được quy hoạch, thiết kế, xây dựng và quản lý.., trực quan, mô phỏng, và phối hợp kích hoạt bởi các giải pháp Autodesk BIM cung cấp rõ ràng hơn cho tất cả các bên liên quan trên toàn bộ vòng đời dự án."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.277Z",
+      "updated_at_utc": "2026-10-28T01:12:41.277Z"
+    },
+    {
+      "landing_page_section_id": "d43c3725-0913-404f-bb0b-8fd6608625bd",
+      "landing_page_id": "246037ba-5519-4cb7-b8a0-da7173114b40",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "comparison",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "LICENSING & PACKAGES",
+        "items": [
+          {
+            "title": "Standard",
+            "description": "Standard Chức năng chuẩn sử dụng trong thiết kế."
+          },
+          {
+            "title": "$19",
+            "description": "Autodesk AutoCAD 2016"
+          },
+          {
+            "title": "Premium",
+            "description": "Autodesk AutoCAD Architecture 2016"
+          },
+          {
+            "title": "$99",
+            "description": "Autodesk AutoCAD MEP 2016"
+          },
+          {
+            "title": "Ultimate",
+            "description": "Autodesk Showcase 2016"
+          },
+          {
+            "title": "$299",
+            "description": "Autodesk AutoCAD Raster Design"
+          }
+        ],
+        "title": "Chọn phiên bản",
+        "pdf_url": "/api/landing/media/revit/downloads/brochure.pdf",
+        "packages": [
+          {
+            "name": "Autodesk Revit Subscription",
+            "price": "Thuê bao 1 Năm / 3 Năm",
+            "period": "Bản quyền Named User chính hãng",
+            "features": [
+              "Đầy đủ tính năng Revit Architecture, Structure, MEP",
+              "Tích hợp sẵn Twinmotion for Revit & Dynamo",
+              "Luôn được nâng cấp phiên bản mới nhất"
+            ],
+            "cta_label": "Nhận Báo Giá Revit",
+            "description": "Dành cho các văn phòng kiến trúc, công ty tư vấn thiết kế chuyên sâu trên nền tảng Revit."
+          },
+          {
+            "name": "AEC Collection (Trọn Bộ BIM Autodesk)",
+            "badge": "KHUYÊN DÙNG CHO DOANH NGHIỆP",
+            "price": "Tiết Kiệm Hơn 45%",
+            "period": "Gói 20+ phần mềm thiết kế xây dựng",
+            "features": [
+              "Sử dụng đồng thời Revit, AutoCAD, Civil 3D, Navisworks",
+              "Tiết kiệm chi phí vượt trội so với mua lẻ từng phần mềm",
+              "Tặng bộ Template & Family chuẩn TCVN của CIC",
+              "Hỗ trợ kỹ thuật cài đặt & quản trị license từ chuyên gia CIC"
+            ],
+            "cta_label": "Nhận Báo Giá AEC Collection",
+            "highlight": true,
+            "description": "Bao gồm trọn bộ Revit + AutoCAD + Civil 3D + Navisworks Manage + InfraWorks + Robot Structural Analysis."
+          },
+          {
+            "name": "Combo Bản Quyền + Đào Tạo BIM CIC",
+            "price": "Giải Pháp Chìa Khóa Trao Tay",
+            "period": "Phần mềm bản quyền + Đào tạo thực chiến",
+            "features": [
+              "Bản quyền Revit / AEC Collection chính hãng",
+              "Khóa đào tạo Revit thực chiến trên dự án của đơn vị",
+              "Tư vấn xây dựng quy trình phối hợp BIM nội bộ"
+            ],
+            "cta_label": "Đăng Ký Tư Vấn Combo",
+            "description": "Giúp doanh nghiệp vừa sở hữu bản quyền hợp pháp vừa làm chủ quy trình triển khai dự án BIM thực tế."
+          }
+        ],
+        "subtitle": "Standard",
+        "description": "Standard Chức năng chuẩn sử dụng trong thiết kế.",
+        "modal_title": "Tài Liệu Kỹ Thuật & So Sánh Phiên Bản — Autodesk Revit",
+        "pdf_cta_label": "XEM TÀI LIỆU SO SÁNH & BROCHURE (PDF)",
+        "modal_download_label": "Tải Xuống Tài Liệu PDF",
+        "modal_register_label": "Nhận Tư Vấn & Báo Giá Chi Tiết"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.280Z",
+      "updated_at_utc": "2026-10-28T01:12:41.280Z"
+    },
+    {
+      "landing_page_section_id": "ddac3d2e-e578-4d4b-b68d-7fa2daeb0d2f",
+      "landing_page_id": "246037ba-5519-4cb7-b8a0-da7173114b40",
+      "landing_section_type_code": "resources",
+      "section_anchor_id": "resources",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "DOCUMENTATION & RESOURCES",
+        "items": [
+          {
+            "title": "Chọn phiên bản",
+            "description": "Standard Chức năng chuẩn sử dụng trong thiết kế."
+          },
+          {
+            "title": "Standard",
+            "description": "Autodesk AutoCAD 2016"
+          },
+          {
+            "title": "$19",
+            "description": "Autodesk AutoCAD Architecture 2016"
+          },
+          {
+            "title": "Premium",
+            "description": "Autodesk AutoCAD MEP 2016"
+          },
+          {
+            "title": "$99",
+            "description": "Autodesk Showcase 2016"
+          },
+          {
+            "title": "Ultimate",
+            "description": "Autodesk AutoCAD Raster Design"
+          }
+        ],
+        "title": "Giới thiệu Autodesk Building Suites 2016",
+        "subtitle": "Chọn phiên bản",
+        "description": "Standard Chức năng chuẩn sử dụng trong thiết kế."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.289Z",
+      "updated_at_utc": "2026-10-28T01:12:41.289Z"
+    },
+    {
+      "landing_page_section_id": "96068d89-6826-4800-870d-e4be4904b035",
+      "landing_page_id": "246037ba-5519-4cb7-b8a0-da7173114b40",
+      "landing_section_type_code": "faq",
+      "section_anchor_id": "faq",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "FREQUENTLY ASKED QUESTIONS",
+        "items": [
+          {
+            "title": "Đăng ký nhanh bằng email",
+            "description": "Thank you for your subscription. We will inform you."
+          },
+          {
+            "title": "testimony",
+            "description": "Số 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội Điện thoại: 04.397.467.98 - 0123.86.999.88 * Fax: (84-4) 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88"
+          },
+          {
+            "title": "Công ty cổ phần Tin học và Tư vấn xây dựng (CIC)",
+            "description": "CHI NHÁNH (CIC) TP.HỒ CHÍ MINH Địa chỉ: Số 36 Nguyễn Huy Lượng - P. 14 - Q.Bình Thạnh - TP.HCM Điện thoại: 08.628.99.022 - 08.628.99.033 * Fax:08.628 99 033 Email: cichcm@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88"
+          },
+          {
+            "title": "CHI NHÁNH (CIC) TP.HỒ CHÍ MINH",
+            "description": "Bạn vui lòng nhập đầy đủ thông tin theo mẫu."
+          },
+          {
+            "title": "Follow us",
+            "description": "Thông tin của bạn đã được gửi đi sent , thank you."
+          },
+          {
+            "title": "THÔNG TIN ĐĂNG KÝ",
+            "description": "CIC &copy; 2015"
+          }
+        ],
+        "title": "Khách hàng tiêu biểu",
+        "subtitle": "Đăng ký nhanh bằng email",
+        "description": "Thank you for your subscription. We will inform you."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.295Z",
+      "updated_at_utc": "2026-10-28T01:12:41.295Z"
+    },
+    {
+      "landing_page_section_id": "06b72408-798c-4e35-b583-ef4897fa0f22",
+      "landing_page_id": "246037ba-5519-4cb7-b8a0-da7173114b40",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "consultation",
+      "section_order": 9,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "FREE CONSULTATION & TRIAL",
+        "items": [
+          {
+            "title": "Công ty cổ phần Tin học và Tư vấn xây dựng (CIC)",
+            "description": "Số 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội Điện thoại: 04.397.467.98 - 0123.86.999.88 * Fax: (84-4) 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88"
+          },
+          {
+            "title": "CHI NHÁNH (CIC) TP.HỒ CHÍ MINH",
+            "description": "CHI NHÁNH (CIC) TP.HỒ CHÍ MINH Địa chỉ: Số 36 Nguyễn Huy Lượng - P. 14 - Q.Bình Thạnh - TP.HCM Điện thoại: 08.628.99.022 - 08.628.99.033 * Fax:08.628 99 033 Email: cichcm@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88"
+          },
+          {
+            "title": "Follow us",
+            "description": "Bạn vui lòng nhập đầy đủ thông tin theo mẫu."
+          },
+          {
+            "title": "THÔNG TIN ĐĂNG KÝ",
+            "description": "Thông tin của bạn đã được gửi đi sent , thank you."
+          }
+        ],
+        "title": "testimony",
+        "benefits": [
+          "Tải ngay Tài liệu kỹ thuật, Brochure & Bộ cài đặt dùng thử chính thức",
+          "Nhận báo giá ưu đãi đặc biệt dành cho doanh nghiệp từ CIC",
+          "Hỗ trợ cài đặt, giải đáp kỹ thuật 1-1 bởi đội ngũ kỹ sư giàu kinh nghiệm",
+          "Cam kết bảo mật 100% thông tin doanh nghiệp và dự án"
+        ],
+        "subtitle": "Công ty cổ phần Tin học và Tư vấn xây dựng (CIC)",
+        "description": "Số 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội Điện thoại: 04.397.467.98 - 0123.86.999.88 * Fax: (84-4) 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88",
+        "modal_title": "Tài Liệu & Bộ Cài Đặt Đã Sẵn Sàng!",
+        "submit_label": "Gửi Yêu Cầu & Nhận Tài Liệu Ngay",
+        "modal_description": "Cảm ơn Quý khách đã đăng ký! Quý khách có thể bấm vào nút bên dưới để tải ngay tài liệu/bộ cài đặt hoặc chờ chuyên gia CIC liên hệ trong ít phút:",
+        "modal_button_label": "Tải Tài Liệu & Bộ Cài Đặt Ngay"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.303Z",
+      "updated_at_utc": "2026-10-28T01:12:41.303Z"
+    },
+    {
+      "landing_page_section_id": "2843f49f-9fad-4ec4-9b5b-999c31c2c6fc",
+      "landing_page_id": "246037ba-5519-4cb7-b8a0-da7173114b40",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "footer",
+      "section_order": 10,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "email": "info@cic.com.vn",
+        "items": [
+          {
+            "title": "Công ty cổ phần Tin học và Tư vấn xây dựng (CIC)",
+            "description": "Số 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội Điện thoại: 04.397.467.98 - 0123.86.999.88 * Fax: (84-4) 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88"
+          },
+          {
+            "title": "CHI NHÁNH (CIC) TP.HỒ CHÍ MINH",
+            "description": "CHI NHÁNH (CIC) TP.HỒ CHÍ MINH Địa chỉ: Số 36 Nguyễn Huy Lượng - P. 14 - Q.Bình Thạnh - TP.HCM Điện thoại: 08.628.99.022 - 08.628.99.033 * Fax:08.628 99 033 Email: cichcm@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88"
+          },
+          {
+            "title": "Follow us",
+            "description": "Bạn vui lòng nhập đầy đủ thông tin theo mẫu."
+          },
+          {
+            "title": "THÔNG TIN ĐĂNG KÝ",
+            "description": "Thông tin của bạn đã được gửi đi sent , thank you."
+          }
+        ],
+        "title": "testimony",
+        "address": "Trụ sở chính: Số 37 Lê Văn Thiêm, Phường Nhân Chính, Quận Thanh Xuân, TP. Hà Nội | Chi nhánh TP.HCM: Số 36 Nguyễn Huy Lượng, Phường 14, Quận Bình Thạnh",
+        "hotline": "0866 059 659",
+        "subtitle": "Công ty cổ phần Tin học và Tư vấn xây dựng (CIC)",
+        "copyright": "© 2026 Công ty Cổ phần Công nghệ và Tư vấn CIC. Bảo lưu mọi quyền cho chuyên trang revit.cic.com.vn.",
+        "description": "Số 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội Điện thoại: 04.397.467.98 - 0123.86.999.88 * Fax: (84-4) 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88",
+        "company_name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ TƯ VẤN CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.307Z",
+      "updated_at_utc": "2026-10-28T01:12:41.307Z"
+    },
+    {
+      "landing_page_section_id": "e4cdac65-fff5-4f5e-9add-111d8ad1a37f",
+      "landing_page_id": "246037ba-5519-4cb7-b8a0-da7173114b40",
+      "landing_section_type_code": "floating_cta",
+      "section_anchor_id": "floating_cta",
+      "section_order": 11,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Hotline: 0123.86.999.88 -",
+            "description": "Phần mềm vẽ kỹ thuật Autodesk Building Design Suite You are using an outdated browser. Please upgrade your browser to improve your experience."
+          },
+          {
+            "title": "Follow us",
+            "description": "dữ liệu đang tải.."
+          },
+          {
+            "title": "Phân phối chính hãng bởi CIC",
+            "description": "Lý do lựa chọn"
+          },
+          {
+            "title": "AUTODESK BUILDING DESIGN SUITE 2016",
+            "description": "Đặc điểm nổi bật"
+          },
+          {
+            "title": "Tại Sao Bạn Nên Chọn Chúng Tôi",
+            "description": "Chọn mua phiên bản"
+          },
+          {
+            "title": "Thương hiệu uy tín số 1",
+            "description": "Tôi muốn đăng ký ngay"
+          }
+        ],
+        "title": "Phần mềm Autodesk Building Suites phân phối chính hãng bởi CIC",
+        "hotline": "0866 059 659",
+        "subtitle": "Hotline: 0123.86.999.88 -",
+        "zalo_url": "https://zalo.me/0866059659",
+        "cta_label": "Đăng Ký Tư Vấn",
+        "description": "Phần mềm vẽ kỹ thuật Autodesk Building Design Suite You are using an outdated browser. Please upgrade your browser to improve your experience."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.311Z",
+      "updated_at_utc": "2026-10-28T01:12:41.311Z"
+    },
+    {
+      "landing_page_section_id": "16c84ffa-6436-4635-99e7-171e703a2c61",
+      "landing_page_id": "3ba2d20a-4a53-442e-ab02-df399c654bef",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "header",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "AUTODESK BUILDING DESIGN SUITE 2016",
+            "description": "Tôi muốn mua"
+          },
+          {
+            "title": "Tại Sao Bạn Nên Chọn Chúng Tôi",
+            "description": "Cuộn xuống xem nhiều thông tin hơn"
+          },
+          {
+            "title": "Thương hiệu uy tín số 1",
+            "description": "Phân Phối Chính Hãng Bởi Công Ty Cổ Phần Tin Học Và Xây Dựng (CIC). Là Bộ Sản Phẩm Kết Hợp Giữa Mô Hình Thông Tin Xây Dựng BIM Và Công Cụ CAD, Giúp Thiết Kế, Mô Phỏng, Xây Dựng Các Tòa Nhà Đạt Hiệu Quả Cao, Chất Lượng Tốt Nhất."
+          },
+          {
+            "title": "Đi đầu về công nghệ mới",
+            "description": "CIC là đơn vị trực thuộc Bộ xây dựng với bề dày hơn 25 năm kinh nghiệm trong lĩnh vực công nghệ thông tin ngành xây dựng."
+          },
+          {
+            "title": "Hỗ trợ khách hàng tốt nhất",
+            "description": "--> Thương hiệu uy tín số 1 Hơn 25 năm hoạt động, đạt nhiều giải thưởng, danh hiệu của nhà nước, bộ xây dựng, bộ KHCN, bộ thông tin TT,..các hiệp hội trong và ngoài nước."
+          },
+          {
+            "title": "Những đặc điểm nổi bật",
+            "description": "--> Đi đầu về công nghệ mới Là đơn vị đầu tiên đưa giải pháp BIM tại Việt Nam, liên tục nghiên cứu đưa ra các giải pháp phần mềm mới tốt nhất cho thị trường"
+          }
+        ],
+        "title": "Phân phối chính hãng bởi CIC",
+        "logo_url": "/api/landing/media/revit/images/logo.png",
+        "subtitle": "AUTODESK BUILDING DESIGN SUITE 2016",
+        "cta_label": "Đăng Ký Tư Vấn",
+        "nav_items": [
+          {
+            "href": "#intro",
+            "label": "Tổng quan"
+          },
+          {
+            "href": "#advantages",
+            "label": "Ưu điểm"
+          },
+          {
+            "href": "#catalog",
+            "label": "Giải pháp"
+          },
+          {
+            "href": "#comparison",
+            "label": "Các gói & So sánh"
+          },
+          {
+            "href": "#faq",
+            "label": "Hỏi đáp"
+          }
+        ],
+        "brand_name": "Autodesk Revit",
+        "description": "Tôi muốn mua"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.471Z",
+      "updated_at_utc": "2026-10-28T01:12:41.471Z"
+    },
+    {
+      "landing_page_section_id": "bb73c248-d7f6-4cd6-9242-3d476fe23728",
+      "landing_page_id": "3ba2d20a-4a53-442e-ab02-df399c654bef",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "hero",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "Đối Tác Ủy Quyền Autodesk Tại Việt Nam — Công Ty Cổ Phần Công Nghệ & Tư Vấn CIC",
+        "items": [
+          {
+            "title": "AUTODESK BUILDING DESIGN SUITE 2016",
+            "description": "Tôi muốn mua"
+          },
+          {
+            "title": "Tại Sao Bạn Nên Chọn Chúng Tôi",
+            "description": "Cuộn xuống xem nhiều thông tin hơn"
+          },
+          {
+            "title": "Thương hiệu uy tín số 1",
+            "description": "Phân Phối Chính Hãng Bởi Công Ty Cổ Phần Tin Học Và Xây Dựng (CIC). Là Bộ Sản Phẩm Kết Hợp Giữa Mô Hình Thông Tin Xây Dựng BIM Và Công Cụ CAD, Giúp Thiết Kế, Mô Phỏng, Xây Dựng Các Tòa Nhà Đạt Hiệu Quả Cao, Chất Lượng Tốt Nhất."
+          },
+          {
+            "title": "Đi đầu về công nghệ mới",
+            "description": "CIC là đơn vị trực thuộc Bộ xây dựng với bề dày hơn 25 năm kinh nghiệm trong lĩnh vực công nghệ thông tin ngành xây dựng."
+          },
+          {
+            "title": "Hỗ trợ khách hàng tốt nhất",
+            "description": "--> Thương hiệu uy tín số 1 Hơn 25 năm hoạt động, đạt nhiều giải thưởng, danh hiệu của nhà nước, bộ xây dựng, bộ KHCN, bộ thông tin TT,..các hiệp hội trong và ngoài nước."
+          },
+          {
+            "title": "Những đặc điểm nổi bật",
+            "description": "--> Đi đầu về công nghệ mới Là đơn vị đầu tiên đưa giải pháp BIM tại Việt Nam, liên tục nghiên cứu đưa ra các giải pháp phần mềm mới tốt nhất cho thị trường"
+          }
+        ],
+        "stats": [
+          {
+            "label": "Kiến trúc (Architecture), Kết cấu (Structure) & Cơ điện (MEP) hợp nhất",
+            "value": "3 Trong 1"
+          },
+          {
+            "label": "Bản quyền Autodesk chính hãng kèm hóa đơn & chứng nhận từ CIC",
+            "value": "100%"
+          },
+          {
+            "label": "Giảm thiểu sai sót xung đột hồ sơ thi công tại công trường",
+            "value": "50%+"
+          },
+          {
+            "label": "Tặng kèm bộ Template & Family tiêu chuẩn Việt Nam do CIC biên soạn",
+            "value": "TCVN"
+          }
+        ],
+        "title": "Phân phối chính hãng bởi CIC",
+        "subtitle": "AUTODESK BUILDING DESIGN SUITE 2016",
+        "description": "Tôi muốn mua",
+        "hero_image_url": "/api/landing/media/revit/images/hero.png",
+        "primary_cta_href": "#consultation",
+        "primary_cta_label": "Đăng Ký Dùng Thử & Nhận Báo Giá",
+        "secondary_cta_href": "#comparison",
+        "secondary_cta_label": "Xem Tài Liệu & Bảng Giá"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.475Z",
+      "updated_at_utc": "2026-10-28T01:12:41.475Z"
+    },
+    {
+      "landing_page_section_id": "d95143a5-8228-4ac5-8afa-49b74238d923",
+      "landing_page_id": "3ba2d20a-4a53-442e-ab02-df399c654bef",
+      "landing_section_type_code": "intro",
+      "section_anchor_id": "intro",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "GIẢI PHÁP CHÍNH HÃNG PHÂN PHỐI BỞI CIC",
+        "items": [
+          {
+            "title": "Tại Sao Bạn Nên Chọn Chúng Tôi",
+            "description": "Phân Phối Chính Hãng Bởi Công Ty Cổ Phần Tin Học Và Xây Dựng (CIC). Là Bộ Sản Phẩm Kết Hợp Giữa Mô Hình Thông Tin Xây Dựng BIM Và Công Cụ CAD, Giúp Thiết Kế, Mô Phỏng, Xây Dựng Các Tòa Nhà Đạt Hiệu Quả Cao, Chất Lượng Tốt Nhất."
+          },
+          {
+            "title": "Thương hiệu uy tín số 1",
+            "description": "CIC là đơn vị trực thuộc Bộ xây dựng với bề dày hơn 25 năm kinh nghiệm trong lĩnh vực công nghệ thông tin ngành xây dựng."
+          },
+          {
+            "title": "Đi đầu về công nghệ mới",
+            "description": "--> Thương hiệu uy tín số 1 Hơn 25 năm hoạt động, đạt nhiều giải thưởng, danh hiệu của nhà nước, bộ xây dựng, bộ KHCN, bộ thông tin TT,..các hiệp hội trong và ngoài nước."
+          },
+          {
+            "title": "Hỗ trợ khách hàng tốt nhất",
+            "description": "--> Đi đầu về công nghệ mới Là đơn vị đầu tiên đưa giải pháp BIM tại Việt Nam, liên tục nghiên cứu đưa ra các giải pháp phần mềm mới tốt nhất cho thị trường"
+          },
+          {
+            "title": "Những đặc điểm nổi bật",
+            "description": "--> Hỗ trợ khách hàng tốt nhất Hỗ trợ 24/7, từ các chuyên gia hàng đầu nhiều năm kinh nghiệm về giải pháp BIM"
+          },
+          {
+            "title": "Thiết kế Chính Xác, Hạn Chế Lỗi",
+            "description": "Building Information Modeling (BIM) đang giúp thay đổi trong việc xây dựng các tòa nhà, cơ sở hạ tầng, các tiện ích được quy hoạch, thiết kế, xây dựng và quản lý.., trực quan, mô phỏng, và phối hợp kích hoạt bởi các giải pháp Autodesk BIM cung cấp rõ ràng hơn cho tất cả các bên liên quan trên toàn bộ vòng đời dự án."
+          }
+        ],
+        "title": "AUTODESK BUILDING DESIGN SUITE 2016",
+        "subtitle": "Tại Sao Bạn Nên Chọn Chúng Tôi",
+        "description": "Phân Phối Chính Hãng Bởi Công Ty Cổ Phần Tin Học Và Xây Dựng (CIC). Là Bộ Sản Phẩm Kết Hợp Giữa Mô Hình Thông Tin Xây Dựng BIM Và Công Cụ CAD, Giúp Thiết Kế, Mô Phỏng, Xây Dựng Các Tòa Nhà Đạt Hiệu Quả Cao, Chất Lượng Tốt Nhất."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.479Z",
+      "updated_at_utc": "2026-10-28T01:12:41.479Z"
+    },
+    {
+      "landing_page_section_id": "670c3ef9-0827-4fc5-b597-8ec8b332d43f",
+      "landing_page_id": "3ba2d20a-4a53-442e-ab02-df399c654bef",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "advantages",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "ƯU ĐIỂM VƯỢT TRỘI",
+        "items": [
+          {
+            "title": "Thương hiệu uy tín số 1",
+            "description": "CIC là đơn vị trực thuộc Bộ xây dựng với bề dày hơn 25 năm kinh nghiệm trong lĩnh vực công nghệ thông tin ngành xây dựng."
+          },
+          {
+            "title": "Đi đầu về công nghệ mới",
+            "description": "--> Thương hiệu uy tín số 1 Hơn 25 năm hoạt động, đạt nhiều giải thưởng, danh hiệu của nhà nước, bộ xây dựng, bộ KHCN, bộ thông tin TT,..các hiệp hội trong và ngoài nước."
+          },
+          {
+            "title": "Hỗ trợ khách hàng tốt nhất",
+            "description": "--> Đi đầu về công nghệ mới Là đơn vị đầu tiên đưa giải pháp BIM tại Việt Nam, liên tục nghiên cứu đưa ra các giải pháp phần mềm mới tốt nhất cho thị trường"
+          },
+          {
+            "title": "Những đặc điểm nổi bật",
+            "description": "--> Hỗ trợ khách hàng tốt nhất Hỗ trợ 24/7, từ các chuyên gia hàng đầu nhiều năm kinh nghiệm về giải pháp BIM"
+          },
+          {
+            "title": "Thiết kế Chính Xác, Hạn Chế Lỗi",
+            "description": "Building Information Modeling (BIM) đang giúp thay đổi trong việc xây dựng các tòa nhà, cơ sở hạ tầng, các tiện ích được quy hoạch, thiết kế, xây dựng và quản lý.., trực quan, mô phỏng, và phối hợp kích hoạt bởi các giải pháp Autodesk BIM cung cấp rõ ràng hơn cho tất cả các bên liên quan trên toàn bộ vòng đời dự án."
+          },
+          {
+            "title": "Quản lý công việc nhanh",
+            "description": "Do BIM chỉ dùng 1 mô hình làm lõi trung gian nên tất cả các mặt cắt, mặt bằng, bảng biểu..đều link đến và tự động cập nhật mỗi khi thay đổi, do đó luôn khớp chính xác với bản vẽ."
+          }
+        ],
+        "title": "Tại Sao Bạn Nên Chọn Chúng Tôi",
+        "subtitle": "Thương hiệu uy tín số 1",
+        "description": "CIC là đơn vị trực thuộc Bộ xây dựng với bề dày hơn 25 năm kinh nghiệm trong lĩnh vực công nghệ thông tin ngành xây dựng."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.487Z",
+      "updated_at_utc": "2026-10-28T01:12:41.487Z"
+    },
+    {
+      "landing_page_section_id": "052bf34c-36ae-44ab-af5f-8beb1140e68a",
+      "landing_page_id": "3ba2d20a-4a53-442e-ab02-df399c654bef",
+      "landing_section_type_code": "catalog",
+      "section_anchor_id": "catalog",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "DANH MỤC GIẢI PHÁP & MÔ-ĐUN CHUYÊN SÂU",
+        "items": [
+          {
+            "title": "Thiết kế Chính Xác, Hạn Chế Lỗi",
+            "description": "Building Information Modeling (BIM) đang giúp thay đổi trong việc xây dựng các tòa nhà, cơ sở hạ tầng, các tiện ích được quy hoạch, thiết kế, xây dựng và quản lý.., trực quan, mô phỏng, và phối hợp kích hoạt bởi các giải pháp Autodesk BIM cung cấp rõ ràng hơn cho tất cả các bên liên quan trên toàn bộ vòng đời dự án."
+          },
+          {
+            "title": "Quản lý công việc nhanh",
+            "description": "Do BIM chỉ dùng 1 mô hình làm lõi trung gian nên tất cả các mặt cắt, mặt bằng, bảng biểu..đều link đến và tự động cập nhật mỗi khi thay đổi, do đó luôn khớp chính xác với bản vẽ."
+          },
+          {
+            "title": "Phần mềm toàn diện",
+            "description": "Với Bim bạn có thể được thực hiện với máy tính để bàn, điện toán đám mây, web, và các nền tảng di động. Truy xuất theo thời gian thực,đáp ứng tốt hơn các nhu cầu của đổi dự án"
+          },
+          {
+            "title": "Tích hợp nhiều công cụ",
+            "description": "Công nghệ tiên tiến giúp thiết kế, trực quan, mô phỏng, và phối hợp các công cụ dành cho quy trình BIM và nền tảng CAD."
+          },
+          {
+            "title": "Hỗ trợ đào tạo",
+            "description": "Phần mềm Autodesk Building Design Suite 2016 phiên bản Premium và Ultimate bao gồm Autodesk Revit 2016. Được truy cập vào một tập hợp rộng lớn hơn của các công cụ để giúp sắp xếp công việc của bạn và cộng tác hiệu quả hơn với lĩnh vực thiết kế xây dựng khác trên nền tảng Revit®."
+          },
+          {
+            "title": "Giảm giá đặc biệt",
+            "description": "Hỗ trợ đào tạo CIC giới thiệu các khóa học ưu đãi đặc biệt dành tặng cho bạn."
+          }
+        ],
+        "title": "Những đặc điểm nổi bật",
+        "subtitle": "Thiết kế Chính Xác, Hạn Chế Lỗi",
+        "description": "Building Information Modeling (BIM) đang giúp thay đổi trong việc xây dựng các tòa nhà, cơ sở hạ tầng, các tiện ích được quy hoạch, thiết kế, xây dựng và quản lý.., trực quan, mô phỏng, và phối hợp kích hoạt bởi các giải pháp Autodesk BIM cung cấp rõ ràng hơn cho tất cả các bên liên quan trên toàn bộ vòng đời dự án."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.492Z",
+      "updated_at_utc": "2026-10-28T01:12:41.492Z"
+    },
+    {
+      "landing_page_section_id": "577ea41b-3962-4918-b4f4-3eff1d5bdbe7",
+      "landing_page_id": "3ba2d20a-4a53-442e-ab02-df399c654bef",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "comparison",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "CÁC GÓI BẢN QUYỀN & TÀI LIỆU SO SÁNH",
+        "items": [
+          {
+            "title": "Standard",
+            "description": "Standard Chức năng chuẩn sử dụng trong thiết kế."
+          },
+          {
+            "title": "$19",
+            "description": "Autodesk AutoCAD 2016"
+          },
+          {
+            "title": "Premium",
+            "description": "Autodesk AutoCAD Architecture 2016"
+          },
+          {
+            "title": "$99",
+            "description": "Autodesk AutoCAD MEP 2016"
+          },
+          {
+            "title": "Ultimate",
+            "description": "Autodesk Showcase 2016"
+          },
+          {
+            "title": "$299",
+            "description": "Autodesk AutoCAD Raster Design"
+          }
+        ],
+        "title": "Chọn phiên bản",
+        "pdf_url": "/api/landing/media/revit/downloads/brochure.pdf",
+        "packages": [
+          {
+            "name": "Autodesk Revit Subscription",
+            "price": "Thuê bao 1 Năm / 3 Năm",
+            "period": "Bản quyền Named User chính hãng",
+            "features": [
+              "Đầy đủ tính năng Revit Architecture, Structure, MEP",
+              "Tích hợp sẵn Twinmotion for Revit & Dynamo",
+              "Luôn được nâng cấp phiên bản mới nhất"
+            ],
+            "cta_label": "Nhận Báo Giá Revit",
+            "description": "Dành cho các văn phòng kiến trúc, công ty tư vấn thiết kế chuyên sâu trên nền tảng Revit."
+          },
+          {
+            "name": "AEC Collection (Trọn Bộ BIM Autodesk)",
+            "badge": "KHUYÊN DÙNG CHO DOANH NGHIỆP",
+            "price": "Tiết Kiệm Hơn 45%",
+            "period": "Gói 20+ phần mềm thiết kế xây dựng",
+            "features": [
+              "Sử dụng đồng thời Revit, AutoCAD, Civil 3D, Navisworks",
+              "Tiết kiệm chi phí vượt trội so với mua lẻ từng phần mềm",
+              "Tặng bộ Template & Family chuẩn TCVN của CIC",
+              "Hỗ trợ kỹ thuật cài đặt & quản trị license từ chuyên gia CIC"
+            ],
+            "cta_label": "Nhận Báo Giá AEC Collection",
+            "highlight": true,
+            "description": "Bao gồm trọn bộ Revit + AutoCAD + Civil 3D + Navisworks Manage + InfraWorks + Robot Structural Analysis."
+          },
+          {
+            "name": "Combo Bản Quyền + Đào Tạo BIM CIC",
+            "price": "Giải Pháp Chìa Khóa Trao Tay",
+            "period": "Phần mềm bản quyền + Đào tạo thực chiến",
+            "features": [
+              "Bản quyền Revit / AEC Collection chính hãng",
+              "Khóa đào tạo Revit thực chiến trên dự án của đơn vị",
+              "Tư vấn xây dựng quy trình phối hợp BIM nội bộ"
+            ],
+            "cta_label": "Đăng Ký Tư Vấn Combo",
+            "description": "Giúp doanh nghiệp vừa sở hữu bản quyền hợp pháp vừa làm chủ quy trình triển khai dự án BIM thực tế."
+          }
+        ],
+        "subtitle": "Standard",
+        "description": "Standard Chức năng chuẩn sử dụng trong thiết kế.",
+        "modal_title": "Tài Liệu Kỹ Thuật & So Sánh Phiên Bản — Autodesk Revit",
+        "pdf_cta_label": "XEM TÀI LIỆU SO SÁNH & BROCHURE (PDF)",
+        "modal_download_label": "Tải Xuống Tài Liệu PDF",
+        "modal_register_label": "Nhận Tư Vấn & Báo Giá Chi Tiết"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.496Z",
+      "updated_at_utc": "2026-10-28T01:12:41.496Z"
+    },
+    {
+      "landing_page_section_id": "2494c6fd-70ac-469e-ba16-f5ff021364ec",
+      "landing_page_id": "3ba2d20a-4a53-442e-ab02-df399c654bef",
+      "landing_section_type_code": "resources",
+      "section_anchor_id": "resources",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "TÀI NGUYÊN & HỖ TRỢ KỸ THUẬT",
+        "items": [
+          {
+            "title": "Chọn phiên bản",
+            "description": "Standard Chức năng chuẩn sử dụng trong thiết kế."
+          },
+          {
+            "title": "Standard",
+            "description": "Autodesk AutoCAD 2016"
+          },
+          {
+            "title": "$19",
+            "description": "Autodesk AutoCAD Architecture 2016"
+          },
+          {
+            "title": "Premium",
+            "description": "Autodesk AutoCAD MEP 2016"
+          },
+          {
+            "title": "$99",
+            "description": "Autodesk Showcase 2016"
+          },
+          {
+            "title": "Ultimate",
+            "description": "Autodesk AutoCAD Raster Design"
+          }
+        ],
+        "title": "Giới thiệu Autodesk Building Suites 2016",
+        "subtitle": "Chọn phiên bản",
+        "description": "Standard Chức năng chuẩn sử dụng trong thiết kế."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.502Z",
+      "updated_at_utc": "2026-10-28T01:12:41.502Z"
+    },
+    {
+      "landing_page_section_id": "4e48e16d-61e5-4128-b5ab-652542a940e0",
+      "landing_page_id": "3ba2d20a-4a53-442e-ab02-df399c654bef",
+      "landing_section_type_code": "faq",
+      "section_anchor_id": "faq",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "CÂU HỎI THƯỜNG GẶP",
+        "items": [
+          {
+            "title": "Đăng ký nhanh bằng email",
+            "description": "Thank you for your subscription. We will inform you."
+          },
+          {
+            "title": "testimony",
+            "description": "Số 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội Điện thoại: 04.397.467.98 - 0123.86.999.88 * Fax: (84-4) 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88"
+          },
+          {
+            "title": "Công ty cổ phần Tin học và Tư vấn xây dựng (CIC)",
+            "description": "CHI NHÁNH (CIC) TP.HỒ CHÍ MINH Địa chỉ: Số 36 Nguyễn Huy Lượng - P. 14 - Q.Bình Thạnh - TP.HCM Điện thoại: 08.628.99.022 - 08.628.99.033 * Fax:08.628 99 033 Email: cichcm@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88"
+          },
+          {
+            "title": "CHI NHÁNH (CIC) TP.HỒ CHÍ MINH",
+            "description": "Bạn vui lòng nhập đầy đủ thông tin theo mẫu."
+          },
+          {
+            "title": "Follow us",
+            "description": "Thông tin của bạn đã được gửi đi sent , thank you."
+          },
+          {
+            "title": "THÔNG TIN ĐĂNG KÝ",
+            "description": "CIC &copy; 2015"
+          }
+        ],
+        "title": "Khách hàng tiêu biểu",
+        "subtitle": "Đăng ký nhanh bằng email",
+        "description": "Thank you for your subscription. We will inform you."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.505Z",
+      "updated_at_utc": "2026-10-28T01:12:41.505Z"
+    },
+    {
+      "landing_page_section_id": "455bd27a-a60a-44a1-a14b-dce4804b47b3",
+      "landing_page_id": "3ba2d20a-4a53-442e-ab02-df399c654bef",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "consultation",
+      "section_order": 9,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "ĐĂNG KÝ TƯ VẤN & TẢI DÙNG THỬ MIỄN PHÍ",
+        "items": [
+          {
+            "title": "Công ty cổ phần Tin học và Tư vấn xây dựng (CIC)",
+            "description": "Số 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội Điện thoại: 04.397.467.98 - 0123.86.999.88 * Fax: (84-4) 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88"
+          },
+          {
+            "title": "CHI NHÁNH (CIC) TP.HỒ CHÍ MINH",
+            "description": "CHI NHÁNH (CIC) TP.HỒ CHÍ MINH Địa chỉ: Số 36 Nguyễn Huy Lượng - P. 14 - Q.Bình Thạnh - TP.HCM Điện thoại: 08.628.99.022 - 08.628.99.033 * Fax:08.628 99 033 Email: cichcm@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88"
+          },
+          {
+            "title": "Follow us",
+            "description": "Bạn vui lòng nhập đầy đủ thông tin theo mẫu."
+          },
+          {
+            "title": "THÔNG TIN ĐĂNG KÝ",
+            "description": "Thông tin của bạn đã được gửi đi sent , thank you."
+          }
+        ],
+        "title": "testimony",
+        "benefits": [
+          "Tải ngay Tài liệu kỹ thuật, Brochure & Bộ cài đặt dùng thử chính thức",
+          "Nhận báo giá ưu đãi đặc biệt dành cho doanh nghiệp từ CIC",
+          "Hỗ trợ cài đặt, giải đáp kỹ thuật 1-1 bởi đội ngũ kỹ sư giàu kinh nghiệm",
+          "Cam kết bảo mật 100% thông tin doanh nghiệp và dự án"
+        ],
+        "subtitle": "Công ty cổ phần Tin học và Tư vấn xây dựng (CIC)",
+        "description": "Số 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội Điện thoại: 04.397.467.98 - 0123.86.999.88 * Fax: (84-4) 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88",
+        "modal_title": "Tài Liệu & Bộ Cài Đặt Đã Sẵn Sàng!",
+        "submit_label": "Gửi Yêu Cầu & Nhận Tài Liệu Ngay",
+        "modal_description": "Cảm ơn Quý khách đã đăng ký! Quý khách có thể bấm vào nút bên dưới để tải ngay tài liệu/bộ cài đặt hoặc chờ chuyên gia CIC liên hệ trong ít phút:",
+        "modal_button_label": "Tải Tài Liệu & Bộ Cài Đặt Ngay"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.508Z",
+      "updated_at_utc": "2026-10-28T01:12:41.508Z"
+    },
+    {
+      "landing_page_section_id": "fa0e3c76-db2d-4783-b5e8-7925d2e5856a",
+      "landing_page_id": "3ba2d20a-4a53-442e-ab02-df399c654bef",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "footer",
+      "section_order": 10,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "email": "info@cic.com.vn",
+        "items": [
+          {
+            "title": "Công ty cổ phần Tin học và Tư vấn xây dựng (CIC)",
+            "description": "Số 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội Điện thoại: 04.397.467.98 - 0123.86.999.88 * Fax: (84-4) 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88"
+          },
+          {
+            "title": "CHI NHÁNH (CIC) TP.HỒ CHÍ MINH",
+            "description": "CHI NHÁNH (CIC) TP.HỒ CHÍ MINH Địa chỉ: Số 36 Nguyễn Huy Lượng - P. 14 - Q.Bình Thạnh - TP.HCM Điện thoại: 08.628.99.022 - 08.628.99.033 * Fax:08.628 99 033 Email: cichcm@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88"
+          },
+          {
+            "title": "Follow us",
+            "description": "Bạn vui lòng nhập đầy đủ thông tin theo mẫu."
+          },
+          {
+            "title": "THÔNG TIN ĐĂNG KÝ",
+            "description": "Thông tin của bạn đã được gửi đi sent , thank you."
+          }
+        ],
+        "title": "testimony",
+        "address": "Trụ sở chính: Số 37 Lê Văn Thiêm, Phường Nhân Chính, Quận Thanh Xuân, TP. Hà Nội | Chi nhánh TP.HCM: Số 36 Nguyễn Huy Lượng, Phường 14, Quận Bình Thạnh",
+        "hotline": "0866 059 659",
+        "subtitle": "Công ty cổ phần Tin học và Tư vấn xây dựng (CIC)",
+        "copyright": "© 2026 Công ty Cổ phần Công nghệ và Tư vấn CIC. Bảo lưu mọi quyền cho chuyên trang revit.cic.com.vn.",
+        "description": "Số 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội Điện thoại: 04.397.467.98 - 0123.86.999.88 * Fax: (84-4) 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88",
+        "company_name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ TƯ VẤN CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.510Z",
+      "updated_at_utc": "2026-10-28T01:12:41.510Z"
+    },
+    {
+      "landing_page_section_id": "3c36ef55-9694-43fd-b4d4-52e386b39896",
+      "landing_page_id": "3ba2d20a-4a53-442e-ab02-df399c654bef",
+      "landing_section_type_code": "floating_cta",
+      "section_anchor_id": "floating_cta",
+      "section_order": 11,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Hotline: 0123.86.999.88 -",
+            "description": "Phần mềm vẽ kỹ thuật Autodesk Building Design Suite You are using an outdated browser. Please upgrade your browser to improve your experience."
+          },
+          {
+            "title": "Follow us",
+            "description": "dữ liệu đang tải.."
+          },
+          {
+            "title": "Phân phối chính hãng bởi CIC",
+            "description": "Lý do lựa chọn"
+          },
+          {
+            "title": "AUTODESK BUILDING DESIGN SUITE 2016",
+            "description": "Đặc điểm nổi bật"
+          },
+          {
+            "title": "Tại Sao Bạn Nên Chọn Chúng Tôi",
+            "description": "Chọn mua phiên bản"
+          },
+          {
+            "title": "Thương hiệu uy tín số 1",
+            "description": "Tôi muốn đăng ký ngay"
+          }
+        ],
+        "title": "Phần mềm Autodesk Building Suites phân phối chính hãng bởi CIC",
+        "hotline": "0866 059 659",
+        "subtitle": "Hotline: 0123.86.999.88 -",
+        "zalo_url": "https://zalo.me/0866059659",
+        "cta_label": "Đăng Ký Tư Vấn",
+        "description": "Phần mềm vẽ kỹ thuật Autodesk Building Design Suite You are using an outdated browser. Please upgrade your browser to improve your experience."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.513Z",
+      "updated_at_utc": "2026-10-28T01:12:41.513Z"
+    }
+  ],
+  "forms": [
+    {
+      "landing_form_id": "f8251c22-e6d6-417c-b6e6-6c563dcc8028",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "form_code": "revit-lead-form",
+      "form_name": "Form Đăng ký Tư vấn & Dùng thử — Autodesk Revit",
+      "fields_schema_json": [
+        {
+          "name": "full_name",
+          "type": "text",
+          "label": "Họ và tên *",
+          "required": true,
+          "placeholder": "Nguyễn Văn An",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "label": "Số điện thoại *",
+          "required": true,
+          "placeholder": "0912 345 678",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "work_email",
+          "type": "email",
+          "label": "Email công việc *",
+          "required": true,
+          "placeholder": "ban@congty.com.vn",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "company",
+          "type": "text",
+          "label": "Tên công ty / Đơn vị",
+          "required": false,
+          "placeholder": "Công ty Cổ phần Tư vấn Thiết kế...",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "primary_need",
+          "type": "select",
+          "label": "Nhu cầu quan tâm chính *",
+          "options": [
+            {
+              "label": "Đăng ký dùng thử & tải tài liệu Autodesk Revit",
+              "value": "trial_30_days"
+            },
+            {
+              "label": "Nhận báo giá bản quyền Autodesk Revit ưu đãi",
+              "value": "request_quote"
+            },
+            {
+              "label": "Tư vấn kỹ thuật & giải pháp triển khai",
+              "value": "technical_consult"
+            }
+          ],
+          "required": true,
+          "default_value": "trial_30_days",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "device_quantity",
+          "type": "number",
+          "label": "Số lượng máy / người dùng dự kiến",
+          "required": false,
+          "placeholder": "5",
+          "default_value": 5,
+          "visibility_rule": {
+            "value": "request_quote",
+            "operator": "equals",
+            "dependsOnField": "primary_need"
+          }
+        },
+        {
+          "name": "requirements",
+          "type": "textarea",
+          "label": "Ghi chú hoặc yêu cầu cụ thể",
+          "required": false,
+          "placeholder": "Mô tả thêm về quy mô dự án hoặc cấu hình cần tư vấn...",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        }
+      ],
+      "notification_emails_json": [
+        "info@cic.com.vn"
+      ],
+      "google_sheet_config_json": {
+        "sheet_name": "LEADS",
+        "spreadsheet_id": ""
+      },
+      "success_action": "modal_download",
+      "success_payload_json": {
+        "message": "Cảm ơn Quý khách đã quan tâm tới Autodesk Revit. Chuyên gia CIC sẽ liên hệ trong thời gian sớm nhất!",
+        "modal_title": "Tài Liệu & Bộ Dùng Thử Autodesk Revit Đã Sẵn Sàng!",
+        "outcome_rules": [
+          {
+            "id": "rule_revit_trial",
+            "title": "Tài Liệu & Bộ Dùng Thử Autodesk Revit Đã Sẵn Sàng!",
+            "message": "Cảm ơn Quý khách đã đăng ký trải nghiệm Autodesk Revit. Quý khách có thể bấm nút bên dưới để tải ngay Hồ sơ kỹ thuật & Hướng dẫn dùng thử:",
+            "operator": "equals",
+            "whenField": "primary_need",
+            "whenValue": "trial_30_days",
+            "actionType": "download_modal",
+            "downloadUrl": "/api/landing/media/revit/downloads/brochure.pdf",
+            "downloadLabel": "Tải Tài Liệu Autodesk Revit (PDF)",
+            "targetSheetName": "LEADS"
+          },
+          {
+            "id": "rule_revit_quote",
+            "title": "Đã Ghi Nhận Yêu Cầu Báo Giá!",
+            "message": "Cảm ơn Quý khách! Chuyên viên phụ trách giải pháp Autodesk Revit của CIC sẽ gửi bảng báo giá và chính sách chiết khấu tốt nhất qua Email/Zalo trong 15 phút làm việc.",
+            "operator": "equals",
+            "whenField": "primary_need",
+            "whenValue": "request_quote",
+            "actionType": "message_only",
+            "downloadUrl": "",
+            "downloadLabel": "",
+            "targetSheetName": "LEADS"
+          },
+          {
+            "id": "rule_revit_default",
+            "title": "Đăng Ký Tư Vấn Kỹ Thuật Thành Công!",
+            "message": "Cảm ơn Quý khách! Kỹ sư giải pháp Autodesk Revit của CIC sẽ liên hệ trực tiếp để tư vấn chi tiết cho doanh nghiệp.",
+            "operator": "always",
+            "whenField": "primary_need",
+            "whenValue": "",
+            "actionType": "message_only",
+            "downloadUrl": "",
+            "downloadLabel": "",
+            "targetSheetName": "LEADS"
+          }
+        ],
+        "modal_description": "Bấm vào nút bên dưới để tải ngay tài liệu hướng dẫn và thông số kỹ thuật Autodesk Revit:",
+        "default_download_url": "/api/landing/media/revit/downloads/brochure.pdf"
+      },
+      "is_form_active": true,
+      "created_at_utc": "2026-10-28T01:12:42.578Z",
+      "updated_at_utc": "2026-10-28T01:12:42.578Z"
+    }
+  ],
+  "media": [
+    {
+      "landing_media_asset_id": "ba22d0b1-5448-4c1a-b673-1ed647781c2e",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "logo",
+      "file_name": "logo.png",
+      "file_path": "img/logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "18187",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo.png",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.531Z",
+      "updated_at_utc": "2026-10-28T01:12:47.531Z"
+    },
+    {
+      "landing_media_asset_id": "b768d0a5-db9b-4753-9f55-4b917b59ac5f",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "client-logo-055",
+      "file_name": "client-logo-055.jpg",
+      "file_path": "img/client/client-logo-055.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "8267",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - client-logo-055.jpg",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - client-logo-055.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.537Z",
+      "updated_at_utc": "2026-10-28T01:12:47.537Z"
+    },
+    {
+      "landing_media_asset_id": "a9e026b5-626a-4a7c-8e35-383d2aa8a0b3",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "logo1-hover",
+      "file_name": "logo1-hover.png",
+      "file_path": "img/client/logo1-hover.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "7400",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo1-hover.png",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo1-hover.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.541Z",
+      "updated_at_utc": "2026-10-28T01:12:47.541Z"
+    },
+    {
+      "landing_media_asset_id": "2fa0c008-05fe-420f-84ad-fc2726729cc4",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "logo8-hover",
+      "file_name": "logo8-hover.png",
+      "file_path": "img/client/logo8-hover.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "6708",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo8-hover.png",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo8-hover.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.549Z",
+      "updated_at_utc": "2026-10-28T01:12:47.549Z"
+    },
+    {
+      "landing_media_asset_id": "a5df75b4-3362-4120-9c70-79a8df37feba",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "logo6-hover",
+      "file_name": "logo6-hover.png",
+      "file_path": "img/client/logo6-hover.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "6011",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo6-hover.png",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo6-hover.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.554Z",
+      "updated_at_utc": "2026-10-28T01:12:47.554Z"
+    },
+    {
+      "landing_media_asset_id": "aeef72a6-c9d0-4dbc-b164-390a906dba2c",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "logo10-hover",
+      "file_name": "logo10-hover.png",
+      "file_path": "img/client/logo10-hover.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "6008",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo10-hover.png",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo10-hover.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.560Z",
+      "updated_at_utc": "2026-10-28T01:12:47.560Z"
+    },
+    {
+      "landing_media_asset_id": "44f26bbd-815e-4ad1-9afa-7732ff796318",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "logo2-hover",
+      "file_name": "logo2-hover.png",
+      "file_path": "img/client/logo2-hover.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "4800",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo2-hover.png",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo2-hover.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.567Z",
+      "updated_at_utc": "2026-10-28T01:12:47.567Z"
+    },
+    {
+      "landing_media_asset_id": "a1d80470-1437-4446-8835-c830126fb7e2",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "client-logo-01-1",
+      "file_name": "client-logo-01-1.jpg",
+      "file_path": "img/client/client-logo-01-1.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "4788",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - client-logo-01-1.jpg",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - client-logo-01-1.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.572Z",
+      "updated_at_utc": "2026-10-28T01:12:47.572Z"
+    },
+    {
+      "landing_media_asset_id": "12b736ed-847c-4066-b27a-cc7a7d8358b6",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "logo4-hover",
+      "file_name": "logo4-hover.png",
+      "file_path": "img/client/logo4-hover.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "4770",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo4-hover.png",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo4-hover.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.576Z",
+      "updated_at_utc": "2026-10-28T01:12:47.576Z"
+    },
+    {
+      "landing_media_asset_id": "d28d04a8-d65f-4bb9-ab09-9b07ecf0b691",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "client-logo-02-2",
+      "file_name": "client-logo-02-2.jpg",
+      "file_path": "img/client/client-logo-02-2.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "4530",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - client-logo-02-2.jpg",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - client-logo-02-2.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.584Z",
+      "updated_at_utc": "2026-10-28T01:12:47.584Z"
+    },
+    {
+      "landing_media_asset_id": "90e9b89d-e4fb-43b5-8e98-643bd1f381f7",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "logo5-hover",
+      "file_name": "logo5-hover.png",
+      "file_path": "img/client/logo5-hover.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "4335",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo5-hover.png",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo5-hover.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.589Z",
+      "updated_at_utc": "2026-10-28T01:12:47.589Z"
+    },
+    {
+      "landing_media_asset_id": "43e525c6-dd6f-4f02-b9ff-497d726aaa57",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "logo9-hover",
+      "file_name": "logo9-hover.png",
+      "file_path": "img/client/logo9-hover.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "4179",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo9-hover.png",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo9-hover.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.595Z",
+      "updated_at_utc": "2026-10-28T01:12:47.595Z"
+    },
+    {
+      "landing_media_asset_id": "ca9dac36-17b1-4b89-84e0-459e0fa65ae8",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "logo7-hover",
+      "file_name": "logo7-hover.png",
+      "file_path": "img/client/logo7-hover.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "3738",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo7-hover.png",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo7-hover.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.603Z",
+      "updated_at_utc": "2026-10-28T01:12:47.603Z"
+    },
+    {
+      "landing_media_asset_id": "3e70e6a6-b06c-4f02-9a75-d8730126da2a",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "logo3-hover",
+      "file_name": "logo3-hover.png",
+      "file_path": "img/client/logo3-hover.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "2913",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo3-hover.png",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo3-hover.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.609Z",
+      "updated_at_utc": "2026-10-28T01:12:47.609Z"
+    },
+    {
+      "landing_media_asset_id": "9b3a0fdc-bcba-4490-91c8-11c5401350cc",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "logo_cic",
+      "file_name": "logo_cic.png",
+      "file_path": "img/logo_cic.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "2711",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo_cic.png",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - logo_cic.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.617Z",
+      "updated_at_utc": "2026-10-28T01:12:47.617Z"
+    },
+    {
+      "landing_media_asset_id": "74223a64-6cb5-4406-9452-5e804b7dbb34",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "parallels-logo",
+      "file_name": "parallels-logo.png",
+      "file_path": "img/parallels-logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "2345",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - parallels-logo.png",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - parallels-logo.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.623Z",
+      "updated_at_utc": "2026-10-28T01:12:47.623Z"
+    },
+    {
+      "landing_media_asset_id": "fe217e1a-e271-41d6-97c7-0f5f911dc5d3",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "client-logo-04-4",
+      "file_name": "client-logo-04-4.jpg",
+      "file_path": "img/client/client-logo-04-4.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "1819",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - client-logo-04-4.jpg",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - client-logo-04-4.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.628Z",
+      "updated_at_utc": "2026-10-28T01:12:47.628Z"
+    },
+    {
+      "landing_media_asset_id": "0d7acab5-19f2-4ca3-a1ca-a06e23f71845",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "panel-logo",
+      "file_name": "panel-logo.png",
+      "file_path": "img/panel-logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "1770",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - panel-logo.png",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC - panel-logo.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.636Z",
+      "updated_at_utc": "2026-10-28T01:12:47.636Z"
+    },
+    {
+      "landing_media_asset_id": "fe7acb3f-97ad-4ee5-a8fc-f23258dfd111",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "brand_logo",
+      "file_name": "logo.png",
+      "file_path": "images/logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "18187",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC Logo",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC Logo",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.641Z",
+      "updated_at_utc": "2026-10-28T01:12:47.641Z"
+    },
+    {
+      "landing_media_asset_id": "4e54f2b8-80c2-47df-aa1f-8da44d89f5c3",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "favicon",
+      "file_name": "favicon.ico",
+      "file_path": "images/favicon.ico",
+      "mime_type": "image/x-icon",
+      "file_size_bytes": "18187",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Favicon",
+      "alt_text_en": "Favicon",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.650Z",
+      "updated_at_utc": "2026-10-28T01:12:47.650Z"
+    },
+    {
+      "landing_media_asset_id": "235c370a-01d7-41a3-9524-4cafa8d2b70b",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "brochure_pdf",
+      "file_name": "brochure.pdf",
+      "file_path": "downloads/brochure.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": "671641",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Tài liệu Brochure Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC",
+      "alt_text_en": "Brochure Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.660Z",
+      "updated_at_utc": "2026-10-28T01:12:47.660Z"
+    },
+    {
+      "landing_media_asset_id": "ee17f30c-860e-43b0-b652-de733a50347a",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "media_slot_code": "hero_banner",
+      "file_name": "hero.png",
+      "file_path": "images/hero.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "18187",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC Hero",
+      "alt_text_en": "Autodesk Revit — Phần Mềm Thiết Kế BIM Đa Bộ Môn Chính Hãng Tại CIC Hero",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.707Z",
+      "updated_at_utc": "2026-10-28T01:12:47.707Z"
+    }
+  ],
+  "leads": [
+    {
+      "landing_lead_submission_id": "66d09155-d285-47e2-9624-eca8cdedf341",
+      "landing_form_id": "f8251c22-e6d6-417c-b6e6-6c563dcc8028",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test revit",
+      "customer_phone": "0912345678",
+      "customer_email": "test_revit@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test revit",
+        "work_email": "test_revit@cic.com.vn",
+        "primary_need": "trial_30_days",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:37:27.822Z"
+    },
+    {
+      "landing_lead_submission_id": "7cb27940-1028-4941-b21e-f54c0a261ab5",
+      "landing_form_id": "f8251c22-e6d6-417c-b6e6-6c563dcc8028",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test revit",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_revit@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test revit",
+        "work_email": "quote_revit@cic.com.vn",
+        "primary_need": "request_quote",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:37:27.847Z"
+    },
+    {
+      "landing_lead_submission_id": "97a9a167-546e-48f3-bc9c-2f37f7126b75",
+      "landing_form_id": "f8251c22-e6d6-417c-b6e6-6c563dcc8028",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test revit",
+      "customer_phone": "0912345678",
+      "customer_email": "test_revit@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test revit",
+        "work_email": "test_revit@cic.com.vn",
+        "primary_need": "trial_30_days",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:38:10.510Z"
+    },
+    {
+      "landing_lead_submission_id": "2ca3e6e5-7891-448f-bf0b-5ca57d2de4d7",
+      "landing_form_id": "f8251c22-e6d6-417c-b6e6-6c563dcc8028",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test revit",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_revit@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test revit",
+        "work_email": "quote_revit@cic.com.vn",
+        "primary_need": "request_quote",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:38:10.542Z"
+    },
+    {
+      "landing_lead_submission_id": "98637ccf-eeb0-46bb-a6fb-6eb956a740b6",
+      "landing_form_id": "f8251c22-e6d6-417c-b6e6-6c563dcc8028",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test revit",
+      "customer_phone": "0912345678",
+      "customer_email": "test_revit@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test revit",
+        "work_email": "test_revit@cic.com.vn",
+        "primary_need": "trial_30_days",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:39:01.451Z"
+    },
+    {
+      "landing_lead_submission_id": "7fcc4f5f-c474-4a69-acad-3b27a1f4a663",
+      "landing_form_id": "f8251c22-e6d6-417c-b6e6-6c563dcc8028",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test revit",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_revit@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test revit",
+        "work_email": "quote_revit@cic.com.vn",
+        "primary_need": "request_quote",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:39:01.512Z"
+    },
+    {
+      "landing_lead_submission_id": "ddfce179-783d-4f6a-ba4b-8f4bbd82a38c",
+      "landing_form_id": "f8251c22-e6d6-417c-b6e6-6c563dcc8028",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "landing_page_id": null,
+      "customer_full_name": "Test Quote revit",
+      "customer_phone": "0988654321",
+      "customer_email": "quote@revit.cic.com.vn",
+      "customer_company": "CIC Verification Corp",
+      "submitted_fields_json": {
+        "name": "Test Quote revit",
+        "email": "quote@revit.cic.com.vn",
+        "phone": "0988654321",
+        "company": "CIC Verification Corp",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T05:06:30.406Z"
+    },
+    {
+      "landing_lead_submission_id": "14203a96-b5b5-4624-a9ca-dd75b9d628cd",
+      "landing_form_id": "f8251c22-e6d6-417c-b6e6-6c563dcc8028",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "landing_page_id": null,
+      "customer_full_name": "Test Trial revit",
+      "customer_phone": "0988123456",
+      "customer_email": "trial@revit.cic.com.vn",
+      "customer_company": "CIC Verification Corp",
+      "submitted_fields_json": {
+        "name": "Test Trial revit",
+        "email": "trial@revit.cic.com.vn",
+        "phone": "0988123456",
+        "company": "CIC Verification Corp",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T05:06:46.841Z"
+    },
+    {
+      "landing_lead_submission_id": "8f4b21f2-c44b-4f1d-9db4-0e52c029f24a",
+      "landing_form_id": "f8251c22-e6d6-417c-b6e6-6c563dcc8028",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "landing_page_id": null,
+      "customer_full_name": "Test Quote revit",
+      "customer_phone": "0988654321",
+      "customer_email": "quote@revit.cic.com.vn",
+      "customer_company": "CIC Verification Corp",
+      "submitted_fields_json": {
+        "name": "Test Quote revit",
+        "email": "quote@revit.cic.com.vn",
+        "phone": "0988654321",
+        "company": "CIC Verification Corp",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T05:06:46.863Z"
+    },
+    {
+      "landing_lead_submission_id": "562c585d-2520-4891-b365-6eaf280dca08",
+      "landing_form_id": "f8251c22-e6d6-417c-b6e6-6c563dcc8028",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Trial revit",
+      "customer_phone": "0912345678",
+      "customer_email": "standalone@revit.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Trial revit",
+        "email": "standalone@revit.cic.com.vn",
+        "phone": "0912345678",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T06:26:23.086Z"
+    },
+    {
+      "landing_lead_submission_id": "33c0d7ce-5d1b-47a1-bbe7-ca2911a92550",
+      "landing_form_id": "f8251c22-e6d6-417c-b6e6-6c563dcc8028",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Quote revit",
+      "customer_phone": "0987654321",
+      "customer_email": "quote@revit.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Quote revit",
+        "email": "quote@revit.cic.com.vn",
+        "phone": "0987654321",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 12
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T06:26:23.118Z"
+    },
+    {
+      "landing_lead_submission_id": "510f660a-547e-440c-bd5a-13b5b26543a8",
+      "landing_form_id": "f8251c22-e6d6-417c-b6e6-6c563dcc8028",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Trial revit",
+      "customer_phone": "0912345678",
+      "customer_email": "standalone@revit.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Trial revit",
+        "email": "standalone@revit.cic.com.vn",
+        "phone": "0912345678",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T07:36:10.901Z"
+    },
+    {
+      "landing_lead_submission_id": "ba11a586-22b2-421e-b878-94b2bf1ba7c5",
+      "landing_form_id": "f8251c22-e6d6-417c-b6e6-6c563dcc8028",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Quote revit",
+      "customer_phone": "0987654321",
+      "customer_email": "quote@revit.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Quote revit",
+        "email": "quote@revit.cic.com.vn",
+        "phone": "0987654321",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 12
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T07:36:10.965Z"
+    },
+    {
+      "landing_lead_submission_id": "f93a725b-14a3-4e15-a7a1-6af0461e9b37",
+      "landing_form_id": "f8251c22-e6d6-417c-b6e6-6c563dcc8028",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Trial revit",
+      "customer_phone": "0912345678",
+      "customer_email": "standalone@revit.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Trial revit",
+        "email": "standalone@revit.cic.com.vn",
+        "phone": "0912345678",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T08:39:30.013Z"
+    },
+    {
+      "landing_lead_submission_id": "8fe72a79-3eca-4840-95dd-f12beb7e9a7f",
+      "landing_form_id": "f8251c22-e6d6-417c-b6e6-6c563dcc8028",
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Quote revit",
+      "customer_phone": "0987654321",
+      "customer_email": "quote@revit.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Quote revit",
+        "email": "quote@revit.cic.com.vn",
+        "phone": "0987654321",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 12
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T08:39:30.166Z"
+    }
+  ],
+  "pageViews": [
+    {
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "view_date": "2026-10-26",
+      "views_count": 28,
+      "unique_visitors_count": 4
+    },
+    {
+      "landing_site_id": "4a40a604-d22c-4276-8349-42a96ed49d05",
+      "view_date": "2026-10-27",
+      "views_count": 6,
+      "unique_visitors_count": 1
+    }
+  ],
+  "adminAccounts": [
+    {
+      "username": "revit_admin",
+      "password_hash": "4a208b7ff43bd0a71c3bb331db13040694d36bd9e34b5d9ed62d0be880dc5b58",
+      "display_name": "Quản trị viên Autodesk Revit",
+      "role": "site_admin",
+      "landing_site_code": "revit",
+      "is_active": true
+    },
+    {
+      "username": "admin",
+      "password_hash": "2e6c21501300cc6fa4d50597c1c483c802b6d9f00f119f004d8344f663129109",
+      "display_name": "Quản trị Tổng CIC",
+      "role": "super_admin",
+      "landing_site_code": null,
+      "is_active": true
+    }
+  ]
+}

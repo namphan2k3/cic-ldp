@@ -1,0 +1,1383 @@
+{
+  "exportedAt": "2026-10-28T01:15:49.377Z",
+  "targetSiteCode": "robot-cong-trinh",
+  "sectionTypes": [
+    {
+      "landing_section_type_code": "advantages",
+      "landing_section_type_name": "Ưu Điểm Vượt Trội",
+      "category": "feature",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.707Z",
+      "updated_at_utc": "2026-10-28T01:12:40.707Z"
+    },
+    {
+      "landing_section_type_code": "catalog",
+      "landing_section_type_name": "Danh Mục Tính Năng / Giải Pháp",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.719Z",
+      "updated_at_utc": "2026-10-28T01:12:40.719Z"
+    },
+    {
+      "landing_section_type_code": "comparison",
+      "landing_section_type_name": "Bảng So Sánh & Các Gói Bản Quyền",
+      "category": "comparison",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.725Z",
+      "updated_at_utc": "2026-10-28T01:12:40.725Z"
+    },
+    {
+      "landing_section_type_code": "consultation_form",
+      "landing_section_type_name": "Form Đăng Ký Tư Vấn & Tải Dùng Thử",
+      "category": "form",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.731Z",
+      "updated_at_utc": "2026-10-28T01:12:40.731Z"
+    },
+    {
+      "landing_section_type_code": "faq",
+      "landing_section_type_name": "Câu Hỏi Thường Gặp (FAQ)",
+      "category": "faq",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.739Z",
+      "updated_at_utc": "2026-10-28T01:12:40.739Z"
+    },
+    {
+      "landing_section_type_code": "floating_cta",
+      "landing_section_type_name": "Nút Liên Hệ Nổi (Floating CTA)",
+      "category": "cta",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.743Z",
+      "updated_at_utc": "2026-10-28T01:12:40.743Z"
+    },
+    {
+      "landing_section_type_code": "footer",
+      "landing_section_type_name": "Chân Trang (Footer)",
+      "category": "footer",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.750Z",
+      "updated_at_utc": "2026-10-28T01:12:40.750Z"
+    },
+    {
+      "landing_section_type_code": "header",
+      "landing_section_type_name": "Thanh Điều Hướng (Header)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.756Z",
+      "updated_at_utc": "2026-10-28T01:12:40.756Z"
+    },
+    {
+      "landing_section_type_code": "hero",
+      "landing_section_type_name": "Banner Chính (Hero Section)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.762Z",
+      "updated_at_utc": "2026-10-28T01:12:40.762Z"
+    },
+    {
+      "landing_section_type_code": "infrastructure",
+      "landing_section_type_name": "Infrastructure & Specialized Machinery",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.769Z",
+      "updated_at_utc": "2026-10-28T01:12:40.769Z"
+    },
+    {
+      "landing_section_type_code": "intro",
+      "landing_section_type_name": "Giới Thiệu Tổng Quan & Thống Kê",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.773Z",
+      "updated_at_utc": "2026-10-28T01:12:40.773Z"
+    },
+    {
+      "landing_section_type_code": "requirements",
+      "landing_section_type_name": "Yêu Cầu Cấu Hình Hệ Thống",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.777Z",
+      "updated_at_utc": "2026-10-28T01:12:40.777Z"
+    },
+    {
+      "landing_section_type_code": "resources",
+      "landing_section_type_name": "Tài Nguyên & Thư Viện Hỗ Trợ",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.781Z",
+      "updated_at_utc": "2026-10-28T01:12:40.781Z"
+    },
+    {
+      "landing_section_type_code": "video_slider",
+      "landing_section_type_name": "YouTube Video Showcase Slider",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.789Z",
+      "updated_at_utc": "2026-10-28T01:12:40.789Z"
+    }
+  ],
+  "sites": [
+    {
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "landing_site_code": "robot-cong-trinh",
+      "landing_site_name": "CIC Robot — Giải pháp Robot công trình thông minh (Host Mắt Bão)",
+      "landing_site_type": "landing",
+      "primary_domain": "robotcongtrinh.vn",
+      "custom_domains_json": [
+        "robotcongtrinh.vn",
+        "www.robotcongtrinh.vn",
+        "robot.cic.com.vn",
+        "robot-cong-trinh.localhost"
+      ],
+      "supported_locales_json": [
+        "vi"
+      ],
+      "default_locale": "vi",
+      "site_status": "active",
+      "brand_config_json": {
+        "email": "info@cic.com.vn",
+        "address": "Tòa nhà CIC, 37 Lê Văn Thiêm, Thanh Xuân, Hà Nội",
+        "email_1": "contact@cic.com.vn",
+        "email_2": "truongvv@cic.com.vn",
+        "hotline": "036 575 6854",
+        "logo_url": "/api/landing/media/robot-cong-trinh/images/robot/robot-8d323f9c6754.png",
+        "hotline_1": "036 575 6854",
+        "hotline_2": "0976 267 834",
+        "favicon_url": "/api/landing/media/robot-cong-trinh/images/favicon.ico",
+        "privacy_url": "https://www.cic.com.vn/chinh-sach-su-dung-va-bao-mat-thong-tin-tren-website-c12.html",
+        "accent_color": "#e95124",
+        "primary_color": "#102d43",
+        "hosting_origin": "Host Mắt Bão",
+        "footer_banner_url": "/api/landing/media/robot-cong-trinh/images/robot/banner_footer_4.jpg"
+      },
+      "seo_meta_json": {
+        "title": "Robot công trình | CIC",
+        "keywords": "robot công trình, robot xây dựng, robot xoa nền bê tông, robot kiểm tra dưới nước, robot vệ sinh cống ngầm, CIC",
+        "og_image": "/api/landing/media/robot-cong-trinh/images/hero-grid.png",
+        "description": "Khám phá các giải pháp robot xây dựng, kiểm tra dưới nước và vệ sinh cống ngầm do CIC phân phối. Liên hệ tư vấn theo nhu cầu công trình."
+      },
+      "tracking_config_json": {
+        "ga4_id": "G-ZJ7YGCVSCF",
+        "gtm_id": "GTM-WVQZCGTD",
+        "fb_pixel_id": ""
+      },
+      "created_at_utc": "2026-10-28T01:12:40.862Z",
+      "updated_at_utc": "2026-10-28T01:12:40.862Z"
+    }
+  ],
+  "pages": [
+    {
+      "landing_page_id": "ab0f1f69-09d8-4f44-a0d3-1a4aaee638a9",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "landing_page_slug": "home",
+      "landing_page_locale": "vi",
+      "page_title": "Robot công trình | CIC",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "Robot công trình | CIC",
+        "keywords": "robot công trình, robot xây dựng, robot xoa nền bê tông, robot kiểm tra dưới nước, robot vệ sinh cống ngầm, CIC",
+        "og_image": "/api/landing/media/robot-cong-trinh/images/hero-grid.png",
+        "description": "Khám phá các giải pháp robot xây dựng, kiểm tra dưới nước và vệ sinh cống ngầm do CIC phân phối. Liên hệ tư vấn theo nhu cầu công trình."
+      },
+      "published_at_utc": "2026-10-23T03:42:40.106Z",
+      "created_at_utc": "2026-10-28T01:12:40.912Z",
+      "updated_at_utc": "2026-10-28T01:12:40.912Z"
+    }
+  ],
+  "sections": [
+    {
+      "landing_page_section_id": "ce8751cb-1410-4e22-8337-93dad3b114ac",
+      "landing_page_id": "ab0f1f69-09d8-4f44-a0d3-1a4aaee638a9",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "header",
+      "section_order": 0,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "cta": "Đăng ký tư vấn",
+        "skip": "Đến nội dung chính",
+        "nav_faq": "Câu hỏi thường gặp",
+        "tagline": "CÔNG TY CP CÔNG NGHỆ<br>VÀ TƯ VẤN CIC",
+        "logo_url": "/api/landing/media/robot-cong-trinh/images/robot/robot-8d323f9c6754.png",
+        "nav_intro": "Giới thiệu",
+        "nav_robot": "Robot xây dựng",
+        "nav_infrastructure": "Robot Hạ tầng"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.711Z",
+      "updated_at_utc": "2026-10-28T01:12:41.711Z"
+    },
+    {
+      "landing_page_section_id": "31b435c7-43e9-4c74-95be-45dd867a1fc6",
+      "landing_page_id": "ab0f1f69-09d8-4f44-a0d3-1a4aaee638a9",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "hero",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "link": "Khám phá giải pháp",
+        "title": "Công nghệ tiên tiến.<br>Thi công <em>thông minh.</em>",
+        "eyebrow": "CIC · Giải pháp robot công trình",
+        "strapline": "XÂY DỰNG · ĐO LƯỜNG · HẠ TẦNG",
+        "description": "Đưa robot vào công trường để hỗ trợ nâng cao năng suất, kiểm soát chất lượng và giảm các công việc nặng, lặp lại.",
+        "primary_cta": "Khám phá robot",
+        "visual_url_1": "/api/landing/media/robot-cong-trinh/images/robot/robot-1874acec2e24.jpg",
+        "visual_url_2": "/api/landing/media/robot-cong-trinh/images/robot/robot-1874acec2e23.jpg",
+        "secondary_cta": "Tư vấn cho công trình"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.718Z",
+      "updated_at_utc": "2026-10-28T01:12:41.718Z"
+    },
+    {
+      "landing_page_section_id": "d39337bb-d89c-4dc1-9721-7c5e43f88f33",
+      "landing_page_id": "ab0f1f69-09d8-4f44-a0d3-1a4aaee638a9",
+      "landing_section_type_code": "intro",
+      "section_anchor_id": "gioi-thieu",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "fit_1": "Đúng công việc",
+        "fit_2": "Phù hợp mặt bằng",
+        "fit_3": "Gắn với nhu cầu",
+        "title": "Đầu tư vào <em>kết quả,</em> không chỉ đầu tư thiết bị",
+        "topic": "Robot xây dựng:",
+        "eyebrow": "Giới thiệu",
+        "subtitle": "Giải pháp robot cho những nhu cầu thực tế.",
+        "statement": "Giá trị lớn nhất của robot xây dựng không nằm ở việc công trường có thêm một thiết bị hiện đại. Giá trị thực sự nằm ở khả năng biến một công việc vốn phụ thuộc nhiều vào con người thành <strong>một quy trình có thể đo lường, kiểm soát và lặp lại.</strong>",
+        "description": "CIC phân phối các giải pháp robot phục vụ thi công xây dựng, kiểm tra và bảo trì hạ tầng. Trọng tâm là bốn nhóm robot xây dựng: hoàn thiện sàn bê tông, phun bả và xả nhám, lát gạch nền, cán vữa sàn tự động.",
+        "description_2": "Mỗi nhóm thiết bị phù hợp với một công đoạn và điều kiện triển khai riêng. CIC tiếp nhận nhu cầu để tư vấn lựa chọn robot theo loại công trình, khối lượng công việc và mặt bằng thi công."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.722Z",
+      "updated_at_utc": "2026-10-28T01:12:41.722Z"
+    },
+    {
+      "landing_page_section_id": "aa4263f6-3684-45ee-bb1e-b76a10e4aaa2",
+      "landing_page_id": "ab0f1f69-09d8-4f44-a0d3-1a4aaee638a9",
+      "landing_section_type_code": "catalog",
+      "section_anchor_id": "robot",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "cta": "Xem chi tiết",
+            "tag": "Hoàn thiện sàn",
+            "label": "SÀN BÊ TÔNG",
+            "model": "ZP420C · MG210B",
+            "price": "1.014.000.000 VNĐ · 1.091.000.000 VNĐ",
+            "title": "Robot hoàn thiện sàn bê tông",
+            "image_alt": "Robot gạt phẳng bê tông ZP420C",
+            "image_url": "/api/landing/media/robot-cong-trinh/images/robot/robot-c575d3e750b7.png",
+            "application": "Nhà xưởng, kho logistics, bãi đỗ xe và mặt bằng bê tông quy mô lớn.",
+            "description": "San phẳng bê tông bằng laser với ZP420C; xoa nền và xoa mịn bê tông với MG210B."
+          },
+          {
+            "cta": "Xem chi tiết",
+            "tag": "Hoàn thiện bề mặt",
+            "label": "TƯỜNG & TRẦN",
+            "model": "JPD433D",
+            "price": "2.086.000.000 VNĐ",
+            "title": "Robot tích hợp phun bả và xả nhám",
+            "image_alt": "Robot tích hợp phun bả JPD433D",
+            "image_url": "/api/landing/media/robot-cong-trinh/images/robot/robot-e8ec0ecd53b7.png",
+            "application": "Chung cư, khách sạn, văn phòng có diện tích tường, trần lớn và thiết kế lặp lại.",
+            "description": "Phun sơn nước, phun bả, gạt phẳng bả và xả nhám thông qua việc thay đổi đầu công tác."
+          },
+          {
+            "cta": "Xem chi tiết",
+            "tag": "Thi công gạch nền",
+            "label": "LÁT GẠCH",
+            "model": "TZ432B",
+            "price": "2.636.000.000 VNĐ",
+            "title": "Robot lát gạch nền bằng keo dán gạch",
+            "image_alt": "Robot lát gạch nền TZ432B",
+            "image_url": "/api/landing/media/robot-cong-trinh/images/robot/robot-5ae49108c24d.png",
+            "application": "Gạch khổ lớn tại chung cư, trung tâm thương mại, khách sạn, sân bay và nhà ga.",
+            "description": "Kết hợp cánh tay sáu trục, cảm biến và xe tự hành để hỗ trợ gắp, bôi keo và đặt gạch."
+          },
+          {
+            "cta": "Xem chi tiết",
+            "tag": "Dữ liệu hiện trường",
+            "label": "ĐO LƯỜNG",
+            "model": "JP210C",
+            "price": "337.000.000",
+            "title": "Robot cán vữa sàn tự động",
+            "image_alt": "Robot cán vữa sàn tự động JP210C",
+            "image_url": "/api/landing/media/robot-cong-trinh/images/cms/b7fd48602d24924178b80f6df4b588d8.png",
+            "application": "Các dự án thi công như nhà ở dân dụng, hạ tầng giáo dục, đầu mối giao thông, tòa nhà thương mại và nhà xưởng công nghiệp.",
+            "description": "Chuyên dụng cho công tác cán vữa sàn với hiệu suất cao đạt 100m2/1h; độ chính xác cao: Dung sai độ phẳng ±1 mm/7 m và sử dụng nguồn điện linh hoạt."
+          }
+        ],
+        "title": "Bốn nhóm robot xây dựng.",
+        "eyebrow": "Danh mục robot",
+        "youtube": "Xem trên YouTube",
+        "video_url": "https://www.youtube.com/watch?v=ZsjXqYKYeYw",
+        "description": "Tự động hóa các công đoạn có khối lượng lớn và yêu cầu chất lượng đồng đều.",
+        "price_label": "Giá:",
+        "video_title": "Xem robot làm việc tại công trình",
+        "video_url_2": "https://www.youtube.com/watch?v=VlaRWTbqR10",
+        "video_url_3": "https://www.youtube.com/watch?v=dnCv71DL71o",
+        "video_url_4": "https://www.youtube.com/watch?v=A8rCWo780Bc",
+        "profile_file": "file/robot-xay-dung.pdf",
+        "video_caption": "Robot hoàn thiện sàn bê tông",
+        "video_eyebrow": "Robot tại công trường",
+        "video_caption_2": "Robot tích hợp phun bả và xả nhám",
+        "video_caption_3": "Robot lát gạch",
+        "video_caption_4": "Robot cán vữa sàn tự động",
+        "video_embed_url": "https://www.youtube.com/embed/ZsjXqYKYeYw",
+        "download_profile": "Tải Profile Robot Xây Dựng",
+        "application_label": "Phù hợp:",
+        "video_description": "Quan sát trực tiếp khả năng di chuyển, cơ cấu tay robot tự hành và chất lượng bề mặt thực tế tại các công trình.",
+        "video_embed_url_2": "https://www.youtube.com/embed/VlaRWTbqR10",
+        "video_embed_url_3": "https://www.youtube.com/embed/dnCv71DL71o",
+        "video_embed_url_4": "https://www.youtube.com/embed/A8rCWo780Bc"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.726Z",
+      "updated_at_utc": "2026-10-28T01:12:41.726Z"
+    },
+    {
+      "landing_page_section_id": "c745ba09-1af7-4072-8364-ec6a5bfd5dde",
+      "landing_page_id": "ab0f1f69-09d8-4f44-a0d3-1a4aaee638a9",
+      "landing_section_type_code": "video_slider",
+      "section_anchor_id": "video-slider",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Robot cán phẳng bê tông laser ZP420C",
+            "caption": "Robot gạt phẳng bê tông thi công thực tế tại công trình",
+            "youtube_id": "ZsjXqYKYeYw"
+          },
+          {
+            "title": "Robot xoa nền siêu mịn MG210B",
+            "caption": "Robot xoa nền MG210B hoàn thiện bề mặt sàn siêu phẳng",
+            "youtube_id": "VlaRWTbqR10"
+          },
+          {
+            "title": "Robot phun vữa & xoa trát tường tự động",
+            "caption": "Robot phun vữa trát tường tự động năng suất cao",
+            "youtube_id": "dnCv71DL71o"
+          },
+          {
+            "title": "Robot cán vữa sàn tự động JP210C",
+            "caption": "Robot cán vữa sàn tự động đạt chuẩn độ phẳng cao",
+            "youtube_id": "A8rCWo780Bc"
+          }
+        ],
+        "title": "Video thực tế tại công trình",
+        "subtitle": "Theo dõi các robot vận hành trực tiếp trên các đại dự án thi công"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.734Z",
+      "updated_at_utc": "2026-10-28T01:12:41.734Z"
+    },
+    {
+      "landing_page_section_id": "581d080e-dda0-41ac-8246-83ce86cc75fb",
+      "landing_page_id": "ab0f1f69-09d8-4f44-a0d3-1a4aaee638a9",
+      "landing_section_type_code": "infrastructure",
+      "section_anchor_id": "robot-ha-tang",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "cta": "Tìm hiểu giải pháp",
+        "items": [
+          {
+            "cta": "Tìm hiểu giải pháp",
+            "link": "https://www.cic.com.vn/san-pham/fifish-e-master-plus---ro-bot-kiem-tra-duoi-nuoc-1-p412.html",
+            "brand": "FIFISH",
+            "price": "Liên hệ",
+            "title": "Robot nạo vét cống ngầm dưới nước",
+            "videos": [
+              {
+                "id": "poVO5OeM3RA",
+                "label": "Vận hành dưới bùn sâu"
+              },
+              {
+                "id": "EAzc6FuEOfs",
+                "label": "Thi công thực tế dự án"
+              }
+            ],
+            "subtitle": "Thi công nạo vét bùn đất sâu trong lòng cống ngập nước không cần người chui vào",
+            "image_url": "/api/landing/media/robot-cong-trinh/images/robot/robot-ef7d081caac2.png",
+            "description": "Thi công nạo vét bùn đất sâu trong lòng cống ngập nước không cần người chui vào",
+            "video_title": "Video thực tế tại hiện trường:"
+          },
+          {
+            "cta": "Tìm hiểu giải pháp",
+            "link": "https://www.cic.com.vn/san-pham/ro-bot-ve-sinh-cong-ngam-p293.html",
+            "brand": "SCHRODER",
+            "price": "Liên hệ",
+            "title": "Robot kiểm tra & khảo sát đường ống thoát nước CCTV",
+            "videos": [
+              {
+                "id": "ga0pU5Apcu4",
+                "label": "Khảo sát camera đường kính lớn"
+              },
+              {
+                "id": "PhEulGAeC0o",
+                "label": "Báo cáo dị tật đường ống"
+              }
+            ],
+            "subtitle": "Bánh xích camera xoay 360 độ siêu nét phát hiện nứt vỡ, rò rỉ và dị vật đường ống ngầm",
+            "image_url": "/api/landing/media/robot-cong-trinh/images/robot/robot-e6e6f41c09de.png",
+            "description": "Bánh xích camera xoay 360 độ siêu nét phát hiện nứt vỡ, rò rỉ và dị vật đường ống ngầm",
+            "video_title": "Video thực tế tại hiện trường:"
+          }
+        ],
+        "title": "Robot kiểm tra & bảo trì hạ tầng ngầm",
+        "eyebrow": "Giải pháp Robot khác",
+        "youtube": "Xem trên YouTube",
+        "price_label": "Giá:"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.741Z",
+      "updated_at_utc": "2026-10-28T01:12:41.741Z"
+    },
+    {
+      "landing_page_section_id": "76c8f689-2b71-459f-9480-2c46f7a81cf0",
+      "landing_page_id": "ab0f1f69-09d8-4f44-a0d3-1a4aaee638a9",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "dang-ky",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "name": "Họ và tên *",
+        "note": "Thông tin được gửi bảo mật tới CIC để chuyên viên liên hệ tư vấn. Bằng việc gửi biểu mẫu, bạn đồng ý để CIC sử dụng thông tin cho mục đích hỗ trợ yêu cầu này.",
+        "email": "info@cic.com.vn",
+        "error": "Chưa thể gửi yêu cầu lúc này. Thông tin đã được lưu dự phòng để xử lý; vui lòng thử lại sau.",
+        "phone": "036 575 6854",
+        "title": "Chọn robot phù hợp<br>với công trình của bạn.",
+        "submit": "Gửi đăng ký tư vấn",
+        "company": "Công ty / Đơn vị",
+        "email_2": "",
+        "eyebrow": "Kết nối với CIC",
+        "message": "Nhu cầu của bạn",
+        "options": [
+          "Hoàn thiện sàn bê tông",
+          "Phun bả và xả nhám",
+          "Lát gạch nền",
+          "Đo lường hiện trường",
+          "Kiểm tra dưới nước",
+          "Vệ sinh cống ngầm",
+          "Cần CIC tư vấn lựa chọn"
+        ],
+        "phone_2": "",
+        "success": "Cảm ơn bạn. CIC đã nhận được yêu cầu và sẽ liên hệ sớm.",
+        "interest": "Giải pháp quan tâm *",
+        "form_title": "Đăng ký tư vấn giải pháp",
+        "description": "Chia sẻ hạng mục, quy mô và nhu cầu triển khai. CIC sẽ có cơ sở tư vấn giải pháp và cấu hình thiết bị phù hợp.",
+        "email_label": "Email *",
+        "phone_label": "Số điện thoại *",
+        "contact_label": "Trao đổi trực tiếp với CIC",
+        "select_placeholder": "Chọn nhóm robot"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.758Z",
+      "updated_at_utc": "2026-10-28T01:12:41.758Z"
+    },
+    {
+      "landing_page_section_id": "e4dfad12-264e-4f58-96c9-fd8b0aa6fc66",
+      "landing_page_id": "ab0f1f69-09d8-4f44-a0d3-1a4aaee638a9",
+      "landing_section_type_code": "faq",
+      "section_anchor_id": "faq",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "answer": "Robot phù hợp với các hạng mục có khối lượng lớn, mặt bằng đủ điều kiện vận hành và công việc lặp lại. Ví dụ: sàn nhà xưởng, tường và trần chung cư, nền trung tâm thương mại. Cần đánh giá từng công trình và từng loại robot trước khi lựa chọn.",
+            "question": "Robot xây dựng phù hợp với công trình nào?"
+          },
+          {
+            "answer": "Robot hỗ trợ tự động hóa một số công đoạn. Công tác chuẩn bị mặt bằng, cấp vật tư, vận hành, giám sát và xử lý vị trí đặc biệt vẫn cần con người. Riêng lát gạch, vị trí sát tường, góc hẹp hoặc mặt bằng phức tạp có thể cần hỗ trợ thủ công.",
+            "question": "Robot có thay thế hoàn toàn nhân công không?"
+          },
+          {
+            "answer": "Bạn nên chuẩn bị loại công trình, hạng mục cần triển khai, diện tích hoặc khối lượng, điều kiện mặt bằng, vật liệu sử dụng và thời gian dự kiến. Bản vẽ hoặc hình ảnh hiện trường sẽ giúp việc trao đổi cụ thể hơn.",
+            "question": "Cần cung cấp thông tin gì để được tư vấn?"
+          },
+          {
+            "answer": "Chi phí phụ thuộc vào dòng robot, cấu hình, đầu công tác và phạm vi triển khai. Liên hệ CIC để trao đổi nhu cầu và nhận báo giá theo cấu hình phù hợp.",
+            "question": "Chi phí đầu tư robot được xác định như thế nào?"
+          },
+          {
+            "answer": "Có. Ngoài bốn nhóm robot xây dựng, danh mục còn có FIFISH E-MASTER PLUS của QYSEA phục vụ kiểm tra dưới nước và Model R125 của Sewer Robotics phục vụ vệ sinh cống ngầm.",
+            "question": "CIC có phân phối robot ngoài lĩnh vực thi công không?"
+          },
+          {
+            "answer": "Liên hệ CIC để xác nhận nội dung hướng dẫn vận hành, điều kiện bảo hành và hỗ trợ kỹ thuật theo từng model và hợp đồng trước khi đặt hàng.",
+            "question": "Tôi cần trao đổi về vận hành và bảo hành ở đâu?"
+          }
+        ],
+        "title": "Bạn đang<br>quan tâm điều gì?",
+        "eyebrow": "Giải đáp",
+        "description": "Những thông tin cần cân nhắc trước khi đưa robot vào công trường."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.767Z",
+      "updated_at_utc": "2026-10-28T01:12:41.767Z"
+    },
+    {
+      "landing_page_section_id": "b9eaf1b5-5511-4f22-9a01-4d52ded8544d",
+      "landing_page_id": "ab0f1f69-09d8-4f44-a0d3-1a4aaee638a9",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "footer",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "email": "info@cic.com.vn",
+        "address": "Tầng 4, Tòa nhà VG Building, 235 Nguyễn Trãi, Phường Khương Đình, Hà Nội",
+        "company": "CÔNG TY CP CÔNG NGHỆ<br>VÀ TƯ VẤN CIC",
+        "contact": "LIÊN HỆ",
+        "email_2": "",
+        "explore": "KHÁM PHÁ",
+        "hotline": "036 575 6854",
+        "nav_faq": "Câu hỏi thường gặp",
+        "website": "www.cic.com.vn ↗",
+        "facebook": "Fanpage CIC ↗",
+        "logo_url": "/api/landing/media/robot-cong-trinh/images/robot/robot-8d323f9c6754.png",
+        "nav_form": "Đăng ký tư vấn",
+        "copyright": "© Bản quyền thuộc Công ty Cổ phần Công nghệ và Tư vấn CIC",
+        "hotline_2": "032 680 7661",
+        "nav_intro": "Giới thiệu giải pháp",
+        "nav_robot": "Robot xây dựng",
+        "signature": "Công nghệ xây dựng · Robot công trình",
+        "telephone": "024 3976 1381",
+        "description": "Giải pháp công nghệ cho xây dựng<br>và hạ tầng.",
+        "email_label": "Email:",
+        "hotline_label": "Hotline:",
+        "website_label": "Website:",
+        "facebook_label": "Facebook:",
+        "privacy_policy": "Chính sách sử dụng và bảo mật thông tin",
+        "telephone_label": "Điện thoại:",
+        "banner_footer_url": "/api/landing/media/robot-cong-trinh/images/robot/banner_footer_4.jpg",
+        "nav_infrastructure": "Robot Hạ tầng"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.773Z",
+      "updated_at_utc": "2026-10-28T01:12:41.773Z"
+    }
+  ],
+  "forms": [
+    {
+      "landing_form_id": "0ad016ae-3b7d-4f9f-9879-0af03cd9cf48",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "form_code": "robot_consult_form",
+      "form_name": "Đăng Ký Tư Vấn & Khảo Sát Robot Công Trình",
+      "fields_schema_json": [
+        {
+          "name": "full_name",
+          "type": "text",
+          "label": "Họ và tên *",
+          "required": true,
+          "placeholder": "Nguyễn Văn An",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "label": "Số điện thoại *",
+          "required": true,
+          "placeholder": "Số điện thoại liên hệ",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "work_email",
+          "type": "email",
+          "label": "Email công việc *",
+          "required": true,
+          "placeholder": "ban@congty.vn",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "company",
+          "type": "text",
+          "label": "Tên đơn vị / Dự án",
+          "required": false,
+          "placeholder": "Tên đơn vị của bạn",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "primary_need",
+          "type": "select",
+          "label": "Nhu cầu quan tâm",
+          "options": [
+            {
+              "label": "Hoàn thiện sàn bê tông",
+              "value": "Hoàn thiện sàn bê tông"
+            },
+            {
+              "label": "Phun bả và xả nhám",
+              "value": "Phun bả và xả nhám"
+            },
+            {
+              "label": "Lát gạch nền",
+              "value": "Lát gạch nền"
+            },
+            {
+              "label": "Đo lường hiện trường",
+              "value": "Đo lường hiện trường"
+            },
+            {
+              "label": "Kiểm tra dưới nước",
+              "value": "Kiểm tra dưới nước"
+            },
+            {
+              "label": "Vệ sinh cống ngầm",
+              "value": "Vệ sinh cống ngầm"
+            },
+            {
+              "label": "Cần CIC tư vấn lựa chọn",
+              "value": "Cần CIC tư vấn lựa chọn"
+            }
+          ],
+          "required": true,
+          "placeholder": "-- Chọn giải pháp hoặc thiết bị --",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "requirements",
+          "type": "textarea",
+          "label": "Mô tả nhu cầu cụ thể",
+          "required": false,
+          "placeholder": "Loại công trình, hạng mục, diện tích và thời gian dự kiến…",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        }
+      ],
+      "notification_emails_json": [
+        "contact@cic.com.vn",
+        "truongvv@cic.com.vn"
+      ],
+      "google_sheet_config_json": {
+        "sheet_name": "Landing Page",
+        "last_sync_at": "2026-10-28T01:15:48.371Z",
+        "spreadsheet_id": "1izAJ8r7SeyicYJ2tNnCxXlSah-6meMlpYwQqvaU_A24",
+        "initial_sync_completed": true,
+        "initial_sync_completed_at": "2026-10-23T09:13:14.306368+00:00",
+        "sheet_name_conditional_map": {}
+      },
+      "success_action": "message",
+      "success_payload_json": {
+        "modal_title": "Đăng Ký Thành Công!",
+        "outcome_rules": [
+          {
+            "id": "rule_robot_catalog",
+            "title": "Đăng Ký Tư Vấn & Tải Hồ Sơ Robot Thành Công!",
+            "message": "Cảm ơn Quý khách! Trong lúc chờ kỹ sư CIC liên hệ, Quý khách có thể tải trọn bộ Hồ sơ năng lực & Catalogue Robot xây dựng bên dưới:",
+            "operator": "equals",
+            "whenField": "primary_need",
+            "whenValue": "Cần CIC tư vấn lựa chọn",
+            "actionType": "download_modal",
+            "downloadUrl": "/api/landing/media/robot-cong-trinh/file/robot-xay-dung.pdf",
+            "downloadLabel": "Tải Catalogue Robot (PDF)",
+            "targetSheetName": "Landing Page"
+          },
+          {
+            "id": "rule_robot_default",
+            "title": "Đã Tiếp Nhận Yêu Cầu Tư Vấn Thiết Bị!",
+            "message": "Cảm ơn Quý khách! Đội ngũ giải pháp Robot Công Trình CIC sẽ liên hệ tư vấn kỹ thuật và báo giá trong vòng 15 phút.",
+            "operator": "always",
+            "whenField": "primary_need",
+            "whenValue": "",
+            "actionType": "message_only",
+            "downloadUrl": "",
+            "downloadLabel": "",
+            "targetSheetName": "Landing Page"
+          }
+        ],
+        "modal_description": "Cảm ơn Quý khách! Đội ngũ giải pháp Robot Công Trình CIC sẽ liên hệ tư vấn trong vòng 15 phút. Quý khách có thể tải trọn bộ Catalog Robot bên dưới:",
+        "default_download_url": "/api/landing/media/robot-cong-trinh/file/robot-xay-dung.pdf"
+      },
+      "is_form_active": true,
+      "created_at_utc": "2026-10-28T01:12:42.612Z",
+      "updated_at_utc": "2026-10-28T01:15:48.374Z"
+    }
+  ],
+  "media": [
+    {
+      "landing_media_asset_id": "7fe9f64d-86d3-443a-9ec0-6082b94a2447",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "02-editor",
+      "file_name": "02-editor.png",
+      "file_path": "images/admin-guide/02-editor.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "148174",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "02-editor.png",
+      "alt_text_en": "02-editor.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:43.752Z",
+      "updated_at_utc": "2026-10-28T01:12:43.752Z"
+    },
+    {
+      "landing_media_asset_id": "b99579b8-51ae-41d0-a660-f030bbc6224b",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "03-media",
+      "file_name": "03-media.png",
+      "file_path": "images/admin-guide/03-media.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "600123",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "03-media.png",
+      "alt_text_en": "03-media.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:43.789Z",
+      "updated_at_utc": "2026-10-28T01:12:43.789Z"
+    },
+    {
+      "landing_media_asset_id": "962bc2c9-8259-4372-a9b5-0335e89b4878",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "04-history",
+      "file_name": "04-history.png",
+      "file_path": "images/admin-guide/04-history.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "108876",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "04-history.png",
+      "alt_text_en": "04-history.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:43.860Z",
+      "updated_at_utc": "2026-10-28T01:12:43.860Z"
+    },
+    {
+      "landing_media_asset_id": "416b9b00-63e9-4cce-8557-20ae8161b05b",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "b7fd48602d24924178b80f6df4b588d8",
+      "file_name": "b7fd48602d24924178b80f6df4b588d8.png",
+      "file_path": "images/cms/b7fd48602d24924178b80f6df4b588d8.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "237369",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "b7fd48602d24924178b80f6df4b588d8.png",
+      "alt_text_en": "b7fd48602d24924178b80f6df4b588d8.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:43.879Z",
+      "updated_at_utc": "2026-10-28T01:12:43.879Z"
+    },
+    {
+      "landing_media_asset_id": "aa397712-b600-4673-a3a7-e5f239f9d2b9",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "c8b7047c4105d4b85c6a49a0ca6c98ab",
+      "file_name": "c8b7047c4105d4b85c6a49a0ca6c98ab.png",
+      "file_path": "images/cms/c8b7047c4105d4b85c6a49a0ca6c98ab.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "9333",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "c8b7047c4105d4b85c6a49a0ca6c98ab.png",
+      "alt_text_en": "c8b7047c4105d4b85c6a49a0ca6c98ab.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:43.907Z",
+      "updated_at_utc": "2026-10-28T01:12:43.907Z"
+    },
+    {
+      "landing_media_asset_id": "2f05ade1-96e4-4450-8e76-6cd0445aa733",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "logo",
+      "file_name": "logo.png",
+      "file_path": "images/cms/logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "3890",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "logo.png",
+      "alt_text_en": "logo.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:43.912Z",
+      "updated_at_utc": "2026-10-28T01:12:43.912Z"
+    },
+    {
+      "landing_media_asset_id": "7910b3a7-2a2d-4101-b9fb-3de36eefb082",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "favicon",
+      "file_name": "favicon.ico",
+      "file_path": "images/favicon.ico",
+      "mime_type": "image/x-icon",
+      "file_size_bytes": "2187",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "favicon.ico",
+      "alt_text_en": "favicon.ico",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:43.923Z",
+      "updated_at_utc": "2026-10-28T01:12:43.923Z"
+    },
+    {
+      "landing_media_asset_id": "49d4b1ae-c0b6-49b1-a296-aac7649fc3bd",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "banner_footer_1",
+      "file_name": "banner_footer_1.jpg",
+      "file_path": "images/robot/banner_footer_1.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "79280",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "banner_footer_1.jpg",
+      "alt_text_en": "banner_footer_1.jpg",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:43.933Z",
+      "updated_at_utc": "2026-10-28T01:12:43.933Z"
+    },
+    {
+      "landing_media_asset_id": "5085c25e-e484-416c-8cb2-bd855ff9a21a",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "banner_footer_2",
+      "file_name": "banner_footer_2.jpg",
+      "file_path": "images/robot/banner_footer_2.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "151657",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "banner_footer_2.jpg",
+      "alt_text_en": "banner_footer_2.jpg",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:43.951Z",
+      "updated_at_utc": "2026-10-28T01:12:43.951Z"
+    },
+    {
+      "landing_media_asset_id": "ce3be6d5-e88b-408e-a454-876beef3216f",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "banner_footer_3",
+      "file_name": "banner_footer_3.jpg",
+      "file_path": "images/robot/banner_footer_3.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "249288",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "banner_footer_3.jpg",
+      "alt_text_en": "banner_footer_3.jpg",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:43.971Z",
+      "updated_at_utc": "2026-10-28T01:12:43.971Z"
+    },
+    {
+      "landing_media_asset_id": "1e2aadf7-81fa-48c5-bc09-a8a26eef9c32",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "banner_footer_4",
+      "file_name": "banner_footer_4.jpg",
+      "file_path": "images/robot/banner_footer_4.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "694620",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "banner_footer_4.jpg",
+      "alt_text_en": "banner_footer_4.jpg",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:44.000Z",
+      "updated_at_utc": "2026-10-28T01:12:44.000Z"
+    },
+    {
+      "landing_media_asset_id": "5da74c51-8c9b-44d3-a716-6c3b75732fcb",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "robot-1874acec2e23",
+      "file_name": "robot-1874acec2e23.jpg",
+      "file_path": "images/robot/robot-1874acec2e23.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "412039",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "robot-1874acec2e23.jpg",
+      "alt_text_en": "robot-1874acec2e23.jpg",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:44.062Z",
+      "updated_at_utc": "2026-10-28T01:12:44.062Z"
+    },
+    {
+      "landing_media_asset_id": "f630bb11-fd1a-4cb2-a171-6b995dd538b2",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "robot-1874acec2e24",
+      "file_name": "robot-1874acec2e24.jpg",
+      "file_path": "images/robot/robot-1874acec2e24.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "240240",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "robot-1874acec2e24.jpg",
+      "alt_text_en": "robot-1874acec2e24.jpg",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:44.095Z",
+      "updated_at_utc": "2026-10-28T01:12:44.095Z"
+    },
+    {
+      "landing_media_asset_id": "6add0e11-89f9-4d19-8168-17186522d0ef",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "robot-5ae49108c24d",
+      "file_name": "robot-5ae49108c24d.png",
+      "file_path": "images/robot/robot-5ae49108c24d.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "187111",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "robot-5ae49108c24d.png",
+      "alt_text_en": "robot-5ae49108c24d.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:44.122Z",
+      "updated_at_utc": "2026-10-28T01:12:44.122Z"
+    },
+    {
+      "landing_media_asset_id": "0467837b-5101-4e7b-b34e-050b2cb23255",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "robot-8d323f9c6754",
+      "file_name": "robot-8d323f9c6754.png",
+      "file_path": "images/robot/robot-8d323f9c6754.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "14056",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "robot-8d323f9c6754.png",
+      "alt_text_en": "robot-8d323f9c6754.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:44.139Z",
+      "updated_at_utc": "2026-10-28T01:12:44.139Z"
+    },
+    {
+      "landing_media_asset_id": "f73c2163-514e-447f-a47b-c27425615ad5",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "robot-b159450f47fd",
+      "file_name": "robot-b159450f47fd.png",
+      "file_path": "images/robot/robot-b159450f47fd.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "401388",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "robot-b159450f47fd.png",
+      "alt_text_en": "robot-b159450f47fd.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:44.149Z",
+      "updated_at_utc": "2026-10-28T01:12:44.149Z"
+    },
+    {
+      "landing_media_asset_id": "849c99e1-b9bf-47b9-b007-b9be2df23eca",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "robot-c069c42c66d6",
+      "file_name": "robot-c069c42c66d6.png",
+      "file_path": "images/robot/robot-c069c42c66d6.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "99934",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "robot-c069c42c66d6.png",
+      "alt_text_en": "robot-c069c42c66d6.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:44.187Z",
+      "updated_at_utc": "2026-10-28T01:12:44.187Z"
+    },
+    {
+      "landing_media_asset_id": "3a5f9d7c-cf81-4167-8a01-9357f5f260e7",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "robot-c575d3e750b7",
+      "file_name": "robot-c575d3e750b7.png",
+      "file_path": "images/robot/robot-c575d3e750b7.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "138270",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "robot-c575d3e750b7.png",
+      "alt_text_en": "robot-c575d3e750b7.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:44.201Z",
+      "updated_at_utc": "2026-10-28T01:12:44.201Z"
+    },
+    {
+      "landing_media_asset_id": "eda93bed-b36c-4f21-96af-025b0f620b90",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "robot-e6e6f41c09de",
+      "file_name": "robot-e6e6f41c09de.png",
+      "file_path": "images/robot/robot-e6e6f41c09de.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "143963",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "robot-e6e6f41c09de.png",
+      "alt_text_en": "robot-e6e6f41c09de.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:44.216Z",
+      "updated_at_utc": "2026-10-28T01:12:44.216Z"
+    },
+    {
+      "landing_media_asset_id": "6e0e3d7e-fd5e-4b43-aebe-3d19f008fda0",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "robot-e8ec0ecd53b7",
+      "file_name": "robot-e8ec0ecd53b7.png",
+      "file_path": "images/robot/robot-e8ec0ecd53b7.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "523684",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "robot-e8ec0ecd53b7.png",
+      "alt_text_en": "robot-e8ec0ecd53b7.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:44.237Z",
+      "updated_at_utc": "2026-10-28T01:12:44.237Z"
+    },
+    {
+      "landing_media_asset_id": "7382882a-e4d8-4aec-b827-de4a6b2a32f4",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "robot-ef7d081caac2",
+      "file_name": "robot-ef7d081caac2.png",
+      "file_path": "images/robot/robot-ef7d081caac2.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "97354",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "robot-ef7d081caac2.png",
+      "alt_text_en": "robot-ef7d081caac2.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:44.292Z",
+      "updated_at_utc": "2026-10-28T01:12:44.292Z"
+    },
+    {
+      "landing_media_asset_id": "4aaf2cb4-c8f5-4f09-9818-5df4c57fc2e4",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "profile-robot-xay-dung",
+      "file_name": "profile-robot-xay-dung.pdf",
+      "file_path": "file/profile-robot-xay-dung.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": "4767213",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "profile-robot-xay-dung.pdf",
+      "alt_text_en": "profile-robot-xay-dung.pdf",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:44.333Z",
+      "updated_at_utc": "2026-10-28T01:12:44.333Z"
+    },
+    {
+      "landing_media_asset_id": "d2162787-faad-4bb8-b710-0f1950e6d767",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "Robot x├вy dс╗▒ng",
+      "file_name": "Robot x├вy dс╗▒ng",
+      "file_path": "file/Robot x├вy dс╗▒ng",
+      "mime_type": "application/octet-stream",
+      "file_size_bytes": "4767213",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Robot x├вy dс╗▒ng",
+      "alt_text_en": "Robot x├вy dс╗▒ng",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:44.733Z",
+      "updated_at_utc": "2026-10-28T01:12:44.733Z"
+    },
+    {
+      "landing_media_asset_id": "fd6c11bd-7f64-4093-8a79-665a99508c84",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "Robot x├вy dс╗▒ng",
+      "file_name": "Robot x├вy dс╗▒ng.pdf",
+      "file_path": "file/Robot x├вy dс╗▒ng.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": "4767213",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Robot x├вy dс╗▒ng.pdf",
+      "alt_text_en": "Robot x├вy dс╗▒ng.pdf",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:45.151Z",
+      "updated_at_utc": "2026-10-28T01:12:45.151Z"
+    },
+    {
+      "landing_media_asset_id": "4bb652e6-c674-4c0c-bb6d-44862c7d3f6b",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "robot-xay-dung",
+      "file_name": "robot-xay-dung.pdf",
+      "file_path": "file/robot-xay-dung.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": "4767213",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "robot-xay-dung.pdf",
+      "alt_text_en": "robot-xay-dung.pdf",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:45.583Z",
+      "updated_at_utc": "2026-10-28T01:12:45.583Z"
+    },
+    {
+      "landing_media_asset_id": "1a811a9b-d3b2-478f-a8a8-0838449bc3e1",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "media_slot_code": "Robot x├вy dс╗▒ng",
+      "file_name": "Robot x├вy dс╗▒ng.pdf",
+      "file_path": "files/Robot x├вy dс╗▒ng.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": "4767213",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Robot x├вy dс╗▒ng.pdf",
+      "alt_text_en": "Robot x├вy dс╗▒ng.pdf",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:45.968Z",
+      "updated_at_utc": "2026-10-28T01:12:45.968Z"
+    }
+  ],
+  "leads": [
+    {
+      "landing_lead_submission_id": "92fda06d-d1f5-4ab5-9b48-dc45f9f89780",
+      "landing_form_id": "0ad016ae-3b7d-4f9f-9879-0af03cd9cf48",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "landing_page_id": null,
+      "customer_full_name": "KhuuTrongLuat Nguyen",
+      "customer_phone": "0983232012",
+      "customer_email": "luatnkt@coteccons.vn",
+      "customer_company": "Coteccons JSC",
+      "submitted_fields_json": {
+        "pic": "",
+        "care_note": "19/10/2026: chưa nghe máy, chiều gọi lại",
+        "sheet_tab": "Landing Page",
+        "care_status": "",
+        "primary_need": "Cần CIC tư vấn lựa chọn",
+        "requirements": ""
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Google Sheets Sync",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-14T16:08:59.000Z"
+    },
+    {
+      "landing_lead_submission_id": "aea6f129-f4da-4353-8fd1-9c34ccd01d45",
+      "landing_form_id": "0ad016ae-3b7d-4f9f-9879-0af03cd9cf48",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "landing_page_id": null,
+      "customer_full_name": "Phạm Văn Trang",
+      "customer_phone": "0384345570",
+      "customer_email": "trangpv@fecon.com.vn",
+      "customer_company": "Công ty cổ phần Tập đoàn FECON",
+      "submitted_fields_json": {
+        "pic": "",
+        "care_note": "19/10/2026: chưa nghe máy, chiều gọi lại\nanh Trang bận nên kết bạn zalo gửi tài liệu trước\n20/10/2026: Anh Trang chia sẻ bên anh làm nhiều về dự án to + dài , bao gồm nhiều nhà thầu phụ.",
+        "sheet_tab": "Landing Page",
+        "care_status": "",
+        "primary_need": "Cần CIC tư vấn lựa chọn",
+        "requirements": ""
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Google Sheets Sync",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-16T03:18:10.000Z"
+    },
+    {
+      "landing_lead_submission_id": "536286bd-7038-477a-8b69-107b94400414",
+      "landing_form_id": "0ad016ae-3b7d-4f9f-9879-0af03cd9cf48",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "landing_page_id": null,
+      "customer_full_name": "VŨ Thành Long",
+      "customer_phone": "0903235579",
+      "customer_email": "longvt@cjsc.com.vn",
+      "customer_company": "Công ty CP Cjsc (www.cjsc.com.vn",
+      "submitted_fields_json": {
+        "pic": "",
+        "care_note": "",
+        "sheet_tab": "Landing Page",
+        "care_status": "",
+        "primary_need": "Hoàn thiện sàn bê tông",
+        "requirements": "cả 4 loại robot mình đều quan tâm, liên hệ qua cty mình trao đổi nhé"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Google Sheets Sync",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-22T01:23:25.000Z"
+    },
+    {
+      "landing_lead_submission_id": "eb12d777-f85c-4e61-830f-5f8b68804a2f",
+      "landing_form_id": "0ad016ae-3b7d-4f9f-9879-0af03cd9cf48",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test robot-cong-trinh",
+      "customer_phone": "0912345678",
+      "customer_email": "test_robot-cong-trinh@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test robot-cong-trinh",
+        "work_email": "test_robot-cong-trinh@cic.com.vn",
+        "primary_need": "Cần CIC tư vấn lựa chọn",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:38:57.940Z"
+    },
+    {
+      "landing_lead_submission_id": "c6f9a91b-8f91-4399-998b-7dcd0bb67dfd",
+      "landing_form_id": "0ad016ae-3b7d-4f9f-9879-0af03cd9cf48",
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test robot-cong-trinh",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_robot-cong-trinh@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test robot-cong-trinh",
+        "work_email": "quote_robot-cong-trinh@cic.com.vn",
+        "primary_need": "Hoàn thiện sàn bê tông",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:38:59.361Z"
+    }
+  ],
+  "pageViews": [
+    {
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "view_date": "2026-10-14",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "view_date": "2026-10-16",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "view_date": "2026-10-22",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "view_date": "2026-10-23",
+      "views_count": 4,
+      "unique_visitors_count": 2
+    },
+    {
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "view_date": "2026-10-26",
+      "views_count": 40,
+      "unique_visitors_count": 3
+    },
+    {
+      "landing_site_id": "7ebc7596-2add-43bf-80ac-5d5d0001c480",
+      "view_date": "2026-10-27",
+      "views_count": 13,
+      "unique_visitors_count": 3
+    }
+  ],
+  "adminAccounts": [
+    {
+      "username": "robot_admin",
+      "password_hash": "bd7bf1a09b225198f77b658e5edd5542a1c0b67932295b837a3670374e5119fc",
+      "display_name": "Quản trị Robot Công Trình",
+      "role": "site_admin",
+      "landing_site_code": "robot-cong-trinh",
+      "is_active": true
+    },
+    {
+      "username": "admin",
+      "password_hash": "2e6c21501300cc6fa4d50597c1c483c802b6d9f00f119f004d8344f663129109",
+      "display_name": "Quản trị Tổng CIC",
+      "role": "super_admin",
+      "landing_site_code": null,
+      "is_active": true
+    }
+  ]
+}

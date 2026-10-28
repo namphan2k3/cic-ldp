@@ -1,0 +1,2227 @@
+{
+  "exportedAt": "2026-10-28T01:16:23.725Z",
+  "targetSiteCode": "autocad",
+  "sectionTypes": [
+    {
+      "landing_section_type_code": "advantages",
+      "landing_section_type_name": "Ưu Điểm Vượt Trội",
+      "category": "feature",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.707Z",
+      "updated_at_utc": "2026-10-28T01:12:40.707Z"
+    },
+    {
+      "landing_section_type_code": "catalog",
+      "landing_section_type_name": "Danh Mục Tính Năng / Giải Pháp",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.719Z",
+      "updated_at_utc": "2026-10-28T01:12:40.719Z"
+    },
+    {
+      "landing_section_type_code": "comparison",
+      "landing_section_type_name": "Bảng So Sánh & Các Gói Bản Quyền",
+      "category": "comparison",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.725Z",
+      "updated_at_utc": "2026-10-28T01:12:40.725Z"
+    },
+    {
+      "landing_section_type_code": "consultation_form",
+      "landing_section_type_name": "Form Đăng Ký Tư Vấn & Tải Dùng Thử",
+      "category": "form",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.731Z",
+      "updated_at_utc": "2026-10-28T01:12:40.731Z"
+    },
+    {
+      "landing_section_type_code": "faq",
+      "landing_section_type_name": "Câu Hỏi Thường Gặp (FAQ)",
+      "category": "faq",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.739Z",
+      "updated_at_utc": "2026-10-28T01:12:40.739Z"
+    },
+    {
+      "landing_section_type_code": "floating_cta",
+      "landing_section_type_name": "Nút Liên Hệ Nổi (Floating CTA)",
+      "category": "cta",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.743Z",
+      "updated_at_utc": "2026-10-28T01:12:40.743Z"
+    },
+    {
+      "landing_section_type_code": "footer",
+      "landing_section_type_name": "Chân Trang (Footer)",
+      "category": "footer",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.750Z",
+      "updated_at_utc": "2026-10-28T01:12:40.750Z"
+    },
+    {
+      "landing_section_type_code": "header",
+      "landing_section_type_name": "Thanh Điều Hướng (Header)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.756Z",
+      "updated_at_utc": "2026-10-28T01:12:40.756Z"
+    },
+    {
+      "landing_section_type_code": "hero",
+      "landing_section_type_name": "Banner Chính (Hero Section)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.762Z",
+      "updated_at_utc": "2026-10-28T01:12:40.762Z"
+    },
+    {
+      "landing_section_type_code": "infrastructure",
+      "landing_section_type_name": "Infrastructure & Specialized Machinery",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.769Z",
+      "updated_at_utc": "2026-10-28T01:12:40.769Z"
+    },
+    {
+      "landing_section_type_code": "intro",
+      "landing_section_type_name": "Giới Thiệu Tổng Quan & Thống Kê",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.773Z",
+      "updated_at_utc": "2026-10-28T01:12:40.773Z"
+    },
+    {
+      "landing_section_type_code": "requirements",
+      "landing_section_type_name": "Yêu Cầu Cấu Hình Hệ Thống",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.777Z",
+      "updated_at_utc": "2026-10-28T01:12:40.777Z"
+    },
+    {
+      "landing_section_type_code": "resources",
+      "landing_section_type_name": "Tài Nguyên & Thư Viện Hỗ Trợ",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.781Z",
+      "updated_at_utc": "2026-10-28T01:12:40.781Z"
+    },
+    {
+      "landing_section_type_code": "video_slider",
+      "landing_section_type_name": "YouTube Video Showcase Slider",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.789Z",
+      "updated_at_utc": "2026-10-28T01:12:40.789Z"
+    }
+  ],
+  "sites": [
+    {
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "landing_site_code": "autocad",
+      "landing_site_name": "Autodesk AutoCAD — Phần mềm Thiết kế CAD Bản quyền Chính hãng (Host Mắt Bão)",
+      "landing_site_type": "landing",
+      "primary_domain": "autocad.cic.com.vn",
+      "custom_domains_json": [
+        "autocad.localhost",
+        "www.autocad.cic.com.vn"
+      ],
+      "supported_locales_json": [
+        "vi",
+        "en"
+      ],
+      "default_locale": "vi",
+      "site_status": "active",
+      "brand_config_json": {
+        "email": "info@cic.com.vn",
+        "address": "Số 37 Lê Văn Thiêm, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",
+        "hotline": "0866 059 659",
+        "logo_url": "/api/landing/media/autocad/images/logo.png",
+        "zalo_url": "https://zalo.me/0866059659",
+        "favicon_url": "/api/landing/media/autocad/images/favicon.ico",
+        "primary_color": "#dc2626",
+        "hosting_origin": "Host Mắt Bão"
+      },
+      "seo_meta_json": {
+        "title": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC",
+        "keywords": "autocad, CIC, phần mềm xây dựng, BIM, CAD, bản quyền chính hãng",
+        "og_image": "/api/landing/media/autocad/images/hero.png",
+        "description": "Tăng tốc độ thiết kế gấp 2 lần với bộ 7 Toolsets chuyên ngành (Architecture, Mechanical, Electrical, MEP, Plant 3D, Map 3D, Raster Design) cùng công nghệ Autodesk AI thông minh."
+      },
+      "tracking_config_json": {
+        "ga4_id": "",
+        "gtm_id": "",
+        "fb_pixel_id": ""
+      },
+      "created_at_utc": "2026-10-28T01:12:40.802Z",
+      "updated_at_utc": "2026-10-28T01:12:40.802Z"
+    }
+  ],
+  "pages": [
+    {
+      "landing_page_id": "cd0ba88a-a455-4341-b956-c5a639bd6176",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "landing_page_slug": "home",
+      "landing_page_locale": "en",
+      "page_title": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC (EN)",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC",
+        "description": "Tăng tốc độ thiết kế gấp 2 lần với bộ 7 Toolsets chuyên ngành (Architecture, Mechanical, Electrical, MEP, Plant 3D, Map 3D, Raster Design) cùng công nghệ Autodesk AI thông minh."
+      },
+      "published_at_utc": "2026-10-26T04:29:30.242Z",
+      "created_at_utc": "2026-10-28T01:12:40.992Z",
+      "updated_at_utc": "2026-10-28T01:12:40.992Z"
+    },
+    {
+      "landing_page_id": "e6867a1f-1c68-4988-a023-5856df04c447",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "landing_page_slug": "home",
+      "landing_page_locale": "vi",
+      "page_title": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC",
+        "description": "Tăng tốc độ thiết kế gấp 2 lần với bộ 7 Toolsets chuyên ngành (Architecture, Mechanical, Electrical, MEP, Plant 3D, Map 3D, Raster Design) cùng công nghệ Autodesk AI thông minh."
+      },
+      "published_at_utc": "2026-10-26T04:29:30.115Z",
+      "created_at_utc": "2026-10-28T01:12:40.996Z",
+      "updated_at_utc": "2026-10-28T01:12:40.996Z"
+    }
+  ],
+  "sections": [
+    {
+      "landing_page_section_id": "5a569d5c-07da-47e8-a946-441376c06db4",
+      "landing_page_id": "cd0ba88a-a455-4341-b956-c5a639bd6176",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "header",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Lý do chọn mua AutoCAD 2016",
+            "description": "Tháng 10 năm 2015 AutoCAD LT ngừng bán bản quyền vĩnh viễn chỉ còn:"
+          },
+          {
+            "title": "Hơn 1000 khách hàng đã tin tưởng lựa chọn",
+            "description": "Tính năng mới giúp người dùng có thể bắt điểm vào trung tâm của một hình khép kín như: tam giác, tứ giác, lục giác.."
+          },
+          {
+            "title": "Hình ảnh của sản phẩm AutoCAD",
+            "description": "Giúp người dùng dễ dàng tạo ra các hình thù “đám mây” như tam giác, hình chữ nhật, hình tròn…"
+          },
+          {
+            "title": "Chọn các phiên bản AutoCAD 2016",
+            "description": "Khi di chuột qua hoặc trạm vào một hình thì phần mềm sẽ tự động hiện ra kích thước cần đo."
+          },
+          {
+            "title": "AutoCAD LT® 2016",
+            "description": "Cho phép người dùng có thể đính kèm mô hình của Navisworks, BIM360..trực tiếp vào AutoCAD"
+          },
+          {
+            "title": "AutoCAD® 2016",
+            "description": "Tạo ra các bản PDF tốt hơn, giảm dung lượng file PDF nhưng vẫn giữ được chất lượng tốt."
+          }
+        ],
+        "title": "Những tính năng nổi bật của AutoCAD 2016",
+        "logo_url": "/api/landing/media/autocad/images/logo.png",
+        "subtitle": "Lý do chọn mua AutoCAD 2016",
+        "cta_label": "Register Now",
+        "nav_items": [
+          {
+            "href": "#intro",
+            "label": "Overview"
+          },
+          {
+            "href": "#advantages",
+            "label": "Advantages"
+          },
+          {
+            "href": "#catalog",
+            "label": "Solutions"
+          },
+          {
+            "href": "#comparison",
+            "label": "Pricing & Packages"
+          },
+          {
+            "href": "#faq",
+            "label": "FAQ"
+          }
+        ],
+        "brand_name": "Autodesk AutoCAD",
+        "description": "Tháng 10 năm 2015 AutoCAD LT ngừng bán bản quyền vĩnh viễn chỉ còn:"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.043Z",
+      "updated_at_utc": "2026-10-28T01:12:42.043Z"
+    },
+    {
+      "landing_page_section_id": "285d2729-5de4-454c-bf9d-18ea9c8dd1cf",
+      "landing_page_id": "cd0ba88a-a455-4341-b956-c5a639bd6176",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "hero",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "Đối Tác Chính Thức Autodesk Tại Việt Nam — Công Ty Cổ Phần Công Nghệ & Tư Vấn CIC",
+        "items": [
+          {
+            "title": "Lý do chọn mua AutoCAD 2016",
+            "description": "Tháng 10 năm 2015 AutoCAD LT ngừng bán bản quyền vĩnh viễn chỉ còn:"
+          },
+          {
+            "title": "Hơn 1000 khách hàng đã tin tưởng lựa chọn",
+            "description": "Tính năng mới giúp người dùng có thể bắt điểm vào trung tâm của một hình khép kín như: tam giác, tứ giác, lục giác.."
+          },
+          {
+            "title": "Hình ảnh của sản phẩm AutoCAD",
+            "description": "Giúp người dùng dễ dàng tạo ra các hình thù “đám mây” như tam giác, hình chữ nhật, hình tròn…"
+          },
+          {
+            "title": "Chọn các phiên bản AutoCAD 2016",
+            "description": "Khi di chuột qua hoặc trạm vào một hình thì phần mềm sẽ tự động hiện ra kích thước cần đo."
+          },
+          {
+            "title": "AutoCAD LT® 2016",
+            "description": "Cho phép người dùng có thể đính kèm mô hình của Navisworks, BIM360..trực tiếp vào AutoCAD"
+          },
+          {
+            "title": "AutoCAD® 2016",
+            "description": "Tạo ra các bản PDF tốt hơn, giảm dung lượng file PDF nhưng vẫn giữ được chất lượng tốt."
+          }
+        ],
+        "stats": [
+          {
+            "label": "Bộ công cụ chuyên ngành Kiến trúc, Cơ khí, Điện, Bản đồ tích hợp sẵn",
+            "value": "7 Toolsets"
+          },
+          {
+            "label": "Tăng năng suất thiết kế trung bình nhờ thư viện & tự động hóa",
+            "value": "63%+"
+          },
+          {
+            "label": "Xem và chỉnh sửa bản vẽ DWG mọi lúc mọi nơi tại công trường",
+            "value": "Web & Mobile"
+          },
+          {
+            "label": "Bản quyền chính hãng Autodesk phân phối bởi CIC từ năm 1990",
+            "value": "100%"
+          }
+        ],
+        "title": "Những tính năng nổi bật của AutoCAD 2016",
+        "subtitle": "Lý do chọn mua AutoCAD 2016",
+        "description": "Tháng 10 năm 2015 AutoCAD LT ngừng bán bản quyền vĩnh viễn chỉ còn:",
+        "hero_image_url": "/api/landing/media/autocad/images/hero.png",
+        "primary_cta_href": "#consultation",
+        "primary_cta_label": "Download Trial & Quote",
+        "secondary_cta_href": "#comparison",
+        "secondary_cta_label": "View Brochure (PDF)"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.047Z",
+      "updated_at_utc": "2026-10-28T01:12:42.047Z"
+    },
+    {
+      "landing_page_section_id": "6bdafe4a-cafa-4181-848a-4d7f093dbca2",
+      "landing_page_id": "cd0ba88a-a455-4341-b956-c5a639bd6176",
+      "landing_section_type_code": "intro",
+      "section_anchor_id": "intro",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "WHY CHOOSE CIC VIETNAM",
+        "items": [
+          {
+            "title": "Lý do chọn mua AutoCAD 2016",
+            "description": "Tháng 10 năm 2015 AutoCAD LT ngừng bán bản quyền vĩnh viễn chỉ còn:"
+          },
+          {
+            "title": "Hơn 1000 khách hàng đã tin tưởng lựa chọn",
+            "description": "Tính năng mới giúp người dùng có thể bắt điểm vào trung tâm của một hình khép kín như: tam giác, tứ giác, lục giác.."
+          },
+          {
+            "title": "Hình ảnh của sản phẩm AutoCAD",
+            "description": "Giúp người dùng dễ dàng tạo ra các hình thù “đám mây” như tam giác, hình chữ nhật, hình tròn…"
+          },
+          {
+            "title": "Chọn các phiên bản AutoCAD 2016",
+            "description": "Khi di chuột qua hoặc trạm vào một hình thì phần mềm sẽ tự động hiện ra kích thước cần đo."
+          },
+          {
+            "title": "AutoCAD LT® 2016",
+            "description": "Cho phép người dùng có thể đính kèm mô hình của Navisworks, BIM360..trực tiếp vào AutoCAD"
+          },
+          {
+            "title": "AutoCAD® 2016",
+            "description": "Tạo ra các bản PDF tốt hơn, giảm dung lượng file PDF nhưng vẫn giữ được chất lượng tốt."
+          }
+        ],
+        "title": "Những tính năng nổi bật của AutoCAD 2016",
+        "subtitle": "Lý do chọn mua AutoCAD 2016",
+        "description": "Tháng 10 năm 2015 AutoCAD LT ngừng bán bản quyền vĩnh viễn chỉ còn:"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.054Z",
+      "updated_at_utc": "2026-10-28T01:12:42.054Z"
+    },
+    {
+      "landing_page_section_id": "ccdaf66d-43e0-420f-9d4f-821648ced2c3",
+      "landing_page_id": "cd0ba88a-a455-4341-b956-c5a639bd6176",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "advantages",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "KEY ADVANTAGES",
+        "items": [
+          {
+            "title": "Lý do chọn mua AutoCAD 2016",
+            "description": "Tính năng mới giúp người dùng có thể bắt điểm vào trung tâm của một hình khép kín như: tam giác, tứ giác, lục giác.."
+          },
+          {
+            "title": "Hơn 1000 khách hàng đã tin tưởng lựa chọn",
+            "description": "Giúp người dùng dễ dàng tạo ra các hình thù “đám mây” như tam giác, hình chữ nhật, hình tròn…"
+          },
+          {
+            "title": "Hình ảnh của sản phẩm AutoCAD",
+            "description": "Khi di chuột qua hoặc trạm vào một hình thì phần mềm sẽ tự động hiện ra kích thước cần đo."
+          },
+          {
+            "title": "Chọn các phiên bản AutoCAD 2016",
+            "description": "Cho phép người dùng có thể đính kèm mô hình của Navisworks, BIM360..trực tiếp vào AutoCAD"
+          },
+          {
+            "title": "AutoCAD LT® 2016",
+            "description": "Tạo ra các bản PDF tốt hơn, giảm dung lượng file PDF nhưng vẫn giữ được chất lượng tốt."
+          },
+          {
+            "title": "AutoCAD® 2016",
+            "description": "+ Bộ vi xử lý Intel Pentium 4 hoặc AMD Athlon lõi kép, 3.0 GHz trở lên với công nghệ SSE2 dành cho Windows 8 và Windows 7. + Bộ vi xử lý Pentium 4 hoặc Athlon lõi kép, 1.6 GHz trở lên với công nghệ SSE2 dành cho Windows XP. + RAM: 2 GB (khuyên dùng 4 GB). + Ổ đĩa cứng trống: 6 GB để cài đặt phần mềm. + Độ phân giải màn hình 1024 x 768 với màu sắc thực (khuyên dùng 1600 x 1050). + Trình duyệt Microsoft Internet Explorer 7 trở lên. + Cài đặt từ bản download hoặc DVD."
+          }
+        ],
+        "title": "Những tính năng nổi bật của AutoCAD 2016",
+        "subtitle": "Lý do chọn mua AutoCAD 2016",
+        "description": "Tính năng mới giúp người dùng có thể bắt điểm vào trung tâm của một hình khép kín như: tam giác, tứ giác, lục giác.."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.058Z",
+      "updated_at_utc": "2026-10-28T01:12:42.058Z"
+    },
+    {
+      "landing_page_section_id": "5507c591-e3ea-4094-af3e-233201aa7e8d",
+      "landing_page_id": "cd0ba88a-a455-4341-b956-c5a639bd6176",
+      "landing_section_type_code": "catalog",
+      "section_anchor_id": "catalog",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "PRODUCT MODULES",
+        "items": [
+          {
+            "title": "Hơn 1000 khách hàng đã tin tưởng lựa chọn",
+            "description": "Từ Công ty cổ phần Tin học và Tư vấn xây dựng (CIC)"
+          },
+          {
+            "title": "Hình ảnh của sản phẩm AutoCAD",
+            "description": "CIC là nhà cung cấp phần mềm bản quyền AutoCAD"
+          },
+          {
+            "title": "Chọn các phiên bản AutoCAD 2016",
+            "description": "Tài liệu AutoCAD Xem video AutoCAD 2016 TÔI MUỐN ĐĂNG KÝ ĐƯỢC MUA ƯU ĐÃI"
+          },
+          {
+            "title": "AutoCAD LT® 2016",
+            "description": "Công cụ vẽ và triển khai 2D"
+          },
+          {
+            "title": "AutoCAD® 2016",
+            "description": "Dim, ghi chú và kích thước"
+          },
+          {
+            "title": "AutoCAD® Design Suite",
+            "description": "Công nghệ TrustedDWG™"
+          }
+        ],
+        "title": "Lý do chọn mua AutoCAD 2016",
+        "subtitle": "Hơn 1000 khách hàng đã tin tưởng lựa chọn",
+        "description": "Từ Công ty cổ phần Tin học và Tư vấn xây dựng (CIC)"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.061Z",
+      "updated_at_utc": "2026-10-28T01:12:42.061Z"
+    },
+    {
+      "landing_page_section_id": "695e6a7c-74be-421a-a45e-0aad8f7b06b2",
+      "landing_page_id": "cd0ba88a-a455-4341-b956-c5a639bd6176",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "comparison",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "LICENSING & PACKAGES",
+        "items": [
+          {
+            "title": "AutoCAD LT® 2016",
+            "description": "Công cụ vẽ và triển khai 2D"
+          },
+          {
+            "title": "AutoCAD® 2016",
+            "description": "Dim, ghi chú và kích thước"
+          },
+          {
+            "title": "AutoCAD® Design Suite",
+            "description": "Công nghệ TrustedDWG™"
+          },
+          {
+            "title": "Khách hàng tiêu biểu",
+            "description": "Tích hợp AutoCAD® 360 web & mobile"
+          },
+          {
+            "title": "ĐỊA CHỈ LIÊN HỆ",
+            "description": "Công cụ mô hình 3D"
+          }
+        ],
+        "title": "Chọn các phiên bản AutoCAD 2016",
+        "pdf_url": "/api/landing/media/autocad/downloads/brochure.pdf",
+        "packages": [
+          {
+            "name": "AutoCAD LT (Bản 2D)",
+            "price": "Tiết Kiệm Chi Phí",
+            "period": "Thuê bao 1 Năm / 3 Năm chính hãng",
+            "features": [
+              "Thiết kế & biên tập bản vẽ 2D DWG chuẩn xác",
+              "Hỗ trợ chạy chương trình AutoLISP",
+              "Bao gồm ứng dụng AutoCAD trên Web & Mobile"
+            ],
+            "cta_label": "Nhận Báo Giá AutoCAD LT",
+            "description": "Lựa chọn kinh tế cho đội ngũ họa viên và kỹ sư chuyên triển khai bản vẽ chi tiết 2D."
+          },
+          {
+            "name": "AutoCAD Full (Kèm 7 Toolsets)",
+            "badge": "CHUẨN DOANH NGHIỆP",
+            "price": "Phiên Bản Toàn Diện Nhất",
+            "period": "Thuê bao 1 Năm / 3 Năm chính hãng",
+            "features": [
+              "Thiết kế 2D & Mô hình hóa 3D Solid/Surface/Mesh",
+              "Trọn bộ 7 Toolsets (Architecture, Mechanical, Electrical, MEP...)",
+              "Hỗ trợ đầy đủ LISP, ObjectARX, .NET, VBA",
+              "Hỗ trợ kỹ thuật & chứng nhận bản quyền từ CIC"
+            ],
+            "cta_label": "Nhận Báo Giá AutoCAD Full",
+            "highlight": true,
+            "description": "Trang bị sức mạnh tối đa với mô hình 3D, lập trình API toàn diện và 7 bộ công cụ chuyên ngành."
+          },
+          {
+            "name": "Gói Kết Hợp Tối Ưu Ngân Sách CIC",
+            "price": "Tư Vấn May Đo",
+            "period": "Kết hợp Thuê bao + Bản quyền Vĩnh viễn",
+            "features": [
+              "Phân bổ hợp lý AutoCAD cho nhóm chủ chốt",
+              "Kết hợp giải pháp CAD vĩnh viễn cho nhóm đại trà",
+              "Đào tạo & chuẩn hóa hệ thống bản vẽ toàn công ty"
+            ],
+            "cta_label": "Tư Vấn Giải Pháp Tối Ưu",
+            "description": "Giải pháp độc quyền từ CIC giúp doanh nghiệp tuân thủ 100% bản quyền với tổng chi phí giảm tới 50%."
+          }
+        ],
+        "subtitle": "AutoCAD LT® 2016",
+        "description": "Công cụ vẽ và triển khai 2D",
+        "modal_title": "Tài Liệu Kỹ Thuật & So Sánh Phiên Bản — Autodesk AutoCAD",
+        "pdf_cta_label": "XEM TÀI LIỆU SO SÁNH & BROCHURE (PDF)",
+        "modal_download_label": "Tải Xuống Tài Liệu PDF",
+        "modal_register_label": "Nhận Tư Vấn & Báo Giá Chi Tiết"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.068Z",
+      "updated_at_utc": "2026-10-28T01:12:42.068Z"
+    },
+    {
+      "landing_page_section_id": "ca0ebd31-2af2-4a97-8430-d09ae3d87ff7",
+      "landing_page_id": "cd0ba88a-a455-4341-b956-c5a639bd6176",
+      "landing_section_type_code": "resources",
+      "section_anchor_id": "resources",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "DOCUMENTATION & RESOURCES",
+        "items": [
+          {
+            "title": "ĐỊA CHỈ LIÊN HỆ",
+            "description": "Đã mua sản phẩm AutoCAD 2016."
+          }
+        ],
+        "title": "Khách hàng tiêu biểu",
+        "subtitle": "ĐỊA CHỈ LIÊN HỆ",
+        "description": "Đã mua sản phẩm AutoCAD 2016."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.072Z",
+      "updated_at_utc": "2026-10-28T01:12:42.072Z"
+    },
+    {
+      "landing_page_section_id": "7fc4806e-6df2-4fcc-891b-8ff09d1820ef",
+      "landing_page_id": "cd0ba88a-a455-4341-b956-c5a639bd6176",
+      "landing_section_type_code": "faq",
+      "section_anchor_id": "faq",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "FREQUENTLY ASKED QUESTIONS",
+        "items": [
+          {
+            "a": "Quý khách chỉ cần điền thông tin tại biểu mẫu Đăng ký tư vấn bên dưới. Hệ thống sẽ cung cấp ngay tài liệu/bộ cài dùng thử và chuyên gia CIC sẽ gửi báo giá ưu đãi trong vòng 15 phút làm việc.",
+            "q": "Làm thế nào để nhận bản dùng thử và báo giá chính thức Autodesk AutoCAD từ CIC?"
+          },
+          {
+            "a": "Có. Với tư cách là đối tác phân phối chính thức tại Việt Nam từ năm 1990, CIC cung cấp đầy đủ chứng nhận bản quyền chính hãng, hóa đơn tài chính hợp lệ và dịch vụ đào tạo kỹ thuật tận nơi hoặc trực tuyến.",
+            "q": "CIC có hỗ trợ cài đặt, đào tạo chuyển giao và xuất hóa đơn GTGT đầy đủ không?"
+          },
+          {
+            "a": "Tùy theo đặc thù vận hành, kỹ sư CIC sẽ tư vấn hình thức Single-user (Named User) hoặc Network Floating License qua mạng LAN/VPN giúp tối ưu chi phí đầu tư cho doanh nghiệp.",
+            "q": "Doanh nghiệp có nhiều chi nhánh hoặc làm việc từ xa thì nên chọn hình thức cấp phép nào?"
+          }
+        ],
+        "title": "ĐỊA CHỈ LIÊN HỆ",
+        "subtitle": "Địa chỉ:Số 37 Lê Đại Hành-Hai Bà Trưng-Hà Nội Điện thoại: 04.397.467.98-0123.86.999.88 * Fax: 04 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88",
+        "description": "Địa chỉ:Số 37 Lê Đại Hành-Hai Bà Trưng-Hà Nội Điện thoại: 04.397.467.98-0123.86.999.88 * Fax: 04 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.075Z",
+      "updated_at_utc": "2026-10-28T01:12:42.075Z"
+    },
+    {
+      "landing_page_section_id": "f81a74ca-4d77-41e7-ba27-83a97f9d8ffe",
+      "landing_page_id": "cd0ba88a-a455-4341-b956-c5a639bd6176",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "consultation",
+      "section_order": 9,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "FREE CONSULTATION & TRIAL",
+        "items": [],
+        "title": "ĐỊA CHỈ LIÊN HỆ",
+        "benefits": [
+          "Tải ngay Tài liệu kỹ thuật, Brochure & Bộ cài đặt dùng thử chính thức",
+          "Nhận báo giá ưu đãi đặc biệt dành cho doanh nghiệp từ CIC",
+          "Hỗ trợ cài đặt, giải đáp kỹ thuật 1-1 bởi đội ngũ kỹ sư giàu kinh nghiệm",
+          "Cam kết bảo mật 100% thông tin doanh nghiệp và dự án"
+        ],
+        "subtitle": "Địa chỉ:Số 37 Lê Đại Hành-Hai Bà Trưng-Hà Nội Điện thoại: 04.397.467.98-0123.86.999.88 * Fax: 04 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88",
+        "description": "Địa chỉ:Số 37 Lê Đại Hành-Hai Bà Trưng-Hà Nội Điện thoại: 04.397.467.98-0123.86.999.88 * Fax: 04 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88",
+        "modal_title": "Tài Liệu & Bộ Cài Đặt Đã Sẵn Sàng!",
+        "submit_label": "Gửi Yêu Cầu & Nhận Tài Liệu Ngay",
+        "modal_description": "Cảm ơn Quý khách đã đăng ký! Quý khách có thể bấm vào nút bên dưới để tải ngay tài liệu/bộ cài đặt hoặc chờ chuyên gia CIC liên hệ trong ít phút:",
+        "modal_button_label": "Tải Tài Liệu & Bộ Cài Đặt Ngay"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.078Z",
+      "updated_at_utc": "2026-10-28T01:12:42.078Z"
+    },
+    {
+      "landing_page_section_id": "023e0ba9-b953-4ebc-aa40-8f39001b619b",
+      "landing_page_id": "cd0ba88a-a455-4341-b956-c5a639bd6176",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "footer",
+      "section_order": 10,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "email": "info@cic.com.vn",
+        "items": [],
+        "title": "ĐỊA CHỈ LIÊN HỆ",
+        "address": "Trụ sở chính: Số 37 Lê Văn Thiêm, Phường Nhân Chính, Quận Thanh Xuân, TP. Hà Nội | Chi nhánh TP.HCM: Số 36 Nguyễn Huy Lượng, Phường 14, Quận Bình Thạnh",
+        "hotline": "0866 059 659",
+        "subtitle": "Địa chỉ:Số 37 Lê Đại Hành-Hai Bà Trưng-Hà Nội Điện thoại: 04.397.467.98-0123.86.999.88 * Fax: 04 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88",
+        "copyright": "© 2026 Công ty Cổ phần Công nghệ và Tư vấn CIC. Bảo lưu mọi quyền cho chuyên trang autocad.cic.com.vn.",
+        "description": "Địa chỉ:Số 37 Lê Đại Hành-Hai Bà Trưng-Hà Nội Điện thoại: 04.397.467.98-0123.86.999.88 * Fax: 04 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88",
+        "company_name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ TƯ VẤN CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.086Z",
+      "updated_at_utc": "2026-10-28T01:12:42.086Z"
+    },
+    {
+      "landing_page_section_id": "f8a0ce10-0cb5-4ecc-bf17-a1143a028517",
+      "landing_page_id": "cd0ba88a-a455-4341-b956-c5a639bd6176",
+      "landing_section_type_code": "floating_cta",
+      "section_anchor_id": "floating_cta",
+      "section_order": 11,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Lý do chọn mua AutoCAD 2016",
+            "description": "Phân phối phần mềm AutoCAD bản quyền chính hãng tại Việt Nam Toggle navigation Trang chủ"
+          },
+          {
+            "title": "Hơn 1000 khách hàng đã tin tưởng lựa chọn",
+            "description": "Lý do chọn mua"
+          },
+          {
+            "title": "Hình ảnh của sản phẩm AutoCAD",
+            "description": "Các phiên bản"
+          },
+          {
+            "title": "Chọn các phiên bản AutoCAD 2016",
+            "description": "Khách hàng tiêu biểu"
+          },
+          {
+            "title": "AutoCAD LT® 2016",
+            "description": "Tháng 10 năm 2015 AutoCAD LT ngừng bán bản quyền vĩnh viễn chỉ còn:"
+          },
+          {
+            "title": "AutoCAD® 2016",
+            "description": "Tính năng mới giúp người dùng có thể bắt điểm vào trung tâm của một hình khép kín như: tam giác, tứ giác, lục giác.."
+          }
+        ],
+        "title": "Những tính năng nổi bật của AutoCAD 2016",
+        "hotline": "0866 059 659",
+        "subtitle": "Lý do chọn mua AutoCAD 2016",
+        "zalo_url": "https://zalo.me/0866059659",
+        "cta_label": "Đăng Ký Tư Vấn",
+        "description": "Phân phối phần mềm AutoCAD bản quyền chính hãng tại Việt Nam Toggle navigation Trang chủ"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.091Z",
+      "updated_at_utc": "2026-10-28T01:12:42.091Z"
+    },
+    {
+      "landing_page_section_id": "b695fd2c-cb55-4049-b14d-ba7d46768be4",
+      "landing_page_id": "e6867a1f-1c68-4988-a023-5856df04c447",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "header",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Lý do chọn mua AutoCAD 2016",
+            "description": "Tháng 10 năm 2015 AutoCAD LT ngừng bán bản quyền vĩnh viễn chỉ còn:"
+          },
+          {
+            "title": "Hơn 1000 khách hàng đã tin tưởng lựa chọn",
+            "description": "Tính năng mới giúp người dùng có thể bắt điểm vào trung tâm của một hình khép kín như: tam giác, tứ giác, lục giác.."
+          },
+          {
+            "title": "Hình ảnh của sản phẩm AutoCAD",
+            "description": "Giúp người dùng dễ dàng tạo ra các hình thù “đám mây” như tam giác, hình chữ nhật, hình tròn…"
+          },
+          {
+            "title": "Chọn các phiên bản AutoCAD 2016",
+            "description": "Khi di chuột qua hoặc trạm vào một hình thì phần mềm sẽ tự động hiện ra kích thước cần đo."
+          },
+          {
+            "title": "AutoCAD LT® 2016",
+            "description": "Cho phép người dùng có thể đính kèm mô hình của Navisworks, BIM360..trực tiếp vào AutoCAD"
+          },
+          {
+            "title": "AutoCAD® 2016",
+            "description": "Tạo ra các bản PDF tốt hơn, giảm dung lượng file PDF nhưng vẫn giữ được chất lượng tốt."
+          }
+        ],
+        "title": "Những tính năng nổi bật của AutoCAD 2016",
+        "logo_url": "/api/landing/media/autocad/images/logo.png",
+        "subtitle": "Lý do chọn mua AutoCAD 2016",
+        "cta_label": "Đăng Ký Tư Vấn",
+        "nav_items": [
+          {
+            "href": "#intro",
+            "label": "Tổng quan"
+          },
+          {
+            "href": "#advantages",
+            "label": "Ưu điểm"
+          },
+          {
+            "href": "#catalog",
+            "label": "Giải pháp"
+          },
+          {
+            "href": "#comparison",
+            "label": "Các gói & So sánh"
+          },
+          {
+            "href": "#faq",
+            "label": "Hỏi đáp"
+          }
+        ],
+        "brand_name": "Autodesk AutoCAD",
+        "description": "Tháng 10 năm 2015 AutoCAD LT ngừng bán bản quyền vĩnh viễn chỉ còn:"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.441Z",
+      "updated_at_utc": "2026-10-28T01:12:42.441Z"
+    },
+    {
+      "landing_page_section_id": "e821e2c6-fe0a-4281-9ef2-582fb62e5295",
+      "landing_page_id": "e6867a1f-1c68-4988-a023-5856df04c447",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "hero",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "Đối Tác Chính Thức Autodesk Tại Việt Nam — Công Ty Cổ Phần Công Nghệ & Tư Vấn CIC",
+        "items": [
+          {
+            "title": "Lý do chọn mua AutoCAD 2016",
+            "description": "Tháng 10 năm 2015 AutoCAD LT ngừng bán bản quyền vĩnh viễn chỉ còn:"
+          },
+          {
+            "title": "Hơn 1000 khách hàng đã tin tưởng lựa chọn",
+            "description": "Tính năng mới giúp người dùng có thể bắt điểm vào trung tâm của một hình khép kín như: tam giác, tứ giác, lục giác.."
+          },
+          {
+            "title": "Hình ảnh của sản phẩm AutoCAD",
+            "description": "Giúp người dùng dễ dàng tạo ra các hình thù “đám mây” như tam giác, hình chữ nhật, hình tròn…"
+          },
+          {
+            "title": "Chọn các phiên bản AutoCAD 2016",
+            "description": "Khi di chuột qua hoặc trạm vào một hình thì phần mềm sẽ tự động hiện ra kích thước cần đo."
+          },
+          {
+            "title": "AutoCAD LT® 2016",
+            "description": "Cho phép người dùng có thể đính kèm mô hình của Navisworks, BIM360..trực tiếp vào AutoCAD"
+          },
+          {
+            "title": "AutoCAD® 2016",
+            "description": "Tạo ra các bản PDF tốt hơn, giảm dung lượng file PDF nhưng vẫn giữ được chất lượng tốt."
+          }
+        ],
+        "stats": [
+          {
+            "label": "Bộ công cụ chuyên ngành Kiến trúc, Cơ khí, Điện, Bản đồ tích hợp sẵn",
+            "value": "7 Toolsets"
+          },
+          {
+            "label": "Tăng năng suất thiết kế trung bình nhờ thư viện & tự động hóa",
+            "value": "63%+"
+          },
+          {
+            "label": "Xem và chỉnh sửa bản vẽ DWG mọi lúc mọi nơi tại công trường",
+            "value": "Web & Mobile"
+          },
+          {
+            "label": "Bản quyền chính hãng Autodesk phân phối bởi CIC từ năm 1990",
+            "value": "100%"
+          }
+        ],
+        "title": "Những tính năng nổi bật của AutoCAD 2016",
+        "subtitle": "Lý do chọn mua AutoCAD 2016",
+        "description": "Tháng 10 năm 2015 AutoCAD LT ngừng bán bản quyền vĩnh viễn chỉ còn:",
+        "hero_image_url": "/api/landing/media/autocad/images/hero.png",
+        "primary_cta_href": "#consultation",
+        "primary_cta_label": "Đăng Ký Dùng Thử & Nhận Báo Giá",
+        "secondary_cta_href": "#comparison",
+        "secondary_cta_label": "Xem Tài Liệu & Bảng Giá"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.449Z",
+      "updated_at_utc": "2026-10-28T01:12:42.449Z"
+    },
+    {
+      "landing_page_section_id": "cc9d016b-4ed6-4ae1-8f36-691c1bff812f",
+      "landing_page_id": "e6867a1f-1c68-4988-a023-5856df04c447",
+      "landing_section_type_code": "intro",
+      "section_anchor_id": "intro",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "GIẢI PHÁP CHÍNH HÃNG PHÂN PHỐI BỞI CIC",
+        "items": [
+          {
+            "title": "Lý do chọn mua AutoCAD 2016",
+            "description": "Tháng 10 năm 2015 AutoCAD LT ngừng bán bản quyền vĩnh viễn chỉ còn:"
+          },
+          {
+            "title": "Hơn 1000 khách hàng đã tin tưởng lựa chọn",
+            "description": "Tính năng mới giúp người dùng có thể bắt điểm vào trung tâm của một hình khép kín như: tam giác, tứ giác, lục giác.."
+          },
+          {
+            "title": "Hình ảnh của sản phẩm AutoCAD",
+            "description": "Giúp người dùng dễ dàng tạo ra các hình thù “đám mây” như tam giác, hình chữ nhật, hình tròn…"
+          },
+          {
+            "title": "Chọn các phiên bản AutoCAD 2016",
+            "description": "Khi di chuột qua hoặc trạm vào một hình thì phần mềm sẽ tự động hiện ra kích thước cần đo."
+          },
+          {
+            "title": "AutoCAD LT® 2016",
+            "description": "Cho phép người dùng có thể đính kèm mô hình của Navisworks, BIM360..trực tiếp vào AutoCAD"
+          },
+          {
+            "title": "AutoCAD® 2016",
+            "description": "Tạo ra các bản PDF tốt hơn, giảm dung lượng file PDF nhưng vẫn giữ được chất lượng tốt."
+          }
+        ],
+        "title": "Những tính năng nổi bật của AutoCAD 2016",
+        "subtitle": "Lý do chọn mua AutoCAD 2016",
+        "description": "Tháng 10 năm 2015 AutoCAD LT ngừng bán bản quyền vĩnh viễn chỉ còn:"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.459Z",
+      "updated_at_utc": "2026-10-28T01:12:42.459Z"
+    },
+    {
+      "landing_page_section_id": "b63848a0-1c06-4563-821b-687d36a89f90",
+      "landing_page_id": "e6867a1f-1c68-4988-a023-5856df04c447",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "advantages",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "ƯU ĐIỂM VƯỢT TRỘI",
+        "items": [
+          {
+            "title": "Lý do chọn mua AutoCAD 2016",
+            "description": "Tính năng mới giúp người dùng có thể bắt điểm vào trung tâm của một hình khép kín như: tam giác, tứ giác, lục giác.."
+          },
+          {
+            "title": "Hơn 1000 khách hàng đã tin tưởng lựa chọn",
+            "description": "Giúp người dùng dễ dàng tạo ra các hình thù “đám mây” như tam giác, hình chữ nhật, hình tròn…"
+          },
+          {
+            "title": "Hình ảnh của sản phẩm AutoCAD",
+            "description": "Khi di chuột qua hoặc trạm vào một hình thì phần mềm sẽ tự động hiện ra kích thước cần đo."
+          },
+          {
+            "title": "Chọn các phiên bản AutoCAD 2016",
+            "description": "Cho phép người dùng có thể đính kèm mô hình của Navisworks, BIM360..trực tiếp vào AutoCAD"
+          },
+          {
+            "title": "AutoCAD LT® 2016",
+            "description": "Tạo ra các bản PDF tốt hơn, giảm dung lượng file PDF nhưng vẫn giữ được chất lượng tốt."
+          },
+          {
+            "title": "AutoCAD® 2016",
+            "description": "+ Bộ vi xử lý Intel Pentium 4 hoặc AMD Athlon lõi kép, 3.0 GHz trở lên với công nghệ SSE2 dành cho Windows 8 và Windows 7. + Bộ vi xử lý Pentium 4 hoặc Athlon lõi kép, 1.6 GHz trở lên với công nghệ SSE2 dành cho Windows XP. + RAM: 2 GB (khuyên dùng 4 GB). + Ổ đĩa cứng trống: 6 GB để cài đặt phần mềm. + Độ phân giải màn hình 1024 x 768 với màu sắc thực (khuyên dùng 1600 x 1050). + Trình duyệt Microsoft Internet Explorer 7 trở lên. + Cài đặt từ bản download hoặc DVD."
+          }
+        ],
+        "title": "Những tính năng nổi bật của AutoCAD 2016",
+        "subtitle": "Lý do chọn mua AutoCAD 2016",
+        "description": "Tính năng mới giúp người dùng có thể bắt điểm vào trung tâm của một hình khép kín như: tam giác, tứ giác, lục giác.."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.470Z",
+      "updated_at_utc": "2026-10-28T01:12:42.470Z"
+    },
+    {
+      "landing_page_section_id": "3d140351-54d3-4570-87bc-a23821df7019",
+      "landing_page_id": "e6867a1f-1c68-4988-a023-5856df04c447",
+      "landing_section_type_code": "catalog",
+      "section_anchor_id": "catalog",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "DANH MỤC GIẢI PHÁP & MÔ-ĐUN CHUYÊN SÂU",
+        "items": [
+          {
+            "title": "Hơn 1000 khách hàng đã tin tưởng lựa chọn",
+            "description": "Từ Công ty cổ phần Tin học và Tư vấn xây dựng (CIC)"
+          },
+          {
+            "title": "Hình ảnh của sản phẩm AutoCAD",
+            "description": "CIC là nhà cung cấp phần mềm bản quyền AutoCAD"
+          },
+          {
+            "title": "Chọn các phiên bản AutoCAD 2016",
+            "description": "Tài liệu AutoCAD Xem video AutoCAD 2016 TÔI MUỐN ĐĂNG KÝ ĐƯỢC MUA ƯU ĐÃI"
+          },
+          {
+            "title": "AutoCAD LT® 2016",
+            "description": "Công cụ vẽ và triển khai 2D"
+          },
+          {
+            "title": "AutoCAD® 2016",
+            "description": "Dim, ghi chú và kích thước"
+          },
+          {
+            "title": "AutoCAD® Design Suite",
+            "description": "Công nghệ TrustedDWG™"
+          }
+        ],
+        "title": "Lý do chọn mua AutoCAD 2016",
+        "subtitle": "Hơn 1000 khách hàng đã tin tưởng lựa chọn",
+        "description": "Từ Công ty cổ phần Tin học và Tư vấn xây dựng (CIC)"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.480Z",
+      "updated_at_utc": "2026-10-28T01:12:42.480Z"
+    },
+    {
+      "landing_page_section_id": "a7939f15-e520-40ed-809a-37cbe661fda2",
+      "landing_page_id": "e6867a1f-1c68-4988-a023-5856df04c447",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "comparison",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "CÁC GÓI BẢN QUYỀN & TÀI LIỆU SO SÁNH",
+        "items": [
+          {
+            "title": "AutoCAD LT® 2016",
+            "description": "Công cụ vẽ và triển khai 2D"
+          },
+          {
+            "title": "AutoCAD® 2016",
+            "description": "Dim, ghi chú và kích thước"
+          },
+          {
+            "title": "AutoCAD® Design Suite",
+            "description": "Công nghệ TrustedDWG™"
+          },
+          {
+            "title": "Khách hàng tiêu biểu",
+            "description": "Tích hợp AutoCAD® 360 web & mobile"
+          },
+          {
+            "title": "ĐỊA CHỈ LIÊN HỆ",
+            "description": "Công cụ mô hình 3D"
+          }
+        ],
+        "title": "Chọn các phiên bản AutoCAD 2016",
+        "pdf_url": "/api/landing/media/autocad/downloads/brochure.pdf",
+        "packages": [
+          {
+            "name": "AutoCAD LT (Bản 2D)",
+            "price": "Tiết Kiệm Chi Phí",
+            "period": "Thuê bao 1 Năm / 3 Năm chính hãng",
+            "features": [
+              "Thiết kế & biên tập bản vẽ 2D DWG chuẩn xác",
+              "Hỗ trợ chạy chương trình AutoLISP",
+              "Bao gồm ứng dụng AutoCAD trên Web & Mobile"
+            ],
+            "cta_label": "Nhận Báo Giá AutoCAD LT",
+            "description": "Lựa chọn kinh tế cho đội ngũ họa viên và kỹ sư chuyên triển khai bản vẽ chi tiết 2D."
+          },
+          {
+            "name": "AutoCAD Full (Kèm 7 Toolsets)",
+            "badge": "CHUẨN DOANH NGHIỆP",
+            "price": "Phiên Bản Toàn Diện Nhất",
+            "period": "Thuê bao 1 Năm / 3 Năm chính hãng",
+            "features": [
+              "Thiết kế 2D & Mô hình hóa 3D Solid/Surface/Mesh",
+              "Trọn bộ 7 Toolsets (Architecture, Mechanical, Electrical, MEP...)",
+              "Hỗ trợ đầy đủ LISP, ObjectARX, .NET, VBA",
+              "Hỗ trợ kỹ thuật & chứng nhận bản quyền từ CIC"
+            ],
+            "cta_label": "Nhận Báo Giá AutoCAD Full",
+            "highlight": true,
+            "description": "Trang bị sức mạnh tối đa với mô hình 3D, lập trình API toàn diện và 7 bộ công cụ chuyên ngành."
+          },
+          {
+            "name": "Gói Kết Hợp Tối Ưu Ngân Sách CIC",
+            "price": "Tư Vấn May Đo",
+            "period": "Kết hợp Thuê bao + Bản quyền Vĩnh viễn",
+            "features": [
+              "Phân bổ hợp lý AutoCAD cho nhóm chủ chốt",
+              "Kết hợp giải pháp CAD vĩnh viễn cho nhóm đại trà",
+              "Đào tạo & chuẩn hóa hệ thống bản vẽ toàn công ty"
+            ],
+            "cta_label": "Tư Vấn Giải Pháp Tối Ưu",
+            "description": "Giải pháp độc quyền từ CIC giúp doanh nghiệp tuân thủ 100% bản quyền với tổng chi phí giảm tới 50%."
+          }
+        ],
+        "subtitle": "AutoCAD LT® 2016",
+        "description": "Công cụ vẽ và triển khai 2D",
+        "modal_title": "Tài Liệu Kỹ Thuật & So Sánh Phiên Bản — Autodesk AutoCAD",
+        "pdf_cta_label": "XEM TÀI LIỆU SO SÁNH & BROCHURE (PDF)",
+        "modal_download_label": "Tải Xuống Tài Liệu PDF",
+        "modal_register_label": "Nhận Tư Vấn & Báo Giá Chi Tiết"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.504Z",
+      "updated_at_utc": "2026-10-28T01:12:42.504Z"
+    },
+    {
+      "landing_page_section_id": "396367a1-ce99-4fb8-abe3-2c7af255d6f1",
+      "landing_page_id": "e6867a1f-1c68-4988-a023-5856df04c447",
+      "landing_section_type_code": "resources",
+      "section_anchor_id": "resources",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "TÀI NGUYÊN & HỖ TRỢ KỸ THUẬT",
+        "items": [
+          {
+            "title": "ĐỊA CHỈ LIÊN HỆ",
+            "description": "Đã mua sản phẩm AutoCAD 2016."
+          }
+        ],
+        "title": "Khách hàng tiêu biểu",
+        "subtitle": "ĐỊA CHỈ LIÊN HỆ",
+        "description": "Đã mua sản phẩm AutoCAD 2016."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.511Z",
+      "updated_at_utc": "2026-10-28T01:12:42.511Z"
+    },
+    {
+      "landing_page_section_id": "97f5eddb-6a6a-42a6-a51c-6005530acf65",
+      "landing_page_id": "e6867a1f-1c68-4988-a023-5856df04c447",
+      "landing_section_type_code": "faq",
+      "section_anchor_id": "faq",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "CÂU HỎI THƯỜNG GẶP",
+        "items": [
+          {
+            "a": "Quý khách chỉ cần điền thông tin tại biểu mẫu Đăng ký tư vấn bên dưới. Hệ thống sẽ cung cấp ngay tài liệu/bộ cài dùng thử và chuyên gia CIC sẽ gửi báo giá ưu đãi trong vòng 15 phút làm việc.",
+            "q": "Làm thế nào để nhận bản dùng thử và báo giá chính thức Autodesk AutoCAD từ CIC?"
+          },
+          {
+            "a": "Có. Với tư cách là đối tác phân phối chính thức tại Việt Nam từ năm 1990, CIC cung cấp đầy đủ chứng nhận bản quyền chính hãng, hóa đơn tài chính hợp lệ và dịch vụ đào tạo kỹ thuật tận nơi hoặc trực tuyến.",
+            "q": "CIC có hỗ trợ cài đặt, đào tạo chuyển giao và xuất hóa đơn GTGT đầy đủ không?"
+          },
+          {
+            "a": "Tùy theo đặc thù vận hành, kỹ sư CIC sẽ tư vấn hình thức Single-user (Named User) hoặc Network Floating License qua mạng LAN/VPN giúp tối ưu chi phí đầu tư cho doanh nghiệp.",
+            "q": "Doanh nghiệp có nhiều chi nhánh hoặc làm việc từ xa thì nên chọn hình thức cấp phép nào?"
+          }
+        ],
+        "title": "ĐỊA CHỈ LIÊN HỆ",
+        "subtitle": "Địa chỉ:Số 37 Lê Đại Hành-Hai Bà Trưng-Hà Nội Điện thoại: 04.397.467.98-0123.86.999.88 * Fax: 04 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88",
+        "description": "Địa chỉ:Số 37 Lê Đại Hành-Hai Bà Trưng-Hà Nội Điện thoại: 04.397.467.98-0123.86.999.88 * Fax: 04 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.523Z",
+      "updated_at_utc": "2026-10-28T01:12:42.523Z"
+    },
+    {
+      "landing_page_section_id": "41acfc1f-2bab-4ae4-85a5-5bf2b83c0a7e",
+      "landing_page_id": "e6867a1f-1c68-4988-a023-5856df04c447",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "consultation",
+      "section_order": 9,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "ĐĂNG KÝ TƯ VẤN & TẢI DÙNG THỬ MIỄN PHÍ",
+        "items": [],
+        "title": "ĐỊA CHỈ LIÊN HỆ",
+        "benefits": [
+          "Tải ngay Tài liệu kỹ thuật, Brochure & Bộ cài đặt dùng thử chính thức",
+          "Nhận báo giá ưu đãi đặc biệt dành cho doanh nghiệp từ CIC",
+          "Hỗ trợ cài đặt, giải đáp kỹ thuật 1-1 bởi đội ngũ kỹ sư giàu kinh nghiệm",
+          "Cam kết bảo mật 100% thông tin doanh nghiệp và dự án"
+        ],
+        "subtitle": "Địa chỉ:Số 37 Lê Đại Hành-Hai Bà Trưng-Hà Nội Điện thoại: 04.397.467.98-0123.86.999.88 * Fax: 04 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88",
+        "description": "Địa chỉ:Số 37 Lê Đại Hành-Hai Bà Trưng-Hà Nội Điện thoại: 04.397.467.98-0123.86.999.88 * Fax: 04 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88",
+        "modal_title": "Tài Liệu & Bộ Cài Đặt Đã Sẵn Sàng!",
+        "submit_label": "Gửi Yêu Cầu & Nhận Tài Liệu Ngay",
+        "modal_description": "Cảm ơn Quý khách đã đăng ký! Quý khách có thể bấm vào nút bên dưới để tải ngay tài liệu/bộ cài đặt hoặc chờ chuyên gia CIC liên hệ trong ít phút:",
+        "modal_button_label": "Tải Tài Liệu & Bộ Cài Đặt Ngay"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.531Z",
+      "updated_at_utc": "2026-10-28T01:12:42.531Z"
+    },
+    {
+      "landing_page_section_id": "7fde873b-ed43-46a2-92ec-58208449a2e2",
+      "landing_page_id": "e6867a1f-1c68-4988-a023-5856df04c447",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "footer",
+      "section_order": 10,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "email": "info@cic.com.vn",
+        "items": [],
+        "title": "ĐỊA CHỈ LIÊN HỆ",
+        "address": "Trụ sở chính: Số 37 Lê Văn Thiêm, Phường Nhân Chính, Quận Thanh Xuân, TP. Hà Nội | Chi nhánh TP.HCM: Số 36 Nguyễn Huy Lượng, Phường 14, Quận Bình Thạnh",
+        "hotline": "0866 059 659",
+        "subtitle": "Địa chỉ:Số 37 Lê Đại Hành-Hai Bà Trưng-Hà Nội Điện thoại: 04.397.467.98-0123.86.999.88 * Fax: 04 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88",
+        "copyright": "© 2026 Công ty Cổ phần Công nghệ và Tư vấn CIC. Bảo lưu mọi quyền cho chuyên trang autocad.cic.com.vn.",
+        "description": "Địa chỉ:Số 37 Lê Đại Hành-Hai Bà Trưng-Hà Nội Điện thoại: 04.397.467.98-0123.86.999.88 * Fax: 04 38 216 793 Email: cic.dcs@cic.com.vn * Website: http://www.cic.com.vn Hotline: 0123.86.999.88",
+        "company_name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ TƯ VẤN CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.541Z",
+      "updated_at_utc": "2026-10-28T01:12:42.541Z"
+    },
+    {
+      "landing_page_section_id": "0ec54979-3651-486c-abc2-f4e142c31ee0",
+      "landing_page_id": "e6867a1f-1c68-4988-a023-5856df04c447",
+      "landing_section_type_code": "floating_cta",
+      "section_anchor_id": "floating_cta",
+      "section_order": 11,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Lý do chọn mua AutoCAD 2016",
+            "description": "Phân phối phần mềm AutoCAD bản quyền chính hãng tại Việt Nam Toggle navigation Trang chủ"
+          },
+          {
+            "title": "Hơn 1000 khách hàng đã tin tưởng lựa chọn",
+            "description": "Lý do chọn mua"
+          },
+          {
+            "title": "Hình ảnh của sản phẩm AutoCAD",
+            "description": "Các phiên bản"
+          },
+          {
+            "title": "Chọn các phiên bản AutoCAD 2016",
+            "description": "Khách hàng tiêu biểu"
+          },
+          {
+            "title": "AutoCAD LT® 2016",
+            "description": "Tháng 10 năm 2015 AutoCAD LT ngừng bán bản quyền vĩnh viễn chỉ còn:"
+          },
+          {
+            "title": "AutoCAD® 2016",
+            "description": "Tính năng mới giúp người dùng có thể bắt điểm vào trung tâm của một hình khép kín như: tam giác, tứ giác, lục giác.."
+          }
+        ],
+        "title": "Những tính năng nổi bật của AutoCAD 2016",
+        "hotline": "0866 059 659",
+        "subtitle": "Lý do chọn mua AutoCAD 2016",
+        "zalo_url": "https://zalo.me/0866059659",
+        "cta_label": "Đăng Ký Tư Vấn",
+        "description": "Phân phối phần mềm AutoCAD bản quyền chính hãng tại Việt Nam Toggle navigation Trang chủ"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.556Z",
+      "updated_at_utc": "2026-10-28T01:12:42.556Z"
+    }
+  ],
+  "forms": [
+    {
+      "landing_form_id": "a2c5d59b-69ec-4a5a-b8ac-89f19bf8f0db",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "form_code": "autocad-lead-form",
+      "form_name": "Form Đăng ký Tư vấn & Dùng thử — Autodesk AutoCAD",
+      "fields_schema_json": [
+        {
+          "name": "full_name",
+          "type": "text",
+          "label": "Họ và tên *",
+          "required": true,
+          "placeholder": "Nguyễn Văn An",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "label": "Số điện thoại *",
+          "required": true,
+          "placeholder": "0912 345 678",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "work_email",
+          "type": "email",
+          "label": "Email công việc *",
+          "required": true,
+          "placeholder": "ban@congty.com.vn",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "company",
+          "type": "text",
+          "label": "Tên công ty / Đơn vị",
+          "required": false,
+          "placeholder": "Công ty Cổ phần Tư vấn Thiết kế...",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "primary_need",
+          "type": "select",
+          "label": "Nhu cầu quan tâm chính *",
+          "options": [
+            {
+              "label": "Đăng ký dùng thử & tải tài liệu Autodesk AutoCAD",
+              "value": "trial_30_days"
+            },
+            {
+              "label": "Nhận báo giá bản quyền Autodesk AutoCAD ưu đãi",
+              "value": "request_quote"
+            },
+            {
+              "label": "Tư vấn kỹ thuật & giải pháp triển khai",
+              "value": "technical_consult"
+            }
+          ],
+          "required": true,
+          "default_value": "trial_30_days",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "device_quantity",
+          "type": "number",
+          "label": "Số lượng máy / người dùng dự kiến",
+          "required": false,
+          "placeholder": "5",
+          "default_value": 5,
+          "visibility_rule": {
+            "value": "request_quote",
+            "operator": "equals",
+            "dependsOnField": "primary_need"
+          }
+        },
+        {
+          "name": "requirements",
+          "type": "textarea",
+          "label": "Ghi chú hoặc yêu cầu cụ thể",
+          "required": false,
+          "placeholder": "Mô tả thêm về quy mô dự án hoặc cấu hình cần tư vấn...",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        }
+      ],
+      "notification_emails_json": [
+        "info@cic.com.vn"
+      ],
+      "google_sheet_config_json": {
+        "sheet_name": "LEADS",
+        "spreadsheet_id": ""
+      },
+      "success_action": "modal_download",
+      "success_payload_json": {
+        "message": "Cảm ơn Quý khách đã quan tâm tới Autodesk AutoCAD. Chuyên gia CIC sẽ liên hệ trong thời gian sớm nhất!",
+        "modal_title": "Tài Liệu & Bộ Dùng Thử Autodesk AutoCAD Đã Sẵn Sàng!",
+        "outcome_rules": [
+          {
+            "id": "rule_autocad_trial",
+            "title": "Tài Liệu & Bộ Dùng Thử Autodesk AutoCAD Đã Sẵn Sàng!",
+            "message": "Cảm ơn Quý khách đã đăng ký trải nghiệm Autodesk AutoCAD. Quý khách có thể bấm nút bên dưới để tải ngay Hồ sơ kỹ thuật & Hướng dẫn dùng thử:",
+            "operator": "equals",
+            "whenField": "primary_need",
+            "whenValue": "trial_30_days",
+            "actionType": "download_modal",
+            "downloadUrl": "/api/landing/media/autocad/downloads/brochure.pdf",
+            "downloadLabel": "Tải Tài Liệu Autodesk AutoCAD (PDF)",
+            "targetSheetName": "LEADS"
+          },
+          {
+            "id": "rule_autocad_quote",
+            "title": "Đã Ghi Nhận Yêu Cầu Báo Giá!",
+            "message": "Cảm ơn Quý khách! Chuyên viên phụ trách giải pháp Autodesk AutoCAD của CIC sẽ gửi bảng báo giá và chính sách chiết khấu tốt nhất qua Email/Zalo trong 15 phút làm việc.",
+            "operator": "equals",
+            "whenField": "primary_need",
+            "whenValue": "request_quote",
+            "actionType": "message_only",
+            "downloadUrl": "",
+            "downloadLabel": "",
+            "targetSheetName": "LEADS"
+          },
+          {
+            "id": "rule_autocad_default",
+            "title": "Đăng Ký Tư Vấn Kỹ Thuật Thành Công!",
+            "message": "Cảm ơn Quý khách! Kỹ sư giải pháp Autodesk AutoCAD của CIC sẽ liên hệ trực tiếp để tư vấn chi tiết cho doanh nghiệp.",
+            "operator": "always",
+            "whenField": "primary_need",
+            "whenValue": "",
+            "actionType": "message_only",
+            "downloadUrl": "",
+            "downloadLabel": "",
+            "targetSheetName": "LEADS"
+          }
+        ],
+        "modal_description": "Bấm vào nút bên dưới để tải ngay tài liệu hướng dẫn và thông số kỹ thuật Autodesk AutoCAD:",
+        "default_download_url": "/api/landing/media/autocad/downloads/brochure.pdf"
+      },
+      "is_form_active": true,
+      "created_at_utc": "2026-10-28T01:12:42.687Z",
+      "updated_at_utc": "2026-10-28T01:12:42.687Z"
+    }
+  ],
+  "media": [
+    {
+      "landing_media_asset_id": "5a891a6a-d039-43d8-8084-a95bef970ad4",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "logo1-hover",
+      "file_name": "logo1-hover.png",
+      "file_path": "img/client/logo1-hover.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "7400",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo1-hover.png",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo1-hover.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.718Z",
+      "updated_at_utc": "2026-10-28T01:12:47.718Z"
+    },
+    {
+      "landing_media_asset_id": "444975a7-48d3-499a-b573-0ccaccb51179",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "logo8-hover",
+      "file_name": "logo8-hover.png",
+      "file_path": "img/client/logo8-hover.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "6708",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo8-hover.png",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo8-hover.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.725Z",
+      "updated_at_utc": "2026-10-28T01:12:47.725Z"
+    },
+    {
+      "landing_media_asset_id": "e99e5b5c-fcda-4f74-8380-3babfb2485fb",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "logo_2",
+      "file_name": "logo_2.png",
+      "file_path": "img/logo_2.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "6341",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo_2.png",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo_2.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.733Z",
+      "updated_at_utc": "2026-10-28T01:12:47.733Z"
+    },
+    {
+      "landing_media_asset_id": "93c88dc1-9502-4225-b0d7-a408ad8e138f",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "logo6-hover",
+      "file_name": "logo6-hover.png",
+      "file_path": "img/client/logo6-hover.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "6011",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo6-hover.png",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo6-hover.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.739Z",
+      "updated_at_utc": "2026-10-28T01:12:47.739Z"
+    },
+    {
+      "landing_media_asset_id": "93e7c27b-f228-4202-ac8a-343ee50921e2",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "logo10-hover",
+      "file_name": "logo10-hover.png",
+      "file_path": "img/client/logo10-hover.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "6008",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo10-hover.png",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo10-hover.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.747Z",
+      "updated_at_utc": "2026-10-28T01:12:47.747Z"
+    },
+    {
+      "landing_media_asset_id": "86fa184e-622e-4819-be47-51e77e1ce9f3",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "Logo-VietsovPetro",
+      "file_name": "Logo-VietsovPetro.jpg",
+      "file_path": "img/client/Logo-VietsovPetro.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "5407",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - Logo-VietsovPetro.jpg",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - Logo-VietsovPetro.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.754Z",
+      "updated_at_utc": "2026-10-28T01:12:47.754Z"
+    },
+    {
+      "landing_media_asset_id": "fe0bde4f-c2c0-4ed2-8dd1-704b92da2bf6",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "logo",
+      "file_name": "logo.png",
+      "file_path": "img/logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "5386",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo.png",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.760Z",
+      "updated_at_utc": "2026-10-28T01:12:47.760Z"
+    },
+    {
+      "landing_media_asset_id": "bd9cf9eb-e9ae-46da-a836-ce01bee11274",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "Logo_IDCo",
+      "file_name": "Logo_IDCo.jpg",
+      "file_path": "img/client/Logo_IDCo.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "4874",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - Logo_IDCo.jpg",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - Logo_IDCo.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.768Z",
+      "updated_at_utc": "2026-10-28T01:12:47.768Z"
+    },
+    {
+      "landing_media_asset_id": "e162ad33-e8de-4cee-a116-e09af055e2c3",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "logo2-hover",
+      "file_name": "logo2-hover.png",
+      "file_path": "img/client/logo2-hover.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "4800",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo2-hover.png",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo2-hover.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.773Z",
+      "updated_at_utc": "2026-10-28T01:12:47.773Z"
+    },
+    {
+      "landing_media_asset_id": "34c963d9-6337-4a0c-b398-ad409d99f98a",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "logo4-hover",
+      "file_name": "logo4-hover.png",
+      "file_path": "img/client/logo4-hover.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "4770",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo4-hover.png",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo4-hover.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.782Z",
+      "updated_at_utc": "2026-10-28T01:12:47.782Z"
+    },
+    {
+      "landing_media_asset_id": "e5876cbb-fb46-437d-9162-b52a9da2b25f",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "Logo-HoaBinh",
+      "file_name": "Logo-HoaBinh.jpg",
+      "file_path": "img/client/Logo-HoaBinh.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "4476",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - Logo-HoaBinh.jpg",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - Logo-HoaBinh.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.788Z",
+      "updated_at_utc": "2026-10-28T01:12:47.788Z"
+    },
+    {
+      "landing_media_asset_id": "9fb21fd0-55ff-40ba-8008-39324c457854",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "logo5-hover",
+      "file_name": "logo5-hover.png",
+      "file_path": "img/client/logo5-hover.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "4335",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo5-hover.png",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo5-hover.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.793Z",
+      "updated_at_utc": "2026-10-28T01:12:47.793Z"
+    },
+    {
+      "landing_media_asset_id": "bdb5ab46-5de4-48a1-ac43-db4e0e4e595a",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "CC1-logo",
+      "file_name": "CC1-logo.jpg",
+      "file_path": "img/client/CC1-logo.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "4234",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - CC1-logo.jpg",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - CC1-logo.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.801Z",
+      "updated_at_utc": "2026-10-28T01:12:47.801Z"
+    },
+    {
+      "landing_media_asset_id": "4ee18140-ef53-4c12-9ddc-a211749fdc8b",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "logo-NAGECCO",
+      "file_name": "logo-NAGECCO.jpg",
+      "file_path": "img/client/logo-NAGECCO.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "4228",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo-NAGECCO.jpg",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo-NAGECCO.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.806Z",
+      "updated_at_utc": "2026-10-28T01:12:47.806Z"
+    },
+    {
+      "landing_media_asset_id": "1004899f-ab6d-498f-83c7-82bff55648fb",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "logo9-hover",
+      "file_name": "logo9-hover.png",
+      "file_path": "img/client/logo9-hover.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "4179",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo9-hover.png",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo9-hover.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.814Z",
+      "updated_at_utc": "2026-10-28T01:12:47.814Z"
+    },
+    {
+      "landing_media_asset_id": "9bb0e081-a76e-49a4-a88f-b3a9a8d3f642",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "logo7-hover",
+      "file_name": "logo7-hover.png",
+      "file_path": "img/client/logo7-hover.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "3738",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo7-hover.png",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo7-hover.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.820Z",
+      "updated_at_utc": "2026-10-28T01:12:47.820Z"
+    },
+    {
+      "landing_media_asset_id": "0bb7eb66-8977-4f4f-9832-01fd1023b4fb",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "logo10",
+      "file_name": "logo10.png",
+      "file_path": "img/client/logo10.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "3232",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo10.png",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo10.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.826Z",
+      "updated_at_utc": "2026-10-28T01:12:47.826Z"
+    },
+    {
+      "landing_media_asset_id": "ea76ba78-48c4-4a3f-93aa-996659100988",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "logo1",
+      "file_name": "logo1.png",
+      "file_path": "img/client/logo1.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "3026",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo1.png",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC - logo1.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.834Z",
+      "updated_at_utc": "2026-10-28T01:12:47.834Z"
+    },
+    {
+      "landing_media_asset_id": "fbcfa9b1-fd63-4ad6-ba7b-9e8b9b088e41",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "brand_logo",
+      "file_name": "logo.png",
+      "file_path": "images/logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "7400",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC Logo",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC Logo",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.839Z",
+      "updated_at_utc": "2026-10-28T01:12:47.839Z"
+    },
+    {
+      "landing_media_asset_id": "ee743cf0-963c-4047-beb6-433e0535b3e4",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "favicon",
+      "file_name": "favicon.ico",
+      "file_path": "images/favicon.ico",
+      "mime_type": "image/x-icon",
+      "file_size_bytes": "7400",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Favicon",
+      "alt_text_en": "Favicon",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.844Z",
+      "updated_at_utc": "2026-10-28T01:12:47.844Z"
+    },
+    {
+      "landing_media_asset_id": "50147fb6-c5fb-4ac1-97e7-492f3962baf5",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "brochure_pdf",
+      "file_name": "brochure.pdf",
+      "file_path": "downloads/brochure.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": "671641",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Tài liệu Brochure Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC",
+      "alt_text_en": "Brochure Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.858Z",
+      "updated_at_utc": "2026-10-28T01:12:47.858Z"
+    },
+    {
+      "landing_media_asset_id": "816251dd-22fa-4b0f-a1d3-629c287f034e",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "media_slot_code": "hero_banner",
+      "file_name": "hero.png",
+      "file_path": "images/hero.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "7400",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC Hero",
+      "alt_text_en": "Autodesk AutoCAD — Giải Pháp Thiết Kế CAD 2D/3D Bản Quyền Chính Hãng Tại CIC Hero",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.919Z",
+      "updated_at_utc": "2026-10-28T01:12:47.919Z"
+    }
+  ],
+  "leads": [
+    {
+      "landing_lead_submission_id": "d7bf350b-9981-4b3a-b043-1bf2f1a66ee5",
+      "landing_form_id": "a2c5d59b-69ec-4a5a-b8ac-89f19bf8f0db",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test autocad",
+      "customer_phone": "0912345678",
+      "customer_email": "test_autocad@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test autocad",
+        "work_email": "test_autocad@cic.com.vn",
+        "primary_need": "trial_30_days",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:37:28.164Z"
+    },
+    {
+      "landing_lead_submission_id": "ce12bd21-6e7c-4f06-a267-18c548ed1a72",
+      "landing_form_id": "a2c5d59b-69ec-4a5a-b8ac-89f19bf8f0db",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test autocad",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_autocad@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test autocad",
+        "work_email": "quote_autocad@cic.com.vn",
+        "primary_need": "request_quote",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:37:28.211Z"
+    },
+    {
+      "landing_lead_submission_id": "7fe48438-7b1b-4016-8b3f-2c2b1b261387",
+      "landing_form_id": "a2c5d59b-69ec-4a5a-b8ac-89f19bf8f0db",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test autocad",
+      "customer_phone": "0912345678",
+      "customer_email": "test_autocad@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test autocad",
+        "work_email": "test_autocad@cic.com.vn",
+        "primary_need": "trial_30_days",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:38:10.780Z"
+    },
+    {
+      "landing_lead_submission_id": "5ed6c04e-8c92-4213-808f-811eccad6434",
+      "landing_form_id": "a2c5d59b-69ec-4a5a-b8ac-89f19bf8f0db",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test autocad",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_autocad@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test autocad",
+        "work_email": "quote_autocad@cic.com.vn",
+        "primary_need": "request_quote",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:38:10.810Z"
+    },
+    {
+      "landing_lead_submission_id": "ac4baa90-9ca7-4bda-b510-43c11cfb4437",
+      "landing_form_id": "a2c5d59b-69ec-4a5a-b8ac-89f19bf8f0db",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test autocad",
+      "customer_phone": "0912345678",
+      "customer_email": "test_autocad@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test autocad",
+        "work_email": "test_autocad@cic.com.vn",
+        "primary_need": "trial_30_days",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:39:01.730Z"
+    },
+    {
+      "landing_lead_submission_id": "2e2e0d85-eae6-4934-a467-75c6268221c6",
+      "landing_form_id": "a2c5d59b-69ec-4a5a-b8ac-89f19bf8f0db",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test autocad",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_autocad@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test autocad",
+        "work_email": "quote_autocad@cic.com.vn",
+        "primary_need": "request_quote",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:39:01.757Z"
+    },
+    {
+      "landing_lead_submission_id": "e8aaed37-db92-4aa5-a665-4f3721838025",
+      "landing_form_id": "a2c5d59b-69ec-4a5a-b8ac-89f19bf8f0db",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "landing_page_id": null,
+      "customer_full_name": "Test Quote autocad",
+      "customer_phone": "0988654321",
+      "customer_email": "quote@autocad.cic.com.vn",
+      "customer_company": "CIC Verification Corp",
+      "submitted_fields_json": {
+        "name": "Test Quote autocad",
+        "email": "quote@autocad.cic.com.vn",
+        "phone": "0988654321",
+        "company": "CIC Verification Corp",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T05:06:30.516Z"
+    },
+    {
+      "landing_lead_submission_id": "6225508f-97b1-403a-83c7-3ab8a7e58f2c",
+      "landing_form_id": "a2c5d59b-69ec-4a5a-b8ac-89f19bf8f0db",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "landing_page_id": null,
+      "customer_full_name": "Test Trial autocad",
+      "customer_phone": "0988123456",
+      "customer_email": "trial@autocad.cic.com.vn",
+      "customer_company": "CIC Verification Corp",
+      "submitted_fields_json": {
+        "name": "Test Trial autocad",
+        "email": "trial@autocad.cic.com.vn",
+        "phone": "0988123456",
+        "company": "CIC Verification Corp",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T05:06:46.933Z"
+    },
+    {
+      "landing_lead_submission_id": "9c0fe909-2ad3-40a8-acfb-b2144f6d7906",
+      "landing_form_id": "a2c5d59b-69ec-4a5a-b8ac-89f19bf8f0db",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "landing_page_id": null,
+      "customer_full_name": "Test Quote autocad",
+      "customer_phone": "0988654321",
+      "customer_email": "quote@autocad.cic.com.vn",
+      "customer_company": "CIC Verification Corp",
+      "submitted_fields_json": {
+        "name": "Test Quote autocad",
+        "email": "quote@autocad.cic.com.vn",
+        "phone": "0988654321",
+        "company": "CIC Verification Corp",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T05:06:46.962Z"
+    },
+    {
+      "landing_lead_submission_id": "8e4be2b7-4ac0-47dd-8f05-7904d8b41d43",
+      "landing_form_id": "a2c5d59b-69ec-4a5a-b8ac-89f19bf8f0db",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Trial autocad",
+      "customer_phone": "0912345678",
+      "customer_email": "standalone@autocad.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Trial autocad",
+        "email": "standalone@autocad.cic.com.vn",
+        "phone": "0912345678",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T06:26:28.785Z"
+    },
+    {
+      "landing_lead_submission_id": "33c79a12-9dc3-4bb9-87f8-3b42c94c09c8",
+      "landing_form_id": "a2c5d59b-69ec-4a5a-b8ac-89f19bf8f0db",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Quote autocad",
+      "customer_phone": "0987654321",
+      "customer_email": "quote@autocad.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Quote autocad",
+        "email": "quote@autocad.cic.com.vn",
+        "phone": "0987654321",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 12
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T06:26:28.898Z"
+    },
+    {
+      "landing_lead_submission_id": "89d403c7-8aae-4df3-a009-5037408ba796",
+      "landing_form_id": "a2c5d59b-69ec-4a5a-b8ac-89f19bf8f0db",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Trial autocad",
+      "customer_phone": "0912345678",
+      "customer_email": "standalone@autocad.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Trial autocad",
+        "email": "standalone@autocad.cic.com.vn",
+        "phone": "0912345678",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T07:36:13.743Z"
+    },
+    {
+      "landing_lead_submission_id": "8b959596-6fc1-4615-8fd4-d345a04c30d9",
+      "landing_form_id": "a2c5d59b-69ec-4a5a-b8ac-89f19bf8f0db",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Quote autocad",
+      "customer_phone": "0987654321",
+      "customer_email": "quote@autocad.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Quote autocad",
+        "email": "quote@autocad.cic.com.vn",
+        "phone": "0987654321",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 12
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T07:36:13.806Z"
+    },
+    {
+      "landing_lead_submission_id": "45110f56-13fb-497a-944b-a84a16a241f7",
+      "landing_form_id": "a2c5d59b-69ec-4a5a-b8ac-89f19bf8f0db",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Trial autocad",
+      "customer_phone": "0912345678",
+      "customer_email": "standalone@autocad.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Trial autocad",
+        "email": "standalone@autocad.cic.com.vn",
+        "phone": "0912345678",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T08:39:42.560Z"
+    },
+    {
+      "landing_lead_submission_id": "ccf9569a-84fb-4e88-a8fe-6fdbbfc74786",
+      "landing_form_id": "a2c5d59b-69ec-4a5a-b8ac-89f19bf8f0db",
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Quote autocad",
+      "customer_phone": "0987654321",
+      "customer_email": "quote@autocad.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Quote autocad",
+        "email": "quote@autocad.cic.com.vn",
+        "phone": "0987654321",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 12
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T08:39:42.627Z"
+    }
+  ],
+  "pageViews": [
+    {
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "view_date": "2026-10-26",
+      "views_count": 29,
+      "unique_visitors_count": 3
+    },
+    {
+      "landing_site_id": "f41868c7-108d-428c-a3a9-e4e33665fad2",
+      "view_date": "2026-10-27",
+      "views_count": 18,
+      "unique_visitors_count": 3
+    }
+  ],
+  "adminAccounts": [
+    {
+      "username": "autocad_admin",
+      "password_hash": "4a208b7ff43bd0a71c3bb331db13040694d36bd9e34b5d9ed62d0be880dc5b58",
+      "display_name": "Quản trị viên Autodesk AutoCAD",
+      "role": "site_admin",
+      "landing_site_code": "autocad",
+      "is_active": true
+    },
+    {
+      "username": "admin",
+      "password_hash": "2e6c21501300cc6fa4d50597c1c483c802b6d9f00f119f004d8344f663129109",
+      "display_name": "Quản trị Tổng CIC",
+      "role": "super_admin",
+      "landing_site_code": null,
+      "is_active": true
+    }
+  ]
+}

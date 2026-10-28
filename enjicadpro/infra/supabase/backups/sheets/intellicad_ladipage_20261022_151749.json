@@ -1,0 +1,1414 @@
+{
+  "exportedAt": "2026-10-22T08:17:49.857Z",
+  "source": {
+    "id": "1",
+    "code": "intellicad_ladipage",
+    "name": "CMS IntelliCAD — Khách đăng ký tư vấn & dùng thử (LADIPAGE)",
+    "spreadsheet_id": "1789qGEPsGXONe_1fDxzA8xYCJDmV-TsHuS5fCiI7GiI",
+    "sheet_name": "LADIPAGE",
+    "key_columns": [],
+    "column_schema": [
+      {
+        "key": "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad",
+        "type": "phone",
+        "header": "Form Đăng ký nhận báo giá / dùng thử Phần mềm CMS IntelliCAD",
+        "hidden": false,
+        "position": 1
+      },
+      {
+        "key": "cot_2",
+        "type": "text",
+        "header": "Cột 2",
+        "hidden": false,
+        "position": 2
+      },
+      {
+        "key": "cot_3",
+        "type": "text",
+        "header": "Cột 3",
+        "hidden": false,
+        "position": 3
+      },
+      {
+        "key": "cot_4",
+        "type": "text",
+        "header": "Cột 4",
+        "hidden": false,
+        "position": 4
+      },
+      {
+        "key": "cot_5",
+        "type": "text",
+        "header": "Cột 5",
+        "hidden": false,
+        "position": 5
+      },
+      {
+        "key": "cot_6",
+        "type": "text",
+        "header": "Cột 6",
+        "hidden": false,
+        "position": 6
+      },
+      {
+        "key": "cot_7",
+        "type": "text",
+        "header": "Cột 7",
+        "hidden": false,
+        "position": 7
+      },
+      {
+        "key": "cot_8",
+        "type": "text",
+        "header": "Cột 8",
+        "hidden": false,
+        "position": 8
+      },
+      {
+        "key": "cot_9",
+        "type": "text",
+        "header": "Cột 9",
+        "hidden": false,
+        "position": 9
+      },
+      {
+        "key": "cot_10",
+        "type": "text",
+        "header": "Cột 10",
+        "hidden": false,
+        "position": 10
+      },
+      {
+        "key": "cot_11",
+        "type": "text",
+        "header": "Cột 11",
+        "hidden": false,
+        "position": 11
+      },
+      {
+        "key": "cot_12",
+        "type": "text",
+        "header": "Cột 12",
+        "hidden": false,
+        "position": 12
+      },
+      {
+        "key": "cot_13",
+        "type": "text",
+        "header": "Cột 13",
+        "hidden": false,
+        "position": 13
+      },
+      {
+        "key": "cot_14",
+        "type": "text",
+        "header": "Cột 14",
+        "hidden": false,
+        "position": 14
+      },
+      {
+        "key": "cot_15",
+        "type": "text",
+        "header": "Cột 15",
+        "hidden": false,
+        "position": 15
+      },
+      {
+        "key": "cot_16",
+        "type": "text",
+        "header": "Cột 16",
+        "hidden": false,
+        "position": 16
+      }
+    ]
+  },
+  "rowCount": 62,
+  "rows": [
+    {
+      "row_key": "95b706df17a47fd3172086bdca4bc56e3a6f700d1375cc3b4b123d40d4d8fa0a",
+      "row_number": 2,
+      "data": {
+        "cot_2": "Họ và tên",
+        "cot_3": "Số điện thoại",
+        "cot_4": "Email công việc",
+        "cot_5": "Công ty / Đơn vị",
+        "cot_6": "Nhu cầu chính",
+        "cot_7": "Phiên bản quan tâm",
+        "cot_8": "Số lượng máy",
+        "cot_9": "Ghi chú yêu cầu",
+        "cot_10": "Nguồn",
+        "cot_11": "Trạng thái",
+        "cot_12": "Người phụ trách",
+        "cot_13": "Ghi chú chăm sóc",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "Thời gian gửi"
+      },
+      "data_hash": "95b706df17a47fd3172086bdca4bc56e3a6f700d1375cc3b4b123d40d4d8fa0a",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "8dafcf8226ff6e5d920c55945e0ffa91db5ac73abe2dd7e71eaeaf1c683abd8e",
+      "row_number": 3,
+      "data": {
+        "cot_2": "Tran Quan Tru",
+        "cot_3": "0886012299",
+        "cot_4": "hunglonglongan@gmail.com",
+        "cot_5": "Hưng Long",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe_plus",
+        "cot_8": "3",
+        "cot_9": "Gửi báo giá, chat, KH cũ cic",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đang tư vấn",
+        "cot_12": "A Thìn",
+        "cot_13": "other",
+        "cot_15": "Nhu cầu chính",
+        "cot_16": "Nội dung",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-08T14:06:45+07:00"
+      },
+      "data_hash": "8dafcf8226ff6e5d920c55945e0ffa91db5ac73abe2dd7e71eaeaf1c683abd8e",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "61c920dd4e7defc73e187efc09c01706f211e62d1dccbdd38901c4d994ba2f99",
+      "row_number": 4,
+      "data": {
+        "cot_2": "Kha Lại",
+        "cot_3": "0915434892",
+        "cot_4": "laingockha123@gmail.com",
+        "cot_5": "Công ty TNHH XD và TV Thái Sơn",
+        "cot_6": "request_quote",
+        "cot_7": "pe",
+        "cot_8": "2",
+        "cot_9": "Tương thích DWG 2D, sử dụng các lisp, font SHX",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Mới",
+        "cot_12": "A Thìn",
+        "cot_15": "trial_30_days",
+        "cot_16": "Đăng ký Dùng thử 30 Ngày",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-10T08:11:39+07:00"
+      },
+      "data_hash": "61c920dd4e7defc73e187efc09c01706f211e62d1dccbdd38901c4d994ba2f99",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "5988cf784d9c010b2f4038c02d9dcc3987ab24ee04603ece734751e7922290c9",
+      "row_number": 5,
+      "data": {
+        "cot_2": "Phạm Thanh Xuân",
+        "cot_3": "0983601462",
+        "cot_4": "tvtk.nguyenan@gmail.com",
+        "cot_5": "Nguyễn An",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe_plus",
+        "cot_8": "10",
+        "cot_9": "Gửi báo giá, chat",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã gửi báo giá",
+        "cot_12": "A Thìn",
+        "cot_15": "receive_lisp",
+        "cot_16": "Đăng ký Nhận LISP",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-10T17:47:41+07:00"
+      },
+      "data_hash": "5988cf784d9c010b2f4038c02d9dcc3987ab24ee04603ece734751e7922290c9",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "c105fc6385a91d5592760a831cc8175d9b03a98cd0a623560e696633e33b460d",
+      "row_number": 6,
+      "data": {
+        "cot_2": "Phạm Thanh Xuân",
+        "cot_3": "0983601462",
+        "cot_4": "tvtk.nguyenan@gmail.com",
+        "cot_5": "Nguyễn An",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "10",
+        "cot_9": "Gửi báo giá, chat",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã gửi báo giá",
+        "cot_12": "A Thìn",
+        "cot_15": "product_consultation",
+        "cot_16": "Nhận tư vấn sản phẩm",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-10T17:53:02+07:00"
+      },
+      "data_hash": "c105fc6385a91d5592760a831cc8175d9b03a98cd0a623560e696633e33b460d",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "d1d1279739f7c9bfdc8ae8c243139d3f2a0da9942ab514edf711cd604a6e28e4",
+      "row_number": 7,
+      "data": {
+        "cot_2": "VKL",
+        "cot_3": "0913625500",
+        "cot_4": "ltarch77@gmail.com",
+        "cot_5": "GREEN ACADEMY",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "3",
+        "cot_9": "Sai SĐT",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đang dùng thử",
+        "cot_12": "Thái",
+        "cot_13": "Anh Luân - Đang dùng thử",
+        "cot_15": "request_quote",
+        "cot_16": "Yêu cầu báo giá",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-11T08:40:31+07:00"
+      },
+      "data_hash": "d1d1279739f7c9bfdc8ae8c243139d3f2a0da9942ab514edf711cd604a6e28e4",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "51afcba4bc5dda17cd91fa211b9c5e5335b80ae47052a78c54566fecad756fce",
+      "row_number": 8,
+      "data": {
+        "cot_2": "TRỊNH NGỌC PHỤC",
+        "cot_3": "0911567466",
+        "cot_4": "trinhphucaluoi2512@gmail.com",
+        "cot_5": "Cá Nhân",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe_plus",
+        "cot_8": "1",
+        "cot_9": "1",
+        "cot_10": "Trực tiếp",
+        "cot_15": "cad_migration",
+        "cot_16": "Tư vấn chuyển đổi từ phần mềm CAD khác",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-15T22:52:47+07:00"
+      },
+      "data_hash": "51afcba4bc5dda17cd91fa211b9c5e5335b80ae47052a78c54566fecad756fce",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "5c0f35b25e80d85a16ed0a1b32847a6fdd5d2afcff448e84f0285a1749c62673",
+      "row_number": 9,
+      "data": {
+        "cot_2": "Nguyễn Trung Hiếu",
+        "cot_3": "0962685939",
+        "cot_4": "trunghieu111988@gmail.com",
+        "cot_5": "Công ty thiết kế Smallhome",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "2",
+        "cot_9": "17/8: Đổ chuông ko nghe",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Chốt thành công",
+        "cot_12": "Thái",
+        "cot_15": "other",
+        "cot_16": "Khác",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-17T08:35:53+07:00"
+      },
+      "data_hash": "5c0f35b25e80d85a16ed0a1b32847a6fdd5d2afcff448e84f0285a1749c62673",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "dc0ce3fe371909e2d1e23a036f077e1c90a39e730985717f8eed898ef3e441fa",
+      "row_number": 10,
+      "data": {
+        "cot_2": "Trần Trung",
+        "cot_3": "0589567779",
+        "cot_4": "ks.tranbaotrungtn@gmai.com",
+        "cot_5": "Home",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe_plus",
+        "cot_8": "1",
+        "cot_10": "Trực tiếp",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-17T09:57:19+07:00"
+      },
+      "data_hash": "dc0ce3fe371909e2d1e23a036f077e1c90a39e730985717f8eed898ef3e441fa",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "13bd968615916aec6759deadfe953867529dd485f498472af261074367f973c9",
+      "row_number": 11,
+      "data": {
+        "cot_2": "Trần Trung",
+        "cot_3": "0589567779",
+        "cot_4": "ks.tranbaotrungtn@gmai.com",
+        "cot_5": "Home",
+        "cot_6": "request_quote",
+        "cot_7": "pe_plus",
+        "cot_8": "1",
+        "cot_10": "Trực tiếp",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-17T10:29:01+07:00"
+      },
+      "data_hash": "13bd968615916aec6759deadfe953867529dd485f498472af261074367f973c9",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "af49422141f6661011098dec86d2027c4ecc6453728daae1d92364702157c451",
+      "row_number": 12,
+      "data": {
+        "cot_2": "TRỊNH NGỌC PHỤC",
+        "cot_3": "0911567466",
+        "cot_4": "trinhphucaluoi2512@gmail.com",
+        "cot_5": "Cá Nhân",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "5",
+        "cot_9": "gửi kb zalo trao đổi, phản ảnh lisp có sẵn không chạy",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "A Thìn",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-18T12:38:17+07:00"
+      },
+      "data_hash": "af49422141f6661011098dec86d2027c4ecc6453728daae1d92364702157c451",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "59e95672c9ecb125a241326b16ad340c65940dfad891b5d894173967bed84544",
+      "row_number": 13,
+      "data": {
+        "cot_2": "levanthanh",
+        "cot_3": "0917790086",
+        "cot_4": "levanthanhvcc@gmail.com",
+        "cot_5": "công ty tư vấn vcc",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "1",
+        "cot_9": "gửi kb zalo trao đổi, đang dùng thử",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đang dùng thử",
+        "cot_12": "A Thìn",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-18T23:09:27+07:00"
+      },
+      "data_hash": "59e95672c9ecb125a241326b16ad340c65940dfad891b5d894173967bed84544",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "ffe1e252115070f1f972b051deb71675c3a5c52005742b83bb5b9e6f940a6014",
+      "row_number": 14,
+      "data": {
+        "cot_2": "Huong Giang",
+        "cot_3": "0345748668",
+        "cot_4": "bktvthang@gmail.com",
+        "cot_5": "TNTC Power",
+        "cot_6": "request_quote",
+        "cot_7": "pe_plus",
+        "cot_8": "3",
+        "cot_9": "Kb zalo trao đổi",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "A Thìn",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-20T16:41:13+07:00"
+      },
+      "data_hash": "ffe1e252115070f1f972b051deb71675c3a5c52005742b83bb5b9e6f940a6014",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "f5615a512a8aefe34e646885a3c9ceedfed4a8eaa5c9b1248fc4247f7d92ae60",
+      "row_number": 15,
+      "data": {
+        "cot_2": "Nguyễn Đức Phương",
+        "cot_3": "0989093074",
+        "cot_4": "phuonghcdc@gmail.com",
+        "cot_5": "HCDC",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe_plus",
+        "cot_8": "2",
+        "cot_9": "24/8/2026 gửi kb zalo gửi thông tin , dùng thử",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đang tư vấn",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-21T10:32:59+07:00"
+      },
+      "data_hash": "f5615a512a8aefe34e646885a3c9ceedfed4a8eaa5c9b1248fc4247f7d92ae60",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "8e786bb43881adf79768406f7fbfe72004628e6e669479afc9b4eba11321a5e9",
+      "row_number": 16,
+      "data": {
+        "cot_2": "le lam thuyen",
+        "cot_3": "0989833690",
+        "cot_4": "lelamthuyen@gmail.com",
+        "cot_5": "Công ty Phúc Lâm",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "2",
+        "cot_9": "Kb zalo trao đổi",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "A Thìn",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-22T15:45:08+07:00"
+      },
+      "data_hash": "8e786bb43881adf79768406f7fbfe72004628e6e669479afc9b4eba11321a5e9",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "7da67c71e85717578901f5309805c927962496d1fb2e84c56861e231dd51c277",
+      "row_number": 17,
+      "data": {
+        "cot_2": "Nguyễn Công Thông",
+        "cot_3": "0707609551",
+        "cot_4": "ngcongthong247@gmail.com",
+        "cot_5": "CTI Design",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "1",
+        "cot_9": "kb zalo trao đổi",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "A Thìn",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-22T19:53:44+07:00"
+      },
+      "data_hash": "7da67c71e85717578901f5309805c927962496d1fb2e84c56861e231dd51c277",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "4b7fa752021c55c45dc5f3669cb97661eb267c3c0c3c21b56f129bc919dedf96",
+      "row_number": 18,
+      "data": {
+        "cot_2": "Nguyễn Quốc Việt",
+        "cot_3": "0936280057",
+        "cot_4": "vietnq@tdmk.com.vn",
+        "cot_5": "TDMK",
+        "cot_6": "request_quote",
+        "cot_7": "pe",
+        "cot_8": "1",
+        "cot_9": "sms trao đổi",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "A Thìn",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-26T08:32:00+07:00"
+      },
+      "data_hash": "4b7fa752021c55c45dc5f3669cb97661eb267c3c0c3c21b56f129bc919dedf96",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "0748cc8bdd2ab412398670d57c054a26f24a725ae8555b87c70c7626d8bf57cb",
+      "row_number": 19,
+      "data": {
+        "cot_2": "dao thanh",
+        "cot_3": "0914881867",
+        "cot_4": "thietkekientruc@gmaii.com",
+        "cot_5": "cong ty ngan ha",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe_plus",
+        "cot_8": "1",
+        "cot_9": "kb zalo trao đổi",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "A Thìn",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-26T14:03:32+07:00"
+      },
+      "data_hash": "0748cc8bdd2ab412398670d57c054a26f24a725ae8555b87c70c7626d8bf57cb",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "1bc67fd1941402371ce5c425938839ef7f2d5203948b987c0f162e06c24bf2f3",
+      "row_number": 20,
+      "data": {
+        "cot_2": "Mai Thanh Quyet",
+        "cot_3": "0962034604",
+        "cot_4": "maithanhquyet@gmail.com",
+        "cot_5": "Skyline Vietnam Architecture Joint Stock Company",
+        "cot_6": "request_quote",
+        "cot_7": "pe",
+        "cot_8": "2",
+        "cot_9": "27/8: Dùng thử Zlo, chuyển cho team dùng xong phản hồi",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Chốt thành công",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-27T10:10:41+07:00"
+      },
+      "data_hash": "1bc67fd1941402371ce5c425938839ef7f2d5203948b987c0f162e06c24bf2f3",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "d692194dd53881d5265e6db234c2a68289bded598539560589d972211ffd8940",
+      "row_number": 21,
+      "data": {
+        "cot_2": "Học Phạm Văn",
+        "cot_3": "0981481990",
+        "cot_4": "phamvanhoc18@gmail.com",
+        "cot_5": "cá nhân",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "2",
+        "cot_10": "Trực tiếp",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-27T10:17:20+07:00"
+      },
+      "data_hash": "d692194dd53881d5265e6db234c2a68289bded598539560589d972211ffd8940",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "ef8e3f6e55ba2e790218f6ae880e7d82cfee979d3af177bc6ac28a565b55e635",
+      "row_number": 22,
+      "data": {
+        "cot_2": "Thinh Vo Quoc",
+        "cot_3": "0911996467",
+        "cot_4": "arcvothinh@gmail.com",
+        "cot_5": "MILIMET VUÔNG",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "1",
+        "cot_9": "sms giới thiệu sản phẩm",
+        "cot_10": "Trực tiếp",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-28T09:20:26+07:00"
+      },
+      "data_hash": "ef8e3f6e55ba2e790218f6ae880e7d82cfee979d3af177bc6ac28a565b55e635",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "ac9869b22f238f0f46ff36271bf0ba231f9b241562b11ab1e8fa461790d55e81",
+      "row_number": 23,
+      "data": {
+        "cot_2": "Nguyễn Thế Hùng",
+        "cot_3": "0946879878",
+        "cot_4": "coffeeblack1018@gmail.com",
+        "cot_5": "Công ty TNHH TVTK và XD Phúc Đăng Huy",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "2",
+        "cot_9": "kb zalo trao đổi",
+        "cot_10": "Trực tiếp",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-28T11:23:35+07:00"
+      },
+      "data_hash": "ac9869b22f238f0f46ff36271bf0ba231f9b241562b11ab1e8fa461790d55e81",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "57669b9db7576040917375ec4c80d5e65644c0d73ebd03fb9e8ef0b763eff1b8",
+      "row_number": 24,
+      "data": {
+        "cot_2": "Nguyễn Thế Hùng",
+        "cot_3": "0946879878",
+        "cot_4": "coffeeblack1018@gmail.com",
+        "cot_5": "Công ty TNHH TVTK và XD Phúc Đăng Huy",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "2",
+        "cot_9": "kb zalo trao đổi",
+        "cot_10": "Trực tiếp",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-28T11:39:29+07:00"
+      },
+      "data_hash": "57669b9db7576040917375ec4c80d5e65644c0d73ebd03fb9e8ef0b763eff1b8",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "d4158a6b2711eab89ba40dcaf5fac0165a30eb0da1977c3966aa533e2df9f270",
+      "row_number": 25,
+      "data": {
+        "cot_2": "Nguyễn trọng huy",
+        "cot_3": "0386763988",
+        "cot_4": "tronghuy1980cb@gmail.com",
+        "cot_5": "Cty tnhh tư vấn xây dựng huy phương",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "1",
+        "cot_10": "Trực tiếp",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-08-31T16:25:14+07:00"
+      },
+      "data_hash": "d4158a6b2711eab89ba40dcaf5fac0165a30eb0da1977c3966aa533e2df9f270",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "352d9f6d793ebe270b0cd8379af2cc23a3f26f1588de94082b527b570594eefc",
+      "row_number": 26,
+      "data": {
+        "cot_2": "Phạm Ngọc Phúc",
+        "cot_3": "0934649268",
+        "cot_4": "phuctb79@gmail.com",
+        "cot_5": "Công ty TNHH Sungshin Vina",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe_plus",
+        "cot_8": "2",
+        "cot_9": "Mua autocad lt . Interrli Lag ko làm đc",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Thất bại",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-01T03:05:42+07:00"
+      },
+      "data_hash": "352d9f6d793ebe270b0cd8379af2cc23a3f26f1588de94082b527b570594eefc",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "c6b5cc5aefc8f3979ee39516550e0ad1487f0e66ee558b39153b7f692e9d73fa",
+      "row_number": 27,
+      "data": {
+        "cot_2": "Đỗ văn mạnh",
+        "cot_3": "0936255268",
+        "cot_4": "manhdv@tbvin.vn",
+        "cot_5": "Công ty cổ phần quốc tế TBV",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "3",
+        "cot_9": "kb zalo trao đổi, thiết bị nhà bếp",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-02T21:51:38+07:00"
+      },
+      "data_hash": "c6b5cc5aefc8f3979ee39516550e0ad1487f0e66ee558b39153b7f692e9d73fa",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "3281751b48d801078d6458a085cb988c9a3bfb0b5591bf2fd221a0ccd70ef206",
+      "row_number": 28,
+      "data": {
+        "cot_2": "Phó Đức Dũng",
+        "cot_3": "0985811019",
+        "cot_4": "dzung.pd@studio8.com.vn",
+        "cot_5": "Studio8 Vietnam",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "5",
+        "cot_9": "9/9 Gửi bgia, theo dõi",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-03T09:45:11+07:00"
+      },
+      "data_hash": "3281751b48d801078d6458a085cb988c9a3bfb0b5591bf2fd221a0ccd70ef206",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "c2edb28a4c497f3ca4d5486de50945a458425d765a09e9ee1a1e65c758ac27c3",
+      "row_number": 29,
+      "data": {
+        "cot_2": "Hoang Le Si",
+        "cot_3": "0915687846",
+        "cot_4": "hoang56ctn@gmail.com",
+        "cot_5": "cpt construction",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe_plus",
+        "cot_8": "20",
+        "cot_9": "20 máy",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-04T07:34:31+07:00"
+      },
+      "data_hash": "c2edb28a4c497f3ca4d5486de50945a458425d765a09e9ee1a1e65c758ac27c3",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "de427ac4b80ac1fb4935fcc68aed3e926dfbb6793e03f0700b2445ff113d74bc",
+      "row_number": 30,
+      "data": {
+        "cot_2": "Thành Đinh Vũ",
+        "cot_3": "0976167858",
+        "cot_4": "td6261@gmail.com",
+        "cot_5": "Công ty TNHH tư vấn xây dựng 372",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe_plus",
+        "cot_8": "5",
+        "cot_10": "Trực tiếp",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-04T08:57:51+07:00"
+      },
+      "data_hash": "de427ac4b80ac1fb4935fcc68aed3e926dfbb6793e03f0700b2445ff113d74bc",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "5222f4ed720ef56cf354099a73dd943ab4934fb85ab7e7ac66aa038431fd510a",
+      "row_number": 31,
+      "data": {
+        "cot_2": "Quân Nguyễn",
+        "cot_3": "0393086007",
+        "cot_4": "nguyenquanhd.tv2@gmail.com",
+        "cot_5": "Công ty TNHH MTV tư vấn xây dựng 30-10",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe_plus",
+        "cot_8": "10",
+        "cot_9": "10 máy. thiết kế 2D; 3D",
+        "cot_10": "Trực tiếp",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-04T08:59:49+07:00"
+      },
+      "data_hash": "5222f4ed720ef56cf354099a73dd943ab4934fb85ab7e7ac66aa038431fd510a",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "72f0b20543b6176c5ea999c504b967edd45dc5210adec10df9df1b36108563ef",
+      "row_number": 32,
+      "data": {
+        "cot_2": "Nguyễn Xuân Chính",
+        "cot_3": "0865735000",
+        "cot_4": "nxchinh18012003@gmail.com",
+        "cot_5": "CÔNG TY TƯ VẪN XÂY DỰNG 30-10",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "5",
+        "cot_10": "Trực tiếp",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-04T09:00:23+07:00"
+      },
+      "data_hash": "72f0b20543b6176c5ea999c504b967edd45dc5210adec10df9df1b36108563ef",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "f83f70a58675e20ceda17ea53aafc7b45bcca389da027ad255447d010d8e6da1",
+      "row_number": 33,
+      "data": {
+        "cot_2": "Nguyễn Thế Hùng",
+        "cot_3": "0946879878",
+        "cot_4": "tvtkxdphucdanghuy@gmail.com",
+        "cot_5": "Công ty TNHH TVTK và XD Phúc Đăng Huy",
+        "cot_6": "request_quote",
+        "cot_7": "pe",
+        "cot_8": "5",
+        "cot_10": "Trực tiếp",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-04T11:32:25+07:00"
+      },
+      "data_hash": "f83f70a58675e20ceda17ea53aafc7b45bcca389da027ad255447d010d8e6da1",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "b3737b61bf5ccf4004ccd29c96d8183d97f5a8c54b48e064727f059716d753b3",
+      "row_number": 34,
+      "data": {
+        "cot_2": "Nam Le Van",
+        "cot_3": "0973534001",
+        "cot_4": "namlv.thehome2025@gmail.com",
+        "cot_5": "Thehome",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "1",
+        "cot_9": "sử dụng đầy đủ về dwg, lisp, font",
+        "cot_10": "Trực tiếp",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-04T11:54:32+07:00"
+      },
+      "data_hash": "b3737b61bf5ccf4004ccd29c96d8183d97f5a8c54b48e064727f059716d753b3",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "e062625c170398fffc590ef8111d59c8f30c5906b42117fa30416d78ae5370ea",
+      "row_number": 35,
+      "data": {
+        "cot_2": "Hoang Le Si",
+        "cot_3": "0915687846",
+        "cot_4": "hoang56ctn@gmail.com",
+        "cot_5": "cpt construction",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe_plus",
+        "cot_8": "5",
+        "cot_9": "9/9 gửi thông tin ko Tl",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-05T07:59:26+07:00"
+      },
+      "data_hash": "e062625c170398fffc590ef8111d59c8f30c5906b42117fa30416d78ae5370ea",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "20b187595b5546327af6923d3c1ce8dc06f58868ab0c5131f1a823959d0da6a3",
+      "row_number": 36,
+      "data": {
+        "cot_2": "Nguyễn Ngọc Mai",
+        "cot_3": "0344696393",
+        "cot_4": "nnmai.hr.vinse@gmail.com",
+        "cot_5": "Công ty Cổ phần Xây dựng và Môi trường Việt Nam",
+        "cot_6": "request_quote",
+        "cot_7": "pe",
+        "cot_8": "5",
+        "cot_9": "8/9 Kb Zlo",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-05T08:57:55+07:00"
+      },
+      "data_hash": "20b187595b5546327af6923d3c1ce8dc06f58868ab0c5131f1a823959d0da6a3",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "e5ab2ec330a827c660c73be748bab03fbbe479357f74f1bda86792086a48aca1",
+      "row_number": 37,
+      "data": {
+        "cot_2": "Le Mai Thanh Huy",
+        "cot_3": "0939010305",
+        "cot_4": "lemaithanhhuy@gmail.com",
+        "cot_5": "Cty CP Phát triển nhà Cần Thơ",
+        "cot_6": "request_quote",
+        "cot_7": "pe",
+        "cot_8": "8",
+        "cot_9": "sử dụng các file autocad 2D về bản vẽ quy hoạch, kiến trúc 2D, kết cấu 2D",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Chốt thành công",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-06T19:12:36+07:00"
+      },
+      "data_hash": "e5ab2ec330a827c660c73be748bab03fbbe479357f74f1bda86792086a48aca1",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "2be8ed1500f695d40a071955f86ca5afd65e8c86044c56dd092d59ee2f6e4ccc",
+      "row_number": 38,
+      "data": {
+        "cot_2": "Nguyễn Thọ Cường",
+        "cot_3": "+84983252510",
+        "cot_4": "thocuongkts@gmail.com",
+        "cot_5": "Cty sak",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "2",
+        "cot_9": "10/9: gửi thông tin",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-09T08:19:44+07:00"
+      },
+      "data_hash": "2be8ed1500f695d40a071955f86ca5afd65e8c86044c56dd092d59ee2f6e4ccc",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "ff2891179e6a7b095c8f6bfcfcb088ba12ebb1f7bba5d499853d1e25929ebda0",
+      "row_number": 39,
+      "data": {
+        "cot_2": "Dũng Dương Nguyễn Ngọc",
+        "cot_3": "0971150079",
+        "cot_4": "duongndung@gmail.com",
+        "cot_5": "Công ty TNHH Xây dựng Tuấn Dương Phát",
+        "cot_6": "request_quote",
+        "cot_7": "pe",
+        "cot_8": "3",
+        "cot_9": "Gửi bộ cài, báo giá",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "A Thìn",
+        "cot_13": "50%",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-10T09:10:24+07:00"
+      },
+      "data_hash": "ff2891179e6a7b095c8f6bfcfcb088ba12ebb1f7bba5d499853d1e25929ebda0",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "76ea0b41338cee66427284a6a32df1e91551f9ad929926f9f69ee249885d3554",
+      "row_number": 40,
+      "data": {
+        "cot_2": "Thuận Nguyễn Bá",
+        "cot_3": "0943389229",
+        "cot_4": "nguyenbathuan1987@gmail.com",
+        "cot_5": "Công ty TNHH xây dựng và TM Thuận Phát",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "5",
+        "cot_9": "Liên hệ",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "A Thìn",
+        "cot_13": "Chưa đánh giá được",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-10T11:43:28+07:00"
+      },
+      "data_hash": "76ea0b41338cee66427284a6a32df1e91551f9ad929926f9f69ee249885d3554",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "35e6838491b8bd77bebfd353e1e8964956c1e040d7d76fc0c4a2f6b8aad1ef7f",
+      "row_number": 41,
+      "data": {
+        "cot_2": "Tran Cam Tu",
+        "cot_3": "0915084485",
+        "cot_4": "camtumtcn@gmail.com",
+        "cot_5": "3T",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "5",
+        "cot_9": "11/9 gửi tông tin > đang dung thử.",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-11T09:38:35+07:00"
+      },
+      "data_hash": "35e6838491b8bd77bebfd353e1e8964956c1e040d7d76fc0c4a2f6b8aad1ef7f",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "d518de4f529d89128cc76bc9a004c0eaeb720c1a968e934ad066079cef97fd2c",
+      "row_number": 42,
+      "data": {
+        "cot_2": "cao lam",
+        "cot_3": "0933578388",
+        "cot_4": "lamviet1988@gmail.com",
+        "cot_5": "3TGVN",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "5",
+        "cot_9": "11/9 gửi tông tin > đang dung thử. Đc ctu khác giới thiệu. 2/10 Dùng dự án lớn ko đc",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Thất bại",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-11T10:56:52+07:00"
+      },
+      "data_hash": "d518de4f529d89128cc76bc9a004c0eaeb720c1a968e934ad066079cef97fd2c",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "aeba0d703180046191524367b8ec7acf0f7b5dd47495fe84772b2853c880f90c",
+      "row_number": 43,
+      "data": {
+        "cot_2": "Đinh Ngọc Thắng",
+        "cot_3": "0976766988",
+        "cot_4": "greenhanoivn.jsc@gmail.com",
+        "cot_5": "GreenHN",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "5",
+        "cot_9": "11/9 gửi tông tin > Đang dùng ghử",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Chốt thành công",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-11T11:00:32+07:00"
+      },
+      "data_hash": "aeba0d703180046191524367b8ec7acf0f7b5dd47495fe84772b2853c880f90c",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "6bbea6efb252c607c405250bcef2d96b46eabda01141260bbd5004374bdaf3a9",
+      "row_number": 44,
+      "data": {
+        "cot_2": "Vu Ngo Truong Lam",
+        "cot_3": "0908007764",
+        "cot_4": "lamvu.scqc@gmail.com",
+        "cot_5": "Công ty Cổ phần Kiểm định Xây dựng Sài Gòn",
+        "cot_6": "request_quote",
+        "cot_7": "pe",
+        "cot_8": "1",
+        "cot_9": "11/9Sử dụng 01 máy chỉ cần dùng 2D xem và thể hiện bản vẽ mặt bằng.",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Chốt thành công",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-11T13:32:18+07:00"
+      },
+      "data_hash": "6bbea6efb252c607c405250bcef2d96b46eabda01141260bbd5004374bdaf3a9",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "f724f578482e6814f65dc797146575876cecd078dff7179595419d5057be8b87",
+      "row_number": 45,
+      "data": {
+        "cot_2": "Cong Ta Quoc",
+        "cot_3": "0869257905",
+        "cot_4": "congta905@gmail.com",
+        "cot_5": "Ngoc Thien Pharmaceutical and Trading Joint Stock Company",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "1",
+        "cot_9": "KB zalo trao đổi",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "A Thìn",
+        "cot_13": "30%",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-14T16:19:55+07:00"
+      },
+      "data_hash": "f724f578482e6814f65dc797146575876cecd078dff7179595419d5057be8b87",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "c01ae171dd5bc93274f6155c607ba5541ca41d4dd2a7f031c0a224aa54294c9d",
+      "row_number": 46,
+      "data": {
+        "cot_2": "Trần Kim Lượng",
+        "cot_3": "0949933676",
+        "cot_4": "trankimluong1985@gmail.com",
+        "cot_5": "Công ty thi công",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe_plus",
+        "cot_8": "1",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đang dùng thử",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-15T09:39:44+07:00"
+      },
+      "data_hash": "c01ae171dd5bc93274f6155c607ba5541ca41d4dd2a7f031c0a224aa54294c9d",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "ab631858f5957496ebfee89e5fac24a63025d41e376dabecd05cc473db48de59",
+      "row_number": 47,
+      "data": {
+        "cot_2": "Trần Kim Lượng",
+        "cot_3": "0949933676",
+        "cot_4": "trankimluong1985@gmail.com",
+        "cot_5": "Công ty thi công",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe_plus",
+        "cot_8": "1",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đang dùng thử",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-15T09:49:49+07:00"
+      },
+      "data_hash": "ab631858f5957496ebfee89e5fac24a63025d41e376dabecd05cc473db48de59",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "3715e4cc378e1cff97922963a487359b107b29c9001c3e0a4a74729a920893a7",
+      "row_number": 48,
+      "data": {
+        "cot_2": "Đỗ Cao",
+        "cot_3": "+84372362909",
+        "cot_4": "hamgiaothong@gmail.com",
+        "cot_5": "Tuta",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "1",
+        "cot_9": "Gửi bộ cài chat không phản hồi",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "A Thìn",
+        "cot_13": "10%",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-16T12:07:38+07:00"
+      },
+      "data_hash": "3715e4cc378e1cff97922963a487359b107b29c9001c3e0a4a74729a920893a7",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "30c14fcbc5a7bb7186c636afffb971c714b10dea4da6e8a340284d48c0f0be15",
+      "row_number": 49,
+      "data": {
+        "cot_2": "Nguyễn Anh Việt",
+        "cot_3": "0362098180",
+        "cot_4": "nguyenviet24081995@gmail.com",
+        "cot_5": "tự do",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "1",
+        "cot_9": "cut dim",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-17T09:22:47+07:00"
+      },
+      "data_hash": "30c14fcbc5a7bb7186c636afffb971c714b10dea4da6e8a340284d48c0f0be15",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "b08374701b9dd3c0ebcf4d86b2a835156d8362a1e7e69aee64880901d665ddbb",
+      "row_number": 50,
+      "data": {
+        "cot_2": "phanlong",
+        "cot_3": "0879653223",
+        "cot_4": "phanbaolong106@gmail.com",
+        "cot_5": "acb",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe_plus",
+        "cot_8": "5",
+        "cot_9": "5 máy",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-19T11:53:44+07:00"
+      },
+      "data_hash": "b08374701b9dd3c0ebcf4d86b2a835156d8362a1e7e69aee64880901d665ddbb",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "48c3c43d6659e22efebe607f83a34a743b5f7b83d85538994ac65398ae91879a",
+      "row_number": 51,
+      "data": {
+        "cot_2": "Nhàn Thanh Bùi",
+        "cot_3": "0975779053",
+        "cot_4": "thanhnhanxc07@gmail.com",
+        "cot_5": "vndb",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "2",
+        "cot_9": "23/9: Đang dùng thử , 7/10 Lisp được, cái ko. Để xem có chập nhận đck o",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-21T14:08:02+07:00"
+      },
+      "data_hash": "48c3c43d6659e22efebe607f83a34a743b5f7b83d85538994ac65398ae91879a",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "1315de6b4719bbe778a0fffb8da753ca74906d2d9fc6b64b4d0561eea7ea73ed",
+      "row_number": 52,
+      "data": {
+        "cot_2": "Nguyễn Duy Quang",
+        "cot_3": "0965562419",
+        "cot_4": "stormrage239@gmail.com",
+        "cot_5": "Xhome HP",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "1",
+        "cot_9": "23/9: Chạy thử ko ổn, giật. Dùng enjic, Zw",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Thất bại",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-09-23T10:48:53+07:00"
+      },
+      "data_hash": "1315de6b4719bbe778a0fffb8da753ca74906d2d9fc6b64b4d0561eea7ea73ed",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "0451f9889523b13528f8733c29fc4af25cff41b148e2e7bc004046188f5eb581",
+      "row_number": 53,
+      "data": {
+        "cot_2": "Thanh Tịnh Lê",
+        "cot_3": "0983971418",
+        "cot_4": "tinh.hcmut@gmail.com",
+        "cot_5": "Cty TNHH Dịch vụ tư vấn Thiết kế xây dựng và đo đạc GIA LẠC",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "3",
+        "cot_9": "dùng dc yqarch",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đang tư vấn",
+        "cot_12": "Thái",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-10-02T13:05:06+07:00"
+      },
+      "data_hash": "0451f9889523b13528f8733c29fc4af25cff41b148e2e7bc004046188f5eb581",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "e0dc1333b870a3938aebb65d1971bcb2c2caf5f032134dc1642c1bdcc35d8f17",
+      "row_number": 54,
+      "data": {
+        "cot_2": "Công",
+        "cot_3": "0989261379",
+        "cot_4": "haiduonghong2021@gmail.com",
+        "cot_5": "Hà Nội",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "1",
+        "cot_9": "sms giới thiệu sản phẩm",
+        "cot_10": "Chatgpt.com",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "E Đức",
+        "cot_13": "Đã gọi điện, kết bạn, trao đổi zalo (số khác). 20/10: Chờ phản hồi thêm",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-10-03T08:32:11+07:00"
+      },
+      "data_hash": "e0dc1333b870a3938aebb65d1971bcb2c2caf5f032134dc1642c1bdcc35d8f17",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "90d4be3c265f8e0bda24df011a62cb57a3d858ad87424c5a666f0ea738638f50",
+      "row_number": 55,
+      "data": {
+        "cot_2": "Lê Văn Hưởng",
+        "cot_3": "0825671989",
+        "cot_4": "levanhuongadcc@gmail.com",
+        "cot_5": "ADCC",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "5",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đang tư vấn",
+        "cot_12": "A Thìn",
+        "cot_13": "Chờ hoản thiện để tích hợp phần mềm, đã trình lãnh đạo, bên phát triển phần mềm nói có thể mất hàng tháng để hoàn thiện ap đi kèm",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-10-03T09:05:41+07:00"
+      },
+      "data_hash": "90d4be3c265f8e0bda24df011a62cb57a3d858ad87424c5a666f0ea738638f50",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "c04c3ea5bab695c03cd9983c3df95855d9f30e4aab0dea5232743233d95ef299",
+      "row_number": 56,
+      "data": {
+        "cot_2": "Nguyễn Đông Nhật",
+        "cot_3": "0978502975",
+        "cot_4": "poxaydon2007@gmail.com",
+        "cot_5": "CUBIC",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe_plus",
+        "cot_8": "5",
+        "cot_10": "Trực tiếp",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-10-09T10:48:25+07:00"
+      },
+      "data_hash": "c04c3ea5bab695c03cd9983c3df95855d9f30e4aab0dea5232743233d95ef299",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "842308adc14fcfdbb5b57bc5b0561a0bfca0d58a097155d59b393db60a33e04a",
+      "row_number": 57,
+      "data": {
+        "cot_2": "Trần Thanh Sa",
+        "cot_3": "0979923777",
+        "cot_4": "transa.arc@gmail.com",
+        "cot_5": "Cty Thiết kế Xây dựng Trí Minh",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe_plus",
+        "cot_8": "5",
+        "cot_10": "Facebook Ads",
+        "cot_11": "Không có nhu cầu",
+        "cot_12": "E Đức",
+        "cot_13": "14/10: Fail, không còn nhu cầu",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-10-10T06:56:16+07:00"
+      },
+      "data_hash": "842308adc14fcfdbb5b57bc5b0561a0bfca0d58a097155d59b393db60a33e04a",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "aab1f908121897596a6c3255a555ca45bba6ed970d184c7ee318b1b96051ed15",
+      "row_number": 58,
+      "data": {
+        "cot_2": "nguyen duc phu",
+        "cot_3": "0978516868",
+        "cot_4": "ndphu010273@gmail.com",
+        "cot_5": "Cong ty thiet ke Long Phu",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe_plus",
+        "cot_8": "1",
+        "cot_9": "1",
+        "cot_10": "Facebook Ads",
+        "cot_11": "Thất bại",
+        "cot_12": "E Đức",
+        "cot_13": "14/10: Đã mua bên Acad Revit LT",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-10-10T09:04:00+07:00"
+      },
+      "data_hash": "aab1f908121897596a6c3255a555ca45bba6ed970d184c7ee318b1b96051ed15",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "5f4c0599707600b91710940e51b802b182daa49bb7572a8a92c192e63cee5f7f",
+      "row_number": 59,
+      "data": {
+        "cot_2": "trần vũ phong",
+        "cot_3": "0389042274",
+        "cot_4": "phongtranbqlda@gmail.com",
+        "cot_5": "công ty tnhh đầu tư xây dựng 2p",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "1",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "Thái",
+        "cot_13": "14/10 gửi thông tin",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-10-14T10:06:22+07:00"
+      },
+      "data_hash": "5f4c0599707600b91710940e51b802b182daa49bb7572a8a92c192e63cee5f7f",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "2dec179b134471438709160c8092b8ed61d7aa2c74f9c8340829b341a77254ea",
+      "row_number": 60,
+      "data": {
+        "cot_2": "Trần Thanh Bình",
+        "cot_3": "0918124411",
+        "cot_4": "tranthanhbinh1976vn@gmail.con",
+        "cot_5": "Cty Tnhh mtv đtxd Nhật Trang",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "5",
+        "cot_9": "1 máy, DWG",
+        "cot_10": "Facebook Ads",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "E Đức",
+        "cot_13": "19/10: Trao đổi zalo. 19-20/10: Đang hỗ trợ cài đặt dùng thử (lỗi về win) 21/10: Đang dùng thử",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-10-19T08:18:31+07:00"
+      },
+      "data_hash": "2dec179b134471438709160c8092b8ed61d7aa2c74f9c8340829b341a77254ea",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "bd396be34b6b8db174240906e67ed89e8de798b43a523ca924a7bb0db64189e7",
+      "row_number": 61,
+      "data": {
+        "cot_2": "Bình Trần Thanh",
+        "cot_3": "0918124411",
+        "cot_4": "tranthanhbinh1976vn@gmail.com",
+        "cot_5": "Cty TNHH MTV ĐTXD Nhật Trang",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe_plus",
+        "cot_8": "1",
+        "cot_10": "Trực tiếp",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "E Đức",
+        "cot_13": "Bị trùng",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-10-19T09:01:00+07:00"
+      },
+      "data_hash": "bd396be34b6b8db174240906e67ed89e8de798b43a523ca924a7bb0db64189e7",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "8c60deab45a57319cb054c71459094d1c9f739d39177457b97f90e5833c37559",
+      "row_number": 62,
+      "data": {
+        "cot_2": "Thai HoangMinh",
+        "cot_3": "0903508596",
+        "cot_4": "mrthai58@gmail.com",
+        "cot_5": "dùng riêng tại nhà",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "1",
+        "cot_9": "dùng 2D đơn giản - đăng ký sở hữu vĩnh viễn sau khi dùng thử",
+        "cot_10": "Cms intellicad",
+        "cot_11": "Đã liên hệ",
+        "cot_12": "E Đức",
+        "cot_13": "19/10: Trao đổi zalo. Chú chỉ dùng 2D, đang tư vấn PE, 20/10: Đang dùng thử",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-10-19T09:57:15+07:00"
+      },
+      "data_hash": "8c60deab45a57319cb054c71459094d1c9f739d39177457b97f90e5833c37559",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    },
+    {
+      "row_key": "9ec43bb866601e3d3ce5bd5b62292e98f8136b457f18a004ba1a794959fe0bf0",
+      "row_number": 63,
+      "data": {
+        "cot_2": "Phuong Nga",
+        "cot_3": "0898785162",
+        "cot_4": "phuongkieunga01@gmail.com",
+        "cot_5": "Cá nhân",
+        "cot_6": "trial_30_days",
+        "cot_7": "pe",
+        "cot_8": "1",
+        "cot_10": "Trực tiếp",
+        "form_dang_ky_nhan_bao_gia_dung_thu_phan_mem_cms_intellicad": "2026-10-22T09:13:58+07:00"
+      },
+      "data_hash": "9ec43bb866601e3d3ce5bd5b62292e98f8136b457f18a004ba1a794959fe0bf0",
+      "first_seen_at": "2026-10-22T08:17:46.190Z",
+      "last_seen_at": "2026-10-22T08:17:46.190Z"
+    }
+  ]
+}

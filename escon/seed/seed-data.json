@@ -1,0 +1,2325 @@
+{
+  "exportedAt": "2026-10-28T01:16:11.776Z",
+  "targetSiteCode": "escon",
+  "sectionTypes": [
+    {
+      "landing_section_type_code": "advantages",
+      "landing_section_type_name": "Ưu Điểm Vượt Trội",
+      "category": "feature",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.707Z",
+      "updated_at_utc": "2026-10-28T01:12:40.707Z"
+    },
+    {
+      "landing_section_type_code": "catalog",
+      "landing_section_type_name": "Danh Mục Tính Năng / Giải Pháp",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.719Z",
+      "updated_at_utc": "2026-10-28T01:12:40.719Z"
+    },
+    {
+      "landing_section_type_code": "comparison",
+      "landing_section_type_name": "Bảng So Sánh & Các Gói Bản Quyền",
+      "category": "comparison",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.725Z",
+      "updated_at_utc": "2026-10-28T01:12:40.725Z"
+    },
+    {
+      "landing_section_type_code": "consultation_form",
+      "landing_section_type_name": "Form Đăng Ký Tư Vấn & Tải Dùng Thử",
+      "category": "form",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.731Z",
+      "updated_at_utc": "2026-10-28T01:12:40.731Z"
+    },
+    {
+      "landing_section_type_code": "faq",
+      "landing_section_type_name": "Câu Hỏi Thường Gặp (FAQ)",
+      "category": "faq",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.739Z",
+      "updated_at_utc": "2026-10-28T01:12:40.739Z"
+    },
+    {
+      "landing_section_type_code": "floating_cta",
+      "landing_section_type_name": "Nút Liên Hệ Nổi (Floating CTA)",
+      "category": "cta",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.743Z",
+      "updated_at_utc": "2026-10-28T01:12:40.743Z"
+    },
+    {
+      "landing_section_type_code": "footer",
+      "landing_section_type_name": "Chân Trang (Footer)",
+      "category": "footer",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.750Z",
+      "updated_at_utc": "2026-10-28T01:12:40.750Z"
+    },
+    {
+      "landing_section_type_code": "header",
+      "landing_section_type_name": "Thanh Điều Hướng (Header)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.756Z",
+      "updated_at_utc": "2026-10-28T01:12:40.756Z"
+    },
+    {
+      "landing_section_type_code": "hero",
+      "landing_section_type_name": "Banner Chính (Hero Section)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.762Z",
+      "updated_at_utc": "2026-10-28T01:12:40.762Z"
+    },
+    {
+      "landing_section_type_code": "infrastructure",
+      "landing_section_type_name": "Infrastructure & Specialized Machinery",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.769Z",
+      "updated_at_utc": "2026-10-28T01:12:40.769Z"
+    },
+    {
+      "landing_section_type_code": "intro",
+      "landing_section_type_name": "Giới Thiệu Tổng Quan & Thống Kê",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.773Z",
+      "updated_at_utc": "2026-10-28T01:12:40.773Z"
+    },
+    {
+      "landing_section_type_code": "requirements",
+      "landing_section_type_name": "Yêu Cầu Cấu Hình Hệ Thống",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.777Z",
+      "updated_at_utc": "2026-10-28T01:12:40.777Z"
+    },
+    {
+      "landing_section_type_code": "resources",
+      "landing_section_type_name": "Tài Nguyên & Thư Viện Hỗ Trợ",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.781Z",
+      "updated_at_utc": "2026-10-28T01:12:40.781Z"
+    },
+    {
+      "landing_section_type_code": "video_slider",
+      "landing_section_type_name": "YouTube Video Showcase Slider",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.789Z",
+      "updated_at_utc": "2026-10-28T01:12:40.789Z"
+    }
+  ],
+  "sites": [
+    {
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "landing_site_code": "escon",
+      "landing_site_name": "ESCON — Phần mềm Dự toán & Định mức Xây dựng (Host Mắt Bão)",
+      "landing_site_type": "landing",
+      "primary_domain": "escon.cic.com.vn",
+      "custom_domains_json": [
+        "escon.localhost",
+        "www.escon.cic.com.vn"
+      ],
+      "supported_locales_json": [
+        "vi",
+        "en"
+      ],
+      "default_locale": "vi",
+      "site_status": "active",
+      "brand_config_json": {
+        "email": "info@cic.com.vn",
+        "address": "Số 37 Lê Văn Thiêm, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",
+        "hotline": "0988 026 858",
+        "logo_url": "/api/landing/media/escon/images/logo.png",
+        "zalo_url": "https://zalo.me/0988026858",
+        "favicon_url": "/api/landing/media/escon/images/favicon.ico",
+        "primary_color": "#d97706",
+        "hosting_origin": "Host Mắt Bão"
+      },
+      "seo_meta_json": {
+        "title": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng",
+        "keywords": "escon, CIC, phần mềm xây dựng, BIM, CAD, bản quyền chính hãng",
+        "og_image": "/api/landing/media/escon/images/hero.png",
+        "description": "Giải pháp lập Dự toán, Dự thầu, Thẩm tra và Thanh quyết toán công trình hàng đầu của CIC — luôn cập nhật tức thời hệ thống Định mức Bộ Xây dựng và Công bố giá 63 tỉnh thành."
+      },
+      "tracking_config_json": {
+        "ga4_id": "",
+        "gtm_id": "",
+        "fb_pixel_id": ""
+      },
+      "created_at_utc": "2026-10-28T01:12:40.838Z",
+      "updated_at_utc": "2026-10-28T01:12:40.838Z"
+    }
+  ],
+  "pages": [
+    {
+      "landing_page_id": "b20bf0d9-f40d-4223-9953-3c687379bc54",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "landing_page_slug": "home",
+      "landing_page_locale": "en",
+      "page_title": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng (EN)",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng",
+        "description": "Giải pháp lập Dự toán, Dự thầu, Thẩm tra và Thanh quyết toán công trình hàng đầu của CIC — luôn cập nhật tức thời hệ thống Định mức Bộ Xây dựng và Công bố giá 63 tỉnh thành."
+      },
+      "published_at_utc": "2026-10-26T04:29:29.171Z",
+      "created_at_utc": "2026-10-28T01:12:40.979Z",
+      "updated_at_utc": "2026-10-28T01:12:40.979Z"
+    },
+    {
+      "landing_page_id": "cd8867c0-64c4-4fd2-93b5-f239ab31b7dd",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "landing_page_slug": "home",
+      "landing_page_locale": "vi",
+      "page_title": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng",
+        "description": "Giải pháp lập Dự toán, Dự thầu, Thẩm tra và Thanh quyết toán công trình hàng đầu của CIC — luôn cập nhật tức thời hệ thống Định mức Bộ Xây dựng và Công bố giá 63 tỉnh thành."
+      },
+      "published_at_utc": "2026-10-26T04:29:28.925Z",
+      "created_at_utc": "2026-10-28T01:12:40.988Z",
+      "updated_at_utc": "2026-10-28T01:12:40.988Z"
+    }
+  ],
+  "sections": [
+    {
+      "landing_page_section_id": "e7bdefa6-12d0-4619-81a4-1e02e6618bf7",
+      "landing_page_id": "b20bf0d9-f40d-4223-9953-3c687379bc54",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "header",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "VỀ PHẦN MỀM DỰ TOÁN ESCON",
+            "description": "Dự toán Escon đã có phiên bản mới. Click để Tải phiên bản Escon mới nhất"
+          },
+          {
+            "title": "nhanh chóng",
+            "description": "Hướng dẫn áp dụng thông tư Thông tư 09,10,11,15/2019/TT-BXD ngày 26/12/2019"
+          },
+          {
+            "title": "chính xác",
+            "description": "Giao diện chuẩn Office 2013, cập nhật nhiều chức năng tính dự toán theo nghị định 32/2015. Nhiều tính năng nâng cao: thẩm tra thông tin công trình, thẩm tra định mức, đơn giá, thẩm tra khối lượng...."
+          },
+          {
+            "title": "tiện lợi",
+            "description": "Escon là phần mềm tính đơn giá dự toán, dự thầu, thẩm tra được Công ty Cổ phần Tin học và Tư vấn xây dựng (CIC) trực thuộc Bộ Xây dựng phát triển từ năm 2000. Trải qua nhiều phiên bản như Escon 3, Escon 4,.. Escon 7 (2011), Escon 8(2012) và Escon phiên bản 15 mới nhất hiện nay."
+          },
+          {
+            "title": "NHỮNG TÍNH NĂNG CHỈ CÓ DUY NHẤT ESCON Version 15",
+            "description": "Tốc độ xử lý cực nhanh. Chuyển đổi giữa cách tính dự toán theo định mức và đơn giá thuận lợi, nhanh chóng. Tự động nhận dạng mẫu dự toán khi mở file dự toán từ file excel bất kỳ."
+          },
+          {
+            "title": "MẪU DỰ TOÁN ĐẶC THÙ TỪNG ĐỊA PHƯƠNG",
+            "description": "Xử lý được tất cả các bài toán của từng địa phương, người dùng có thể tự thiết lập lựa chọn phương pháp tính. Lập dự toán theo đơn giá và lập dự toán theo định mức."
+          }
+        ],
+        "title": "PHẦN MỀM DỰ TOÁN ESCON VERSION 15 MỚI NHẤT",
+        "logo_url": "/api/landing/media/escon/images/logo.png",
+        "subtitle": "VỀ PHẦN MỀM DỰ TOÁN ESCON",
+        "cta_label": "Register Now",
+        "nav_items": [
+          {
+            "href": "#intro",
+            "label": "Overview"
+          },
+          {
+            "href": "#advantages",
+            "label": "Advantages"
+          },
+          {
+            "href": "#catalog",
+            "label": "Solutions"
+          },
+          {
+            "href": "#comparison",
+            "label": "Pricing & Packages"
+          },
+          {
+            "href": "#faq",
+            "label": "FAQ"
+          }
+        ],
+        "brand_name": "Escon",
+        "description": "Dự toán Escon đã có phiên bản mới. Click để Tải phiên bản Escon mới nhất"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.830Z",
+      "updated_at_utc": "2026-10-28T01:12:41.830Z"
+    },
+    {
+      "landing_page_section_id": "45c84b1d-1ad4-4879-b6d0-4dd14abaf55f",
+      "landing_page_id": "b20bf0d9-f40d-4223-9953-3c687379bc54",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "hero",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "Phần Mềm Dự Toán Thương Hiệu CIC — Cập Nhật Định Mức Mới Nhất",
+        "items": [
+          {
+            "title": "VỀ PHẦN MỀM DỰ TOÁN ESCON",
+            "description": "Giao diện chuẩn Office 2013, cập nhật nhiều chức năng tính dự toán theo nghị định 32/2015. Nhiều tính năng nâng cao: thẩm tra thông tin công trình, thẩm tra định mức, đơn giá, thẩm tra khối lượng...."
+          },
+          {
+            "title": "nhanh chóng",
+            "description": "Escon là phần mềm tính đơn giá dự toán, dự thầu, thẩm tra được Công ty Cổ phần Tin học và Tư vấn xây dựng (CIC) trực thuộc Bộ Xây dựng phát triển từ năm 2000. Trải qua nhiều phiên bản như Escon 3, Escon 4,.. Escon 7 (2011), Escon 8(2012) và Escon phiên bản 15 mới nhất hiện nay."
+          },
+          {
+            "title": "chính xác",
+            "description": "Tốc độ xử lý cực nhanh. Chuyển đổi giữa cách tính dự toán theo định mức và đơn giá thuận lợi, nhanh chóng. Tự động nhận dạng mẫu dự toán khi mở file dự toán từ file excel bất kỳ."
+          },
+          {
+            "title": "tiện lợi",
+            "description": "Xử lý được tất cả các bài toán của từng địa phương, người dùng có thể tự thiết lập lựa chọn phương pháp tính. Lập dự toán theo đơn giá và lập dự toán theo định mức."
+          },
+          {
+            "title": "NHỮNG TÍNH NĂNG CHỈ CÓ DUY NHẤT ESCON Version 15",
+            "description": "Chỉ cần kéo thả từ thư viện mẫu. Tạo phím tắt, hiện ẩn dòng cột, lưu giữ tiến trình làm việc. Chỉnh sửa font chữ, cỡ chữ linh hoạt như trong excel tại tất cả các bảng. Tạo lịch ghi chú công tác."
+          },
+          {
+            "title": "MẪU DỰ TOÁN ĐẶC THÙ TỪNG ĐỊA PHƯƠNG",
+            "description": "Khác với một số phần mềm dự toán có mặt trên thị trường chưa có đầy đủ tính năng theo Nghị định 32/2015 NĐ-CP; thông tư 04/2010-BXD dẫn đến nhiều hạn chế, Escon phiên bản 15 là phiên bản đưa vào những tính năng mới, độc đáo mà chưa phần mềm nào có được."
+          }
+        ],
+        "stats": [
+          {
+            "label": "Tỉnh thành được cập nhật đơn giá & công bố giá vật liệu hàng tháng",
+            "value": "63/63"
+          },
+          {
+            "label": "Phần mềm dự toán uy tín gắn liền với ngành xây dựng Việt Nam",
+            "value": "30+ Năm"
+          },
+          {
+            "label": "Tuân thủ Nghị định 10/2021/NĐ-CP & Thông tư 11, 12/2021/TT-BXD",
+            "value": "100%"
+          },
+          {
+            "label": "Xuất nhập bảng tính Excel giữ nguyên công thức liên kết sống",
+            "value": "Excel 2 Chiều"
+          }
+        ],
+        "title": "PHẦN MỀM DỰ TOÁN ESCON VERSION 15 MỚI NHẤT",
+        "subtitle": "VỀ PHẦN MỀM DỰ TOÁN ESCON",
+        "description": "Giao diện chuẩn Office 2013, cập nhật nhiều chức năng tính dự toán theo nghị định 32/2015. Nhiều tính năng nâng cao: thẩm tra thông tin công trình, thẩm tra định mức, đơn giá, thẩm tra khối lượng....",
+        "hero_image_url": "/api/landing/media/escon/images/hero.png",
+        "primary_cta_href": "#consultation",
+        "primary_cta_label": "Download Trial & Quote",
+        "secondary_cta_href": "#comparison",
+        "secondary_cta_label": "View Brochure (PDF)"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.844Z",
+      "updated_at_utc": "2026-10-28T01:12:41.844Z"
+    },
+    {
+      "landing_page_section_id": "ba1ba19d-7430-4af7-b34b-0c6e32f99c48",
+      "landing_page_id": "b20bf0d9-f40d-4223-9953-3c687379bc54",
+      "landing_section_type_code": "intro",
+      "section_anchor_id": "intro",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "WHY CHOOSE CIC VIETNAM",
+        "items": [
+          {
+            "title": "nhanh chóng",
+            "description": "Escon là phần mềm tính đơn giá dự toán, dự thầu, thẩm tra được Công ty Cổ phần Tin học và Tư vấn xây dựng (CIC) trực thuộc Bộ Xây dựng phát triển từ năm 2000. Trải qua nhiều phiên bản như Escon 3, Escon 4,.. Escon 7 (2011), Escon 8(2012) và Escon phiên bản 15 mới nhất hiện nay."
+          },
+          {
+            "title": "chính xác",
+            "description": "Tốc độ xử lý cực nhanh. Chuyển đổi giữa cách tính dự toán theo định mức và đơn giá thuận lợi, nhanh chóng. Tự động nhận dạng mẫu dự toán khi mở file dự toán từ file excel bất kỳ."
+          },
+          {
+            "title": "tiện lợi",
+            "description": "Xử lý được tất cả các bài toán của từng địa phương, người dùng có thể tự thiết lập lựa chọn phương pháp tính. Lập dự toán theo đơn giá và lập dự toán theo định mức."
+          },
+          {
+            "title": "NHỮNG TÍNH NĂNG CHỈ CÓ DUY NHẤT ESCON Version 15",
+            "description": "Chỉ cần kéo thả từ thư viện mẫu. Tạo phím tắt, hiện ẩn dòng cột, lưu giữ tiến trình làm việc. Chỉnh sửa font chữ, cỡ chữ linh hoạt như trong excel tại tất cả các bảng. Tạo lịch ghi chú công tác."
+          },
+          {
+            "title": "MẪU DỰ TOÁN ĐẶC THÙ TỪNG ĐỊA PHƯƠNG",
+            "description": "Khác với một số phần mềm dự toán có mặt trên thị trường chưa có đầy đủ tính năng theo Nghị định 32/2015 NĐ-CP; thông tư 04/2010-BXD dẫn đến nhiều hạn chế, Escon phiên bản 15 là phiên bản đưa vào những tính năng mới, độc đáo mà chưa phần mềm nào có được."
+          },
+          {
+            "title": "TÍNH NĂNG THẨM TRA NÂNG CAO",
+            "description": "Người dùng có thể chủ động tạo mới, lưu trữ và chia sẻ các mẫu dự toán với phương pháp tính, dữ liệu sử dụng, bảng biểu dự toán theo đặc thù từng địa phương."
+          }
+        ],
+        "title": "VỀ PHẦN MỀM DỰ TOÁN ESCON",
+        "subtitle": "nhanh chóng",
+        "description": "Escon là phần mềm tính đơn giá dự toán, dự thầu, thẩm tra được Công ty Cổ phần Tin học và Tư vấn xây dựng (CIC) trực thuộc Bộ Xây dựng phát triển từ năm 2000. Trải qua nhiều phiên bản như Escon 3, Escon 4,.. Escon 7 (2011), Escon 8(2012) và Escon phiên bản 15 mới nhất hiện nay."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.854Z",
+      "updated_at_utc": "2026-10-28T01:12:41.854Z"
+    },
+    {
+      "landing_page_section_id": "791f1a64-160d-43ab-b59e-68faa2f35eec",
+      "landing_page_id": "b20bf0d9-f40d-4223-9953-3c687379bc54",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "advantages",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "KEY ADVANTAGES",
+        "items": [
+          {
+            "title": "MẪU DỰ TOÁN ĐẶC THÙ TỪNG ĐỊA PHƯƠNG",
+            "description": "Khác với một số phần mềm dự toán có mặt trên thị trường chưa có đầy đủ tính năng theo Nghị định 32/2015 NĐ-CP; thông tư 04/2010-BXD dẫn đến nhiều hạn chế, Escon phiên bản 15 là phiên bản đưa vào những tính năng mới, độc đáo mà chưa phần mềm nào có được."
+          },
+          {
+            "title": "TÍNH NĂNG THẨM TRA NÂNG CAO",
+            "description": "Người dùng có thể chủ động tạo mới, lưu trữ và chia sẻ các mẫu dự toán với phương pháp tính, dữ liệu sử dụng, bảng biểu dự toán theo đặc thù từng địa phương."
+          },
+          {
+            "title": "TÍNH NĂNG DIỄN GIẢI KHỐI LƯỢNG",
+            "description": "Thẩm định thông tin công trình : Phương pháp tính nhân công, ca máy; Các hệ số chi phí được sử dụng tính toán trong hạng mục công trình;"
+          },
+          {
+            "title": "TÍNH NĂNG GỘP ĐỊNH MỨC CÔNG TÁC",
+            "description": "Chuyển đổi linh hoạt từ phương thức nhập dài – rộng – cao sang diễn giải khối lượng cho công tác và ngược lại một cách linh hoạt."
+          },
+          {
+            "title": "NHỮNG TÍNH NĂNG NỔI BẬT KHÁC",
+            "description": "Xây dựng công tác mới trên bảng Tiên lượng bằng cách gộp 2 hoặc nhiều định mức công tác khác nhau theo ý muốn của người dùng."
+          },
+          {
+            "title": "Công cụ",
+            "description": "Escon đưa vào các gói Giải pháp kết nối : Kết cấu – Bản vẽ - Dự toán tạo thành 1 chu trình khép kín giúp người dùng kiến tạo những sản phẩm công việc tốt - tối ưu về chất lượng và thời gian."
+          }
+        ],
+        "title": "NHỮNG TÍNH NĂNG CHỈ CÓ DUY NHẤT ESCON Version 15",
+        "subtitle": "MẪU DỰ TOÁN ĐẶC THÙ TỪNG ĐỊA PHƯƠNG",
+        "description": "Khác với một số phần mềm dự toán có mặt trên thị trường chưa có đầy đủ tính năng theo Nghị định 32/2015 NĐ-CP; thông tư 04/2010-BXD dẫn đến nhiều hạn chế, Escon phiên bản 15 là phiên bản đưa vào những tính năng mới, độc đáo mà chưa phần mềm nào có được."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.864Z",
+      "updated_at_utc": "2026-10-28T01:12:41.864Z"
+    },
+    {
+      "landing_page_section_id": "453f1fed-8d30-4906-82ce-312ca89af78e",
+      "landing_page_id": "b20bf0d9-f40d-4223-9953-3c687379bc54",
+      "landing_section_type_code": "catalog",
+      "section_anchor_id": "catalog",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "PRODUCT MODULES",
+        "items": [
+          {
+            "title": "Công cụ",
+            "description": "Escon đưa vào các gói Giải pháp kết nối : Kết cấu – Bản vẽ - Dự toán tạo thành 1 chu trình khép kín giúp người dùng kiến tạo những sản phẩm công việc tốt - tối ưu về chất lượng và thời gian."
+          },
+          {
+            "title": "Giá vật tư",
+            "description": "Công cụ * Cho phép người dùng đặt mật khẩu cho từng file dự toán với độ bảo mật cao"
+          },
+          {
+            "title": "Nhân công",
+            "description": "Giá vật tư * Cho phép nhập giá thông báo từ file excel bất kỳ với khả năng nhận diện đối tượng thông minh. * Tạo bảng giá thông báo vật liệu theo quý, tháng trực tuyến."
+          },
+          {
+            "title": "THƯ VIỆN MẪU CÔNG TÁC",
+            "description": "Nhân công * Ngoài các cách tính giá nhân công thông thường hiện nay Escon đã cập nhật phương pháp tính giá nhân công theo TT01/2015 mới nhất"
+          },
+          {
+            "title": "Giá máy",
+            "description": "THƯ VIỆN MẪU CÔNG TÁC * Dễ dàng lưu công tác, nhóm công tác thường dùng và chia sẻ cho nhiều đồng nghiệp, cho nhiều công trình khác khi lập dự toán."
+          },
+          {
+            "title": "Tổng hợp kinh phí hạng mục",
+            "description": "Giá máy * Khả năng tính bù nhân công máy và nhiên liệu chính xác, linh hoạt từ nhiều mốc thời điểm ban hành giá ca máy."
+          }
+        ],
+        "title": "NHỮNG TÍNH NĂNG NỔI BẬT KHÁC",
+        "subtitle": "Công cụ",
+        "description": "Escon đưa vào các gói Giải pháp kết nối : Kết cấu – Bản vẽ - Dự toán tạo thành 1 chu trình khép kín giúp người dùng kiến tạo những sản phẩm công việc tốt - tối ưu về chất lượng và thời gian."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.873Z",
+      "updated_at_utc": "2026-10-28T01:12:41.873Z"
+    },
+    {
+      "landing_page_section_id": "58ef0559-c678-4e42-b478-46c73fd5c38e",
+      "landing_page_id": "b20bf0d9-f40d-4223-9953-3c687379bc54",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "comparison",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "LICENSING & PACKAGES",
+        "items": [
+          {
+            "title": "ESCON-S",
+            "description": "Phiên bản đầy đủ tính năng. Bảo hành trọn đời"
+          },
+          {
+            "title": "ESCON-P",
+            "description": "Phiên bản 300 công tác, 1 hạng mục"
+          },
+          {
+            "title": "ESCON-U",
+            "description": "Giao diện Office 2013"
+          },
+          {
+            "title": "DOWNLOAD",
+            "description": "Hoạt động tốc độ nhanh"
+          },
+          {
+            "title": "CÂU HỎI KHÁCH HÀNG THƯỜNG GẶP",
+            "description": "Dễ dàng cài đặt"
+          },
+          {
+            "title": "câu hỏi: Phần mềm Escon có những điểm gì nổi bật hơn so với các phần mềm dự toán khác?",
+            "description": "Nâng cấp miễn phí 12 tháng"
+          }
+        ],
+        "title": "BẢNG GIÁ",
+        "pdf_url": "/api/landing/media/escon/downloads/brochure.pdf",
+        "packages": [
+          {
+            "name": "Escon Khóa Cứng (USB) / Khóa Mềm",
+            "badge": "BÁN CHẠY NHẤT",
+            "price": "Bản quyền Chính hãng CIC",
+            "period": "Sử dụng tiện lợi trên mọi máy tính",
+            "features": [
+              "Đầy đủ dữ liệu định mức & đơn giá 63 tỉnh thành",
+              "Cập nhật tự động văn bản & thông tư mới của Bộ Xây dựng",
+              "Xuất nhập Excel giữ nguyên công thức liên kết",
+              "Hỗ trợ nghiệp vụ dự toán trực tiếp từ chuyên gia CIC"
+            ],
+            "cta_label": "Tải Bản Dùng Thử Escon",
+            "highlight": true,
+            "description": "Dành cho kỹ sư QS, kỹ sư dự toán, tư vấn thẩm tra và ban quản lý dự án."
+          },
+          {
+            "name": "Escon Doanh Nghiệp (Combo Nhiều Khóa)",
+            "price": "Ưu đãi Chiết khấu Cao",
+            "period": "Trang bị cho Phòng Dự toán / Đấu thầu",
+            "features": [
+              "Đồng bộ mẫu biểu dự toán toàn công ty",
+              "Tặng kèm khóa đào tạo lập dự toán thực chiến",
+              "Bảo hành & nâng cấp phiên bản ưu tiên"
+            ],
+            "cta_label": "Nhận Báo Giá Phòng Dự Toán",
+            "description": "Giải pháp đồng bộ dữ liệu dự toán cho các công ty tư vấn và nhà thầu xây dựng."
+          },
+          {
+            "name": "Escon Đào Tạo (Dành cho Trường ĐH/CĐ)",
+            "price": "Tài trợ Giáo dục",
+            "period": "Phòng máy thực hành Kinh tế Xây dựng",
+            "features": [
+              "Cấp phát license phòng máy số lượng lớn",
+              "Tài liệu hướng dẫn thực hành chuẩn BXD",
+              "Hỗ trợ hội thảo chuyên đề cho sinh viên"
+            ],
+            "cta_label": "Liên Hệ Hợp Tác Đào Tạo",
+            "description": "Đồng hành cùng các trường Đại học, Cao đẳng đào tạo sinh viên ngành Kinh tế & Quản lý Xây dựng."
+          }
+        ],
+        "subtitle": "ESCON-S",
+        "description": "Phiên bản đầy đủ tính năng. Bảo hành trọn đời",
+        "modal_title": "Tài Liệu Kỹ Thuật & So Sánh Phiên Bản — Escon",
+        "pdf_cta_label": "XEM TÀI LIỆU SO SÁNH & BROCHURE (PDF)",
+        "modal_download_label": "Tải Xuống Tài Liệu PDF",
+        "modal_register_label": "Nhận Tư Vấn & Báo Giá Chi Tiết"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.879Z",
+      "updated_at_utc": "2026-10-28T01:12:41.879Z"
+    },
+    {
+      "landing_page_section_id": "805354ea-7d9b-4325-9e10-a4206c22ae2f",
+      "landing_page_id": "b20bf0d9-f40d-4223-9953-3c687379bc54",
+      "landing_section_type_code": "resources",
+      "section_anchor_id": "resources",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "DOCUMENTATION & RESOURCES",
+        "items": [
+          {
+            "title": "CÂU HỎI KHÁCH HÀNG THƯỜNG GẶP",
+            "description": "Phần mềm dự toán ESCON Version 15 . Nhấn vào đường link bên dưới tải về cài đặt"
+          },
+          {
+            "title": "câu hỏi: Phần mềm Escon có những điểm gì nổi bật hơn so với các phần mềm dự toán khác?",
+            "description": "Liên quan đến sản phẩm, dịch vụ bảo hành, hỗ trợ sau bán hàng..."
+          },
+          {
+            "title": "câu hỏi: Tôi thấy giá thành của phần mềm cũng hơi cao, không biết đơn vị mình có những chính sách linh động về giá không ?",
+            "description": "- Về tính năng sử dụng: Phần mềm Escon luôn hướng tới nhu cầu sử dụng thiết thực của khách hàng, bất cứ phản hồi nào của khách hàng đều được đơn vị ghi nhận và xử lý nhanh chóng. Một số tính năng như: Tính năng tạo mẫu đặc thù cho từng địa phương, Tính năng đổi đơn vị công tác và gộp định mức nhiều công tác , Chuyển đổi phương pháp lập dự toán (theo định mức hoặc theo đơn giá) linh hoạt,….. là những tính năng chưa có trên phần mềm dự toán nào."
+          },
+          {
+            "title": "câu hỏi: Nếu mua Escon, tôi sẽ được hỗ trợ sử dụng như thế nào?",
+            "description": "- Trước nhu cầu sử dụng phần mềm của khách hàng, Công ty CP Tin học và Tư vấn Xây dựng (CIC) đã đưa ra nhiều phiên bản Escon với những tính năng và chi phí khác nhau. Từ những bản dự toán dùng cho sinh viên – chi phí sinh viên đến những phiên bản phổ thông , phiên bản vĩnh viễn. Điều này giúp khách hành có những lựa chọn sản phầm dự toán Escon phù hợp với yêu cầu công việc và điều kiện kinh tế của mình."
+          },
+          {
+            "title": "câu hỏi: Khi có đơn giá mới tôi làm thế nào để có được dữ liệu đơn giá mới đó?",
+            "description": "- Với CIC, bất cứ cá nhân hay đơn vị nào có nhu cầu sử dụng hay có chút quan tâm đến Escon thì đều được coi là khách hàng của đơn vị. Từ những bước đầu tiên: cài đặt phần mềm đến việc bước sử dụng CIC luôn đi bên cạnh để đảm bảo cho khách hàng có thể tìm hiểu và sử dụng phần mềm trong thời gian ngắn nhất. Cùng với bất kì khoản thời gian nào sau này khách hàng sử dụng Escon, CIC sẽ luôn có mặt để hỗ trợ và giải đáp bất cứ phản hồi nào của khách hàng sử dụng."
+          },
+          {
+            "title": "câu hỏi: Nếu bị mất khoá cứng bảo vệ chương trình tôi phải làm thế nào để được sử dụng tiếp?",
+            "description": "- Tất cả các dữ liệu (đơn giá, định mức, hệ thống bảng biểu….) người sử dụng dễ dàng nhận thấy và cập nhật về máy tính bằng chức năng : Cập nhật dữ liệu. Một cách trực quan nhất, dữ liệu sẽ được đánh dấu để người dùng nhận biết được dữ liệu mình sử dụng đã mới nhất hay chưa ? Khi đó chỉ cần Click vào Cập nhật, người sử dụng sẽ có dữ liệu mới vào máy tính."
+          }
+        ],
+        "title": "DOWNLOAD",
+        "subtitle": "CÂU HỎI KHÁCH HÀNG THƯỜNG GẶP",
+        "description": "Phần mềm dự toán ESCON Version 15 . Nhấn vào đường link bên dưới tải về cài đặt"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.888Z",
+      "updated_at_utc": "2026-10-28T01:12:41.888Z"
+    },
+    {
+      "landing_page_section_id": "696f9872-5248-43db-9f43-c78a2a2500ff",
+      "landing_page_id": "b20bf0d9-f40d-4223-9953-3c687379bc54",
+      "landing_section_type_code": "faq",
+      "section_anchor_id": "faq",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "FREQUENTLY ASKED QUESTIONS",
+        "items": [
+          {
+            "title": "câu hỏi: Phần mềm Escon có những điểm gì nổi bật hơn so với các phần mềm dự toán khác?",
+            "description": "Liên quan đến sản phẩm, dịch vụ bảo hành, hỗ trợ sau bán hàng..."
+          },
+          {
+            "title": "câu hỏi: Tôi thấy giá thành của phần mềm cũng hơi cao, không biết đơn vị mình có những chính sách linh động về giá không ?",
+            "description": "- Về tính năng sử dụng: Phần mềm Escon luôn hướng tới nhu cầu sử dụng thiết thực của khách hàng, bất cứ phản hồi nào của khách hàng đều được đơn vị ghi nhận và xử lý nhanh chóng. Một số tính năng như: Tính năng tạo mẫu đặc thù cho từng địa phương, Tính năng đổi đơn vị công tác và gộp định mức nhiều công tác , Chuyển đổi phương pháp lập dự toán (theo định mức hoặc theo đơn giá) linh hoạt,….. là những tính năng chưa có trên phần mềm dự toán nào."
+          },
+          {
+            "title": "câu hỏi: Nếu mua Escon, tôi sẽ được hỗ trợ sử dụng như thế nào?",
+            "description": "- Trước nhu cầu sử dụng phần mềm của khách hàng, Công ty CP Tin học và Tư vấn Xây dựng (CIC) đã đưa ra nhiều phiên bản Escon với những tính năng và chi phí khác nhau. Từ những bản dự toán dùng cho sinh viên – chi phí sinh viên đến những phiên bản phổ thông , phiên bản vĩnh viễn. Điều này giúp khách hành có những lựa chọn sản phầm dự toán Escon phù hợp với yêu cầu công việc và điều kiện kinh tế của mình."
+          },
+          {
+            "title": "câu hỏi: Khi có đơn giá mới tôi làm thế nào để có được dữ liệu đơn giá mới đó?",
+            "description": "- Với CIC, bất cứ cá nhân hay đơn vị nào có nhu cầu sử dụng hay có chút quan tâm đến Escon thì đều được coi là khách hàng của đơn vị. Từ những bước đầu tiên: cài đặt phần mềm đến việc bước sử dụng CIC luôn đi bên cạnh để đảm bảo cho khách hàng có thể tìm hiểu và sử dụng phần mềm trong thời gian ngắn nhất. Cùng với bất kì khoản thời gian nào sau này khách hàng sử dụng Escon, CIC sẽ luôn có mặt để hỗ trợ và giải đáp bất cứ phản hồi nào của khách hàng sử dụng."
+          },
+          {
+            "title": "câu hỏi: Nếu bị mất khoá cứng bảo vệ chương trình tôi phải làm thế nào để được sử dụng tiếp?",
+            "description": "- Tất cả các dữ liệu (đơn giá, định mức, hệ thống bảng biểu….) người sử dụng dễ dàng nhận thấy và cập nhật về máy tính bằng chức năng : Cập nhật dữ liệu. Một cách trực quan nhất, dữ liệu sẽ được đánh dấu để người dùng nhận biết được dữ liệu mình sử dụng đã mới nhất hay chưa ? Khi đó chỉ cần Click vào Cập nhật, người sử dụng sẽ có dữ liệu mới vào máy tính."
+          },
+          {
+            "title": "THÔNG TIN CHI TIẾT",
+            "description": "- CIC luôn trân trọng và chia sẻ với những “mất mát” của khách hàng trong quá trình sử dụng dự toán Escon cũng như những sản phẩm phần mềm khác của CIC. Khác với những đơn vị kinh doanh khác, niềm tin sử dụng và niềm vui của khách hàng luôn là kim chỉ nam cho định hướng kinh doanh của CIC. Với những khách hàng bị mất khóa cứng sản phẩm, CIC luôn có chính sách ưu đãi về giá tốt nhất để khách hàng có thể tiếp tục sử dụng và đặt niềm tin vào các sản phẩm của CIC."
+          }
+        ],
+        "title": "CÂU HỎI KHÁCH HÀNG THƯỜNG GẶP",
+        "subtitle": "câu hỏi: Phần mềm Escon có những điểm gì nổi bật hơn so với các phần mềm dự toán khác?",
+        "description": "Liên quan đến sản phẩm, dịch vụ bảo hành, hỗ trợ sau bán hàng..."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.894Z",
+      "updated_at_utc": "2026-10-28T01:12:41.894Z"
+    },
+    {
+      "landing_page_section_id": "70e0369c-d068-4d96-981e-24212d10fea6",
+      "landing_page_id": "b20bf0d9-f40d-4223-9953-3c687379bc54",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "consultation",
+      "section_order": 9,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "FREE CONSULTATION & TRIAL",
+        "items": [
+          {
+            "title": "Chi nhánh TP. HỒ CHÍ MINH",
+            "description": "CÔNG TY CP TIN HỌC VÀ TƯ VẤN XÂY DỰNG Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội - Việt Nam Điện thoại: 04 39741 436 - 0975 474 688 * Fax: (84-4) 38 216 793 Email: pmxd@cic.com.vn * Website: http://www.cic.com.vn"
+          },
+          {
+            "title": "address",
+            "description": "address Số 36, Nguyễn Huy Lượng , P. 14, Quận Bình Thạnh Tp Hồ Chí Minh, Việt Nam"
+          },
+          {
+            "title": "phone",
+            "description": "phone (+84 8) 628.99.022 - (+84 8) 628.99.033 - Fax: (+84 8) 62899033"
+          },
+          {
+            "title": "email",
+            "description": "email cichcm@cic.com.vn"
+          },
+          {
+            "title": "Vui lòng nhập đầy đủ thông tin đặt mua sản phẩm:",
+            "description": "Copyright &copy; CIC 2015. All right reserved. Powered by CIC"
+          }
+        ],
+        "title": "THÔNG TIN CHI TIẾT",
+        "benefits": [
+          "Tải ngay Tài liệu kỹ thuật, Brochure & Bộ cài đặt dùng thử chính thức",
+          "Nhận báo giá ưu đãi đặc biệt dành cho doanh nghiệp từ CIC",
+          "Hỗ trợ cài đặt, giải đáp kỹ thuật 1-1 bởi đội ngũ kỹ sư giàu kinh nghiệm",
+          "Cam kết bảo mật 100% thông tin doanh nghiệp và dự án"
+        ],
+        "subtitle": "Chi nhánh TP. HỒ CHÍ MINH",
+        "description": "CÔNG TY CP TIN HỌC VÀ TƯ VẤN XÂY DỰNG Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội - Việt Nam Điện thoại: 04 39741 436 - 0975 474 688 * Fax: (84-4) 38 216 793 Email: pmxd@cic.com.vn * Website: http://www.cic.com.vn",
+        "modal_title": "Tài Liệu & Bộ Cài Đặt Đã Sẵn Sàng!",
+        "submit_label": "Gửi Yêu Cầu & Nhận Tài Liệu Ngay",
+        "modal_description": "Cảm ơn Quý khách đã đăng ký! Quý khách có thể bấm vào nút bên dưới để tải ngay tài liệu/bộ cài đặt hoặc chờ chuyên gia CIC liên hệ trong ít phút:",
+        "modal_button_label": "Tải Tài Liệu & Bộ Cài Đặt Ngay"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.902Z",
+      "updated_at_utc": "2026-10-28T01:12:41.902Z"
+    },
+    {
+      "landing_page_section_id": "e3b49a48-9642-428b-961f-ddf585944c7a",
+      "landing_page_id": "b20bf0d9-f40d-4223-9953-3c687379bc54",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "footer",
+      "section_order": 10,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "email": "info@cic.com.vn",
+        "items": [],
+        "title": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng",
+        "address": "Trụ sở chính: Số 37 Lê Văn Thiêm, Phường Nhân Chính, Quận Thanh Xuân, TP. Hà Nội | Chi nhánh TP.HCM: Số 36 Nguyễn Huy Lượng, Phường 14, Quận Bình Thạnh",
+        "hotline": "0988 026 858",
+        "subtitle": "Copyright &copy; CIC 2015. All right reserved. Powered by CIC",
+        "copyright": "© 2026 Công ty Cổ phần Công nghệ và Tư vấn CIC. Bảo lưu mọi quyền cho chuyên trang escon.cic.com.vn.",
+        "description": "Copyright &copy; CIC 2015. All right reserved. Powered by CIC",
+        "company_name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ TƯ VẤN CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.908Z",
+      "updated_at_utc": "2026-10-28T01:12:41.908Z"
+    },
+    {
+      "landing_page_section_id": "24da57ea-f4f6-4a7b-8bb3-8c26fd4af3d7",
+      "landing_page_id": "b20bf0d9-f40d-4223-9953-3c687379bc54",
+      "landing_section_type_code": "floating_cta",
+      "section_anchor_id": "floating_cta",
+      "section_order": 11,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "VỀ PHẦN MỀM DỰ TOÁN ESCON",
+            "description": "ESCON mobile Dự toán Escon đã có phiên bản mới. Click để Tải phiên bản Escon mới nhất"
+          },
+          {
+            "title": "nhanh chóng",
+            "description": "Hướng dẫn áp dụng thông tư Thông tư 09,10,11,15/2019/TT-BXD ngày 26/12/2019"
+          },
+          {
+            "title": "chính xác",
+            "description": "Giao diện chuẩn Office 2013, cập nhật nhiều chức năng tính dự toán theo nghị định 32/2015. Nhiều tính năng nâng cao: thẩm tra thông tin công trình, thẩm tra định mức, đơn giá, thẩm tra khối lượng...."
+          },
+          {
+            "title": "tiện lợi",
+            "description": "Escon là phần mềm tính đơn giá dự toán, dự thầu, thẩm tra được Công ty Cổ phần Tin học và Tư vấn xây dựng (CIC) trực thuộc Bộ Xây dựng phát triển từ năm 2000. Trải qua nhiều phiên bản như Escon 3, Escon 4,.. Escon 7 (2011), Escon 8(2012) và Escon phiên bản 15 mới nhất hiện nay."
+          },
+          {
+            "title": "NHỮNG TÍNH NĂNG CHỈ CÓ DUY NHẤT ESCON Version 15",
+            "description": "Tốc độ xử lý cực nhanh. Chuyển đổi giữa cách tính dự toán theo định mức và đơn giá thuận lợi, nhanh chóng. Tự động nhận dạng mẫu dự toán khi mở file dự toán từ file excel bất kỳ."
+          },
+          {
+            "title": "MẪU DỰ TOÁN ĐẶC THÙ TỪNG ĐỊA PHƯƠNG",
+            "description": "Xử lý được tất cả các bài toán của từng địa phương, người dùng có thể tự thiết lập lựa chọn phương pháp tính. Lập dự toán theo đơn giá và lập dự toán theo định mức."
+          }
+        ],
+        "title": "PHẦN MỀM DỰ TOÁN ESCON VERSION 15 MỚI NHẤT",
+        "hotline": "0988 026 858",
+        "subtitle": "VỀ PHẦN MỀM DỰ TOÁN ESCON",
+        "zalo_url": "https://zalo.me/0988026858",
+        "cta_label": "Đăng Ký Tư Vấn",
+        "description": "ESCON mobile Dự toán Escon đã có phiên bản mới. Click để Tải phiên bản Escon mới nhất"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.912Z",
+      "updated_at_utc": "2026-10-28T01:12:41.912Z"
+    },
+    {
+      "landing_page_section_id": "f16ae674-e156-42e7-82c8-121085eca11e",
+      "landing_page_id": "cd8867c0-64c4-4fd2-93b5-f239ab31b7dd",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "header",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "VỀ PHẦN MỀM DỰ TOÁN ESCON",
+            "description": "Dự toán Escon đã có phiên bản mới. Click để Tải phiên bản Escon mới nhất"
+          },
+          {
+            "title": "nhanh chóng",
+            "description": "Hướng dẫn áp dụng thông tư Thông tư 09,10,11,15/2019/TT-BXD ngày 26/12/2019"
+          },
+          {
+            "title": "chính xác",
+            "description": "Giao diện chuẩn Office 2013, cập nhật nhiều chức năng tính dự toán theo nghị định 32/2015. Nhiều tính năng nâng cao: thẩm tra thông tin công trình, thẩm tra định mức, đơn giá, thẩm tra khối lượng...."
+          },
+          {
+            "title": "tiện lợi",
+            "description": "Escon là phần mềm tính đơn giá dự toán, dự thầu, thẩm tra được Công ty Cổ phần Tin học và Tư vấn xây dựng (CIC) trực thuộc Bộ Xây dựng phát triển từ năm 2000. Trải qua nhiều phiên bản như Escon 3, Escon 4,.. Escon 7 (2011), Escon 8(2012) và Escon phiên bản 15 mới nhất hiện nay."
+          },
+          {
+            "title": "NHỮNG TÍNH NĂNG CHỈ CÓ DUY NHẤT ESCON Version 15",
+            "description": "Tốc độ xử lý cực nhanh. Chuyển đổi giữa cách tính dự toán theo định mức và đơn giá thuận lợi, nhanh chóng. Tự động nhận dạng mẫu dự toán khi mở file dự toán từ file excel bất kỳ."
+          },
+          {
+            "title": "MẪU DỰ TOÁN ĐẶC THÙ TỪNG ĐỊA PHƯƠNG",
+            "description": "Xử lý được tất cả các bài toán của từng địa phương, người dùng có thể tự thiết lập lựa chọn phương pháp tính. Lập dự toán theo đơn giá và lập dự toán theo định mức."
+          }
+        ],
+        "title": "PHẦN MỀM DỰ TOÁN ESCON VERSION 15 MỚI NHẤT",
+        "logo_url": "/api/landing/media/escon/images/logo.png",
+        "subtitle": "VỀ PHẦN MỀM DỰ TOÁN ESCON",
+        "cta_label": "Đăng Ký Tư Vấn",
+        "nav_items": [
+          {
+            "href": "#intro",
+            "label": "Tổng quan"
+          },
+          {
+            "href": "#advantages",
+            "label": "Ưu điểm"
+          },
+          {
+            "href": "#catalog",
+            "label": "Giải pháp"
+          },
+          {
+            "href": "#comparison",
+            "label": "Các gói & So sánh"
+          },
+          {
+            "href": "#faq",
+            "label": "Hỏi đáp"
+          }
+        ],
+        "brand_name": "Escon",
+        "description": "Dự toán Escon đã có phiên bản mới. Click để Tải phiên bản Escon mới nhất"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.095Z",
+      "updated_at_utc": "2026-10-28T01:12:42.095Z"
+    },
+    {
+      "landing_page_section_id": "f4b1489b-fc2b-46c2-9567-84609255b6bf",
+      "landing_page_id": "cd8867c0-64c4-4fd2-93b5-f239ab31b7dd",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "hero",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "Phần Mềm Dự Toán Thương Hiệu CIC — Cập Nhật Định Mức Mới Nhất",
+        "items": [
+          {
+            "title": "VỀ PHẦN MỀM DỰ TOÁN ESCON",
+            "description": "Giao diện chuẩn Office 2013, cập nhật nhiều chức năng tính dự toán theo nghị định 32/2015. Nhiều tính năng nâng cao: thẩm tra thông tin công trình, thẩm tra định mức, đơn giá, thẩm tra khối lượng...."
+          },
+          {
+            "title": "nhanh chóng",
+            "description": "Escon là phần mềm tính đơn giá dự toán, dự thầu, thẩm tra được Công ty Cổ phần Tin học và Tư vấn xây dựng (CIC) trực thuộc Bộ Xây dựng phát triển từ năm 2000. Trải qua nhiều phiên bản như Escon 3, Escon 4,.. Escon 7 (2011), Escon 8(2012) và Escon phiên bản 15 mới nhất hiện nay."
+          },
+          {
+            "title": "chính xác",
+            "description": "Tốc độ xử lý cực nhanh. Chuyển đổi giữa cách tính dự toán theo định mức và đơn giá thuận lợi, nhanh chóng. Tự động nhận dạng mẫu dự toán khi mở file dự toán từ file excel bất kỳ."
+          },
+          {
+            "title": "tiện lợi",
+            "description": "Xử lý được tất cả các bài toán của từng địa phương, người dùng có thể tự thiết lập lựa chọn phương pháp tính. Lập dự toán theo đơn giá và lập dự toán theo định mức."
+          },
+          {
+            "title": "NHỮNG TÍNH NĂNG CHỈ CÓ DUY NHẤT ESCON Version 15",
+            "description": "Chỉ cần kéo thả từ thư viện mẫu. Tạo phím tắt, hiện ẩn dòng cột, lưu giữ tiến trình làm việc. Chỉnh sửa font chữ, cỡ chữ linh hoạt như trong excel tại tất cả các bảng. Tạo lịch ghi chú công tác."
+          },
+          {
+            "title": "MẪU DỰ TOÁN ĐẶC THÙ TỪNG ĐỊA PHƯƠNG",
+            "description": "Khác với một số phần mềm dự toán có mặt trên thị trường chưa có đầy đủ tính năng theo Nghị định 32/2015 NĐ-CP; thông tư 04/2010-BXD dẫn đến nhiều hạn chế, Escon phiên bản 15 là phiên bản đưa vào những tính năng mới, độc đáo mà chưa phần mềm nào có được."
+          }
+        ],
+        "stats": [
+          {
+            "label": "Tỉnh thành được cập nhật đơn giá & công bố giá vật liệu hàng tháng",
+            "value": "63/63"
+          },
+          {
+            "label": "Phần mềm dự toán uy tín gắn liền với ngành xây dựng Việt Nam",
+            "value": "30+ Năm"
+          },
+          {
+            "label": "Tuân thủ Nghị định 10/2021/NĐ-CP & Thông tư 11, 12/2021/TT-BXD",
+            "value": "100%"
+          },
+          {
+            "label": "Xuất nhập bảng tính Excel giữ nguyên công thức liên kết sống",
+            "value": "Excel 2 Chiều"
+          }
+        ],
+        "title": "PHẦN MỀM DỰ TOÁN ESCON VERSION 15 MỚI NHẤT",
+        "subtitle": "VỀ PHẦN MỀM DỰ TOÁN ESCON",
+        "description": "Giao diện chuẩn Office 2013, cập nhật nhiều chức năng tính dự toán theo nghị định 32/2015. Nhiều tính năng nâng cao: thẩm tra thông tin công trình, thẩm tra định mức, đơn giá, thẩm tra khối lượng....",
+        "hero_image_url": "/api/landing/media/escon/images/hero.png",
+        "primary_cta_href": "#consultation",
+        "primary_cta_label": "Đăng Ký Dùng Thử & Nhận Báo Giá",
+        "secondary_cta_href": "#comparison",
+        "secondary_cta_label": "Xem Tài Liệu & Bảng Giá"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.102Z",
+      "updated_at_utc": "2026-10-28T01:12:42.102Z"
+    },
+    {
+      "landing_page_section_id": "960a446c-1c4d-42b8-85e6-7df771d7bacf",
+      "landing_page_id": "cd8867c0-64c4-4fd2-93b5-f239ab31b7dd",
+      "landing_section_type_code": "intro",
+      "section_anchor_id": "intro",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "GIẢI PHÁP CHÍNH HÃNG PHÂN PHỐI BỞI CIC",
+        "items": [
+          {
+            "title": "nhanh chóng",
+            "description": "Escon là phần mềm tính đơn giá dự toán, dự thầu, thẩm tra được Công ty Cổ phần Tin học và Tư vấn xây dựng (CIC) trực thuộc Bộ Xây dựng phát triển từ năm 2000. Trải qua nhiều phiên bản như Escon 3, Escon 4,.. Escon 7 (2011), Escon 8(2012) và Escon phiên bản 15 mới nhất hiện nay."
+          },
+          {
+            "title": "chính xác",
+            "description": "Tốc độ xử lý cực nhanh. Chuyển đổi giữa cách tính dự toán theo định mức và đơn giá thuận lợi, nhanh chóng. Tự động nhận dạng mẫu dự toán khi mở file dự toán từ file excel bất kỳ."
+          },
+          {
+            "title": "tiện lợi",
+            "description": "Xử lý được tất cả các bài toán của từng địa phương, người dùng có thể tự thiết lập lựa chọn phương pháp tính. Lập dự toán theo đơn giá và lập dự toán theo định mức."
+          },
+          {
+            "title": "NHỮNG TÍNH NĂNG CHỈ CÓ DUY NHẤT ESCON Version 15",
+            "description": "Chỉ cần kéo thả từ thư viện mẫu. Tạo phím tắt, hiện ẩn dòng cột, lưu giữ tiến trình làm việc. Chỉnh sửa font chữ, cỡ chữ linh hoạt như trong excel tại tất cả các bảng. Tạo lịch ghi chú công tác."
+          },
+          {
+            "title": "MẪU DỰ TOÁN ĐẶC THÙ TỪNG ĐỊA PHƯƠNG",
+            "description": "Khác với một số phần mềm dự toán có mặt trên thị trường chưa có đầy đủ tính năng theo Nghị định 32/2015 NĐ-CP; thông tư 04/2010-BXD dẫn đến nhiều hạn chế, Escon phiên bản 15 là phiên bản đưa vào những tính năng mới, độc đáo mà chưa phần mềm nào có được."
+          },
+          {
+            "title": "TÍNH NĂNG THẨM TRA NÂNG CAO",
+            "description": "Người dùng có thể chủ động tạo mới, lưu trữ và chia sẻ các mẫu dự toán với phương pháp tính, dữ liệu sử dụng, bảng biểu dự toán theo đặc thù từng địa phương."
+          }
+        ],
+        "title": "VỀ PHẦN MỀM DỰ TOÁN ESCON",
+        "subtitle": "nhanh chóng",
+        "description": "Escon là phần mềm tính đơn giá dự toán, dự thầu, thẩm tra được Công ty Cổ phần Tin học và Tư vấn xây dựng (CIC) trực thuộc Bộ Xây dựng phát triển từ năm 2000. Trải qua nhiều phiên bản như Escon 3, Escon 4,.. Escon 7 (2011), Escon 8(2012) và Escon phiên bản 15 mới nhất hiện nay."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.106Z",
+      "updated_at_utc": "2026-10-28T01:12:42.106Z"
+    },
+    {
+      "landing_page_section_id": "cc4151a7-2cb1-4f71-bc1b-a70e752170c5",
+      "landing_page_id": "cd8867c0-64c4-4fd2-93b5-f239ab31b7dd",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "advantages",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "ƯU ĐIỂM VƯỢT TRỘI",
+        "items": [
+          {
+            "title": "MẪU DỰ TOÁN ĐẶC THÙ TỪNG ĐỊA PHƯƠNG",
+            "description": "Khác với một số phần mềm dự toán có mặt trên thị trường chưa có đầy đủ tính năng theo Nghị định 32/2015 NĐ-CP; thông tư 04/2010-BXD dẫn đến nhiều hạn chế, Escon phiên bản 15 là phiên bản đưa vào những tính năng mới, độc đáo mà chưa phần mềm nào có được."
+          },
+          {
+            "title": "TÍNH NĂNG THẨM TRA NÂNG CAO",
+            "description": "Người dùng có thể chủ động tạo mới, lưu trữ và chia sẻ các mẫu dự toán với phương pháp tính, dữ liệu sử dụng, bảng biểu dự toán theo đặc thù từng địa phương."
+          },
+          {
+            "title": "TÍNH NĂNG DIỄN GIẢI KHỐI LƯỢNG",
+            "description": "Thẩm định thông tin công trình : Phương pháp tính nhân công, ca máy; Các hệ số chi phí được sử dụng tính toán trong hạng mục công trình;"
+          },
+          {
+            "title": "TÍNH NĂNG GỘP ĐỊNH MỨC CÔNG TÁC",
+            "description": "Chuyển đổi linh hoạt từ phương thức nhập dài – rộng – cao sang diễn giải khối lượng cho công tác và ngược lại một cách linh hoạt."
+          },
+          {
+            "title": "NHỮNG TÍNH NĂNG NỔI BẬT KHÁC",
+            "description": "Xây dựng công tác mới trên bảng Tiên lượng bằng cách gộp 2 hoặc nhiều định mức công tác khác nhau theo ý muốn của người dùng."
+          },
+          {
+            "title": "Công cụ",
+            "description": "Escon đưa vào các gói Giải pháp kết nối : Kết cấu – Bản vẽ - Dự toán tạo thành 1 chu trình khép kín giúp người dùng kiến tạo những sản phẩm công việc tốt - tối ưu về chất lượng và thời gian."
+          }
+        ],
+        "title": "NHỮNG TÍNH NĂNG CHỈ CÓ DUY NHẤT ESCON Version 15",
+        "subtitle": "MẪU DỰ TOÁN ĐẶC THÙ TỪNG ĐỊA PHƯƠNG",
+        "description": "Khác với một số phần mềm dự toán có mặt trên thị trường chưa có đầy đủ tính năng theo Nghị định 32/2015 NĐ-CP; thông tư 04/2010-BXD dẫn đến nhiều hạn chế, Escon phiên bản 15 là phiên bản đưa vào những tính năng mới, độc đáo mà chưa phần mềm nào có được."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.109Z",
+      "updated_at_utc": "2026-10-28T01:12:42.109Z"
+    },
+    {
+      "landing_page_section_id": "24a4b102-03ec-4f93-a025-278d0c2e8291",
+      "landing_page_id": "cd8867c0-64c4-4fd2-93b5-f239ab31b7dd",
+      "landing_section_type_code": "catalog",
+      "section_anchor_id": "catalog",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "DANH MỤC GIẢI PHÁP & MÔ-ĐUN CHUYÊN SÂU",
+        "items": [
+          {
+            "title": "Công cụ",
+            "description": "Escon đưa vào các gói Giải pháp kết nối : Kết cấu – Bản vẽ - Dự toán tạo thành 1 chu trình khép kín giúp người dùng kiến tạo những sản phẩm công việc tốt - tối ưu về chất lượng và thời gian."
+          },
+          {
+            "title": "Giá vật tư",
+            "description": "Công cụ * Cho phép người dùng đặt mật khẩu cho từng file dự toán với độ bảo mật cao"
+          },
+          {
+            "title": "Nhân công",
+            "description": "Giá vật tư * Cho phép nhập giá thông báo từ file excel bất kỳ với khả năng nhận diện đối tượng thông minh. * Tạo bảng giá thông báo vật liệu theo quý, tháng trực tuyến."
+          },
+          {
+            "title": "THƯ VIỆN MẪU CÔNG TÁC",
+            "description": "Nhân công * Ngoài các cách tính giá nhân công thông thường hiện nay Escon đã cập nhật phương pháp tính giá nhân công theo TT01/2015 mới nhất"
+          },
+          {
+            "title": "Giá máy",
+            "description": "THƯ VIỆN MẪU CÔNG TÁC * Dễ dàng lưu công tác, nhóm công tác thường dùng và chia sẻ cho nhiều đồng nghiệp, cho nhiều công trình khác khi lập dự toán."
+          },
+          {
+            "title": "Tổng hợp kinh phí hạng mục",
+            "description": "Giá máy * Khả năng tính bù nhân công máy và nhiên liệu chính xác, linh hoạt từ nhiều mốc thời điểm ban hành giá ca máy."
+          }
+        ],
+        "title": "NHỮNG TÍNH NĂNG NỔI BẬT KHÁC",
+        "subtitle": "Công cụ",
+        "description": "Escon đưa vào các gói Giải pháp kết nối : Kết cấu – Bản vẽ - Dự toán tạo thành 1 chu trình khép kín giúp người dùng kiến tạo những sản phẩm công việc tốt - tối ưu về chất lượng và thời gian."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.112Z",
+      "updated_at_utc": "2026-10-28T01:12:42.112Z"
+    },
+    {
+      "landing_page_section_id": "cb220c3d-da06-4ad6-8840-8788dadd71cd",
+      "landing_page_id": "cd8867c0-64c4-4fd2-93b5-f239ab31b7dd",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "comparison",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "CÁC GÓI BẢN QUYỀN & TÀI LIỆU SO SÁNH",
+        "items": [
+          {
+            "title": "ESCON-S",
+            "description": "Phiên bản đầy đủ tính năng. Bảo hành trọn đời"
+          },
+          {
+            "title": "ESCON-P",
+            "description": "Phiên bản 300 công tác, 1 hạng mục"
+          },
+          {
+            "title": "ESCON-U",
+            "description": "Giao diện Office 2013"
+          },
+          {
+            "title": "DOWNLOAD",
+            "description": "Hoạt động tốc độ nhanh"
+          },
+          {
+            "title": "CÂU HỎI KHÁCH HÀNG THƯỜNG GẶP",
+            "description": "Dễ dàng cài đặt"
+          },
+          {
+            "title": "câu hỏi: Phần mềm Escon có những điểm gì nổi bật hơn so với các phần mềm dự toán khác?",
+            "description": "Nâng cấp miễn phí 12 tháng"
+          }
+        ],
+        "title": "BẢNG GIÁ",
+        "pdf_url": "/api/landing/media/escon/downloads/brochure.pdf",
+        "packages": [
+          {
+            "name": "Escon Khóa Cứng (USB) / Khóa Mềm",
+            "badge": "BÁN CHẠY NHẤT",
+            "price": "Bản quyền Chính hãng CIC",
+            "period": "Sử dụng tiện lợi trên mọi máy tính",
+            "features": [
+              "Đầy đủ dữ liệu định mức & đơn giá 63 tỉnh thành",
+              "Cập nhật tự động văn bản & thông tư mới của Bộ Xây dựng",
+              "Xuất nhập Excel giữ nguyên công thức liên kết",
+              "Hỗ trợ nghiệp vụ dự toán trực tiếp từ chuyên gia CIC"
+            ],
+            "cta_label": "Tải Bản Dùng Thử Escon",
+            "highlight": true,
+            "description": "Dành cho kỹ sư QS, kỹ sư dự toán, tư vấn thẩm tra và ban quản lý dự án."
+          },
+          {
+            "name": "Escon Doanh Nghiệp (Combo Nhiều Khóa)",
+            "price": "Ưu đãi Chiết khấu Cao",
+            "period": "Trang bị cho Phòng Dự toán / Đấu thầu",
+            "features": [
+              "Đồng bộ mẫu biểu dự toán toàn công ty",
+              "Tặng kèm khóa đào tạo lập dự toán thực chiến",
+              "Bảo hành & nâng cấp phiên bản ưu tiên"
+            ],
+            "cta_label": "Nhận Báo Giá Phòng Dự Toán",
+            "description": "Giải pháp đồng bộ dữ liệu dự toán cho các công ty tư vấn và nhà thầu xây dựng."
+          },
+          {
+            "name": "Escon Đào Tạo (Dành cho Trường ĐH/CĐ)",
+            "price": "Tài trợ Giáo dục",
+            "period": "Phòng máy thực hành Kinh tế Xây dựng",
+            "features": [
+              "Cấp phát license phòng máy số lượng lớn",
+              "Tài liệu hướng dẫn thực hành chuẩn BXD",
+              "Hỗ trợ hội thảo chuyên đề cho sinh viên"
+            ],
+            "cta_label": "Liên Hệ Hợp Tác Đào Tạo",
+            "description": "Đồng hành cùng các trường Đại học, Cao đẳng đào tạo sinh viên ngành Kinh tế & Quản lý Xây dựng."
+          }
+        ],
+        "subtitle": "ESCON-S",
+        "description": "Phiên bản đầy đủ tính năng. Bảo hành trọn đời",
+        "modal_title": "Tài Liệu Kỹ Thuật & So Sánh Phiên Bản — Escon",
+        "pdf_cta_label": "XEM TÀI LIỆU SO SÁNH & BROCHURE (PDF)",
+        "modal_download_label": "Tải Xuống Tài Liệu PDF",
+        "modal_register_label": "Nhận Tư Vấn & Báo Giá Chi Tiết"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.119Z",
+      "updated_at_utc": "2026-10-28T01:12:42.119Z"
+    },
+    {
+      "landing_page_section_id": "b9634573-88de-41d2-bcd5-8fb069f4ed7e",
+      "landing_page_id": "cd8867c0-64c4-4fd2-93b5-f239ab31b7dd",
+      "landing_section_type_code": "resources",
+      "section_anchor_id": "resources",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "TÀI NGUYÊN & HỖ TRỢ KỸ THUẬT",
+        "items": [
+          {
+            "title": "CÂU HỎI KHÁCH HÀNG THƯỜNG GẶP",
+            "description": "Phần mềm dự toán ESCON Version 15 . Nhấn vào đường link bên dưới tải về cài đặt"
+          },
+          {
+            "title": "câu hỏi: Phần mềm Escon có những điểm gì nổi bật hơn so với các phần mềm dự toán khác?",
+            "description": "Liên quan đến sản phẩm, dịch vụ bảo hành, hỗ trợ sau bán hàng..."
+          },
+          {
+            "title": "câu hỏi: Tôi thấy giá thành của phần mềm cũng hơi cao, không biết đơn vị mình có những chính sách linh động về giá không ?",
+            "description": "- Về tính năng sử dụng: Phần mềm Escon luôn hướng tới nhu cầu sử dụng thiết thực của khách hàng, bất cứ phản hồi nào của khách hàng đều được đơn vị ghi nhận và xử lý nhanh chóng. Một số tính năng như: Tính năng tạo mẫu đặc thù cho từng địa phương, Tính năng đổi đơn vị công tác và gộp định mức nhiều công tác , Chuyển đổi phương pháp lập dự toán (theo định mức hoặc theo đơn giá) linh hoạt,….. là những tính năng chưa có trên phần mềm dự toán nào."
+          },
+          {
+            "title": "câu hỏi: Nếu mua Escon, tôi sẽ được hỗ trợ sử dụng như thế nào?",
+            "description": "- Trước nhu cầu sử dụng phần mềm của khách hàng, Công ty CP Tin học và Tư vấn Xây dựng (CIC) đã đưa ra nhiều phiên bản Escon với những tính năng và chi phí khác nhau. Từ những bản dự toán dùng cho sinh viên – chi phí sinh viên đến những phiên bản phổ thông , phiên bản vĩnh viễn. Điều này giúp khách hành có những lựa chọn sản phầm dự toán Escon phù hợp với yêu cầu công việc và điều kiện kinh tế của mình."
+          },
+          {
+            "title": "câu hỏi: Khi có đơn giá mới tôi làm thế nào để có được dữ liệu đơn giá mới đó?",
+            "description": "- Với CIC, bất cứ cá nhân hay đơn vị nào có nhu cầu sử dụng hay có chút quan tâm đến Escon thì đều được coi là khách hàng của đơn vị. Từ những bước đầu tiên: cài đặt phần mềm đến việc bước sử dụng CIC luôn đi bên cạnh để đảm bảo cho khách hàng có thể tìm hiểu và sử dụng phần mềm trong thời gian ngắn nhất. Cùng với bất kì khoản thời gian nào sau này khách hàng sử dụng Escon, CIC sẽ luôn có mặt để hỗ trợ và giải đáp bất cứ phản hồi nào của khách hàng sử dụng."
+          },
+          {
+            "title": "câu hỏi: Nếu bị mất khoá cứng bảo vệ chương trình tôi phải làm thế nào để được sử dụng tiếp?",
+            "description": "- Tất cả các dữ liệu (đơn giá, định mức, hệ thống bảng biểu….) người sử dụng dễ dàng nhận thấy và cập nhật về máy tính bằng chức năng : Cập nhật dữ liệu. Một cách trực quan nhất, dữ liệu sẽ được đánh dấu để người dùng nhận biết được dữ liệu mình sử dụng đã mới nhất hay chưa ? Khi đó chỉ cần Click vào Cập nhật, người sử dụng sẽ có dữ liệu mới vào máy tính."
+          }
+        ],
+        "title": "DOWNLOAD",
+        "subtitle": "CÂU HỎI KHÁCH HÀNG THƯỜNG GẶP",
+        "description": "Phần mềm dự toán ESCON Version 15 . Nhấn vào đường link bên dưới tải về cài đặt"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.123Z",
+      "updated_at_utc": "2026-10-28T01:12:42.123Z"
+    },
+    {
+      "landing_page_section_id": "91ba13da-6788-4b53-ac1c-1a68c10a7d14",
+      "landing_page_id": "cd8867c0-64c4-4fd2-93b5-f239ab31b7dd",
+      "landing_section_type_code": "faq",
+      "section_anchor_id": "faq",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "CÂU HỎI THƯỜNG GẶP",
+        "items": [
+          {
+            "title": "câu hỏi: Phần mềm Escon có những điểm gì nổi bật hơn so với các phần mềm dự toán khác?",
+            "description": "Liên quan đến sản phẩm, dịch vụ bảo hành, hỗ trợ sau bán hàng..."
+          },
+          {
+            "title": "câu hỏi: Tôi thấy giá thành của phần mềm cũng hơi cao, không biết đơn vị mình có những chính sách linh động về giá không ?",
+            "description": "- Về tính năng sử dụng: Phần mềm Escon luôn hướng tới nhu cầu sử dụng thiết thực của khách hàng, bất cứ phản hồi nào của khách hàng đều được đơn vị ghi nhận và xử lý nhanh chóng. Một số tính năng như: Tính năng tạo mẫu đặc thù cho từng địa phương, Tính năng đổi đơn vị công tác và gộp định mức nhiều công tác , Chuyển đổi phương pháp lập dự toán (theo định mức hoặc theo đơn giá) linh hoạt,….. là những tính năng chưa có trên phần mềm dự toán nào."
+          },
+          {
+            "title": "câu hỏi: Nếu mua Escon, tôi sẽ được hỗ trợ sử dụng như thế nào?",
+            "description": "- Trước nhu cầu sử dụng phần mềm của khách hàng, Công ty CP Tin học và Tư vấn Xây dựng (CIC) đã đưa ra nhiều phiên bản Escon với những tính năng và chi phí khác nhau. Từ những bản dự toán dùng cho sinh viên – chi phí sinh viên đến những phiên bản phổ thông , phiên bản vĩnh viễn. Điều này giúp khách hành có những lựa chọn sản phầm dự toán Escon phù hợp với yêu cầu công việc và điều kiện kinh tế của mình."
+          },
+          {
+            "title": "câu hỏi: Khi có đơn giá mới tôi làm thế nào để có được dữ liệu đơn giá mới đó?",
+            "description": "- Với CIC, bất cứ cá nhân hay đơn vị nào có nhu cầu sử dụng hay có chút quan tâm đến Escon thì đều được coi là khách hàng của đơn vị. Từ những bước đầu tiên: cài đặt phần mềm đến việc bước sử dụng CIC luôn đi bên cạnh để đảm bảo cho khách hàng có thể tìm hiểu và sử dụng phần mềm trong thời gian ngắn nhất. Cùng với bất kì khoản thời gian nào sau này khách hàng sử dụng Escon, CIC sẽ luôn có mặt để hỗ trợ và giải đáp bất cứ phản hồi nào của khách hàng sử dụng."
+          },
+          {
+            "title": "câu hỏi: Nếu bị mất khoá cứng bảo vệ chương trình tôi phải làm thế nào để được sử dụng tiếp?",
+            "description": "- Tất cả các dữ liệu (đơn giá, định mức, hệ thống bảng biểu….) người sử dụng dễ dàng nhận thấy và cập nhật về máy tính bằng chức năng : Cập nhật dữ liệu. Một cách trực quan nhất, dữ liệu sẽ được đánh dấu để người dùng nhận biết được dữ liệu mình sử dụng đã mới nhất hay chưa ? Khi đó chỉ cần Click vào Cập nhật, người sử dụng sẽ có dữ liệu mới vào máy tính."
+          },
+          {
+            "title": "THÔNG TIN CHI TIẾT",
+            "description": "- CIC luôn trân trọng và chia sẻ với những “mất mát” của khách hàng trong quá trình sử dụng dự toán Escon cũng như những sản phẩm phần mềm khác của CIC. Khác với những đơn vị kinh doanh khác, niềm tin sử dụng và niềm vui của khách hàng luôn là kim chỉ nam cho định hướng kinh doanh của CIC. Với những khách hàng bị mất khóa cứng sản phẩm, CIC luôn có chính sách ưu đãi về giá tốt nhất để khách hàng có thể tiếp tục sử dụng và đặt niềm tin vào các sản phẩm của CIC."
+          }
+        ],
+        "title": "CÂU HỎI KHÁCH HÀNG THƯỜNG GẶP",
+        "subtitle": "câu hỏi: Phần mềm Escon có những điểm gì nổi bật hơn so với các phần mềm dự toán khác?",
+        "description": "Liên quan đến sản phẩm, dịch vụ bảo hành, hỗ trợ sau bán hàng..."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.126Z",
+      "updated_at_utc": "2026-10-28T01:12:42.126Z"
+    },
+    {
+      "landing_page_section_id": "f001a781-af9f-40d1-84f3-de024c81e5ff",
+      "landing_page_id": "cd8867c0-64c4-4fd2-93b5-f239ab31b7dd",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "consultation",
+      "section_order": 9,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "ĐĂNG KÝ TƯ VẤN & TẢI DÙNG THỬ MIỄN PHÍ",
+        "items": [
+          {
+            "title": "Chi nhánh TP. HỒ CHÍ MINH",
+            "description": "CÔNG TY CP TIN HỌC VÀ TƯ VẤN XÂY DỰNG Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội - Việt Nam Điện thoại: 04 39741 436 - 0975 474 688 * Fax: (84-4) 38 216 793 Email: pmxd@cic.com.vn * Website: http://www.cic.com.vn"
+          },
+          {
+            "title": "address",
+            "description": "address Số 36, Nguyễn Huy Lượng , P. 14, Quận Bình Thạnh Tp Hồ Chí Minh, Việt Nam"
+          },
+          {
+            "title": "phone",
+            "description": "phone (+84 8) 628.99.022 - (+84 8) 628.99.033 - Fax: (+84 8) 62899033"
+          },
+          {
+            "title": "email",
+            "description": "email cichcm@cic.com.vn"
+          },
+          {
+            "title": "Vui lòng nhập đầy đủ thông tin đặt mua sản phẩm:",
+            "description": "Copyright &copy; CIC 2015. All right reserved. Powered by CIC"
+          }
+        ],
+        "title": "THÔNG TIN CHI TIẾT",
+        "benefits": [
+          "Tải ngay Tài liệu kỹ thuật, Brochure & Bộ cài đặt dùng thử chính thức",
+          "Nhận báo giá ưu đãi đặc biệt dành cho doanh nghiệp từ CIC",
+          "Hỗ trợ cài đặt, giải đáp kỹ thuật 1-1 bởi đội ngũ kỹ sư giàu kinh nghiệm",
+          "Cam kết bảo mật 100% thông tin doanh nghiệp và dự án"
+        ],
+        "subtitle": "Chi nhánh TP. HỒ CHÍ MINH",
+        "description": "CÔNG TY CP TIN HỌC VÀ TƯ VẤN XÂY DỰNG Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội - Việt Nam Điện thoại: 04 39741 436 - 0975 474 688 * Fax: (84-4) 38 216 793 Email: pmxd@cic.com.vn * Website: http://www.cic.com.vn",
+        "modal_title": "Tài Liệu & Bộ Cài Đặt Đã Sẵn Sàng!",
+        "submit_label": "Gửi Yêu Cầu & Nhận Tài Liệu Ngay",
+        "modal_description": "Cảm ơn Quý khách đã đăng ký! Quý khách có thể bấm vào nút bên dưới để tải ngay tài liệu/bộ cài đặt hoặc chờ chuyên gia CIC liên hệ trong ít phút:",
+        "modal_button_label": "Tải Tài Liệu & Bộ Cài Đặt Ngay"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.129Z",
+      "updated_at_utc": "2026-10-28T01:12:42.129Z"
+    },
+    {
+      "landing_page_section_id": "a9da9f43-2624-49bb-8dd9-719f9677c4ce",
+      "landing_page_id": "cd8867c0-64c4-4fd2-93b5-f239ab31b7dd",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "footer",
+      "section_order": 10,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "email": "info@cic.com.vn",
+        "items": [],
+        "title": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng",
+        "address": "Trụ sở chính: Số 37 Lê Văn Thiêm, Phường Nhân Chính, Quận Thanh Xuân, TP. Hà Nội | Chi nhánh TP.HCM: Số 36 Nguyễn Huy Lượng, Phường 14, Quận Bình Thạnh",
+        "hotline": "0988 026 858",
+        "subtitle": "Copyright &copy; CIC 2015. All right reserved. Powered by CIC",
+        "copyright": "© 2026 Công ty Cổ phần Công nghệ và Tư vấn CIC. Bảo lưu mọi quyền cho chuyên trang escon.cic.com.vn.",
+        "description": "Copyright &copy; CIC 2015. All right reserved. Powered by CIC",
+        "company_name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ TƯ VẤN CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.136Z",
+      "updated_at_utc": "2026-10-28T01:12:42.136Z"
+    },
+    {
+      "landing_page_section_id": "687438ca-f54f-4783-be32-fd6c2ee78ad6",
+      "landing_page_id": "cd8867c0-64c4-4fd2-93b5-f239ab31b7dd",
+      "landing_section_type_code": "floating_cta",
+      "section_anchor_id": "floating_cta",
+      "section_order": 11,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "VỀ PHẦN MỀM DỰ TOÁN ESCON",
+            "description": "ESCON mobile Dự toán Escon đã có phiên bản mới. Click để Tải phiên bản Escon mới nhất"
+          },
+          {
+            "title": "nhanh chóng",
+            "description": "Hướng dẫn áp dụng thông tư Thông tư 09,10,11,15/2019/TT-BXD ngày 26/12/2019"
+          },
+          {
+            "title": "chính xác",
+            "description": "Giao diện chuẩn Office 2013, cập nhật nhiều chức năng tính dự toán theo nghị định 32/2015. Nhiều tính năng nâng cao: thẩm tra thông tin công trình, thẩm tra định mức, đơn giá, thẩm tra khối lượng...."
+          },
+          {
+            "title": "tiện lợi",
+            "description": "Escon là phần mềm tính đơn giá dự toán, dự thầu, thẩm tra được Công ty Cổ phần Tin học và Tư vấn xây dựng (CIC) trực thuộc Bộ Xây dựng phát triển từ năm 2000. Trải qua nhiều phiên bản như Escon 3, Escon 4,.. Escon 7 (2011), Escon 8(2012) và Escon phiên bản 15 mới nhất hiện nay."
+          },
+          {
+            "title": "NHỮNG TÍNH NĂNG CHỈ CÓ DUY NHẤT ESCON Version 15",
+            "description": "Tốc độ xử lý cực nhanh. Chuyển đổi giữa cách tính dự toán theo định mức và đơn giá thuận lợi, nhanh chóng. Tự động nhận dạng mẫu dự toán khi mở file dự toán từ file excel bất kỳ."
+          },
+          {
+            "title": "MẪU DỰ TOÁN ĐẶC THÙ TỪNG ĐỊA PHƯƠNG",
+            "description": "Xử lý được tất cả các bài toán của từng địa phương, người dùng có thể tự thiết lập lựa chọn phương pháp tính. Lập dự toán theo đơn giá và lập dự toán theo định mức."
+          }
+        ],
+        "title": "PHẦN MỀM DỰ TOÁN ESCON VERSION 15 MỚI NHẤT",
+        "hotline": "0988 026 858",
+        "subtitle": "VỀ PHẦN MỀM DỰ TOÁN ESCON",
+        "zalo_url": "https://zalo.me/0988026858",
+        "cta_label": "Đăng Ký Tư Vấn",
+        "description": "ESCON mobile Dự toán Escon đã có phiên bản mới. Click để Tải phiên bản Escon mới nhất"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.139Z",
+      "updated_at_utc": "2026-10-28T01:12:42.139Z"
+    }
+  ],
+  "forms": [
+    {
+      "landing_form_id": "b1995e1e-fcc5-4507-916b-17296f45f2fa",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "form_code": "escon-lead-form",
+      "form_name": "Form Đăng ký Tư vấn & Dùng thử — Escon",
+      "fields_schema_json": [
+        {
+          "name": "full_name",
+          "type": "text",
+          "label": "Họ và tên *",
+          "required": true,
+          "placeholder": "Nguyễn Văn An",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "label": "Số điện thoại *",
+          "required": true,
+          "placeholder": "0912 345 678",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "work_email",
+          "type": "email",
+          "label": "Email công việc *",
+          "required": true,
+          "placeholder": "ban@congty.com.vn",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "company",
+          "type": "text",
+          "label": "Tên công ty / Đơn vị",
+          "required": false,
+          "placeholder": "Công ty Cổ phần Tư vấn Thiết kế...",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "primary_need",
+          "type": "select",
+          "label": "Nhu cầu quan tâm chính *",
+          "options": [
+            {
+              "label": "Đăng ký dùng thử & tải tài liệu Escon",
+              "value": "trial_30_days"
+            },
+            {
+              "label": "Nhận báo giá bản quyền Escon ưu đãi",
+              "value": "request_quote"
+            },
+            {
+              "label": "Tư vấn kỹ thuật & giải pháp triển khai",
+              "value": "technical_consult"
+            }
+          ],
+          "required": true,
+          "default_value": "trial_30_days",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "device_quantity",
+          "type": "number",
+          "label": "Số lượng máy / người dùng dự kiến",
+          "required": false,
+          "placeholder": "5",
+          "default_value": 5,
+          "visibility_rule": {
+            "value": "request_quote",
+            "operator": "equals",
+            "dependsOnField": "primary_need"
+          }
+        },
+        {
+          "name": "requirements",
+          "type": "textarea",
+          "label": "Ghi chú hoặc yêu cầu cụ thể",
+          "required": false,
+          "placeholder": "Mô tả thêm về quy mô dự án hoặc cấu hình cần tư vấn...",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        }
+      ],
+      "notification_emails_json": [
+        "info@cic.com.vn"
+      ],
+      "google_sheet_config_json": {
+        "sheet_name": "LEADS",
+        "spreadsheet_id": ""
+      },
+      "success_action": "modal_download",
+      "success_payload_json": {
+        "message": "Cảm ơn Quý khách đã quan tâm tới Escon. Chuyên gia CIC sẽ liên hệ trong thời gian sớm nhất!",
+        "modal_title": "Tài Liệu & Bộ Dùng Thử Escon Đã Sẵn Sàng!",
+        "outcome_rules": [
+          {
+            "id": "rule_escon_trial",
+            "title": "Tài Liệu & Bộ Dùng Thử Escon Đã Sẵn Sàng!",
+            "message": "Cảm ơn Quý khách đã đăng ký trải nghiệm Escon. Quý khách có thể bấm nút bên dưới để tải ngay Hồ sơ kỹ thuật & Hướng dẫn dùng thử:",
+            "operator": "equals",
+            "whenField": "primary_need",
+            "whenValue": "trial_30_days",
+            "actionType": "download_modal",
+            "downloadUrl": "/api/landing/media/escon/downloads/brochure.pdf",
+            "downloadLabel": "Tải Tài Liệu Escon (PDF)",
+            "targetSheetName": "LEADS"
+          },
+          {
+            "id": "rule_escon_quote",
+            "title": "Đã Ghi Nhận Yêu Cầu Báo Giá!",
+            "message": "Cảm ơn Quý khách! Chuyên viên phụ trách giải pháp Escon của CIC sẽ gửi bảng báo giá và chính sách chiết khấu tốt nhất qua Email/Zalo trong 15 phút làm việc.",
+            "operator": "equals",
+            "whenField": "primary_need",
+            "whenValue": "request_quote",
+            "actionType": "message_only",
+            "downloadUrl": "",
+            "downloadLabel": "",
+            "targetSheetName": "LEADS"
+          },
+          {
+            "id": "rule_escon_default",
+            "title": "Đăng Ký Tư Vấn Kỹ Thuật Thành Công!",
+            "message": "Cảm ơn Quý khách! Kỹ sư giải pháp Escon của CIC sẽ liên hệ trực tiếp để tư vấn chi tiết cho doanh nghiệp.",
+            "operator": "always",
+            "whenField": "primary_need",
+            "whenValue": "",
+            "actionType": "message_only",
+            "downloadUrl": "",
+            "downloadLabel": "",
+            "targetSheetName": "LEADS"
+          }
+        ],
+        "modal_description": "Bấm vào nút bên dưới để tải ngay tài liệu hướng dẫn và thông số kỹ thuật Escon:",
+        "default_download_url": "/api/landing/media/escon/downloads/brochure.pdf"
+      },
+      "is_form_active": true,
+      "created_at_utc": "2026-10-28T01:12:42.672Z",
+      "updated_at_utc": "2026-10-28T01:12:42.672Z"
+    }
+  ],
+  "media": [
+    {
+      "landing_media_asset_id": "6cd60db2-f45e-469a-9bc7-3371cf0534ad",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "logo",
+      "file_name": "logo.png",
+      "file_path": "img/logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "18187",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - logo.png",
+      "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - logo.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.207Z",
+      "updated_at_utc": "2026-10-28T01:12:47.207Z"
+    },
+    {
+      "landing_media_asset_id": "d44ad68c-3d19-437b-8ecf-4c56da28d710",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "logo_cic_90",
+      "file_name": "logo_cic_90.png",
+      "file_path": "images/icons/logo_cic_90.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "6415",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - logo_cic_90.png",
+      "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - logo_cic_90.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.218Z",
+      "updated_at_utc": "2026-10-28T01:12:47.218Z"
+    },
+    {
+      "landing_media_asset_id": "f75764d5-34f0-48df-9b2d-2ffb7536226e",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "logo",
+      "file_name": "logo.png",
+      "file_path": "images/logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "4852",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - logo.png",
+      "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - logo.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.223Z",
+      "updated_at_utc": "2026-10-28T01:12:47.223Z"
+    },
+    {
+      "landing_media_asset_id": "ec427fe8-8ea4-4922-b666-540c50970fc8",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "logo",
+      "file_name": "logo.png",
+      "file_path": "low-poly/images/logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "4852",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - logo.png",
+      "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - logo.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.233Z",
+      "updated_at_utc": "2026-10-28T01:12:47.233Z"
+    },
+    {
+      "landing_media_asset_id": "d129d07e-b4ad-4bfe-b743-cf9139899469",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "logo",
+      "file_name": "logo.png",
+      "file_path": "video-bg/images/logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "4852",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - logo.png",
+      "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - logo.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.241Z",
+      "updated_at_utc": "2026-10-28T01:12:47.241Z"
+    },
+    {
+      "landing_media_asset_id": "e35edffb-5e69-4080-9207-8e3e8742f30d",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "logo_escon_100",
+      "file_name": "logo_escon_100.png",
+      "file_path": "images/icons/logo_escon_100.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "3538",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - logo_escon_100.png",
+      "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - logo_escon_100.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.250Z",
+      "updated_at_utc": "2026-10-28T01:12:47.250Z"
+    },
+    {
+      "landing_media_asset_id": "ca2b0fbb-5ae4-4233-a597-3c017bbc39e7",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "parallels-logo",
+      "file_name": "parallels-logo.png",
+      "file_path": "img/parallels-logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "2345",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - parallels-logo.png",
+      "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - parallels-logo.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.255Z",
+      "updated_at_utc": "2026-10-28T01:12:47.255Z"
+    },
+    {
+      "landing_media_asset_id": "83bc0b91-7dc0-41b9-b1bd-0657c3f3c160",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "panel-logo",
+      "file_name": "panel-logo.png",
+      "file_path": "img/panel-logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "1770",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - panel-logo.png",
+      "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - panel-logo.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.260Z",
+      "updated_at_utc": "2026-10-28T01:12:47.260Z"
+    },
+    {
+      "landing_media_asset_id": "257f8419-a631-44b7-a011-37a5c819aa5a",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "favicon",
+      "file_name": "favicon.ico",
+      "file_path": "images/icons/favicon.ico",
+      "mime_type": "image/x-icon",
+      "file_size_bytes": "1150",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - favicon.ico",
+      "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - favicon.ico",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.270Z",
+      "updated_at_utc": "2026-10-28T01:12:47.270Z"
+    },
+    {
+      "landing_media_asset_id": "fe5e092f-ada9-4f38-ac68-f953bd36761a",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "faviconcic",
+      "file_name": "faviconcic.ico",
+      "file_path": "images/icons/faviconcic.ico",
+      "mime_type": "image/x-icon",
+      "file_size_bytes": "1150",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - faviconcic.ico",
+      "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - faviconcic.ico",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.275Z",
+      "updated_at_utc": "2026-10-28T01:12:47.275Z"
+    },
+    {
+      "landing_media_asset_id": "2a0a1124-884e-461d-93a8-87cb11867e0d",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "favicon",
+      "file_name": "favicon.ico",
+      "file_path": "low-poly/images/icons/favicon.ico",
+      "mime_type": "image/x-icon",
+      "file_size_bytes": "1150",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - favicon.ico",
+      "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - favicon.ico",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.283Z",
+      "updated_at_utc": "2026-10-28T01:12:47.283Z"
+    },
+    {
+      "landing_media_asset_id": "4fc9c6f0-ec15-471d-b54a-d2b128959b9f",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "favicon",
+      "file_name": "favicon.ico",
+      "file_path": "video-bg/images/icons/favicon.ico",
+      "mime_type": "image/x-icon",
+      "file_size_bytes": "1150",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - favicon.ico",
+      "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - favicon.ico",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.289Z",
+      "updated_at_utc": "2026-10-28T01:12:47.289Z"
+    },
+    {
+      "landing_media_asset_id": "50a1ba87-8c35-4393-b37b-f838e5f72e90",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "hero_bg_demo",
+      "file_name": "hero_bg_demo.jpg",
+      "file_path": "images/hero_bg_demo.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "306545",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - hero_bg_demo.jpg",
+      "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - hero_bg_demo.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.298Z",
+      "updated_at_utc": "2026-10-28T01:12:47.298Z"
+    },
+    {
+      "landing_media_asset_id": "60b3e02a-1476-4d26-8a9c-f0ad4a83af00",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "hero_bg_demo_old",
+      "file_name": "hero_bg_demo_old.jpg",
+      "file_path": "images/hero_bg_demo_old.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "198686",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - hero_bg_demo_old.jpg",
+      "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - hero_bg_demo_old.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.324Z",
+      "updated_at_utc": "2026-10-28T01:12:47.324Z"
+    },
+    {
+      "landing_media_asset_id": "da4e4c83-d9c3-4107-99fe-8c2c8d68dd48",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "banner_img",
+      "file_name": "banner_img.jpg",
+      "file_path": "low-poly/images/banner_img.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "37632",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - banner_img.jpg",
+      "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - banner_img.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.355Z",
+      "updated_at_utc": "2026-10-28T01:12:47.355Z"
+    },
+    {
+      "landing_media_asset_id": "527dc2b5-e4d5-4e76-9d87-9b7857b98be5",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "banner_img",
+      "file_name": "banner_img.jpg",
+      "file_path": "video-bg/images/banner_img.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "37632",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - banner_img.jpg",
+      "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - banner_img.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.365Z",
+      "updated_at_utc": "2026-10-28T01:12:47.365Z"
+    },
+    {
+      "landing_media_asset_id": "70ab790a-c61f-4fc8-b168-46f2435e66df",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "feature-mockup1",
+      "file_name": "feature-mockup1.png",
+      "file_path": "images/feature-mockup1.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "364631",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - feature-mockup1.png",
+      "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - feature-mockup1.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.373Z",
+      "updated_at_utc": "2026-10-28T01:12:47.373Z"
+    },
+    {
+      "landing_media_asset_id": "882867a5-30e4-4006-9faa-788f30038918",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "feature-mockup2",
+      "file_name": "feature-mockup2.png",
+      "file_path": "images/feature-mockup2.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "209129",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - feature-mockup2.png",
+      "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng - feature-mockup2.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.404Z",
+      "updated_at_utc": "2026-10-28T01:12:47.404Z"
+    },
+    {
+      "landing_media_asset_id": "13fbd9e8-1a6a-4dfa-9200-74cdf467836b",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "favicon",
+      "file_name": "favicon.ico",
+      "file_path": "images/favicon.ico",
+      "mime_type": "image/x-icon",
+      "file_size_bytes": "1150",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Favicon",
+      "alt_text_en": "Favicon",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.425Z",
+      "updated_at_utc": "2026-10-28T01:12:47.425Z"
+    },
+    {
+      "landing_media_asset_id": "c2c90a32-e704-4dd4-bcd1-07689addf2aa",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "brochure_pdf",
+      "file_name": "brochure.pdf",
+      "file_path": "downloads/brochure.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": "671641",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Tài liệu Brochure Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng",
+      "alt_text_en": "Brochure Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.437Z",
+      "updated_at_utc": "2026-10-28T01:12:47.437Z"
+    },
+    {
+      "landing_media_asset_id": "f0604aab-b75c-42d1-b13e-6718023ee789",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "media_slot_code": "hero_banner",
+      "file_name": "hero.png",
+      "file_path": "images/hero.png",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "306545",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng Hero",
+      "alt_text_en": "Escon — Phần Mềm Dự Toán, Dự Thầu & Thanh Quyết Toán Xây Dựng Hero",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.495Z",
+      "updated_at_utc": "2026-10-28T01:12:47.495Z"
+    }
+  ],
+  "leads": [
+    {
+      "landing_lead_submission_id": "a53d5dec-4231-4b37-b971-48240f7daa4b",
+      "landing_form_id": "b1995e1e-fcc5-4507-916b-17296f45f2fa",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test escon",
+      "customer_phone": "0912345678",
+      "customer_email": "test_escon@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test escon",
+        "work_email": "test_escon@cic.com.vn",
+        "primary_need": "trial_30_days",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:37:27.058Z"
+    },
+    {
+      "landing_lead_submission_id": "cb7af563-2682-45a1-86ed-4fa2a63a6a62",
+      "landing_form_id": "b1995e1e-fcc5-4507-916b-17296f45f2fa",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test escon",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_escon@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test escon",
+        "work_email": "quote_escon@cic.com.vn",
+        "primary_need": "request_quote",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:37:27.326Z"
+    },
+    {
+      "landing_lead_submission_id": "13433406-519d-4c07-93cf-abc34cb4e5e9",
+      "landing_form_id": "b1995e1e-fcc5-4507-916b-17296f45f2fa",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test escon",
+      "customer_phone": "0912345678",
+      "customer_email": "test_escon@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test escon",
+        "work_email": "test_escon@cic.com.vn",
+        "primary_need": "trial_30_days",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:38:10.059Z"
+    },
+    {
+      "landing_lead_submission_id": "0dc7986c-59d9-4b7a-9280-2fe45edefb4a",
+      "landing_form_id": "b1995e1e-fcc5-4507-916b-17296f45f2fa",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test escon",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_escon@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test escon",
+        "work_email": "quote_escon@cic.com.vn",
+        "primary_need": "request_quote",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:38:10.112Z"
+    },
+    {
+      "landing_lead_submission_id": "6aa596d3-c747-431b-ab90-020c11be4197",
+      "landing_form_id": "b1995e1e-fcc5-4507-916b-17296f45f2fa",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test escon",
+      "customer_phone": "0912345678",
+      "customer_email": "test_escon@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test escon",
+        "work_email": "test_escon@cic.com.vn",
+        "primary_need": "trial_30_days",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:39:01.148Z"
+    },
+    {
+      "landing_lead_submission_id": "c58097b8-5aad-4782-b234-4d20af13ae9f",
+      "landing_form_id": "b1995e1e-fcc5-4507-916b-17296f45f2fa",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test escon",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_escon@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test escon",
+        "work_email": "quote_escon@cic.com.vn",
+        "primary_need": "request_quote",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:39:01.172Z"
+    },
+    {
+      "landing_lead_submission_id": "2bb93d6d-61d7-4d60-8d9e-fa787df7db8e",
+      "landing_form_id": "b1995e1e-fcc5-4507-916b-17296f45f2fa",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "landing_page_id": null,
+      "customer_full_name": "Test Quote escon",
+      "customer_phone": "0988654321",
+      "customer_email": "quote@escon.cic.com.vn",
+      "customer_company": "CIC Verification Corp",
+      "submitted_fields_json": {
+        "name": "Test Quote escon",
+        "email": "quote@escon.cic.com.vn",
+        "phone": "0988654321",
+        "company": "CIC Verification Corp",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T05:06:30.320Z"
+    },
+    {
+      "landing_lead_submission_id": "a5cf44f4-3464-4b25-a978-0699c41feb22",
+      "landing_form_id": "b1995e1e-fcc5-4507-916b-17296f45f2fa",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "landing_page_id": null,
+      "customer_full_name": "Test Trial escon",
+      "customer_phone": "0988123456",
+      "customer_email": "trial@escon.cic.com.vn",
+      "customer_company": "CIC Verification Corp",
+      "submitted_fields_json": {
+        "name": "Test Trial escon",
+        "email": "trial@escon.cic.com.vn",
+        "phone": "0988123456",
+        "company": "CIC Verification Corp",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T05:06:46.724Z"
+    },
+    {
+      "landing_lead_submission_id": "8dba381b-b4a7-4701-b85f-efc4cfdaf498",
+      "landing_form_id": "b1995e1e-fcc5-4507-916b-17296f45f2fa",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "landing_page_id": null,
+      "customer_full_name": "Test Quote escon",
+      "customer_phone": "0988654321",
+      "customer_email": "quote@escon.cic.com.vn",
+      "customer_company": "CIC Verification Corp",
+      "submitted_fields_json": {
+        "name": "Test Quote escon",
+        "email": "quote@escon.cic.com.vn",
+        "phone": "0988654321",
+        "company": "CIC Verification Corp",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T05:06:46.744Z"
+    },
+    {
+      "landing_lead_submission_id": "cc252b66-17e6-4364-90c4-eb957623f6ef",
+      "landing_form_id": "b1995e1e-fcc5-4507-916b-17296f45f2fa",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Trial escon",
+      "customer_phone": "0912345678",
+      "customer_email": "standalone@escon.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Trial escon",
+        "email": "standalone@escon.cic.com.vn",
+        "phone": "0912345678",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T06:26:17.518Z"
+    },
+    {
+      "landing_lead_submission_id": "c5c0cf4e-07be-4d1a-8751-f9b7c2aea6bb",
+      "landing_form_id": "b1995e1e-fcc5-4507-916b-17296f45f2fa",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Quote escon",
+      "customer_phone": "0987654321",
+      "customer_email": "quote@escon.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Quote escon",
+        "email": "quote@escon.cic.com.vn",
+        "phone": "0987654321",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 12
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T06:26:17.549Z"
+    },
+    {
+      "landing_lead_submission_id": "7cfe955e-50e3-4b51-9b6b-e6ca69be5c9e",
+      "landing_form_id": "b1995e1e-fcc5-4507-916b-17296f45f2fa",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Trial escon",
+      "customer_phone": "0912345678",
+      "customer_email": "standalone@escon.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Trial escon",
+        "email": "standalone@escon.cic.com.vn",
+        "phone": "0912345678",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T07:36:08.030Z"
+    },
+    {
+      "landing_lead_submission_id": "102b0ef7-bc64-48e3-9157-80afd7eaa15c",
+      "landing_form_id": "b1995e1e-fcc5-4507-916b-17296f45f2fa",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Quote escon",
+      "customer_phone": "0987654321",
+      "customer_email": "quote@escon.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Quote escon",
+        "email": "quote@escon.cic.com.vn",
+        "phone": "0987654321",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 12
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T07:36:08.083Z"
+    },
+    {
+      "landing_lead_submission_id": "56f9bf25-f21b-47a3-9d5c-42552ce841fd",
+      "landing_form_id": "b1995e1e-fcc5-4507-916b-17296f45f2fa",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Trial escon",
+      "customer_phone": "0912345678",
+      "customer_email": "standalone@escon.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Trial escon",
+        "email": "standalone@escon.cic.com.vn",
+        "phone": "0912345678",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T08:39:17.785Z"
+    },
+    {
+      "landing_lead_submission_id": "7a4c36ab-0c57-4fd4-b578-f966ea2ce586",
+      "landing_form_id": "b1995e1e-fcc5-4507-916b-17296f45f2fa",
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Quote escon",
+      "customer_phone": "0987654321",
+      "customer_email": "quote@escon.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Quote escon",
+        "email": "quote@escon.cic.com.vn",
+        "phone": "0987654321",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 12
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T08:39:17.853Z"
+    }
+  ],
+  "pageViews": [
+    {
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "view_date": "2026-10-26",
+      "views_count": 27,
+      "unique_visitors_count": 3
+    },
+    {
+      "landing_site_id": "f407c4ce-8d39-4e2a-ba39-ac48ea1a91c1",
+      "view_date": "2026-10-27",
+      "views_count": 6,
+      "unique_visitors_count": 1
+    }
+  ],
+  "adminAccounts": [
+    {
+      "username": "escon_admin",
+      "password_hash": "4a208b7ff43bd0a71c3bb331db13040694d36bd9e34b5d9ed62d0be880dc5b58",
+      "display_name": "Quản trị viên Escon",
+      "role": "site_admin",
+      "landing_site_code": "escon",
+      "is_active": true
+    },
+    {
+      "username": "admin",
+      "password_hash": "2e6c21501300cc6fa4d50597c1c483c802b6d9f00f119f004d8344f663129109",
+      "display_name": "Quản trị Tổng CIC",
+      "role": "super_admin",
+      "landing_site_code": null,
+      "is_active": true
+    }
+  ]
+}

@@ -1,0 +1,2103 @@
+{
+  "exportedAt": "2026-10-28T01:16:01.459Z",
+  "targetSiteCode": "bim",
+  "sectionTypes": [
+    {
+      "landing_section_type_code": "advantages",
+      "landing_section_type_name": "Ưu Điểm Vượt Trội",
+      "category": "feature",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.707Z",
+      "updated_at_utc": "2026-10-28T01:12:40.707Z"
+    },
+    {
+      "landing_section_type_code": "catalog",
+      "landing_section_type_name": "Danh Mục Tính Năng / Giải Pháp",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.719Z",
+      "updated_at_utc": "2026-10-28T01:12:40.719Z"
+    },
+    {
+      "landing_section_type_code": "comparison",
+      "landing_section_type_name": "Bảng So Sánh & Các Gói Bản Quyền",
+      "category": "comparison",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.725Z",
+      "updated_at_utc": "2026-10-28T01:12:40.725Z"
+    },
+    {
+      "landing_section_type_code": "consultation_form",
+      "landing_section_type_name": "Form Đăng Ký Tư Vấn & Tải Dùng Thử",
+      "category": "form",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.731Z",
+      "updated_at_utc": "2026-10-28T01:12:40.731Z"
+    },
+    {
+      "landing_section_type_code": "faq",
+      "landing_section_type_name": "Câu Hỏi Thường Gặp (FAQ)",
+      "category": "faq",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.739Z",
+      "updated_at_utc": "2026-10-28T01:12:40.739Z"
+    },
+    {
+      "landing_section_type_code": "floating_cta",
+      "landing_section_type_name": "Nút Liên Hệ Nổi (Floating CTA)",
+      "category": "cta",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.743Z",
+      "updated_at_utc": "2026-10-28T01:12:40.743Z"
+    },
+    {
+      "landing_section_type_code": "footer",
+      "landing_section_type_name": "Chân Trang (Footer)",
+      "category": "footer",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.750Z",
+      "updated_at_utc": "2026-10-28T01:12:40.750Z"
+    },
+    {
+      "landing_section_type_code": "header",
+      "landing_section_type_name": "Thanh Điều Hướng (Header)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.756Z",
+      "updated_at_utc": "2026-10-28T01:12:40.756Z"
+    },
+    {
+      "landing_section_type_code": "hero",
+      "landing_section_type_name": "Banner Chính (Hero Section)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.762Z",
+      "updated_at_utc": "2026-10-28T01:12:40.762Z"
+    },
+    {
+      "landing_section_type_code": "infrastructure",
+      "landing_section_type_name": "Infrastructure & Specialized Machinery",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.769Z",
+      "updated_at_utc": "2026-10-28T01:12:40.769Z"
+    },
+    {
+      "landing_section_type_code": "intro",
+      "landing_section_type_name": "Giới Thiệu Tổng Quan & Thống Kê",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.773Z",
+      "updated_at_utc": "2026-10-28T01:12:40.773Z"
+    },
+    {
+      "landing_section_type_code": "requirements",
+      "landing_section_type_name": "Yêu Cầu Cấu Hình Hệ Thống",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.777Z",
+      "updated_at_utc": "2026-10-28T01:12:40.777Z"
+    },
+    {
+      "landing_section_type_code": "resources",
+      "landing_section_type_name": "Tài Nguyên & Thư Viện Hỗ Trợ",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.781Z",
+      "updated_at_utc": "2026-10-28T01:12:40.781Z"
+    },
+    {
+      "landing_section_type_code": "video_slider",
+      "landing_section_type_name": "YouTube Video Showcase Slider",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.789Z",
+      "updated_at_utc": "2026-10-28T01:12:40.789Z"
+    }
+  ],
+  "sites": [
+    {
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "landing_site_code": "bim",
+      "landing_site_name": "Giải pháp Tư vấn & Triển khai BIM Quốc tế — CIC (LadiPage)",
+      "landing_site_type": "landing",
+      "primary_domain": "bim.cic.com.vn",
+      "custom_domains_json": [
+        "bim.localhost",
+        "www.bim.cic.com.vn"
+      ],
+      "supported_locales_json": [
+        "vi",
+        "en"
+      ],
+      "default_locale": "vi",
+      "site_status": "active",
+      "brand_config_json": {
+        "email": "info@cic.com.vn",
+        "address": "Số 37 Lê Văn Thiêm, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",
+        "hotline": "0866 059 659",
+        "logo_url": "/api/landing/media/bim/images/logo.png",
+        "zalo_url": "https://zalo.me/0866059659",
+        "favicon_url": "/api/landing/media/bim/images/favicon.ico",
+        "primary_color": "#0284c7",
+        "hosting_origin": "LadiPage",
+        "bitrix_loader_url": "https://crm.cic.com.vn/upload/crm/site_button/loader_9_cqbl2r.js"
+      },
+      "seo_meta_json": {
+        "title": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện",
+        "keywords": "bim, CIC, phần mềm xây dựng, BIM, CAD, bản quyền chính hãng",
+        "og_image": "/api/landing/media/bim/images/hero.png",
+        "description": "Đồng hành cùng Chủ đầu tư, Ban QLDA và Tổng thầu áp dụng BIM hiệu quả theo Quyết định 258/QĐ-TTg & Nghị định 175/2024/NĐ-CP từ thiết kế đến vận hành."
+      },
+      "tracking_config_json": {
+        "ga4_id": "",
+        "gtm_id": "GTM-W4TTPJ63",
+        "fb_pixel_id": ""
+      },
+      "created_at_utc": "2026-10-28T01:12:40.806Z",
+      "updated_at_utc": "2026-10-28T01:12:40.806Z"
+    }
+  ],
+  "pages": [
+    {
+      "landing_page_id": "95f77848-6093-4387-a4a4-cf46f147ebb1",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "landing_page_slug": "home",
+      "landing_page_locale": "en",
+      "page_title": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện (EN)",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện",
+        "description": "Đồng hành cùng Chủ đầu tư, Ban QLDA và Tổng thầu áp dụng BIM hiệu quả theo Quyết định 258/QĐ-TTg & Nghị định 175/2024/NĐ-CP từ thiết kế đến vận hành."
+      },
+      "published_at_utc": "2026-10-26T04:29:27.803Z",
+      "created_at_utc": "2026-10-28T01:12:40.963Z",
+      "updated_at_utc": "2026-10-28T01:12:40.963Z"
+    },
+    {
+      "landing_page_id": "517d3ef8-a4d8-4aef-bd78-705c037f4ec9",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "landing_page_slug": "home",
+      "landing_page_locale": "vi",
+      "page_title": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện",
+        "description": "Đồng hành cùng Chủ đầu tư, Ban QLDA và Tổng thầu áp dụng BIM hiệu quả theo Quyết định 258/QĐ-TTg & Nghị định 175/2024/NĐ-CP từ thiết kế đến vận hành."
+      },
+      "published_at_utc": "2026-10-26T04:29:27.631Z",
+      "created_at_utc": "2026-10-28T01:12:40.969Z",
+      "updated_at_utc": "2026-10-28T01:12:40.969Z"
+    }
+  ],
+  "sections": [
+    {
+      "landing_page_section_id": "4b92e255-5e34-417e-86b3-06a5e608be28",
+      "landing_page_id": "517d3ef8-a4d8-4aef-bd78-705c037f4ec9",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "header",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Ngại thay đổi",
+            "description": "Áp dụng BIM đã trở thành xu hướng không thể thiếu trong ngành xây dựng trên thế giới cũng như tại Việt Nam. Tuy nhiên, việc triển khai áp dụng BIM tại doanh nghiệp rất tốn kém và tiềm ẩn nhiều rủi ro về tài chính cũng như tiến độ dự án, vì vậy các doanh nghiệp đang chuyển hướng sang thuê dịch vụ BIM của các công ty BIM chuyên nghiệp."
+          },
+          {
+            "title": "Thiếu chuyên môn",
+            "description": "Nắm bắt được thực tế trên, Công ty CP Công Nghệ và Tư vấn CIC triển khai cung cấp các Dịch vụ Tư vấn BIM cho các doanh nghiệp dựa trên dự án và yêu cầu thực tế của doanh nghiệp, giúp doanh nghiệp nhận được hiệu quả tức thì trong việc áp dụng BIM, đồng thời chuyển giao công nghệ cho các nhân viên tiếp nhận một cách hiệu quả, từ đó giảm thiểu rủi ro chi phí của doanh nghiệp mà vẫn mang lại hiệu quả như mong muốn."
+          },
+          {
+            "title": "Chi phí phát sinh",
+            "description": "Khái niệm BIM còn khá mới mẻ so với nhiều người và doanh nghiệp nên họ sẽ gặp nhiều vướng mắc khi triển khai BIM. Thách thức khó khăn nhất là thiếu năng lực, những nhân sự trong ngành xây dựng thiếu các kiến thức chuyên môn và kỹ năng để ứng dụng nền tảng mới này như lỗi phần mềm hoặc các phương thức lập mô hình không chính xác do thiếu kinh nghiệm trong việc sử dụng mô hình 3D."
+          },
+          {
+            "title": "Quản lý thông tin",
+            "description": "Trong ngành xây dựng, nơi các nhà quản lý dự án dành phần lớn thời gian ngoài công trường và làm việc theo cách riêng. Tuy nhiên trong trường hợp áp dụng BIM, những người quản lý dự án cần phải tuân theo các hướng dẫn và quy trình nghiêm ngặt. Đây cũng là một trong những thách thức đối với các công ty mới dùng BIM tại Việt Nam."
+          },
+          {
+            "title": "THỰC TRẠNG ỨNG DỤNG BIM CỦA DOANH NGHIỆP",
+            "description": "088 691 6666"
+          },
+          {
+            "title": "DỊCH VỤ BIM CỦA CIC",
+            "description": "Chi phí phần mềm BIM và sự không tương thích với các phần mềm khác cũng là rào cản mà các công ty cần phải lường trước khi chọn BIM. Ngoài ra, các công ty đang triển khai BIM cần phải thay đổi quy trình làm việc. Để thực hiện những sự thay đổi cần thiết này, chi phí sẽ phát sinh khiến các công ty băn khoăn nhiều hơn về chi phí sau khi thực hiện BIM."
+          }
+        ],
+        "title": "DỊCH VỤ BIM",
+        "logo_url": "/api/landing/media/bim/images/logo.png",
+        "subtitle": "Ngại thay đổi",
+        "cta_label": "Đăng Ký Tư Vấn",
+        "nav_items": [
+          {
+            "href": "#intro",
+            "label": "Tổng quan"
+          },
+          {
+            "href": "#advantages",
+            "label": "Ưu điểm"
+          },
+          {
+            "href": "#catalog",
+            "label": "Giải pháp"
+          },
+          {
+            "href": "#comparison",
+            "label": "Các gói & So sánh"
+          },
+          {
+            "href": "#faq",
+            "label": "Hỏi đáp"
+          }
+        ],
+        "brand_name": "CIC BIM",
+        "description": "Áp dụng BIM đã trở thành xu hướng không thể thiếu trong ngành xây dựng trên thế giới cũng như tại Việt Nam. Tuy nhiên, việc triển khai áp dụng BIM tại doanh nghiệp rất tốn kém và tiềm ẩn nhiều rủi ro về tài chính cũng như tiến độ dự án, vì vậy các doanh nghiệp đang chuyển hướng sang thuê dịch vụ BIM của các công ty BIM chuyên nghiệp."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.574Z",
+      "updated_at_utc": "2026-10-28T01:12:41.574Z"
+    },
+    {
+      "landing_page_section_id": "95b3bba4-c1d7-4b4a-96cb-db657921ee25",
+      "landing_page_id": "517d3ef8-a4d8-4aef-bd78-705c037f4ec9",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "hero",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "Trung Tâm Giải Pháp BIM & Chuyển Đổi Số Xây Dựng CIC",
+        "items": [
+          {
+            "title": "Ngại thay đổi",
+            "description": "Áp dụng BIM đã trở thành xu hướng không thể thiếu trong ngành xây dựng trên thế giới cũng như tại Việt Nam. Tuy nhiên, việc triển khai áp dụng BIM tại doanh nghiệp rất tốn kém và tiềm ẩn nhiều rủi ro về tài chính cũng như tiến độ dự án, vì vậy các doanh nghiệp đang chuyển hướng sang thuê dịch vụ BIM của các công ty BIM chuyên nghiệp."
+          },
+          {
+            "title": "Thiếu chuyên môn",
+            "description": "Nắm bắt được thực tế trên, Công ty CP Công Nghệ và Tư vấn CIC triển khai cung cấp các Dịch vụ Tư vấn BIM cho các doanh nghiệp dựa trên dự án và yêu cầu thực tế của doanh nghiệp, giúp doanh nghiệp nhận được hiệu quả tức thì trong việc áp dụng BIM, đồng thời chuyển giao công nghệ cho các nhân viên tiếp nhận một cách hiệu quả, từ đó giảm thiểu rủi ro chi phí của doanh nghiệp mà vẫn mang lại hiệu quả như mong muốn."
+          },
+          {
+            "title": "Chi phí phát sinh",
+            "description": "Khái niệm BIM còn khá mới mẻ so với nhiều người và doanh nghiệp nên họ sẽ gặp nhiều vướng mắc khi triển khai BIM. Thách thức khó khăn nhất là thiếu năng lực, những nhân sự trong ngành xây dựng thiếu các kiến thức chuyên môn và kỹ năng để ứng dụng nền tảng mới này như lỗi phần mềm hoặc các phương thức lập mô hình không chính xác do thiếu kinh nghiệm trong việc sử dụng mô hình 3D."
+          },
+          {
+            "title": "Quản lý thông tin",
+            "description": "Trong ngành xây dựng, nơi các nhà quản lý dự án dành phần lớn thời gian ngoài công trường và làm việc theo cách riêng. Tuy nhiên trong trường hợp áp dụng BIM, những người quản lý dự án cần phải tuân theo các hướng dẫn và quy trình nghiêm ngặt. Đây cũng là một trong những thách thức đối với các công ty mới dùng BIM tại Việt Nam."
+          },
+          {
+            "title": "THỰC TRẠNG ỨNG DỤNG BIM CỦA DOANH NGHIỆP",
+            "description": "088 691 6666"
+          },
+          {
+            "title": "DỊCH VỤ BIM CỦA CIC",
+            "description": "Chi phí phần mềm BIM và sự không tương thích với các phần mềm khác cũng là rào cản mà các công ty cần phải lường trước khi chọn BIM. Ngoài ra, các công ty đang triển khai BIM cần phải thay đổi quy trình làm việc. Để thực hiện những sự thay đổi cần thiết này, chi phí sẽ phát sinh khiến các công ty băn khoăn nhiều hơn về chi phí sau khi thực hiện BIM."
+          }
+        ],
+        "stats": [
+          {
+            "label": "Dự án đầu tư công & tư nhân được CIC tư vấn BIM",
+            "value": "500+"
+          },
+          {
+            "label": "Quy trình quản lý thông tin chuẩn quốc tế",
+            "value": "ISO 19650"
+          },
+          {
+            "label": "Kinh nghiệm tin học xây dựng hàng đầu Việt Nam",
+            "value": "35+ Năm"
+          },
+          {
+            "label": "Đáp ứng hồ sơ thẩm định BIM của Bộ Xây dựng",
+            "value": "100%"
+          }
+        ],
+        "title": "DỊCH VỤ BIM",
+        "subtitle": "Ngại thay đổi",
+        "description": "Áp dụng BIM đã trở thành xu hướng không thể thiếu trong ngành xây dựng trên thế giới cũng như tại Việt Nam. Tuy nhiên, việc triển khai áp dụng BIM tại doanh nghiệp rất tốn kém và tiềm ẩn nhiều rủi ro về tài chính cũng như tiến độ dự án, vì vậy các doanh nghiệp đang chuyển hướng sang thuê dịch vụ BIM của các công ty BIM chuyên nghiệp.",
+        "hero_image_url": "/api/landing/media/bim/images/hero.png",
+        "primary_cta_href": "#consultation",
+        "primary_cta_label": "Đăng Ký Dùng Thử & Nhận Báo Giá",
+        "secondary_cta_href": "#comparison",
+        "secondary_cta_label": "Xem Tài Liệu & Bảng Giá"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.577Z",
+      "updated_at_utc": "2026-10-28T01:12:41.577Z"
+    },
+    {
+      "landing_page_section_id": "fc2f0958-6762-4ec3-8e6f-cfe0c72efa9d",
+      "landing_page_id": "517d3ef8-a4d8-4aef-bd78-705c037f4ec9",
+      "landing_section_type_code": "intro",
+      "section_anchor_id": "intro",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "GIẢI PHÁP CHÍNH HÃNG PHÂN PHỐI BỞI CIC",
+        "items": [
+          {
+            "title": "Thiếu chuyên môn",
+            "description": "Khái niệm BIM còn khá mới mẻ so với nhiều người và doanh nghiệp nên họ sẽ gặp nhiều vướng mắc khi triển khai BIM. Thách thức khó khăn nhất là thiếu năng lực, những nhân sự trong ngành xây dựng thiếu các kiến thức chuyên môn và kỹ năng để ứng dụng nền tảng mới này như lỗi phần mềm hoặc các phương thức lập mô hình không chính xác do thiếu kinh nghiệm trong việc sử dụng mô hình 3D."
+          },
+          {
+            "title": "Chi phí phát sinh",
+            "description": "Trong ngành xây dựng, nơi các nhà quản lý dự án dành phần lớn thời gian ngoài công trường và làm việc theo cách riêng. Tuy nhiên trong trường hợp áp dụng BIM, những người quản lý dự án cần phải tuân theo các hướng dẫn và quy trình nghiêm ngặt. Đây cũng là một trong những thách thức đối với các công ty mới dùng BIM tại Việt Nam."
+          },
+          {
+            "title": "Quản lý thông tin",
+            "description": "088 691 6666"
+          },
+          {
+            "title": "THỰC TRẠNG ỨNG DỤNG BIM CỦA DOANH NGHIỆP",
+            "description": "Chi phí phần mềm BIM và sự không tương thích với các phần mềm khác cũng là rào cản mà các công ty cần phải lường trước khi chọn BIM. Ngoài ra, các công ty đang triển khai BIM cần phải thay đổi quy trình làm việc. Để thực hiện những sự thay đổi cần thiết này, chi phí sẽ phát sinh khiến các công ty băn khoăn nhiều hơn về chi phí sau khi thực hiện BIM."
+          },
+          {
+            "title": "DỊCH VỤ BIM CỦA CIC",
+            "description": "Công ty phải đảm bảo rằng các nhà cung cấp và nhà thầu phụ cũng phải nắm được công nghệ này và tuân thủ đúng nguyên tắc thực hiện BIM. Sự tham gia của các bên như nhà cung cấp và nhà thầu phụ sẽ dẫn đến việc phải quản lý nhiều thông tin hơn. Do vậy, các đơn vị cần sáng suốt lựa chọn những đối tác giàu kinh nghiệm để hỗ trợ về trình độ, kiến thức, kinh nghiệm và nguồn lực."
+          },
+          {
+            "title": "Dựng mô hình BIM",
+            "description": "• Tạo lập mô hình 3D công trình các bộ môn (kiến trúc, kết cấu, cơ điện) theo nhiều mức độ chi tiết LOD theo yêu cầu • Kiểm tra tiêu chuẩn mô hình, lỗi thiết kế, phối hợp bộ môn phát hiện và lập báo cáo xung đột • Lập bản vẽ thiết kế cơ sở, thiết kế kĩ thuật, thi công từ mô hình theo tiêu chuẩn doanh nghiệp • Hỗ trợ thiết lập Templates mẫu và thư viện 3D cho doanh nghiệp giúp thực hiện dự án nhanh chóng"
+          }
+        ],
+        "title": "Ngại thay đổi",
+        "subtitle": "Thiếu chuyên môn",
+        "description": "Khái niệm BIM còn khá mới mẻ so với nhiều người và doanh nghiệp nên họ sẽ gặp nhiều vướng mắc khi triển khai BIM. Thách thức khó khăn nhất là thiếu năng lực, những nhân sự trong ngành xây dựng thiếu các kiến thức chuyên môn và kỹ năng để ứng dụng nền tảng mới này như lỗi phần mềm hoặc các phương thức lập mô hình không chính xác do thiếu kinh nghiệm trong việc sử dụng mô hình 3D."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.580Z",
+      "updated_at_utc": "2026-10-28T01:12:41.580Z"
+    },
+    {
+      "landing_page_section_id": "560c940f-5229-4daf-9d3b-7d71eb1ada38",
+      "landing_page_id": "517d3ef8-a4d8-4aef-bd78-705c037f4ec9",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "advantages",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "ƯU ĐIỂM VƯỢT TRỘI",
+        "items": [
+          {
+            "title": "DỊCH VỤ BIM CỦA CIC",
+            "description": "• Tạo lập mô hình 3D công trình các bộ môn (kiến trúc, kết cấu, cơ điện) theo nhiều mức độ chi tiết LOD theo yêu cầu • Kiểm tra tiêu chuẩn mô hình, lỗi thiết kế, phối hợp bộ môn phát hiện và lập báo cáo xung đột • Lập bản vẽ thiết kế cơ sở, thiết kế kĩ thuật, thi công từ mô hình theo tiêu chuẩn doanh nghiệp • Hỗ trợ thiết lập Templates mẫu và thư viện 3D cho doanh nghiệp giúp thực hiện dự án nhanh chóng"
+          },
+          {
+            "title": "Dựng mô hình BIM",
+            "description": "• Bóc tách khối lượng nhanh chóng bằng bộ phần mềm Cubicost • Xuất báo cáo với đầy đủ diễn giải chi tiết theo mẫu yêu cầu của doanh nghiệp • Hỗ trợ kiểm tra và bảo vệ khối lượng ngay trên mô hình • Thiết lập cơ sở dữ liệu cấu kiện, công tác, vật tư, nhân công, máy móc, giá và các hệ số liên quan cho doanh nghiệp giúp dự toán tự động hoá trên phần mềm • Đào tạo chuyển giao công nghệ và phần mềm tự động hoá giúp doanh nghiệp tiết kiệm thời gian tăng hiệu quả dự án"
+          },
+          {
+            "title": "Bóc tách khối lượng và dự toán trên nền BIM",
+            "description": "• Diễn hoạ biện pháp thi công và bố trí công trường với mức độ chi tiết theo yêu cầu • Mô phỏng tiến độ thi công theo tiến độ cung cấp hỗ trợ doanh nghiệp đấu thầu"
+          },
+          {
+            "title": "Mô phỏng tiến độ thi công",
+            "description": "Thiêt lập hệ thống phối hợp BIM trong môi trường chung"
+          },
+          {
+            "title": "HÌNH THỨC HỢP TÁC",
+            "description": "Thiết lập tài khoản Digicost để xây dựng hệ thống 5D Database"
+          },
+          {
+            "title": "DỊCH VỤ ĐÀO TẠO BIM 5D",
+            "description": "Đánh giá mô hình và hỗ trợ triển khai gán code vào dự án thực tế"
+          }
+        ],
+        "title": "THỰC TRẠNG ỨNG DỤNG BIM CỦA DOANH NGHIỆP",
+        "subtitle": "DỊCH VỤ BIM CỦA CIC",
+        "description": "• Tạo lập mô hình 3D công trình các bộ môn (kiến trúc, kết cấu, cơ điện) theo nhiều mức độ chi tiết LOD theo yêu cầu • Kiểm tra tiêu chuẩn mô hình, lỗi thiết kế, phối hợp bộ môn phát hiện và lập báo cáo xung đột • Lập bản vẽ thiết kế cơ sở, thiết kế kĩ thuật, thi công từ mô hình theo tiêu chuẩn doanh nghiệp • Hỗ trợ thiết lập Templates mẫu và thư viện 3D cho doanh nghiệp giúp thực hiện dự án nhanh chóng"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.587Z",
+      "updated_at_utc": "2026-10-28T01:12:41.587Z"
+    },
+    {
+      "landing_page_section_id": "832da397-c0e7-4023-8f82-bfc850613212",
+      "landing_page_id": "517d3ef8-a4d8-4aef-bd78-705c037f4ec9",
+      "landing_section_type_code": "catalog",
+      "section_anchor_id": "catalog",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "DANH MỤC GIẢI PHÁP & MÔ-ĐUN CHUYÊN SÂU",
+        "items": [
+          {
+            "title": "DỊCH VỤ ĐÀO TẠO BIM 5D",
+            "description": "Thiêt lập hệ thống phối hợp BIM trong môi trường chung"
+          },
+          {
+            "title": "CÁC DỰ ÁN ĐÃ THỰC HIỆN",
+            "description": "Thiết lập tài khoản Digicost để xây dựng hệ thống 5D Database"
+          },
+          {
+            "title": "KHÁCH HÀNG CỦA CHÚNG TÔI",
+            "description": "Đánh giá mô hình và hỗ trợ triển khai gán code vào dự án thực tế"
+          },
+          {
+            "title": "LIÊN HỆ",
+            "description": "Chạy test quy trình và xuất báo cáo theo BOQ được cung cấp"
+          },
+          {
+            "title": "Chúng tôi cam kết bảo mật thông tin người dùng theo quy định pháp luật. Mọi thông tin chỉ được sử dụng cho mục đích tư vấn",
+            "description": "Đánh giá kết quả"
+          },
+          {
+            "title": "© Bản quyền thuộc Công ty Cổ phần Công nghệ và Tư vấn CIC",
+            "description": "Nếu cần một phương án dài hạn bằng việc trang bị kiến thức và kỹ năng về BIM cho nhân sự, quý khách có thể sử dụng Dịch vụ đào tạo giải pháp BIM 5D cho việc bóc tách khối lượng và tự động hoá dự toán trên nền tảng BIM: ⦁ Đội ngũ chuyên gia đào tạo chuyên sâu, giàu kinh nghiệm về nền tảng BIM nói chung và giải pháp BIM 5D nói riêng ⦁ Song hành đào tạo cùng triển khai trên dự án thực tế, đem lại khả năng ứng dụng cao nhất ⦁ So sánh, đối chiếu với khối lượng bóc tay ⦁ Hỗ trợ liên tục sau đào tạo Liên hệ: Mr.Lương Thành Hưng - 088 691 6666"
+          }
+        ],
+        "title": "HÌNH THỨC HỢP TÁC",
+        "subtitle": "DỊCH VỤ ĐÀO TẠO BIM 5D",
+        "description": "Thiêt lập hệ thống phối hợp BIM trong môi trường chung"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.591Z",
+      "updated_at_utc": "2026-10-28T01:12:41.591Z"
+    },
+    {
+      "landing_page_section_id": "2845e53f-9cca-401e-9b7d-ca8aafa26907",
+      "landing_page_id": "517d3ef8-a4d8-4aef-bd78-705c037f4ec9",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "comparison",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "CÁC GÓI BẢN QUYỀN & TÀI LIỆU SO SÁNH",
+        "items": [
+          {
+            "title": "CÁC DỰ ÁN ĐÃ THỰC HIỆN",
+            "description": "Nếu cần một phương án dài hạn bằng việc trang bị kiến thức và kỹ năng về BIM cho nhân sự, quý khách có thể sử dụng Dịch vụ đào tạo giải pháp BIM 5D cho việc bóc tách khối lượng và tự động hoá dự toán trên nền tảng BIM: ⦁ Đội ngũ chuyên gia đào tạo chuyên sâu, giàu kinh nghiệm về nền tảng BIM nói chung và giải pháp BIM 5D nói riêng ⦁ Song hành đào tạo cùng triển khai trên dự án thực tế, đem lại khả năng ứng dụng cao nhất ⦁ So sánh, đối chiếu với khối lượng bóc tay ⦁ Hỗ trợ liên tục sau đào tạo Liên hệ: Mr.Lương Thành Hưng - 088 691 6666"
+          },
+          {
+            "title": "KHÁCH HÀNG CỦA CHÚNG TÔI",
+            "description": "3D Modeling | Quantity take off Dựng hình 3D | kiểm soát khối lượng"
+          },
+          {
+            "title": "LIÊN HỆ",
+            "description": "Ecoba An Hưng"
+          },
+          {
+            "title": "Chúng tôi cam kết bảo mật thông tin người dùng theo quy định pháp luật. Mọi thông tin chỉ được sử dụng cho mục đích tư vấn",
+            "description": "Đại học Cần Thơ"
+          },
+          {
+            "title": "© Bản quyền thuộc Công ty Cổ phần Công nghệ và Tư vấn CIC",
+            "description": "3D Modeling | Combine & clash Dựng hình 3D | Kiểm soát khối lượng"
+          },
+          {
+            "title": "Nhận tư vấn dịch vụ BIM",
+            "description": "Tòa nhà văn phòng UDIC"
+          }
+        ],
+        "title": "DỊCH VỤ ĐÀO TẠO BIM 5D",
+        "pdf_url": "/api/landing/media/bim/downloads/brochure.pdf",
+        "packages": [
+          {
+            "name": "Gói Đào Tạo & Chuẩn Hóa BIM",
+            "price": "Theo quy mô phòng ban",
+            "period": "Đào tạo In-house / Online",
+            "features": [
+              "Đánh giá năng lực hiện trạng",
+              "Đào tạo phần mềm & quy trình phối hợp",
+              "Bộ Template & Family khởi đầu"
+            ],
+            "cta_label": "Nhận Đề Cương Đào Tạo",
+            "description": "Phù hợp cho doanh nghiệp bắt đầu xây dựng đội ngũ BIM nội bộ chuẩn ISO 19650."
+          },
+          {
+            "name": "Gói Tư Vấn BIM Dự Án (Ban QLDA)",
+            "badge": "ĐƯỢC CHỌN NHIỀU NHẤT",
+            "price": "Tối ưu theo Chi phí Tư vấn",
+            "period": "Trọn gói theo giai đoạn dự án",
+            "features": [
+              "Xây dựng EIR, BEP & Quy chế phối hợp",
+              "Cung cấp nền tảng CDE suốt vòng đời dự án",
+              "Kiểm tra xung đột & Thẩm tra khối lượng BIM",
+              "Hỗ trợ bảo vệ hồ sơ trước Cục/Sở Xây dựng"
+            ],
+            "cta_label": "Nhận Hồ Sơ Năng Lực BIM",
+            "highlight": true,
+            "description": "Đảm bảo dự án nhóm A, B, C tuân thủ 100% quy định áp dụng BIM bắt buộc của Nhà nước."
+          },
+          {
+            "name": "Gói Chuyển Giao Chuyển Đổi Số Toàn Diện",
+            "price": "Giải pháp Doanh nghiệp",
+            "period": "Tích hợp Phần mềm + CDE + ERP",
+            "features": [
+              "Chuẩn hóa quy trình BIM toàn tập đoàn",
+              "Tích hợp dữ liệu BIM 5D với hệ thống ERP",
+              "Đồng hành kỹ thuật chuyên trách 1-1"
+            ],
+            "cta_label": "Đặt Lịch Họp Chuyên Gia",
+            "description": "Dành cho Tập đoàn Bất động sản và Tổng thầu xây dựng quy mô lớn."
+          }
+        ],
+        "subtitle": "CÁC DỰ ÁN ĐÃ THỰC HIỆN",
+        "description": "Nếu cần một phương án dài hạn bằng việc trang bị kiến thức và kỹ năng về BIM cho nhân sự, quý khách có thể sử dụng Dịch vụ đào tạo giải pháp BIM 5D cho việc bóc tách khối lượng và tự động hoá dự toán trên nền tảng BIM: ⦁ Đội ngũ chuyên gia đào tạo chuyên sâu, giàu kinh nghiệm về nền tảng BIM nói chung và giải pháp BIM 5D nói riêng ⦁ Song hành đào tạo cùng triển khai trên dự án thực tế, đem lại khả năng ứng dụng cao nhất ⦁ So sánh, đối chiếu với khối lượng bóc tay ⦁ Hỗ trợ liên tục sau đào tạo Liên hệ: Mr.Lương Thành Hưng - 088 691 6666",
+        "modal_title": "Tài Liệu Kỹ Thuật & So Sánh Phiên Bản — CIC BIM",
+        "pdf_cta_label": "XEM TÀI LIỆU SO SÁNH & BROCHURE (PDF)",
+        "modal_download_label": "Tải Xuống Tài Liệu PDF",
+        "modal_register_label": "Nhận Tư Vấn & Báo Giá Chi Tiết"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.594Z",
+      "updated_at_utc": "2026-10-28T01:12:41.594Z"
+    },
+    {
+      "landing_page_section_id": "2c01ac59-feec-4f82-9ff5-b8285a7c578a",
+      "landing_page_id": "517d3ef8-a4d8-4aef-bd78-705c037f4ec9",
+      "landing_section_type_code": "resources",
+      "section_anchor_id": "resources",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "TÀI NGUYÊN & HỖ TRỢ KỸ THUẬT",
+        "items": [
+          {
+            "title": "KHÁCH HÀNG CỦA CHÚNG TÔI",
+            "description": "3D Modeling | Quantity take off Dựng hình 3D | kiểm soát khối lượng"
+          },
+          {
+            "title": "LIÊN HỆ",
+            "description": "Ecoba An Hưng"
+          },
+          {
+            "title": "Chúng tôi cam kết bảo mật thông tin người dùng theo quy định pháp luật. Mọi thông tin chỉ được sử dụng cho mục đích tư vấn",
+            "description": "Đại học Cần Thơ"
+          },
+          {
+            "title": "© Bản quyền thuộc Công ty Cổ phần Công nghệ và Tư vấn CIC",
+            "description": "3D Modeling | Combine & clash Dựng hình 3D | Kiểm soát khối lượng"
+          },
+          {
+            "title": "Nhận tư vấn dịch vụ BIM",
+            "description": "Tòa nhà văn phòng UDIC"
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "Tòa nhà dân cư UDIC"
+          }
+        ],
+        "title": "CÁC DỰ ÁN ĐÃ THỰC HIỆN",
+        "subtitle": "KHÁCH HÀNG CỦA CHÚNG TÔI",
+        "description": "3D Modeling | Quantity take off Dựng hình 3D | kiểm soát khối lượng"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.600Z",
+      "updated_at_utc": "2026-10-28T01:12:41.600Z"
+    },
+    {
+      "landing_page_section_id": "29eb0866-653c-44ba-a853-dcd9e2070bc4",
+      "landing_page_id": "517d3ef8-a4d8-4aef-bd78-705c037f4ec9",
+      "landing_section_type_code": "faq",
+      "section_anchor_id": "faq",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "CÂU HỎI THƯỜNG GẶP",
+        "items": [
+          {
+            "title": "KHÁCH HÀNG CỦA CHÚNG TÔI",
+            "description": "3D Modeling | Quantity take off Dựng hình 3D | kiểm soát khối lượng"
+          },
+          {
+            "title": "LIÊN HỆ",
+            "description": "Ecoba An Hưng"
+          },
+          {
+            "title": "Chúng tôi cam kết bảo mật thông tin người dùng theo quy định pháp luật. Mọi thông tin chỉ được sử dụng cho mục đích tư vấn",
+            "description": "Đại học Cần Thơ"
+          },
+          {
+            "title": "© Bản quyền thuộc Công ty Cổ phần Công nghệ và Tư vấn CIC",
+            "description": "3D Modeling | Combine & clash Dựng hình 3D | Kiểm soát khối lượng"
+          },
+          {
+            "title": "Nhận tư vấn dịch vụ BIM",
+            "description": "Tòa nhà văn phòng UDIC"
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "Tòa nhà dân cư UDIC"
+          }
+        ],
+        "title": "CÁC DỰ ÁN ĐÃ THỰC HIỆN",
+        "subtitle": "KHÁCH HÀNG CỦA CHÚNG TÔI",
+        "description": "3D Modeling | Quantity take off Dựng hình 3D | kiểm soát khối lượng"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.604Z",
+      "updated_at_utc": "2026-10-28T01:12:41.604Z"
+    },
+    {
+      "landing_page_section_id": "b6e4d2ba-9f1f-4fe1-b24f-270f5cabdf46",
+      "landing_page_id": "517d3ef8-a4d8-4aef-bd78-705c037f4ec9",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "consultation",
+      "section_order": 9,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "ĐĂNG KÝ TƯ VẤN & TẢI DÙNG THỬ MIỄN PHÍ",
+        "items": [
+          {
+            "title": "LIÊN HỆ",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Chúng tôi cam kết bảo mật thông tin người dùng theo quy định pháp luật. Mọi thông tin chỉ được sử dụng cho mục đích tư vấn",
+            "description": "Vui lòng điền các thông tin dưới đây! Chúng tôi sẽ liên hệ tư vấn sớm nhất cho dự án của quý khách!"
+          },
+          {
+            "title": "© Bản quyền thuộc Công ty Cổ phần Công nghệ và Tư vấn CIC",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Nhận tư vấn dịch vụ BIM",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Hotline: 088 691 6666 - 088 645 2020 (miền Nam)",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          }
+        ],
+        "title": "KHÁCH HÀNG CỦA CHÚNG TÔI",
+        "benefits": [
+          "Tải ngay Tài liệu kỹ thuật, Brochure & Bộ cài đặt dùng thử chính thức",
+          "Nhận báo giá ưu đãi đặc biệt dành cho doanh nghiệp từ CIC",
+          "Hỗ trợ cài đặt, giải đáp kỹ thuật 1-1 bởi đội ngũ kỹ sư giàu kinh nghiệm",
+          "Cam kết bảo mật 100% thông tin doanh nghiệp và dự án"
+        ],
+        "subtitle": "LIÊN HỆ",
+        "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC",
+        "modal_title": "Tài Liệu & Bộ Cài Đặt Đã Sẵn Sàng!",
+        "submit_label": "Gửi Yêu Cầu & Nhận Tài Liệu Ngay",
+        "modal_description": "Cảm ơn Quý khách đã đăng ký! Quý khách có thể bấm vào nút bên dưới để tải ngay tài liệu/bộ cài đặt hoặc chờ chuyên gia CIC liên hệ trong ít phút:",
+        "modal_button_label": "Tải Tài Liệu & Bộ Cài Đặt Ngay"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.607Z",
+      "updated_at_utc": "2026-10-28T01:12:41.607Z"
+    },
+    {
+      "landing_page_section_id": "870e7663-77bd-4693-a5fe-b34307c28d96",
+      "landing_page_id": "517d3ef8-a4d8-4aef-bd78-705c037f4ec9",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "footer",
+      "section_order": 10,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "email": "info@cic.com.vn",
+        "items": [
+          {
+            "title": "Chúng tôi cam kết bảo mật thông tin người dùng theo quy định pháp luật. Mọi thông tin chỉ được sử dụng cho mục đích tư vấn",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "© Bản quyền thuộc Công ty Cổ phần Công nghệ và Tư vấn CIC",
+            "description": "Vui lòng điền các thông tin dưới đây! Chúng tôi sẽ liên hệ tư vấn sớm nhất cho dự án của quý khách!"
+          },
+          {
+            "title": "Nhận tư vấn dịch vụ BIM",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Hotline: 088 691 6666 - 088 645 2020 (miền Nam)",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Email: cic.dcs@cic.com.vn",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          }
+        ],
+        "title": "LIÊN HỆ",
+        "address": "Trụ sở chính: Số 37 Lê Văn Thiêm, Phường Nhân Chính, Quận Thanh Xuân, TP. Hà Nội | Chi nhánh TP.HCM: Số 36 Nguyễn Huy Lượng, Phường 14, Quận Bình Thạnh",
+        "hotline": "0866 059 659",
+        "subtitle": "Chúng tôi cam kết bảo mật thông tin người dùng theo quy định pháp luật. Mọi thông tin chỉ được sử dụng cho mục đích tư vấn",
+        "copyright": "© 2026 Công ty Cổ phần Công nghệ và Tư vấn CIC. Bảo lưu mọi quyền cho chuyên trang bim.cic.com.vn.",
+        "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC",
+        "company_name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ TƯ VẤN CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.610Z",
+      "updated_at_utc": "2026-10-28T01:12:41.610Z"
+    },
+    {
+      "landing_page_section_id": "a7d0a76a-8f12-4c10-ada5-4d91fe5fbf5a",
+      "landing_page_id": "517d3ef8-a4d8-4aef-bd78-705c037f4ec9",
+      "landing_section_type_code": "floating_cta",
+      "section_anchor_id": "floating_cta",
+      "section_order": 11,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [],
+        "title": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện",
+        "hotline": "0866 059 659",
+        "subtitle": "",
+        "zalo_url": "https://zalo.me/0866059659",
+        "cta_label": "Đăng Ký Tư Vấn",
+        "description": ""
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.613Z",
+      "updated_at_utc": "2026-10-28T01:12:41.613Z"
+    },
+    {
+      "landing_page_section_id": "99d16ac1-487f-40a3-902f-6919bd079526",
+      "landing_page_id": "95f77848-6093-4387-a4a4-cf46f147ebb1",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "SECTION16",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "The color of BIM is green",
+            "description": "Collaboration CONTACT"
+          },
+          {
+            "title": "The ‘I’ is more important than the ‘B’ or ‘M’",
+            "description": "BIM (BUILDING INFORMATION MODELING) has become an indispensable trend in the construction industry in the world. Nowadays, not all the company can apply BIM successfully despite realizing and understanding the benefit of BIM. In Some developed countries, BIM model is mandatory to submit to the Government to get approval. The demand for BIM Modelling is increasing everywhere in the world. Vietnam is very popular as a country for outsourcing services such as garment, IT including BIM. CIC Technology & Consultancy JSC., is a company belong to The Ministry of Construction of Vietnam which has over 30 years of working in the Construction Industry. CIC has a BIM Center with many experienced BIM engineers to provide BIM Outsourcing Service to help client saving the cost and reduce the risk and increase the efficiency"
+          },
+          {
+            "title": "Fits first time & reduced waste",
+            "description": "Pretty rendered images may impress, but it is the embedded information within the BIM Model and its part as a management tool where BIM software really shines."
+          },
+          {
+            "title": "Better outcomes through collaboration",
+            "description": "Using BIM efficiently will cut project time and thereby energy use and costs. BIM will reduce the waste of materials during construction and building management and eventually assist in sustainable demolition. Energy modeling can also minimize energy use over a building’s life"
+          },
+          {
+            "title": "BIM FACTS & BENEFITS",
+            "description": "088 691 6666"
+          },
+          {
+            "title": "BIM OURSOURCING SERVICE OF CIC",
+            "description": "Integrating multidisciplinary design inputs using a single 3D model allows interface issues to be identified and resolved in advance of construction, eliminating the cost and time impacts of a redesign. The model also enables new and existing assets to be integrated seamlessly. This will assist in creating exact quantity take-offs ensuring that materials are not over-ordered. Precise program scheduling enables just-in-time delivery of materials and equipment, reducing the potential for damage. The use of BIM for automated fabrication of equipment and components enables more efficient materials handling and waste recovery."
+          }
+        ],
+        "title": "BIM SERVICE",
+        "subtitle": "The color of BIM is green",
+        "description": "Collaboration CONTACT"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.675Z",
+      "updated_at_utc": "2026-10-28T01:12:41.675Z"
+    },
+    {
+      "landing_page_section_id": "6baa78fe-a825-4250-9a07-0aeed200a83c",
+      "landing_page_id": "95f77848-6093-4387-a4a4-cf46f147ebb1",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "SECTION16",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "The color of BIM is green",
+            "description": "Collaboration CONTACT"
+          },
+          {
+            "title": "The ‘I’ is more important than the ‘B’ or ‘M’",
+            "description": "BIM (BUILDING INFORMATION MODELING) has become an indispensable trend in the construction industry in the world. Nowadays, not all the company can apply BIM successfully despite realizing and understanding the benefit of BIM. In Some developed countries, BIM model is mandatory to submit to the Government to get approval. The demand for BIM Modelling is increasing everywhere in the world. Vietnam is very popular as a country for outsourcing services such as garment, IT including BIM. CIC Technology & Consultancy JSC., is a company belong to The Ministry of Construction of Vietnam which has over 30 years of working in the Construction Industry. CIC has a BIM Center with many experienced BIM engineers to provide BIM Outsourcing Service to help client saving the cost and reduce the risk and increase the efficiency"
+          },
+          {
+            "title": "Fits first time & reduced waste",
+            "description": "Pretty rendered images may impress, but it is the embedded information within the BIM Model and its part as a management tool where BIM software really shines."
+          },
+          {
+            "title": "Better outcomes through collaboration",
+            "description": "Using BIM efficiently will cut project time and thereby energy use and costs. BIM will reduce the waste of materials during construction and building management and eventually assist in sustainable demolition. Energy modeling can also minimize energy use over a building’s life"
+          },
+          {
+            "title": "BIM FACTS & BENEFITS",
+            "description": "088 691 6666"
+          },
+          {
+            "title": "BIM OURSOURCING SERVICE OF CIC",
+            "description": "Integrating multidisciplinary design inputs using a single 3D model allows interface issues to be identified and resolved in advance of construction, eliminating the cost and time impacts of a redesign. The model also enables new and existing assets to be integrated seamlessly. This will assist in creating exact quantity take-offs ensuring that materials are not over-ordered. Precise program scheduling enables just-in-time delivery of materials and equipment, reducing the potential for damage. The use of BIM for automated fabrication of equipment and components enables more efficient materials handling and waste recovery."
+          }
+        ],
+        "title": "BIM SERVICE",
+        "subtitle": "The color of BIM is green",
+        "description": "Collaboration CONTACT"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.678Z",
+      "updated_at_utc": "2026-10-28T01:12:41.678Z"
+    },
+    {
+      "landing_page_section_id": "d67d4120-1c07-48e2-a15a-97ad57d94082",
+      "landing_page_id": "95f77848-6093-4387-a4a4-cf46f147ebb1",
+      "landing_section_type_code": "intro",
+      "section_anchor_id": "SECTION977",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "The ‘I’ is more important than the ‘B’ or ‘M’",
+            "description": "Collaboration CONTACT"
+          },
+          {
+            "title": "Fits first time & reduced waste",
+            "description": "Pretty rendered images may impress, but it is the embedded information within the BIM Model and its part as a management tool where BIM software really shines."
+          },
+          {
+            "title": "Better outcomes through collaboration",
+            "description": "Using BIM efficiently will cut project time and thereby energy use and costs. BIM will reduce the waste of materials during construction and building management and eventually assist in sustainable demolition. Energy modeling can also minimize energy use over a building’s life"
+          },
+          {
+            "title": "BIM FACTS & BENEFITS",
+            "description": "088 691 6666"
+          },
+          {
+            "title": "BIM OURSOURCING SERVICE OF CIC",
+            "description": "Integrating multidisciplinary design inputs using a single 3D model allows interface issues to be identified and resolved in advance of construction, eliminating the cost and time impacts of a redesign. The model also enables new and existing assets to be integrated seamlessly. This will assist in creating exact quantity take-offs ensuring that materials are not over-ordered. Precise program scheduling enables just-in-time delivery of materials and equipment, reducing the potential for damage. The use of BIM for automated fabrication of equipment and components enables more efficient materials handling and waste recovery."
+          },
+          {
+            "title": "3D BIM MODELLING",
+            "description": "All project partners – different design disciplines, the customer, contractor, specialists and suppliers; will cooperate to develop a shared 3D model, cultivating collaborative working relationships. This ensures everyone is focused on achieving the best value, from project inception to eventual decommissioning. Unfortunately, disciplines working separately, interacting only through the exchange of construction documents just won’t do anymore. BIM both enables and requires tighter integration. Both software and professionals must work closer together. But simply working together isn’t enough; habits and routines have to be aligned in order to make cooperation natural. The software will need to be developed to allow seamless integration, and so will the attitudes of professionals."
+          }
+        ],
+        "title": "The color of BIM is green",
+        "subtitle": "The ‘I’ is more important than the ‘B’ or ‘M’",
+        "description": "Collaboration CONTACT"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.682Z",
+      "updated_at_utc": "2026-10-28T01:12:41.682Z"
+    },
+    {
+      "landing_page_section_id": "3fb7aa5e-3d61-4ced-9c48-17fc47ac3904",
+      "landing_page_id": "95f77848-6093-4387-a4a4-cf46f147ebb1",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "SECTION2",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "3D BIM MODELLING",
+            "description": "Collaboration CONTACT"
+          },
+          {
+            "title": "5D BIM Services",
+            "description": "• 3D BIM Modeling from 2D Drawing(Architecture, Structure, MEP) follow the required LOD • Checking model/issue report for Design errors and Clash detection • Producing 2D Drawing from 3D Model that follow company standard • Create Template and 3D Family to help increasing productivity"
+          },
+          {
+            "title": "4D Scheduling services",
+            "description": "• QS service by BIM tools such as Cubicost which transperence in report and expression • Automatic report with expression from BIM Model and follow client’s standard • Realtime checking in the model for Quantity • Training and delivery technology"
+          },
+          {
+            "title": "Collaboration",
+            "description": "• 4D sequencing with scheduling services • Presenting construction methods and site layout follow the detailing requirement"
+          },
+          {
+            "title": "BIM TRAINING",
+            "description": "Receive a Prove of Concept from Client and requirement"
+          },
+          {
+            "title": "OUR PROJECTS",
+            "description": "Complete the Prove of concept and validate the result"
+          }
+        ],
+        "title": "BIM OURSOURCING SERVICE OF CIC",
+        "subtitle": "3D BIM MODELLING",
+        "description": "Collaboration CONTACT"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.688Z",
+      "updated_at_utc": "2026-10-28T01:12:41.688Z"
+    },
+    {
+      "landing_page_section_id": "17144dc7-cec1-4203-96c8-1e1918704bb6",
+      "landing_page_id": "95f77848-6093-4387-a4a4-cf46f147ebb1",
+      "landing_section_type_code": "catalog",
+      "section_anchor_id": "SECTION1084",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "BIM TRAINING",
+            "description": "Receive a Prove of Concept from Client and requirement"
+          },
+          {
+            "title": "OUR PROJECTS",
+            "description": "Complete the Prove of concept and validate the result"
+          },
+          {
+            "title": "OUR CLIENTS",
+            "description": "If the result is OK, process to start with the real project with the Agreed SCOPE"
+          },
+          {
+            "title": "CONTACT",
+            "description": "Setup the BIM collaboration environment to discuss and collaboration"
+          },
+          {
+            "title": "Address: 37 Le Đai Hanh, Hai Ba Trung Dis., Hanoi, Vietnam (inside Vietnam Ministry of Construction)",
+            "description": "Delivery the project follow requirement SCOPE"
+          },
+          {
+            "title": "Hotline: (+84) 88 691 6666",
+            "description": "CIC also provides an online training course to deliver the technology to the client on the 5D BIM process: ⦁ Experienced expert of BIM and 5D BIM ⦁ Apply in Real project ⦁ Compare to traditional methods ⦁ Post-training support Contact: Mr.Hung - (+84) 88 691 6666"
+          }
+        ],
+        "title": "Collaboration",
+        "subtitle": "BIM TRAINING",
+        "description": "Receive a Prove of Concept from Client and requirement"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.692Z",
+      "updated_at_utc": "2026-10-28T01:12:41.692Z"
+    },
+    {
+      "landing_page_section_id": "d6cb9f68-48a8-411f-840e-04f1c8db6cff",
+      "landing_page_id": "95f77848-6093-4387-a4a4-cf46f147ebb1",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "SECTION1025",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "OUR PROJECTS",
+            "description": "CIC also provides an online training course to deliver the technology to the client on the 5D BIM process: ⦁ Experienced expert of BIM and 5D BIM ⦁ Apply in Real project ⦁ Compare to traditional methods ⦁ Post-training support Contact: Mr.Hung - (+84) 88 691 6666"
+          },
+          {
+            "title": "OUR CLIENTS",
+            "description": "Vinhomes Metropolis"
+          },
+          {
+            "title": "CONTACT",
+            "description": "Ecoba An Hung"
+          },
+          {
+            "title": "Address: 37 Le Đai Hanh, Hai Ba Trung Dis., Hanoi, Vietnam (inside Vietnam Ministry of Construction)",
+            "description": "Vinh Hotel"
+          },
+          {
+            "title": "Hotline: (+84) 88 691 6666",
+            "description": "Can Tho University"
+          },
+          {
+            "title": "Email: cic.dcs@cic.com.vn",
+            "description": "UDIC Administration Office"
+          }
+        ],
+        "title": "BIM TRAINING",
+        "subtitle": "OUR PROJECTS",
+        "description": "CIC also provides an online training course to deliver the technology to the client on the 5D BIM process: ⦁ Experienced expert of BIM and 5D BIM ⦁ Apply in Real project ⦁ Compare to traditional methods ⦁ Post-training support Contact: Mr.Hung - (+84) 88 691 6666"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.695Z",
+      "updated_at_utc": "2026-10-28T01:12:41.695Z"
+    },
+    {
+      "landing_page_section_id": "6d37f69a-3e41-440c-8f1d-550b27997bdb",
+      "landing_page_id": "95f77848-6093-4387-a4a4-cf46f147ebb1",
+      "landing_section_type_code": "faq",
+      "section_anchor_id": "SECTION1031",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "OUR CLIENTS",
+            "description": "Vinhomes Metropolis"
+          },
+          {
+            "title": "CONTACT",
+            "description": "Ecoba An Hung"
+          },
+          {
+            "title": "Address: 37 Le Đai Hanh, Hai Ba Trung Dis., Hanoi, Vietnam (inside Vietnam Ministry of Construction)",
+            "description": "Vinh Hotel"
+          },
+          {
+            "title": "Hotline: (+84) 88 691 6666",
+            "description": "Can Tho University"
+          },
+          {
+            "title": "Email: cic.dcs@cic.com.vn",
+            "description": "UDIC Administration Office"
+          },
+          {
+            "title": "Website: https://www.cic.com.vn",
+            "description": "UDIC Residenial Tower"
+          }
+        ],
+        "title": "OUR PROJECTS",
+        "subtitle": "OUR CLIENTS",
+        "description": "Vinhomes Metropolis"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.702Z",
+      "updated_at_utc": "2026-10-28T01:12:41.702Z"
+    },
+    {
+      "landing_page_section_id": "8552d820-bb17-4ea5-96e4-d8398296f958",
+      "landing_page_id": "95f77848-6093-4387-a4a4-cf46f147ebb1",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "SECTION671",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "CONTACT",
+            "description": "CIC Technology & Consultancy JSC.,"
+          },
+          {
+            "title": "Address: 37 Le Đai Hanh, Hai Ba Trung Dis., Hanoi, Vietnam (inside Vietnam Ministry of Construction)",
+            "description": "Please fill the basic informations below, we will contact you as soon as possible:"
+          },
+          {
+            "title": "Hotline: (+84) 88 691 6666",
+            "description": "CIC Technology & Consultancy JSC.,"
+          },
+          {
+            "title": "Email: cic.dcs@cic.com.vn",
+            "description": "CIC Technology & Consultancy JSC.,"
+          },
+          {
+            "title": "Website: https://www.cic.com.vn",
+            "description": "CIC Technology & Consultancy JSC.,"
+          },
+          {
+            "title": "Please drop us an email if you need any further requirement:",
+            "description": "CIC Technology & Consultancy JSC.,"
+          }
+        ],
+        "title": "OUR CLIENTS",
+        "subtitle": "CONTACT",
+        "description": "CIC Technology & Consultancy JSC.,"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.705Z",
+      "updated_at_utc": "2026-10-28T01:12:41.705Z"
+    },
+    {
+      "landing_page_section_id": "9efd9507-fe76-433d-add0-ba6b776480f3",
+      "landing_page_id": "95f77848-6093-4387-a4a4-cf46f147ebb1",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "SECTION704",
+      "section_order": 9,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Address: 37 Le Đai Hanh, Hai Ba Trung Dis., Hanoi, Vietnam (inside Vietnam Ministry of Construction)",
+            "description": "CIC Technology & Consultancy JSC.,"
+          },
+          {
+            "title": "Hotline: (+84) 88 691 6666",
+            "description": "Please fill the basic informations below, we will contact you as soon as possible:"
+          },
+          {
+            "title": "Email: cic.dcs@cic.com.vn",
+            "description": "CIC Technology & Consultancy JSC.,"
+          },
+          {
+            "title": "Website: https://www.cic.com.vn",
+            "description": "CIC Technology & Consultancy JSC.,"
+          },
+          {
+            "title": "Please drop us an email if you need any further requirement:",
+            "description": "CIC Technology & Consultancy JSC.,"
+          },
+          {
+            "title": "SEND",
+            "description": "CIC Technology & Consultancy JSC.,"
+          }
+        ],
+        "title": "CONTACT",
+        "subtitle": "Address: 37 Le Đai Hanh, Hai Ba Trung Dis., Hanoi, Vietnam (inside Vietnam Ministry of Construction)",
+        "description": "CIC Technology & Consultancy JSC.,"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.708Z",
+      "updated_at_utc": "2026-10-28T01:12:41.708Z"
+    }
+  ],
+  "forms": [
+    {
+      "landing_form_id": "6b4637c4-f5ea-4aa5-9fb2-e51c2d2873ca",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "form_code": "bim-lead-form",
+      "form_name": "Form Đăng ký Tư vấn & Dùng thử — CIC BIM",
+      "fields_schema_json": [
+        {
+          "name": "full_name",
+          "type": "text",
+          "label": "Họ và tên *",
+          "required": true,
+          "placeholder": "Nguyễn Văn An",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "label": "Số điện thoại *",
+          "required": true,
+          "placeholder": "0912 345 678",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "work_email",
+          "type": "email",
+          "label": "Email công việc *",
+          "required": true,
+          "placeholder": "ban@congty.com.vn",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "company",
+          "type": "text",
+          "label": "Tên công ty / Đơn vị",
+          "required": false,
+          "placeholder": "Công ty Cổ phần Tư vấn Thiết kế...",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "primary_need",
+          "type": "select",
+          "label": "Nhu cầu quan tâm chính *",
+          "options": [
+            {
+              "label": "Đăng ký dùng thử & tải tài liệu CIC BIM",
+              "value": "trial_30_days"
+            },
+            {
+              "label": "Nhận báo giá bản quyền CIC BIM ưu đãi",
+              "value": "request_quote"
+            },
+            {
+              "label": "Tư vấn kỹ thuật & giải pháp triển khai",
+              "value": "technical_consult"
+            }
+          ],
+          "required": true,
+          "default_value": "trial_30_days",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "device_quantity",
+          "type": "number",
+          "label": "Số lượng máy / người dùng dự kiến",
+          "required": false,
+          "placeholder": "5",
+          "default_value": 5,
+          "visibility_rule": {
+            "value": "request_quote",
+            "operator": "equals",
+            "dependsOnField": "primary_need"
+          }
+        },
+        {
+          "name": "requirements",
+          "type": "textarea",
+          "label": "Ghi chú hoặc yêu cầu cụ thể",
+          "required": false,
+          "placeholder": "Mô tả thêm về quy mô dự án hoặc cấu hình cần tư vấn...",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        }
+      ],
+      "notification_emails_json": [
+        "info@cic.com.vn"
+      ],
+      "google_sheet_config_json": {
+        "sheet_name": "LEADS",
+        "spreadsheet_id": ""
+      },
+      "success_action": "modal_download",
+      "success_payload_json": {
+        "message": "Cảm ơn Quý khách đã quan tâm tới CIC BIM. Chuyên gia CIC sẽ liên hệ trong thời gian sớm nhất!",
+        "modal_title": "Tài Liệu & Bộ Dùng Thử CIC BIM Đã Sẵn Sàng!",
+        "outcome_rules": [
+          {
+            "id": "rule_bim_trial",
+            "title": "Tài Liệu & Bộ Dùng Thử CIC BIM Đã Sẵn Sàng!",
+            "message": "Cảm ơn Quý khách đã đăng ký trải nghiệm CIC BIM. Quý khách có thể bấm nút bên dưới để tải ngay Hồ sơ kỹ thuật & Hướng dẫn dùng thử:",
+            "operator": "equals",
+            "whenField": "primary_need",
+            "whenValue": "trial_30_days",
+            "actionType": "download_modal",
+            "downloadUrl": "/api/landing/media/bim/downloads/brochure.pdf",
+            "downloadLabel": "Tải Tài Liệu CIC BIM (PDF)",
+            "targetSheetName": "LEADS"
+          },
+          {
+            "id": "rule_bim_quote",
+            "title": "Đã Ghi Nhận Yêu Cầu Báo Giá!",
+            "message": "Cảm ơn Quý khách! Chuyên viên phụ trách giải pháp CIC BIM của CIC sẽ gửi bảng báo giá và chính sách chiết khấu tốt nhất qua Email/Zalo trong 15 phút làm việc.",
+            "operator": "equals",
+            "whenField": "primary_need",
+            "whenValue": "request_quote",
+            "actionType": "message_only",
+            "downloadUrl": "",
+            "downloadLabel": "",
+            "targetSheetName": "LEADS"
+          },
+          {
+            "id": "rule_bim_default",
+            "title": "Đăng Ký Tư Vấn Kỹ Thuật Thành Công!",
+            "message": "Cảm ơn Quý khách! Kỹ sư giải pháp CIC BIM của CIC sẽ liên hệ trực tiếp để tư vấn chi tiết cho doanh nghiệp.",
+            "operator": "always",
+            "whenField": "primary_need",
+            "whenValue": "",
+            "actionType": "message_only",
+            "downloadUrl": "",
+            "downloadLabel": "",
+            "targetSheetName": "LEADS"
+          }
+        ],
+        "modal_description": "Bấm vào nút bên dưới để tải ngay tài liệu hướng dẫn và thông số kỹ thuật CIC BIM:",
+        "default_download_url": "/api/landing/media/bim/downloads/brochure.pdf"
+      },
+      "is_form_active": true,
+      "created_at_utc": "2026-10-28T01:12:42.646Z",
+      "updated_at_utc": "2026-10-28T01:12:42.646Z"
+    }
+  ],
+  "media": [
+    {
+      "landing_media_asset_id": "3ca5a6f8-904f-4110-ba52-e202e3cc1e14",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "media_slot_code": "logo-cic-20200221081126",
+      "file_name": "logo-cic-20200221081126.png",
+      "file_path": "images/logo-cic-20200221081126.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "13252",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - logo-cic-20200221081126.png",
+      "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - logo-cic-20200221081126.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.617Z",
+      "updated_at_utc": "2026-10-28T01:12:46.617Z"
+    },
+    {
+      "landing_media_asset_id": "77b7ba17-8d9c-41b6-bebf-5f6e05a5a985",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "media_slot_code": "call-icon-5-20200327021012",
+      "file_name": "call-icon-5-20200327021012.gif",
+      "file_path": "images/call-icon-5-20200327021012.gif",
+      "mime_type": "image/gif",
+      "file_size_bytes": "234938",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - call-icon-5-20200327021012.gif",
+      "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - call-icon-5-20200327021012.gif",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.626Z",
+      "updated_at_utc": "2026-10-28T01:12:46.626Z"
+    },
+    {
+      "landing_media_asset_id": "46ee2b86-6361-4bfa-9de1-ea29874a467d",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "media_slot_code": "chung-cu-phuc-dat-20210423093843",
+      "file_name": "chung-cu-phuc-dat-20210423093843.jpg",
+      "file_path": "images/chung-cu-phuc-dat-20210423093843.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "104382",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - chung-cu-phuc-dat-20210423093843.jpg",
+      "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - chung-cu-phuc-dat-20210423093843.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.653Z",
+      "updated_at_utc": "2026-10-28T01:12:46.653Z"
+    },
+    {
+      "landing_media_asset_id": "eab36dde-4227-4c3b-b998-bdc2f1e54467",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "media_slot_code": "dat-xanh-20200611081814",
+      "file_name": "dat-xanh-20200611081814.png",
+      "file_path": "images/dat-xanh-20200611081814.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "80084",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - dat-xanh-20200611081814.png",
+      "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - dat-xanh-20200611081814.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.678Z",
+      "updated_at_utc": "2026-10-28T01:12:46.678Z"
+    },
+    {
+      "landing_media_asset_id": "9ddb046d-b75e-4821-919a-27e3c1f98af0",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "media_slot_code": "nha-xuong-tai-binh-duong-20210423092758",
+      "file_name": "nha-xuong-tai-binh-duong-20210423092758.jpg",
+      "file_path": "images/nha-xuong-tai-binh-duong-20210423092758.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "72895",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - nha-xuong-tai-binh-duong-20210423092758.jpg",
+      "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - nha-xuong-tai-binh-duong-20210423092758.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.695Z",
+      "updated_at_utc": "2026-10-28T01:12:46.695Z"
+    },
+    {
+      "landing_media_asset_id": "535281df-acf4-42eb-bcb8-af818a6c73d7",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "media_slot_code": "benh-vien-gia-dinh-20210423093913",
+      "file_name": "benh-vien-gia-dinh-20210423093913.jpg",
+      "file_path": "images/benh-vien-gia-dinh-20210423093913.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "60476",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - benh-vien-gia-dinh-20210423093913.jpg",
+      "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - benh-vien-gia-dinh-20210423093913.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.708Z",
+      "updated_at_utc": "2026-10-28T01:12:46.708Z"
+    },
+    {
+      "landing_media_asset_id": "ce991f85-6765-4188-b2d9-33deee5ce19d",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "media_slot_code": "ecoba-20200630070858",
+      "file_name": "ecoba-20200630070858.jpg",
+      "file_path": "images/ecoba-20200630070858.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "48061",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - ecoba-20200630070858.jpg",
+      "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - ecoba-20200630070858.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.723Z",
+      "updated_at_utc": "2026-10-28T01:12:46.723Z"
+    },
+    {
+      "landing_media_asset_id": "6cd0176e-07fe-43da-a21a-ba9bff7d2e85",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "media_slot_code": "cost-20200624023831",
+      "file_name": "cost-20200624023831.png",
+      "file_path": "images/cost-20200624023831.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "19085",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - cost-20200624023831.png",
+      "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - cost-20200624023831.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.735Z",
+      "updated_at_utc": "2026-10-28T01:12:46.735Z"
+    },
+    {
+      "landing_media_asset_id": "0b31df9d-682e-4c5e-abeb-868b1b166da0",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "media_slot_code": "c8576eb0ea19124b5657b4fd7973dae28faf102f_s2_n2-2",
+      "file_name": "c8576eb0ea19124b5657b4fd7973dae28faf102f_s2_n2-20200611081813.png",
+      "file_path": "images/c8576eb0ea19124b5657b4fd7973dae28faf102f_s2_n2-20200611081813.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "18316",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - c8576eb0ea19124b5657b4fd7973dae28faf102f_s2_n2-20200611081813.png",
+      "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - c8576eb0ea19124b5657b4fd7973dae28faf102f_s2_n2-20200611081813.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.743Z",
+      "updated_at_utc": "2026-10-28T01:12:46.743Z"
+    },
+    {
+      "landing_media_asset_id": "ee20fd01-f480-4189-850c-6298238717cb",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "media_slot_code": "picture4-20200326093759",
+      "file_name": "picture4-20200326093759.png",
+      "file_path": "images/picture4-20200326093759.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "17409",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - picture4-20200326093759.png",
+      "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - picture4-20200326093759.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.756Z",
+      "updated_at_utc": "2026-10-28T01:12:46.756Z"
+    },
+    {
+      "landing_media_asset_id": "8958e10c-8a86-476f-9072-666cd6efac1c",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "media_slot_code": "thay-doi-20200624023831",
+      "file_name": "thay-doi-20200624023831.png",
+      "file_path": "images/thay-doi-20200624023831.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "17070",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - thay-doi-20200624023831.png",
+      "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - thay-doi-20200624023831.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.766Z",
+      "updated_at_utc": "2026-10-28T01:12:46.766Z"
+    },
+    {
+      "landing_media_asset_id": "6be16405-1575-4883-9846-e90137b04777",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "media_slot_code": "data-20200624023831",
+      "file_name": "data-20200624023831.png",
+      "file_path": "images/data-20200624023831.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "17022",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - data-20200624023831.png",
+      "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - data-20200624023831.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.773Z",
+      "updated_at_utc": "2026-10-28T01:12:46.773Z"
+    },
+    {
+      "landing_media_asset_id": "0262e878-6d03-49e4-89ec-ae212d63aae7",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "media_slot_code": "5-1503128133747-20200706024437",
+      "file_name": "5-1503128133747-20200706024437.png",
+      "file_path": "images/5-1503128133747-20200706024437.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "8079",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - 5-1503128133747-20200706024437.png",
+      "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - 5-1503128133747-20200706024437.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.784Z",
+      "updated_at_utc": "2026-10-28T01:12:46.784Z"
+    },
+    {
+      "landing_media_asset_id": "e48ab056-34ce-4d81-a8ab-a8faba1d2357",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "media_slot_code": "557eba5865e8ee0d50b57394afd8580ebf1235c7_s2_n2-2",
+      "file_name": "557eba5865e8ee0d50b57394afd8580ebf1235c7_s2_n2-20200611081813.png",
+      "file_path": "images/557eba5865e8ee0d50b57394afd8580ebf1235c7_s2_n2-20200611081813.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "7875",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - 557eba5865e8ee0d50b57394afd8580ebf1235c7_s2_n2-20200611081813.png",
+      "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện - 557eba5865e8ee0d50b57394afd8580ebf1235c7_s2_n2-20200611081813.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.793Z",
+      "updated_at_utc": "2026-10-28T01:12:46.793Z"
+    },
+    {
+      "landing_media_asset_id": "788e98bf-639f-4532-94f9-bc610f2c1596",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "media_slot_code": "brand_logo",
+      "file_name": "logo.png",
+      "file_path": "images/logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "13252",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện Logo",
+      "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện Logo",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.804Z",
+      "updated_at_utc": "2026-10-28T01:12:46.804Z"
+    },
+    {
+      "landing_media_asset_id": "b6f3d63a-bd69-4251-97df-17957db134f0",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "media_slot_code": "favicon",
+      "file_name": "favicon.ico",
+      "file_path": "images/favicon.ico",
+      "mime_type": "image/x-icon",
+      "file_size_bytes": "13252",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Favicon",
+      "alt_text_en": "Favicon",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.812Z",
+      "updated_at_utc": "2026-10-28T01:12:46.812Z"
+    },
+    {
+      "landing_media_asset_id": "ef6cce3a-17bd-4295-a8b1-137df6728cb5",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "media_slot_code": "brochure_pdf",
+      "file_name": "brochure.pdf",
+      "file_path": "downloads/brochure.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": "671641",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Tài liệu Brochure CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện",
+      "alt_text_en": "Brochure CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.828Z",
+      "updated_at_utc": "2026-10-28T01:12:46.828Z"
+    },
+    {
+      "landing_media_asset_id": "d1495627-60a5-4f48-8574-e811400bae6d",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "media_slot_code": "hero_banner",
+      "file_name": "hero.png",
+      "file_path": "images/hero.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "13252",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện Hero",
+      "alt_text_en": "CIC BIM — Tư Vấn, Đào Tạo & Giải Pháp Chuyển Đổi Số BIM Toàn Diện Hero",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.890Z",
+      "updated_at_utc": "2026-10-28T01:12:46.890Z"
+    }
+  ],
+  "leads": [
+    {
+      "landing_lead_submission_id": "203cc11c-10a7-44e6-b6e4-f3392353f0e7",
+      "landing_form_id": "6b4637c4-f5ea-4aa5-9fb2-e51c2d2873ca",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test bim",
+      "customer_phone": "0912345678",
+      "customer_email": "test_bim@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test bim",
+        "work_email": "test_bim@cic.com.vn",
+        "primary_need": "trial_30_days",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:37:25.674Z"
+    },
+    {
+      "landing_lead_submission_id": "080395ed-723d-490d-92b3-22afeebd783a",
+      "landing_form_id": "6b4637c4-f5ea-4aa5-9fb2-e51c2d2873ca",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test bim",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_bim@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test bim",
+        "work_email": "quote_bim@cic.com.vn",
+        "primary_need": "request_quote",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:37:25.758Z"
+    },
+    {
+      "landing_lead_submission_id": "b8b0386e-3b4b-41be-8d6e-f38e95e09f20",
+      "landing_form_id": "6b4637c4-f5ea-4aa5-9fb2-e51c2d2873ca",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test bim",
+      "customer_phone": "0912345678",
+      "customer_email": "test_bim@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test bim",
+        "work_email": "test_bim@cic.com.vn",
+        "primary_need": "trial_30_days",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:38:08.715Z"
+    },
+    {
+      "landing_lead_submission_id": "28845498-c4a6-41bb-9333-e90c77be230b",
+      "landing_form_id": "6b4637c4-f5ea-4aa5-9fb2-e51c2d2873ca",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test bim",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_bim@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test bim",
+        "work_email": "quote_bim@cic.com.vn",
+        "primary_need": "request_quote",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:38:08.746Z"
+    },
+    {
+      "landing_lead_submission_id": "7853eefe-b006-485e-8b83-58f554b9f315",
+      "landing_form_id": "6b4637c4-f5ea-4aa5-9fb2-e51c2d2873ca",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test bim",
+      "customer_phone": "0912345678",
+      "customer_email": "test_bim@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test bim",
+        "work_email": "test_bim@cic.com.vn",
+        "primary_need": "trial_30_days",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:39:00.513Z"
+    },
+    {
+      "landing_lead_submission_id": "067ca338-5b81-48a4-afa8-83bc0463ca15",
+      "landing_form_id": "6b4637c4-f5ea-4aa5-9fb2-e51c2d2873ca",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test bim",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_bim@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test bim",
+        "work_email": "quote_bim@cic.com.vn",
+        "primary_need": "request_quote",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:39:00.532Z"
+    },
+    {
+      "landing_lead_submission_id": "35d73482-9ae8-4ef6-bb2d-6bba135eb37a",
+      "landing_form_id": "6b4637c4-f5ea-4aa5-9fb2-e51c2d2873ca",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "landing_page_id": null,
+      "customer_full_name": "Test Quote bim",
+      "customer_phone": "0988654321",
+      "customer_email": "quote@bim.cic.com.vn",
+      "customer_company": "CIC Verification Corp",
+      "submitted_fields_json": {
+        "name": "Test Quote bim",
+        "email": "quote@bim.cic.com.vn",
+        "phone": "0988654321",
+        "company": "CIC Verification Corp",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T05:06:30.100Z"
+    },
+    {
+      "landing_lead_submission_id": "83365718-fd28-4b07-89f2-bbac22e4716c",
+      "landing_form_id": "6b4637c4-f5ea-4aa5-9fb2-e51c2d2873ca",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "landing_page_id": null,
+      "customer_full_name": "Test Trial bim",
+      "customer_phone": "0988123456",
+      "customer_email": "trial@bim.cic.com.vn",
+      "customer_company": "CIC Verification Corp",
+      "submitted_fields_json": {
+        "name": "Test Trial bim",
+        "email": "trial@bim.cic.com.vn",
+        "phone": "0988123456",
+        "company": "CIC Verification Corp",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T05:06:46.476Z"
+    },
+    {
+      "landing_lead_submission_id": "2b09d29e-d874-47a4-9267-24ec02039719",
+      "landing_form_id": "6b4637c4-f5ea-4aa5-9fb2-e51c2d2873ca",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "landing_page_id": null,
+      "customer_full_name": "Test Quote bim",
+      "customer_phone": "0988654321",
+      "customer_email": "quote@bim.cic.com.vn",
+      "customer_company": "CIC Verification Corp",
+      "submitted_fields_json": {
+        "name": "Test Quote bim",
+        "email": "quote@bim.cic.com.vn",
+        "phone": "0988654321",
+        "company": "CIC Verification Corp",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T05:06:46.508Z"
+    },
+    {
+      "landing_lead_submission_id": "32226197-3b70-48ff-a6b7-43ec2028cd17",
+      "landing_form_id": "6b4637c4-f5ea-4aa5-9fb2-e51c2d2873ca",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Trial bim",
+      "customer_phone": "0912345678",
+      "customer_email": "standalone@bim.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Trial bim",
+        "email": "standalone@bim.cic.com.vn",
+        "phone": "0912345678",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T06:26:05.108Z"
+    },
+    {
+      "landing_lead_submission_id": "c353fb80-ee1b-4594-a3b8-b0021b0f17c0",
+      "landing_form_id": "6b4637c4-f5ea-4aa5-9fb2-e51c2d2873ca",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Quote bim",
+      "customer_phone": "0987654321",
+      "customer_email": "quote@bim.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Quote bim",
+        "email": "quote@bim.cic.com.vn",
+        "phone": "0987654321",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 12
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T06:26:05.151Z"
+    },
+    {
+      "landing_lead_submission_id": "8152a37f-fd4c-41f2-8d5b-df396bba2057",
+      "landing_form_id": "6b4637c4-f5ea-4aa5-9fb2-e51c2d2873ca",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Trial bim",
+      "customer_phone": "0912345678",
+      "customer_email": "standalone@bim.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Trial bim",
+        "email": "standalone@bim.cic.com.vn",
+        "phone": "0912345678",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T07:36:00.232Z"
+    },
+    {
+      "landing_lead_submission_id": "5f99fb19-1dd8-4517-9bb1-2e59db835c85",
+      "landing_form_id": "6b4637c4-f5ea-4aa5-9fb2-e51c2d2873ca",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Quote bim",
+      "customer_phone": "0987654321",
+      "customer_email": "quote@bim.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Quote bim",
+        "email": "quote@bim.cic.com.vn",
+        "phone": "0987654321",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 12
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T07:36:00.415Z"
+    },
+    {
+      "landing_lead_submission_id": "ffae6212-a76e-4808-981e-51bf033dd903",
+      "landing_form_id": "6b4637c4-f5ea-4aa5-9fb2-e51c2d2873ca",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Trial bim",
+      "customer_phone": "0912345678",
+      "customer_email": "standalone@bim.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Trial bim",
+        "email": "standalone@bim.cic.com.vn",
+        "phone": "0912345678",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T08:39:01.117Z"
+    },
+    {
+      "landing_lead_submission_id": "d4472d3a-0efa-4b7d-b4dd-bb2aaf23df67",
+      "landing_form_id": "6b4637c4-f5ea-4aa5-9fb2-e51c2d2873ca",
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Quote bim",
+      "customer_phone": "0987654321",
+      "customer_email": "quote@bim.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Quote bim",
+        "email": "quote@bim.cic.com.vn",
+        "phone": "0987654321",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 12
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T08:39:01.203Z"
+    }
+  ],
+  "pageViews": [
+    {
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "view_date": "2026-10-26",
+      "views_count": 31,
+      "unique_visitors_count": 3
+    },
+    {
+      "landing_site_id": "e16d6947-176f-4539-af2d-e7a22ee48b77",
+      "view_date": "2026-10-27",
+      "views_count": 18,
+      "unique_visitors_count": 3
+    }
+  ],
+  "adminAccounts": [
+    {
+      "username": "bim_admin",
+      "password_hash": "4a208b7ff43bd0a71c3bb331db13040694d36bd9e34b5d9ed62d0be880dc5b58",
+      "display_name": "Quản trị viên CIC BIM",
+      "role": "site_admin",
+      "landing_site_code": "bim",
+      "is_active": true
+    },
+    {
+      "username": "admin",
+      "password_hash": "2e6c21501300cc6fa4d50597c1c483c802b6d9f00f119f004d8344f663129109",
+      "display_name": "Quản trị Tổng CIC",
+      "role": "super_admin",
+      "landing_site_code": null,
+      "is_active": true
+    }
+  ]
+}

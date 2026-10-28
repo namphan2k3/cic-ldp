@@ -1,0 +1,203 @@
+{
+  "exportedAt": "2026-10-22T08:17:49.953Z",
+  "source": {
+    "id": "2",
+    "code": "intellicad_lisp",
+    "name": "CMS IntelliCAD — Khách tải bộ LISP (CMS INTELLICAD LISP)",
+    "spreadsheet_id": "1789qGEPsGXONe_1fDxzA8xYCJDmV-TsHuS5fCiI7GiI",
+    "sheet_name": "CMS INTELLICAD LISP",
+    "key_columns": [],
+    "column_schema": [
+      {
+        "key": "cms_intellicad_lisp",
+        "type": "phone",
+        "header": "CMS IntelliCAD LISP",
+        "hidden": false,
+        "position": 1
+      },
+      {
+        "key": "cot_2",
+        "type": "text",
+        "header": "Cột 2",
+        "hidden": false,
+        "position": 2
+      },
+      {
+        "key": "cot_3",
+        "type": "text",
+        "header": "Cột 3",
+        "hidden": false,
+        "position": 3
+      },
+      {
+        "key": "cot_4",
+        "type": "text",
+        "header": "Cột 4",
+        "hidden": false,
+        "position": 4
+      },
+      {
+        "key": "cot_5",
+        "type": "text",
+        "header": "Cột 5",
+        "hidden": false,
+        "position": 5
+      },
+      {
+        "key": "cot_6",
+        "type": "text",
+        "header": "Cột 6",
+        "hidden": false,
+        "position": 6
+      },
+      {
+        "key": "cot_7",
+        "type": "text",
+        "header": "Cột 7",
+        "hidden": false,
+        "position": 7
+      },
+      {
+        "key": "cot_8",
+        "type": "text",
+        "header": "Cột 8",
+        "hidden": false,
+        "position": 8
+      },
+      {
+        "key": "cot_9",
+        "type": "text",
+        "header": "Cột 9",
+        "hidden": false,
+        "position": 9
+      },
+      {
+        "key": "cot_10",
+        "type": "text",
+        "header": "Cột 10",
+        "hidden": false,
+        "position": 10
+      },
+      {
+        "key": "cot_11",
+        "type": "text",
+        "header": "Cột 11",
+        "hidden": false,
+        "position": 11
+      },
+      {
+        "key": "cot_12",
+        "type": "text",
+        "header": "Cột 12",
+        "hidden": false,
+        "position": 12
+      },
+      {
+        "key": "cot_13",
+        "type": "text",
+        "header": "Cột 13",
+        "hidden": false,
+        "position": 13
+      },
+      {
+        "key": "cot_14",
+        "type": "text",
+        "header": "Cột 14",
+        "hidden": false,
+        "position": 14
+      },
+      {
+        "key": "cot_15",
+        "type": "text",
+        "header": "Cột 15",
+        "hidden": false,
+        "position": 15
+      },
+      {
+        "key": "cot_16",
+        "type": "text",
+        "header": "Cột 16",
+        "hidden": false,
+        "position": 16
+      },
+      {
+        "key": "cot_17",
+        "type": "text",
+        "header": "Cột 17",
+        "hidden": false,
+        "position": 17
+      },
+      {
+        "key": "cot_18",
+        "type": "text",
+        "header": "Cột 18",
+        "hidden": false,
+        "position": 18
+      },
+      {
+        "key": "cot_19",
+        "type": "text",
+        "header": "Cột 19",
+        "hidden": false,
+        "position": 19
+      },
+      {
+        "key": "cot_20",
+        "type": "text",
+        "header": "Cột 20",
+        "hidden": false,
+        "position": 20
+      }
+    ]
+  },
+  "rowCount": 2,
+  "rows": [
+    {
+      "row_key": "92dc182a3cbae772816f465aaa31c4592939e6e95c309db19eae7e97c1faa4c2",
+      "row_number": 2,
+      "data": {
+        "cot_2": "Họ và tên",
+        "cot_3": "Số điện thoại",
+        "cot_4": "Email công việc",
+        "cot_5": "Công ty / Đơn vị",
+        "cot_6": "Nhu cầu chính",
+        "cot_7": "Ghi chú yêu cầu",
+        "cot_8": "Ngôn ngữ",
+        "cot_9": "URL trang gửi form",
+        "cot_10": "Referrer",
+        "cot_11": "UTM Source",
+        "cot_12": "UTM Medium",
+        "cot_13": "UTM Campaign",
+        "cot_14": "UTM Content",
+        "cot_15": "UTM Term",
+        "cot_16": "GCLID",
+        "cot_17": "FBCLID",
+        "cot_18": "Trạng thái",
+        "cot_19": "Người phụ trách",
+        "cot_20": "Ghi chú chăm sóc",
+        "cms_intellicad_lisp": "Thời gian gửi"
+      },
+      "data_hash": "92dc182a3cbae772816f465aaa31c4592939e6e95c309db19eae7e97c1faa4c2",
+      "first_seen_at": "2026-10-22T08:17:47.877Z",
+      "last_seen_at": "2026-10-22T08:17:47.877Z"
+    },
+    {
+      "row_key": "b0e399176c542959922d59a0048cd8ed8d58d6cc3fef76f35cd2f8067f823c54",
+      "row_number": 3,
+      "data": {
+        "cot_2": "Trần Trung",
+        "cot_3": "0589567779",
+        "cot_4": "ks.tranbaotrungtn@gmai.com",
+        "cot_5": "Home",
+        "cot_6": "receive_lisp",
+        "cot_8": "vi",
+        "cot_9": "https://cmsintellicad.vn/vi",
+        "cot_10": "https://cmsintellicad.vn/vi",
+        "cms_intellicad_lisp": "2026-08-17T10:31:05+07:00"
+      },
+      "data_hash": "b0e399176c542959922d59a0048cd8ed8d58d6cc3fef76f35cd2f8067f823c54",
+      "first_seen_at": "2026-10-22T08:17:47.877Z",
+      "last_seen_at": "2026-10-22T08:17:47.877Z"
+    }
+  ]
+}

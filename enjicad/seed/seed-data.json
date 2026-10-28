@@ -1,0 +1,2693 @@
+{
+  "exportedAt": "2026-10-28T01:16:06.793Z",
+  "targetSiteCode": "enjicad",
+  "sectionTypes": [
+    {
+      "landing_section_type_code": "advantages",
+      "landing_section_type_name": "Ưu Điểm Vượt Trội",
+      "category": "feature",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.707Z",
+      "updated_at_utc": "2026-10-28T01:12:40.707Z"
+    },
+    {
+      "landing_section_type_code": "catalog",
+      "landing_section_type_name": "Danh Mục Tính Năng / Giải Pháp",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.719Z",
+      "updated_at_utc": "2026-10-28T01:12:40.719Z"
+    },
+    {
+      "landing_section_type_code": "comparison",
+      "landing_section_type_name": "Bảng So Sánh & Các Gói Bản Quyền",
+      "category": "comparison",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.725Z",
+      "updated_at_utc": "2026-10-28T01:12:40.725Z"
+    },
+    {
+      "landing_section_type_code": "consultation_form",
+      "landing_section_type_name": "Form Đăng Ký Tư Vấn & Tải Dùng Thử",
+      "category": "form",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.731Z",
+      "updated_at_utc": "2026-10-28T01:12:40.731Z"
+    },
+    {
+      "landing_section_type_code": "faq",
+      "landing_section_type_name": "Câu Hỏi Thường Gặp (FAQ)",
+      "category": "faq",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.739Z",
+      "updated_at_utc": "2026-10-28T01:12:40.739Z"
+    },
+    {
+      "landing_section_type_code": "floating_cta",
+      "landing_section_type_name": "Nút Liên Hệ Nổi (Floating CTA)",
+      "category": "cta",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.743Z",
+      "updated_at_utc": "2026-10-28T01:12:40.743Z"
+    },
+    {
+      "landing_section_type_code": "footer",
+      "landing_section_type_name": "Chân Trang (Footer)",
+      "category": "footer",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.750Z",
+      "updated_at_utc": "2026-10-28T01:12:40.750Z"
+    },
+    {
+      "landing_section_type_code": "header",
+      "landing_section_type_name": "Thanh Điều Hướng (Header)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.756Z",
+      "updated_at_utc": "2026-10-28T01:12:40.756Z"
+    },
+    {
+      "landing_section_type_code": "hero",
+      "landing_section_type_name": "Banner Chính (Hero Section)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.762Z",
+      "updated_at_utc": "2026-10-28T01:12:40.762Z"
+    },
+    {
+      "landing_section_type_code": "infrastructure",
+      "landing_section_type_name": "Infrastructure & Specialized Machinery",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.769Z",
+      "updated_at_utc": "2026-10-28T01:12:40.769Z"
+    },
+    {
+      "landing_section_type_code": "intro",
+      "landing_section_type_name": "Giới Thiệu Tổng Quan & Thống Kê",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.773Z",
+      "updated_at_utc": "2026-10-28T01:12:40.773Z"
+    },
+    {
+      "landing_section_type_code": "requirements",
+      "landing_section_type_name": "Yêu Cầu Cấu Hình Hệ Thống",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.777Z",
+      "updated_at_utc": "2026-10-28T01:12:40.777Z"
+    },
+    {
+      "landing_section_type_code": "resources",
+      "landing_section_type_name": "Tài Nguyên & Thư Viện Hỗ Trợ",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.781Z",
+      "updated_at_utc": "2026-10-28T01:12:40.781Z"
+    },
+    {
+      "landing_section_type_code": "video_slider",
+      "landing_section_type_name": "YouTube Video Showcase Slider",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.789Z",
+      "updated_at_utc": "2026-10-28T01:12:40.789Z"
+    }
+  ],
+  "sites": [
+    {
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_site_code": "enjicad",
+      "landing_site_name": "enjiCAD — Phần mềm CAD bản quyền cho kỹ sư Việt (LadiPage)",
+      "landing_site_type": "landing",
+      "primary_domain": "enjicad.vn",
+      "custom_domains_json": [
+        "enjicad.localhost",
+        "www.enjicad.vn"
+      ],
+      "supported_locales_json": [
+        "vi",
+        "en",
+        "zh"
+      ],
+      "default_locale": "vi",
+      "site_status": "active",
+      "brand_config_json": {
+        "email": "info@cic.com.vn",
+        "address": "Số 37 Lê Văn Thiêm, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",
+        "hotline": "0866 059 659",
+        "logo_url": "/api/landing/media/enjicad/images/logo.png",
+        "zalo_url": "https://zalo.me/0866059659",
+        "favicon_url": "/api/landing/media/enjicad/images/favicon.ico",
+        "primary_color": "#059669",
+        "hosting_origin": "LadiPage",
+        "bitrix_loader_url": "https://crm.cic.com.vn/upload/crm/site_button/loader_11_gabrth.js"
+      },
+      "seo_meta_json": {
+        "title": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt",
+        "keywords": "enjicad, CIC, phần mềm xây dựng, BIM, CAD, bản quyền chính hãng",
+        "og_image": "/api/landing/media/enjicad/images/hero.png",
+        "description": "Đọc ghi trực tiếp định dạng .DWG nguyên bản, giao diện và lệnh tắt quen thuộc 100%, tích hợp sẵn bộ công cụ triển khai bản vẽ Kết cấu & Kiến trúc theo TCVN."
+      },
+      "tracking_config_json": {
+        "ga4_id": "G-64FY4S1TKF",
+        "gtm_id": "GTM-5DZ8WZ7V",
+        "fb_pixel_id": ""
+      },
+      "created_at_utc": "2026-10-28T01:12:40.826Z",
+      "updated_at_utc": "2026-10-28T01:12:40.826Z"
+    }
+  ],
+  "pages": [
+    {
+      "landing_page_id": "3add6a74-bfd9-46ab-b59c-d9d2a70f6fae",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_page_slug": "home",
+      "landing_page_locale": "en",
+      "page_title": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt (EN)",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt",
+        "description": "Đọc ghi trực tiếp định dạng .DWG nguyên bản, giao diện và lệnh tắt quen thuộc 100%, tích hợp sẵn bộ công cụ triển khai bản vẽ Kết cấu & Kiến trúc theo TCVN."
+      },
+      "published_at_utc": "2026-10-26T04:29:28.406Z",
+      "created_at_utc": "2026-10-28T01:12:40.920Z",
+      "updated_at_utc": "2026-10-28T01:12:40.920Z"
+    },
+    {
+      "landing_page_id": "dbd7217b-be5a-471f-93f5-c270c834a08c",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_page_slug": "home",
+      "landing_page_locale": "vi",
+      "page_title": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt",
+        "description": "Đọc ghi trực tiếp định dạng .DWG nguyên bản, giao diện và lệnh tắt quen thuộc 100%, tích hợp sẵn bộ công cụ triển khai bản vẽ Kết cấu & Kiến trúc theo TCVN."
+      },
+      "published_at_utc": "2026-10-26T04:29:28.138Z",
+      "created_at_utc": "2026-10-28T01:12:40.925Z",
+      "updated_at_utc": "2026-10-28T01:12:40.925Z"
+    },
+    {
+      "landing_page_id": "04648612-dd8a-4bd3-ad2f-977544a2730c",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_page_slug": "home",
+      "landing_page_locale": "zh",
+      "page_title": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt (中文)",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt (中文)",
+        "description": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt"
+      },
+      "published_at_utc": "2026-10-27T02:49:13.923Z",
+      "created_at_utc": "2026-10-28T01:12:40.930Z",
+      "updated_at_utc": "2026-10-28T01:12:40.930Z"
+    }
+  ],
+  "sections": [
+    {
+      "landing_page_section_id": "8cd71e85-2bc1-47e2-b91f-f92d00037915",
+      "landing_page_id": "04648612-dd8a-4bd3-ad2f-977544a2730c",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "SECTION2",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "简介",
+            "description": "永久许可 ，一次性付费，熟悉的界面，多语言兼容性，优化的硬件性能，... 完全能替代 AutoCAD， 但节省超过 80% 的成本 enjiCAD 当前可用的版本： enjiCAD Standard Standalone enjiCAD Professional Standalone enjiCAD Professional Network"
+          },
+          {
+            "title": "效果高-投资低",
+            "description": "enjiCAD 是专为工程师和建筑师，…专门制作的 CAD 软件。有永久的版权，客户不用每一年付版权费用。 enjiCAD 的永久版权费用比其他有名的CAD 软件一年使用的费用都低。"
+          },
+          {
+            "title": "熟悉的界面",
+            "description": "节省成本是enjiCAD的一大亮点。价格低但质量与其他同性能的昂贵CAD 软件相当。"
+          },
+          {
+            "title": "软件格式都按国际标准（DWG，DFX，...)",
+            "description": "enjiCAD 的界面和功能与其他流行CAD 软件相似。客户不必重新学习操作就能够立即掌握 enjiCAD。"
+          },
+          {
+            "title": "硬件配置要求低",
+            "description": "enjiCAD 与所有流行的文件格式（*.DWG、*.DXF、...）完全兼容"
+          },
+          {
+            "title": "成本比较",
+            "description": "操作系统：Windows 7以上 内存: 32 位 - 1GB（推荐超过 3GB） 64 位 - 2GB（推荐超过 4GB） 显示器：1024x768 VGA 以上 硬盘：1GB可用空间（推荐 3GB 以上）"
+          }
+        ],
+        "title": "越南工程师的enjiCAD-CAD软件",
+        "subtitle": "简介",
+        "description": "永久许可 ，一次性付费，熟悉的界面，多语言兼容性，优化的硬件性能，... 完全能替代 AutoCAD， 但节省超过 80% 的成本 enjiCAD 当前可用的版本： enjiCAD Standard Standalone enjiCAD Professional Standalone enjiCAD Professional Network"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.044Z",
+      "updated_at_utc": "2026-10-28T01:12:41.044Z"
+    },
+    {
+      "landing_page_section_id": "9e88c333-0b9c-4058-bb89-91fb8f98539b",
+      "landing_page_id": "04648612-dd8a-4bd3-ad2f-977544a2730c",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "SECTION2",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "简介",
+            "description": "永久许可 ，一次性付费，熟悉的界面，多语言兼容性，优化的硬件性能，... 完全能替代 AutoCAD， 但节省超过 80% 的成本 enjiCAD 当前可用的版本： enjiCAD Standard Standalone enjiCAD Professional Standalone enjiCAD Professional Network"
+          },
+          {
+            "title": "效果高-投资低",
+            "description": "enjiCAD 是专为工程师和建筑师，…专门制作的 CAD 软件。有永久的版权，客户不用每一年付版权费用。 enjiCAD 的永久版权费用比其他有名的CAD 软件一年使用的费用都低。"
+          },
+          {
+            "title": "熟悉的界面",
+            "description": "节省成本是enjiCAD的一大亮点。价格低但质量与其他同性能的昂贵CAD 软件相当。"
+          },
+          {
+            "title": "软件格式都按国际标准（DWG，DFX，...)",
+            "description": "enjiCAD 的界面和功能与其他流行CAD 软件相似。客户不必重新学习操作就能够立即掌握 enjiCAD。"
+          },
+          {
+            "title": "硬件配置要求低",
+            "description": "enjiCAD 与所有流行的文件格式（*.DWG、*.DXF、...）完全兼容"
+          },
+          {
+            "title": "成本比较",
+            "description": "操作系统：Windows 7以上 内存: 32 位 - 1GB（推荐超过 3GB） 64 位 - 2GB（推荐超过 4GB） 显示器：1024x768 VGA 以上 硬盘：1GB可用空间（推荐 3GB 以上）"
+          }
+        ],
+        "title": "越南工程师的enjiCAD-CAD软件",
+        "subtitle": "简介",
+        "description": "永久许可 ，一次性付费，熟悉的界面，多语言兼容性，优化的硬件性能，... 完全能替代 AutoCAD， 但节省超过 80% 的成本 enjiCAD 当前可用的版本： enjiCAD Standard Standalone enjiCAD Professional Standalone enjiCAD Professional Network"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.047Z",
+      "updated_at_utc": "2026-10-28T01:12:41.047Z"
+    },
+    {
+      "landing_page_section_id": "5c0eb24a-5585-42ac-a893-7bf3f42aea22",
+      "landing_page_id": "04648612-dd8a-4bd3-ad2f-977544a2730c",
+      "landing_section_type_code": "intro",
+      "section_anchor_id": "SECTION676",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "效果高-投资低",
+            "description": "enjiCAD 是专为工程师和建筑师，…专门制作的 CAD 软件。有永久的版权，客户不用每一年付版权费用。 enjiCAD 的永久版权费用比其他有名的CAD 软件一年使用的费用都低。"
+          },
+          {
+            "title": "熟悉的界面",
+            "description": "节省成本是enjiCAD的一大亮点。价格低但质量与其他同性能的昂贵CAD 软件相当。"
+          },
+          {
+            "title": "软件格式都按国际标准（DWG，DFX，...)",
+            "description": "enjiCAD 的界面和功能与其他流行CAD 软件相似。客户不必重新学习操作就能够立即掌握 enjiCAD。"
+          },
+          {
+            "title": "硬件配置要求低",
+            "description": "enjiCAD 与所有流行的文件格式（*.DWG、*.DXF、...）完全兼容"
+          },
+          {
+            "title": "成本比较",
+            "description": "操作系统：Windows 7以上 内存: 32 位 - 1GB（推荐超过 3GB） 64 位 - 2GB（推荐超过 4GB） 显示器：1024x768 VGA 以上 硬盘：1GB可用空间（推荐 3GB 以上）"
+          },
+          {
+            "title": "独立版与独立版",
+            "description": "将 ACAD - Stand，相同的许可证数量， 您将节省高达 85% 的成本。"
+          }
+        ],
+        "title": "简介",
+        "subtitle": "效果高-投资低",
+        "description": "enjiCAD 是专为工程师和建筑师，…专门制作的 CAD 软件。有永久的版权，客户不用每一年付版权费用。 enjiCAD 的永久版权费用比其他有名的CAD 软件一年使用的费用都低。"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.056Z",
+      "updated_at_utc": "2026-10-28T01:12:41.056Z"
+    },
+    {
+      "landing_page_section_id": "bd8c975d-4654-483a-a66f-bc6fcda81ce5",
+      "landing_page_id": "04648612-dd8a-4bd3-ad2f-977544a2730c",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "SECTION896",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "ACAD LT",
+            "description": "保单永久 支持低系统的计算机 使用编程语言（LISP / ARX / .NET / VBA） 比较图纸和数据 支持国际标准文件格式（.dwg/.dxf ....） ribbon/classic界面 支持字体格式 .shx 和 .ttf 自动图层功能 批量打印功能 自动清理图纸"
+          },
+          {
+            "title": "ACAD PRO",
+            "description": "永久版权 基本绘图、编辑和打印 CAD 图 版权证书形式(Standalone, Network) 扩展工具包 高级工具包 Omni-Channel Real Time SLA 支持高级编程语言 (LISP/ARX/.NET/VBA) 3D 绘图和阻塞功能"
+          },
+          {
+            "title": "11.900.000",
+            "description": "* 独立版：仅适用于 1 台计算机。这个版本能在线上或直接通过邮箱激活。如果客户想用其他计算机只要转移许可证。 ** 网络版：允许客户在多台计算机上安装 enjiCAD，在使用的计算机和购买的许可证数量相应时这个版本可以在主机进行启动。需要购买至少 5 个许可证。 *** 软件价格因软件选项（Standard、Pro、Mechanical...）、版本（Standalone、Network）、数量、...而有所不同 **** 价格已含税（根据越南法律，软件不征税）"
+          },
+          {
+            "title": "越南盾起",
+            "description": "Nhận ngay 1 iPad Wifi 32GB trị giá 8.500.000 VNĐ khi mua 2 licenses bản quyền phần mềm enjiCAD Professional hoặc 3 licenses bản quyền phần mềm enjiCAD Standard"
+          },
+          {
+            "title": "Mua enjiCAD Nhận ngay iPad !!!",
+            "description": "Mỗi khách hàng có thể nhận nhiều phần quà (iPAD Wifi 32GB) , tùy theo số lượng license bản quyền được mua"
+          },
+          {
+            "title": "Khuyến mãi",
+            "description": "Quà tặng có thể quy đổi thành tiền và chiết khấu trực tiếp vào giá mua phần mềm"
+          }
+        ],
+        "title": "功能比较",
+        "subtitle": "ACAD LT",
+        "description": "保单永久 支持低系统的计算机 使用编程语言（LISP / ARX / .NET / VBA） 比较图纸和数据 支持国际标准文件格式（.dwg/.dxf ....） ribbon/classic界面 支持字体格式 .shx 和 .ttf 自动图层功能 批量打印功能 自动清理图纸"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.072Z",
+      "updated_at_utc": "2026-10-28T01:12:41.072Z"
+    },
+    {
+      "landing_page_section_id": "bc38a230-82a1-44ff-93f8-527620438d80",
+      "landing_page_id": "04648612-dd8a-4bd3-ad2f-977544a2730c",
+      "landing_section_type_code": "catalog",
+      "section_anchor_id": "SECTION241",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "11.900.000",
+            "description": "永久版权 基本绘图、编辑和打印 CAD 图 版权证书形式(Standalone, Network) 扩展工具包 高级工具包 Omni-Channel Real Time SLA 支持高级编程语言 (LISP/ARX/.NET/VBA) 3D 绘图和阻塞功能"
+          },
+          {
+            "title": "越南盾起",
+            "description": "* 独立版：仅适用于 1 台计算机。这个版本能在线上或直接通过邮箱激活。如果客户想用其他计算机只要转移许可证。 ** 网络版：允许客户在多台计算机上安装 enjiCAD，在使用的计算机和购买的许可证数量相应时这个版本可以在主机进行启动。需要购买至少 5 个许可证。 *** 软件价格因软件选项（Standard、Pro、Mechanical...）、版本（Standalone、Network）、数量、...而有所不同 **** 价格已含税（根据越南法律，软件不征税）"
+          },
+          {
+            "title": "Mua enjiCAD Nhận ngay iPad !!!",
+            "description": "Nhận ngay 1 iPad Wifi 32GB trị giá 8.500.000 VNĐ khi mua 2 licenses bản quyền phần mềm enjiCAD Professional hoặc 3 licenses bản quyền phần mềm enjiCAD Standard"
+          },
+          {
+            "title": "Khuyến mãi",
+            "description": "Mỗi khách hàng có thể nhận nhiều phần quà (iPAD Wifi 32GB) , tùy theo số lượng license bản quyền được mua"
+          },
+          {
+            "title": "问答",
+            "description": "Quà tặng có thể quy đổi thành tiền và chiết khấu trực tiếp vào giá mua phần mềm"
+          },
+          {
+            "title": "enjiCAD的客户",
+            "description": "Chương trình bắt đầu từ ngày 12/12/2019 đến hết ngày 11/01/2020"
+          }
+        ],
+        "title": "ACAD PRO",
+        "subtitle": "11.900.000",
+        "description": "永久版权 基本绘图、编辑和打印 CAD 图 版权证书形式(Standalone, Network) 扩展工具包 高级工具包 Omni-Channel Real Time SLA 支持高级编程语言 (LISP/ARX/.NET/VBA) 3D 绘图和阻塞功能"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.135Z",
+      "updated_at_utc": "2026-10-28T01:12:41.135Z"
+    },
+    {
+      "landing_page_section_id": "af4535b6-a647-47be-ac20-73cdf6b12125",
+      "landing_page_id": "04648612-dd8a-4bd3-ad2f-977544a2730c",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "SECTION971",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Khuyến mãi",
+            "description": "Nhận ngay 1 iPad Wifi 32GB trị giá 8.500.000 VNĐ khi mua 2 licenses bản quyền phần mềm enjiCAD Professional hoặc 3 licenses bản quyền phần mềm enjiCAD Standard"
+          },
+          {
+            "title": "问答",
+            "description": "Mỗi khách hàng có thể nhận nhiều phần quà (iPAD Wifi 32GB) , tùy theo số lượng license bản quyền được mua"
+          },
+          {
+            "title": "enjiCAD的客户",
+            "description": "Quà tặng có thể quy đổi thành tiền và chiết khấu trực tiếp vào giá mua phần mềm"
+          },
+          {
+            "title": "联系",
+            "description": "Chương trình bắt đầu từ ngày 12/12/2019 đến hết ngày 11/01/2020"
+          },
+          {
+            "title": "Đăng ký nhận quà",
+            "description": "enjiCAD 是永久许可证吗？"
+          },
+          {
+            "title": "请填写以下信息，我们将通过电子邮件向您发送试用版：",
+            "description": "是的，enjiCAD 是永久的。"
+          }
+        ],
+        "title": "Mua enjiCAD Nhận ngay iPad !!!",
+        "subtitle": "Khuyến mãi",
+        "description": "Nhận ngay 1 iPad Wifi 32GB trị giá 8.500.000 VNĐ khi mua 2 licenses bản quyền phần mềm enjiCAD Professional hoặc 3 licenses bản quyền phần mềm enjiCAD Standard"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.169Z",
+      "updated_at_utc": "2026-10-28T01:12:41.169Z"
+    },
+    {
+      "landing_page_section_id": "0f83f59d-8a52-42af-a396-1b8c274e205e",
+      "landing_page_id": "04648612-dd8a-4bd3-ad2f-977544a2730c",
+      "landing_section_type_code": "requirements",
+      "section_anchor_id": "SECTION985",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "enjiCAD的客户",
+            "description": "enjiCAD 是永久许可证吗？"
+          },
+          {
+            "title": "联系",
+            "description": "是的，enjiCAD 是永久的。"
+          },
+          {
+            "title": "Điền thông tin nhận bản dùng thử",
+            "description": "我怎样才能拿到报价？"
+          },
+          {
+            "title": "Đăng ký nhận quà",
+            "description": "您可以直接在此页面上查询我们的销售价格。 如果您需要详细报价，请留下您的信息或直接与我们联系。"
+          },
+          {
+            "title": "请填写以下信息，我们将通过电子邮件向您发送试用版：",
+            "description": "enjiCAD和AutoCAD有什么关系？"
+          },
+          {
+            "title": "发送",
+            "description": "enjiCAD 和 AutoCAD 有很多相似的功能，但完全不相关。enjiCAD 通过增加对 .dwg 或 .dxf 数据的兼容性以及与 AutoCAD 的功能来开发，作为一种综合替代方案。"
+          }
+        ],
+        "title": "问答",
+        "subtitle": "enjiCAD的客户",
+        "description": "enjiCAD 是永久许可证吗？"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.175Z",
+      "updated_at_utc": "2026-10-28T01:12:41.175Z"
+    },
+    {
+      "landing_page_section_id": "6adcc8b4-7173-4e7b-9760-c735c04c8616",
+      "landing_page_id": "04648612-dd8a-4bd3-ad2f-977544a2730c",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "SECTION305",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Điền thông tin nhận bản dùng thử",
+            "description": "请填写正确信息，我们将通过您的邮箱发送下载试用版的链接"
+          },
+          {
+            "title": "请填写以下信息，我们将通过电子邮件向您发送试用版：",
+            "description": "请填写正确信息，我们将通过您的邮箱发送下载试用版的链接"
+          },
+          {
+            "title": "发送",
+            "description": "请填写正确信息，我们将通过您的邮箱发送下载试用版的链接"
+          },
+          {
+            "title": "地址：37号Le Dai Hanh路 Hai Ba Trung郡 河内（河内建设部）",
+            "description": "请填写正确信息，我们将通过您的邮箱发送下载试用版的链接"
+          },
+          {
+            "title": "热线：024 3974 6798 - 088 646 2020",
+            "description": "请填写正确信息，我们将通过您的邮箱发送下载试用版的链接"
+          },
+          {
+            "title": "电子邮件：cic.dcs@cic.com.vn",
+            "description": "请填写正确信息，我们将通过您的邮箱发送下载试用版的链接"
+          }
+        ],
+        "title": "联系",
+        "subtitle": "Điền thông tin nhận bản dùng thử",
+        "description": "请填写正确信息，我们将通过您的邮箱发送下载试用版的链接"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.180Z",
+      "updated_at_utc": "2026-10-28T01:12:41.180Z"
+    },
+    {
+      "landing_page_section_id": "d38ce175-7b7b-424f-8867-1f915143903f",
+      "landing_page_id": "04648612-dd8a-4bd3-ad2f-977544a2730c",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "SECTION305",
+      "section_order": 9,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Điền thông tin nhận bản dùng thử",
+            "description": "请填写正确信息，我们将通过您的邮箱发送下载试用版的链接"
+          },
+          {
+            "title": "请填写以下信息，我们将通过电子邮件向您发送试用版：",
+            "description": "请填写正确信息，我们将通过您的邮箱发送下载试用版的链接"
+          },
+          {
+            "title": "发送",
+            "description": "请填写正确信息，我们将通过您的邮箱发送下载试用版的链接"
+          },
+          {
+            "title": "地址：37号Le Dai Hanh路 Hai Ba Trung郡 河内（河内建设部）",
+            "description": "请填写正确信息，我们将通过您的邮箱发送下载试用版的链接"
+          },
+          {
+            "title": "热线：024 3974 6798 - 088 646 2020",
+            "description": "请填写正确信息，我们将通过您的邮箱发送下载试用版的链接"
+          },
+          {
+            "title": "电子邮件：cic.dcs@cic.com.vn",
+            "description": "请填写正确信息，我们将通过您的邮箱发送下载试用版的链接"
+          }
+        ],
+        "title": "联系",
+        "subtitle": "Điền thông tin nhận bản dùng thử",
+        "description": "请填写正确信息，我们将通过您的邮箱发送下载试用版的链接"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.187Z",
+      "updated_at_utc": "2026-10-28T01:12:41.187Z"
+    },
+    {
+      "landing_page_section_id": "fad94e9f-5c19-4740-87af-8ccc53ce3693",
+      "landing_page_id": "3add6a74-bfd9-46ab-b59c-d9d2a70f6fae",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "header",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Advantages",
+            "description": "Perpetual license, familiar interface, compatible with international CAD format, ACAD alternative, hardware optimization, ... enjiCAD not only can completely replace ACAD but also SAVE MORE THAN 80% COST"
+          },
+          {
+            "title": "Higher performance with lower cost",
+            "description": "enjiCAD is a specialized CAD software for Vietnamese engineers and companies. Pay once, use forever. enjiCAD perpetual license price is substantial lower than other popular subcription CAD softwares price."
+          },
+          {
+            "title": "Familiar interface",
+            "description": "Saving cost is a highlight advantage of enjiCAD. Having a lower price but enjiCAD's quality is equal to other costly CAD softwares."
+          },
+          {
+            "title": "International formats",
+            "description": "enjiCAD interface and features are similar to other popular CAD softwares. You don't have to re-familiarize yourself but be able to master enjiCAD immediately."
+          },
+          {
+            "title": "Low hardware configuration requirements",
+            "description": "enjiCAD is fully compatible with all popular file formats (*.DWG, *.DXF,...)"
+          },
+          {
+            "title": "Cost comparison",
+            "description": "Operating system: Windows XP and up RAM: 32 bit - 1GB (more than 3GB recommended) 64 bit - 2GB (more than 4GB recommended) Display: 1024x768 VGA and up Hard disk: 1GB (3GB and up recommended)"
+          }
+        ],
+        "title": "enjiCAD CAD software for Vietnamese engineer",
+        "logo_url": "/api/landing/media/enjicad/images/logo.png",
+        "subtitle": "Advantages",
+        "cta_label": "Register Now",
+        "nav_items": [
+          {
+            "href": "#intro",
+            "label": "Overview"
+          },
+          {
+            "href": "#advantages",
+            "label": "Advantages"
+          },
+          {
+            "href": "#catalog",
+            "label": "Solutions"
+          },
+          {
+            "href": "#comparison",
+            "label": "Pricing & Packages"
+          },
+          {
+            "href": "#faq",
+            "label": "FAQ"
+          }
+        ],
+        "brand_name": "EnjiCAD",
+        "description": "Perpetual license, familiar interface, compatible with international CAD format, ACAD alternative, hardware optimization, ... enjiCAD not only can completely replace ACAD but also SAVE MORE THAN 80% COST"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.410Z",
+      "updated_at_utc": "2026-10-28T01:12:41.410Z"
+    },
+    {
+      "landing_page_section_id": "1fe3dd03-d391-436c-a7e8-e8ddbc64fd81",
+      "landing_page_id": "3add6a74-bfd9-46ab-b59c-d9d2a70f6fae",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "hero",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "Sản Phẩm Công Nghệ Việt — Bản Quyền Vĩnh Viễn Tiết Kiệm 75%",
+        "items": [
+          {
+            "title": "Advantages",
+            "description": "Perpetual license, familiar interface, compatible with international CAD format, ACAD alternative, hardware optimization, ... enjiCAD not only can completely replace ACAD but also SAVE MORE THAN 80% COST"
+          },
+          {
+            "title": "Higher performance with lower cost",
+            "description": "enjiCAD is a specialized CAD software for Vietnamese engineers and companies. Pay once, use forever. enjiCAD perpetual license price is substantial lower than other popular subcription CAD softwares price."
+          },
+          {
+            "title": "Familiar interface",
+            "description": "Saving cost is a highlight advantage of enjiCAD. Having a lower price but enjiCAD's quality is equal to other costly CAD softwares."
+          },
+          {
+            "title": "International formats",
+            "description": "enjiCAD interface and features are similar to other popular CAD softwares. You don't have to re-familiarize yourself but be able to master enjiCAD immediately."
+          },
+          {
+            "title": "Low hardware configuration requirements",
+            "description": "enjiCAD is fully compatible with all popular file formats (*.DWG, *.DXF,...)"
+          },
+          {
+            "title": "Cost comparison",
+            "description": "Operating system: Windows XP and up RAM: 32 bit - 1GB (more than 3GB recommended) 64 bit - 2GB (more than 4GB recommended) Display: 1024x768 VGA and up Hard disk: 1GB (3GB and up recommended)"
+          }
+        ],
+        "stats": [
+          {
+            "label": "Chi phí đầu tư so với phần mềm CAD thuê bao ngoại nhập",
+            "value": "1/4"
+          },
+          {
+            "label": "Tương thích file .DWG từ R12 đến 2025 & bộ LISP sẵn có",
+            "value": "100%"
+          },
+          {
+            "label": "Bản quyền mua 1 lần dùng mãi mãi, không lo phí gia hạn",
+            "value": "Vĩnh Viễn"
+          },
+          {
+            "label": "Tích hợp sẵn thư viện & tiện ích vẽ nhanh theo tiêu chuẩn Việt Nam",
+            "value": "TCVN"
+          }
+        ],
+        "title": "enjiCAD CAD software for Vietnamese engineer",
+        "subtitle": "Advantages",
+        "description": "Perpetual license, familiar interface, compatible with international CAD format, ACAD alternative, hardware optimization, ... enjiCAD not only can completely replace ACAD but also SAVE MORE THAN 80% COST",
+        "hero_image_url": "/api/landing/media/enjicad/images/hero.png",
+        "primary_cta_href": "#consultation",
+        "primary_cta_label": "Download Trial & Quote",
+        "secondary_cta_href": "#comparison",
+        "secondary_cta_label": "View Brochure (PDF)"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.413Z",
+      "updated_at_utc": "2026-10-28T01:12:41.413Z"
+    },
+    {
+      "landing_page_section_id": "71045674-9430-43f3-9b57-d84a35f98bbd",
+      "landing_page_id": "3add6a74-bfd9-46ab-b59c-d9d2a70f6fae",
+      "landing_section_type_code": "intro",
+      "section_anchor_id": "intro",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "WHY CHOOSE CIC VIETNAM",
+        "items": [
+          {
+            "title": "Higher performance with lower cost",
+            "description": "enjiCAD is a specialized CAD software for Vietnamese engineers and companies. Pay once, use forever. enjiCAD perpetual license price is substantial lower than other popular subcription CAD softwares price."
+          },
+          {
+            "title": "Familiar interface",
+            "description": "Saving cost is a highlight advantage of enjiCAD. Having a lower price but enjiCAD's quality is equal to other costly CAD softwares."
+          },
+          {
+            "title": "International formats",
+            "description": "enjiCAD interface and features are similar to other popular CAD softwares. You don't have to re-familiarize yourself but be able to master enjiCAD immediately."
+          },
+          {
+            "title": "Low hardware configuration requirements",
+            "description": "enjiCAD is fully compatible with all popular file formats (*.DWG, *.DXF,...)"
+          },
+          {
+            "title": "Cost comparison",
+            "description": "Operating system: Windows XP and up RAM: 32 bit - 1GB (more than 3GB recommended) 64 bit - 2GB (more than 4GB recommended) Display: 1024x768 VGA and up Hard disk: 1GB (3GB and up recommended)"
+          },
+          {
+            "title": "Standalone vs standalone",
+            "description": "By replacing ACAD - Standalone version with enjiCAD Standalone version, same license quantity, you will save up to 85% cost."
+          }
+        ],
+        "title": "Advantages",
+        "subtitle": "Higher performance with lower cost",
+        "description": "enjiCAD is a specialized CAD software for Vietnamese engineers and companies. Pay once, use forever. enjiCAD perpetual license price is substantial lower than other popular subcription CAD softwares price."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.419Z",
+      "updated_at_utc": "2026-10-28T01:12:41.419Z"
+    },
+    {
+      "landing_page_section_id": "318d64f2-f86f-46c1-b909-43517c906c2d",
+      "landing_page_id": "3add6a74-bfd9-46ab-b59c-d9d2a70f6fae",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "advantages",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "KEY ADVANTAGES",
+        "items": [
+          {
+            "title": "ACAD LT",
+            "description": "Perpetual license Support low-end computer Use programming language (LISP / ARX / .NET / VBA) Compare drawings and figures International standards file formats (.dwg/.dxf….) Ribbon/Classic interface Support font formats .shx and .ttf Auto Layer feature Batch Print feature Automatically clean drawings"
+          },
+          {
+            "title": "ACAD PRO",
+            "description": "Perpetual License Drawing, Editing and Printing Standalone or Network license Extensive Tool Kit Advanced Tool Kit Omni-Channel Real Time SLA Programming Language (LISP/ARX/.NET/VBA) 3D Drawing and Dynamic Block Creation Feature"
+          },
+          {
+            "title": "CAD software for Vietnamese engineers",
+            "description": "* Standalone version: For only 1 PC. Deactivation is required when transferring licenses. ** Network version: Allows clients to install enjiCAD on unlimited number of PCs. Maximum applications running simultaneously is limited to number of license purchased. Need to buy at least 5 licenses. *** The software price varies depending on the software option (Standard, Pro, Mechanical,...) , version (Standalone, Network), quantity, ... **** The price includes tax (according to Vietnam laws, software is not subject to tax)"
+          },
+          {
+            "title": "enjiCAD Education",
+            "description": "enjiCAD Education is a free version for students, lecturers as well as universities, colleges, intermediate schools and other training organizations to create the best teaching, learning and research efficiency with copyrighted CAD software."
+          },
+          {
+            "title": "Q&A",
+            "description": "Students, Lecturers can register to receive a license to use enjiCAD Education software by registering here. If you are a Student, your license will be issued annually until you graduate."
+          },
+          {
+            "title": "Our Customers",
+            "description": "Universities, Colleges, Intermediate Schools and Education Organizations can register to use enjiCAD Education software for training and research purposes. After your school registers, we will contact you to complete the cooperation procedures."
+          }
+        ],
+        "title": "Features comparison",
+        "subtitle": "ACAD LT",
+        "description": "Perpetual license Support low-end computer Use programming language (LISP / ARX / .NET / VBA) Compare drawings and figures International standards file formats (.dwg/.dxf….) Ribbon/Classic interface Support font formats .shx and .ttf Auto Layer feature Batch Print feature Automatically clean drawings"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.423Z",
+      "updated_at_utc": "2026-10-28T01:12:41.423Z"
+    },
+    {
+      "landing_page_section_id": "7366f526-add3-4809-9321-1f3a29e08452",
+      "landing_page_id": "3add6a74-bfd9-46ab-b59c-d9d2a70f6fae",
+      "landing_section_type_code": "catalog",
+      "section_anchor_id": "catalog",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "PRODUCT MODULES",
+        "items": [
+          {
+            "title": "CAD software for Vietnamese engineers",
+            "description": "Perpetual License Drawing, Editing and Printing Standalone or Network license Extensive Tool Kit Advanced Tool Kit Omni-Channel Real Time SLA Programming Language (LISP/ARX/.NET/VBA) 3D Drawing and Dynamic Block Creation Feature"
+          },
+          {
+            "title": "enjiCAD Education",
+            "description": "* Standalone version: For only 1 PC. Deactivation is required when transferring licenses. ** Network version: Allows clients to install enjiCAD on unlimited number of PCs. Maximum applications running simultaneously is limited to number of license purchased. Need to buy at least 5 licenses. *** The software price varies depending on the software option (Standard, Pro, Mechanical,...) , version (Standalone, Network), quantity, ... **** The price includes tax (according to Vietnam laws, software is not subject to tax)"
+          },
+          {
+            "title": "Q&A",
+            "description": "enjiCAD Education is a free version for students, lecturers as well as universities, colleges, intermediate schools and other training organizations to create the best teaching, learning and research efficiency with copyrighted CAD software."
+          },
+          {
+            "title": "Our Customers",
+            "description": "Students, Lecturers can register to receive a license to use enjiCAD Education software by registering here. If you are a Student, your license will be issued annually until you graduate."
+          },
+          {
+            "title": "Free trial",
+            "description": "Universities, Colleges, Intermediate Schools and Education Organizations can register to use enjiCAD Education software for training and research purposes. After your school registers, we will contact you to complete the cooperation procedures."
+          },
+          {
+            "title": "Students",
+            "description": "*Note: Education licenses are not allowed to be used for commercial purposes or any other for-profit purposes"
+          }
+        ],
+        "title": "ACAD PRO",
+        "subtitle": "CAD software for Vietnamese engineers",
+        "description": "Perpetual License Drawing, Editing and Printing Standalone or Network license Extensive Tool Kit Advanced Tool Kit Omni-Channel Real Time SLA Programming Language (LISP/ARX/.NET/VBA) 3D Drawing and Dynamic Block Creation Feature"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.426Z",
+      "updated_at_utc": "2026-10-28T01:12:41.426Z"
+    },
+    {
+      "landing_page_section_id": "9c2f9f88-04bf-4a8c-b03e-bc3cdbe07d3b",
+      "landing_page_id": "3add6a74-bfd9-46ab-b59c-d9d2a70f6fae",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "comparison",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "LICENSING & PACKAGES",
+        "items": [],
+        "title": "Lựa chọn gói giải pháp EnjiCAD phù hợp nhất",
+        "pdf_url": "/api/landing/media/enjicad/downloads/brochure.pdf",
+        "packages": [
+          {
+            "name": "EnjiCAD Standalone (Khóa Đơn)",
+            "price": "Bản quyền Vĩnh viễn",
+            "period": "Mua 1 lần — Sử dụng trọn đời",
+            "features": [
+              "Kích hoạt cố định theo từng máy",
+              "Đầy đủ tính năng 2D/3D & LISP",
+              "Hỗ trợ kỹ thuật trực tiếp từ CIC"
+            ],
+            "cta_label": "Tải Bản Dùng Thử Ngay",
+            "description": "Phù hợp cho kỹ sư thiết kế độc lập hoặc các phòng thiết kế cố định máy trạm."
+          },
+          {
+            "name": "EnjiCAD Network (Khóa Mạng)",
+            "badge": "DOANH NGHIỆP ƯA CHUỘNG",
+            "price": "Tối ưu cho Doanh nghiệp",
+            "period": "Chia sẻ linh hoạt trong mạng LAN/VPN",
+            "features": [
+              "Cài đặt không giới hạn số máy trong công ty",
+              "Quản lý số người dùng đồng thời thông minh",
+              "Tặng kèm bộ Thư viện LISP & Block chuẩn CIC",
+              "Cấp giấy chứng nhận bản quyền chính hãng"
+            ],
+            "cta_label": "Nhận Báo Giá Ưu Đãi",
+            "highlight": true,
+            "description": "Giải pháp tiết kiệm nhất cho công ty tư vấn thiết kế và nhà thầu có từ 5 máy trở lên."
+          },
+          {
+            "name": "EnjiCAD Enterprise Combo",
+            "price": "Chính sách Tập đoàn",
+            "period": "Trang bị số lượng lớn (>20 Licenses)",
+            "features": [
+              "Chiết khấu bậc thang hấp dẫn",
+              "Tùy biến bộ LISP riêng theo yêu cầu",
+              "Đào tạo & cài đặt tận nơi"
+            ],
+            "cta_label": "Liên Hệ Chuyên Gia CIC",
+            "description": "Dành cho các Tổng công ty, Viện thiết kế cần chuẩn hóa bản quyền CAD toàn đơn vị."
+          }
+        ],
+        "subtitle": "Chính sách cấp phép linh hoạt kèm dịch vụ đào tạo và hỗ trợ kỹ thuật trực tiếp từ đội ngũ chuyên gia CIC.",
+        "description": "",
+        "modal_title": "Tài Liệu Kỹ Thuật & So Sánh Phiên Bản — EnjiCAD",
+        "pdf_cta_label": "XEM TÀI LIỆU SO SÁNH & BROCHURE (PDF)",
+        "modal_download_label": "Tải Xuống Tài Liệu PDF",
+        "modal_register_label": "Nhận Tư Vấn & Báo Giá Chi Tiết"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.430Z",
+      "updated_at_utc": "2026-10-28T01:12:41.430Z"
+    },
+    {
+      "landing_page_section_id": "6645abe6-e019-476a-994a-f0a69d3787b1",
+      "landing_page_id": "3add6a74-bfd9-46ab-b59c-d9d2a70f6fae",
+      "landing_section_type_code": "resources",
+      "section_anchor_id": "resources",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "DOCUMENTATION & RESOURCES",
+        "items": [
+          {
+            "title": "Tài liệu Hướng dẫn & Giáo trình Tiếng Việt",
+            "highlights": [
+              "Hướng dẫn cài đặt & kích hoạt bản quyền",
+              "Quy trình thực hành theo tiêu chuẩn Việt Nam"
+            ],
+            "description": "Biên soạn độc quyền bởi các chuyên gia kỹ thuật tại Công ty Cổ phần Công nghệ và Tư vấn CIC."
+          },
+          {
+            "title": "Chứng nhận Bản quyền Chính hãng & Hồ sơ Pháp lý",
+            "highlights": [
+              "Hợp lệ 100% khi thanh kiểm tra bản quyền",
+              "Hỗ trợ quản lý tài sản phần mềm doanh nghiệp"
+            ],
+            "description": "Cung cấp đầy đủ Giấy chứng nhận bản quyền, hóa đơn GTGT và hồ sơ phục vụ kiểm toán, đấu thầu quốc tế."
+          }
+        ],
+        "title": "Thư viện Tài liệu, Bộ cài đặt & Quy trình chuyển giao chuẩn CIC",
+        "subtitle": "Đầy đủ tài liệu hướng dẫn tiếng Việt, video đào tạo và đội ngũ kỹ sư CIC đồng hành trong suốt quá trình sử dụng.",
+        "description": ""
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.439Z",
+      "updated_at_utc": "2026-10-28T01:12:41.439Z"
+    },
+    {
+      "landing_page_section_id": "720b98bb-9344-4ddc-a785-6da042c3e531",
+      "landing_page_id": "3add6a74-bfd9-46ab-b59c-d9d2a70f6fae",
+      "landing_section_type_code": "faq",
+      "section_anchor_id": "faq",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "FREQUENTLY ASKED QUESTIONS",
+        "items": [
+          {
+            "a": "Quý khách chỉ cần điền thông tin tại biểu mẫu Đăng ký tư vấn bên dưới. Hệ thống sẽ cung cấp ngay tài liệu/bộ cài dùng thử và chuyên gia CIC sẽ gửi báo giá ưu đãi trong vòng 15 phút làm việc.",
+            "q": "Làm thế nào để nhận bản dùng thử và báo giá chính thức EnjiCAD từ CIC?"
+          },
+          {
+            "a": "Có. Với tư cách là đối tác phân phối chính thức tại Việt Nam từ năm 1990, CIC cung cấp đầy đủ chứng nhận bản quyền chính hãng, hóa đơn tài chính hợp lệ và dịch vụ đào tạo kỹ thuật tận nơi hoặc trực tuyến.",
+            "q": "CIC có hỗ trợ cài đặt, đào tạo chuyển giao và xuất hóa đơn GTGT đầy đủ không?"
+          },
+          {
+            "a": "Tùy theo đặc thù vận hành, kỹ sư CIC sẽ tư vấn hình thức Single-user (Named User) hoặc Network Floating License qua mạng LAN/VPN giúp tối ưu chi phí đầu tư cho doanh nghiệp.",
+            "q": "Doanh nghiệp có nhiều chi nhánh hoặc làm việc từ xa thì nên chọn hình thức cấp phép nào?"
+          }
+        ],
+        "title": "Giải đáp thắc mắc về EnjiCAD",
+        "subtitle": "Những câu hỏi phổ biến nhất từ các doanh nghiệp khi triển khai bản quyền và giải pháp tại CIC.",
+        "description": ""
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.442Z",
+      "updated_at_utc": "2026-10-28T01:12:41.442Z"
+    },
+    {
+      "landing_page_section_id": "1e733749-83fa-485f-b6ac-b7be89eef0a2",
+      "landing_page_id": "3add6a74-bfd9-46ab-b59c-d9d2a70f6fae",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "consultation",
+      "section_order": 9,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "FREE CONSULTATION & TRIAL",
+        "items": [
+          {
+            "title": "Trial Registration",
+            "description": "Please leave information below, we will send the trail version via your email:"
+          },
+          {
+            "title": "Register to receive enjiCAD Education",
+            "description": "Please fill in the correct information, we will check the information and send you the installation file via your email"
+          },
+          {
+            "title": "Please fill information below, we'll send you the trial via email:",
+            "description": "Please fill in the correct information, we will contact to discuss and provide enjiCAD Education as soon as possible"
+          },
+          {
+            "title": "SEND",
+            "description": "Please leave information below, we will send the trail version via your email:"
+          },
+          {
+            "title": "Address: 37 Le Dai Hanh Str. - Hai Ba Trung Distr. - Hanoi (inside the Ministry of Construction)",
+            "description": "Please leave information below, we will send the trail version via your email:"
+          },
+          {
+            "title": "Hotline: 024 3974 6798 - 088 646 2020",
+            "description": "Please leave information below, we will send the trail version via your email:"
+          }
+        ],
+        "title": "Contact",
+        "benefits": [
+          "Tải ngay Tài liệu kỹ thuật, Brochure & Bộ cài đặt dùng thử chính thức",
+          "Nhận báo giá ưu đãi đặc biệt dành cho doanh nghiệp từ CIC",
+          "Hỗ trợ cài đặt, giải đáp kỹ thuật 1-1 bởi đội ngũ kỹ sư giàu kinh nghiệm",
+          "Cam kết bảo mật 100% thông tin doanh nghiệp và dự án"
+        ],
+        "subtitle": "Trial Registration",
+        "description": "Please leave information below, we will send the trail version via your email:",
+        "modal_title": "Tài Liệu & Bộ Cài Đặt Đã Sẵn Sàng!",
+        "submit_label": "Gửi Yêu Cầu & Nhận Tài Liệu Ngay",
+        "modal_description": "Cảm ơn Quý khách đã đăng ký! Quý khách có thể bấm vào nút bên dưới để tải ngay tài liệu/bộ cài đặt hoặc chờ chuyên gia CIC liên hệ trong ít phút:",
+        "modal_button_label": "Tải Tài Liệu & Bộ Cài Đặt Ngay"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.453Z",
+      "updated_at_utc": "2026-10-28T01:12:41.453Z"
+    },
+    {
+      "landing_page_section_id": "40705731-a634-4773-af9e-6f519b3eb0fd",
+      "landing_page_id": "3add6a74-bfd9-46ab-b59c-d9d2a70f6fae",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "footer",
+      "section_order": 10,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "email": "info@cic.com.vn",
+        "items": [],
+        "title": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt",
+        "address": "Trụ sở chính: Số 37 Lê Văn Thiêm, Phường Nhân Chính, Quận Thanh Xuân, TP. Hà Nội | Chi nhánh TP.HCM: Số 36 Nguyễn Huy Lượng, Phường 14, Quận Bình Thạnh",
+        "hotline": "0866 059 659",
+        "subtitle": "",
+        "copyright": "© 2026 Công ty Cổ phần Công nghệ và Tư vấn CIC. Bảo lưu mọi quyền cho chuyên trang enjicad.vn.",
+        "description": "Đơn vị tiên phong từ năm 1990 trong lĩnh vực cung cấp phần mềm bản quyền, thiết bị công nghệ, tư vấn BIM và chuyển đổi số ngành Xây dựng tại Việt Nam.",
+        "company_name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ TƯ VẤN CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.458Z",
+      "updated_at_utc": "2026-10-28T01:12:41.458Z"
+    },
+    {
+      "landing_page_section_id": "cfa6c1ab-8e83-46fd-8ac2-703de77052ae",
+      "landing_page_id": "3add6a74-bfd9-46ab-b59c-d9d2a70f6fae",
+      "landing_section_type_code": "floating_cta",
+      "section_anchor_id": "floating_cta",
+      "section_order": 11,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [],
+        "title": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt",
+        "hotline": "0866 059 659",
+        "subtitle": "",
+        "zalo_url": "https://zalo.me/0866059659",
+        "cta_label": "Đăng Ký Tư Vấn",
+        "description": ""
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.463Z",
+      "updated_at_utc": "2026-10-28T01:12:41.463Z"
+    },
+    {
+      "landing_page_section_id": "1144140f-920b-4f30-8937-61011ad5b9eb",
+      "landing_page_id": "dbd7217b-be5a-471f-93f5-c270c834a08c",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "header",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Giới thiệu",
+            "description": "Bản quyền trọn đời trả phí 1 lần , giao diện quen thuộc, khả năng tương thích đa dạng ngôn ngữ, tối ưu hiệu suất phần cứng, ... Thay thế hoàn toàn cho AutoCAD nhưng TIẾT KIỆM HƠN 80% CHI PHÍ enjiCAD hiện có các phiên bản: enjiCAD Standard Standalone enjiCAD Standard Network enjiCAD Professional Standalone enjiCAD Professional Network"
+          },
+          {
+            "title": "Hiệu năng cao với chi phí đầu tư thấp",
+            "description": "enjiCAD là phần mềm CAD dành riêng cho người Việt với bản quyền vĩnh viễn. Giá mua bản quyền vĩnh viễn của enjiCAD còn thấp hơn giá thuê bao 01 năm của phần mềm CAD nổi tiếng khác."
+          },
+          {
+            "title": "Giao diện quen thuộc",
+            "description": "Giá rẻ là một trong những lợi ích lớn mà enjiCAD đem lại. Giá rẻ nhưng chất lượng sản phẩm không hề thua kém phần mềm đắt tiền khác có cùng tính năng."
+          },
+          {
+            "title": "Định dạng file theo chuẩn quốc tế",
+            "description": "Giao diện, tính năng hoàn toàn giống phần mềm CAD nổi tiếng khác. Bạn sẽ không phải làm quen lại mà có thể sử dụng thành thạo enjiCAD ngay lập tức."
+          },
+          {
+            "title": "Cấu hình yêu cầu thấp",
+            "description": "enjiCAD hoàn toàn tương thích với các định dạng file phổ biến như *.DWG, *.DXF,..."
+          },
+          {
+            "title": "So sánh chi phí",
+            "description": "Hệ điều hành: Windows 7 trở lên RAM: 32 bit - 1GB (nên 3GB trở lên) 64 bit - 2GB (nên 4GB trở lên) Màn hình: tối thiểu 1024x768 VGA Ổ cứng: trống 1GB (nên 3GB trở lên)"
+          }
+        ],
+        "title": "enjiCAD Phần mềm CAD cho kỹ sư Việt",
+        "logo_url": "/api/landing/media/enjicad/images/logo.png",
+        "subtitle": "Giới thiệu",
+        "cta_label": "Đăng Ký Tư Vấn",
+        "nav_items": [
+          {
+            "href": "#intro",
+            "label": "Tổng quan"
+          },
+          {
+            "href": "#advantages",
+            "label": "Ưu điểm"
+          },
+          {
+            "href": "#catalog",
+            "label": "Giải pháp"
+          },
+          {
+            "href": "#comparison",
+            "label": "Các gói & So sánh"
+          },
+          {
+            "href": "#faq",
+            "label": "Hỏi đáp"
+          }
+        ],
+        "brand_name": "EnjiCAD",
+        "description": "Bản quyền trọn đời trả phí 1 lần , giao diện quen thuộc, khả năng tương thích đa dạng ngôn ngữ, tối ưu hiệu suất phần cứng, ... Thay thế hoàn toàn cho AutoCAD nhưng TIẾT KIỆM HƠN 80% CHI PHÍ enjiCAD hiện có các phiên bản: enjiCAD Standard Standalone enjiCAD Standard Network enjiCAD Professional Standalone enjiCAD Professional Network"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.214Z",
+      "updated_at_utc": "2026-10-28T01:12:42.214Z"
+    },
+    {
+      "landing_page_section_id": "717ee9b1-a086-4774-afc1-05f068296c7d",
+      "landing_page_id": "dbd7217b-be5a-471f-93f5-c270c834a08c",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "hero",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "Sản Phẩm Công Nghệ Việt — Bản Quyền Vĩnh Viễn Tiết Kiệm 75%",
+        "items": [
+          {
+            "title": "Giới thiệu",
+            "description": "Bản quyền trọn đời trả phí 1 lần , giao diện quen thuộc, khả năng tương thích đa dạng ngôn ngữ, tối ưu hiệu suất phần cứng, ... Thay thế hoàn toàn cho AutoCAD nhưng TIẾT KIỆM HƠN 80% CHI PHÍ enjiCAD hiện có các phiên bản: enjiCAD Standard Standalone enjiCAD Standard Network enjiCAD Professional Standalone enjiCAD Professional Network"
+          },
+          {
+            "title": "Hiệu năng cao với chi phí đầu tư thấp",
+            "description": "enjiCAD là phần mềm CAD dành riêng cho người Việt với bản quyền vĩnh viễn. Giá mua bản quyền vĩnh viễn của enjiCAD còn thấp hơn giá thuê bao 01 năm của phần mềm CAD nổi tiếng khác."
+          },
+          {
+            "title": "Giao diện quen thuộc",
+            "description": "Giá rẻ là một trong những lợi ích lớn mà enjiCAD đem lại. Giá rẻ nhưng chất lượng sản phẩm không hề thua kém phần mềm đắt tiền khác có cùng tính năng."
+          },
+          {
+            "title": "Định dạng file theo chuẩn quốc tế",
+            "description": "Giao diện, tính năng hoàn toàn giống phần mềm CAD nổi tiếng khác. Bạn sẽ không phải làm quen lại mà có thể sử dụng thành thạo enjiCAD ngay lập tức."
+          },
+          {
+            "title": "Cấu hình yêu cầu thấp",
+            "description": "enjiCAD hoàn toàn tương thích với các định dạng file phổ biến như *.DWG, *.DXF,..."
+          },
+          {
+            "title": "So sánh chi phí",
+            "description": "Hệ điều hành: Windows 7 trở lên RAM: 32 bit - 1GB (nên 3GB trở lên) 64 bit - 2GB (nên 4GB trở lên) Màn hình: tối thiểu 1024x768 VGA Ổ cứng: trống 1GB (nên 3GB trở lên)"
+          }
+        ],
+        "stats": [
+          {
+            "label": "Chi phí đầu tư so với phần mềm CAD thuê bao ngoại nhập",
+            "value": "1/4"
+          },
+          {
+            "label": "Tương thích file .DWG từ R12 đến 2025 & bộ LISP sẵn có",
+            "value": "100%"
+          },
+          {
+            "label": "Bản quyền mua 1 lần dùng mãi mãi, không lo phí gia hạn",
+            "value": "Vĩnh Viễn"
+          },
+          {
+            "label": "Tích hợp sẵn thư viện & tiện ích vẽ nhanh theo tiêu chuẩn Việt Nam",
+            "value": "TCVN"
+          }
+        ],
+        "title": "enjiCAD Phần mềm CAD cho kỹ sư Việt",
+        "subtitle": "Giới thiệu",
+        "description": "Bản quyền trọn đời trả phí 1 lần , giao diện quen thuộc, khả năng tương thích đa dạng ngôn ngữ, tối ưu hiệu suất phần cứng, ... Thay thế hoàn toàn cho AutoCAD nhưng TIẾT KIỆM HƠN 80% CHI PHÍ enjiCAD hiện có các phiên bản: enjiCAD Standard Standalone enjiCAD Standard Network enjiCAD Professional Standalone enjiCAD Professional Network",
+        "hero_image_url": "/api/landing/media/enjicad/images/hero.png",
+        "primary_cta_href": "#consultation",
+        "primary_cta_label": "Đăng Ký Dùng Thử & Nhận Báo Giá",
+        "secondary_cta_href": "#comparison",
+        "secondary_cta_label": "Xem Tài Liệu & Bảng Giá"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.225Z",
+      "updated_at_utc": "2026-10-28T01:12:42.225Z"
+    },
+    {
+      "landing_page_section_id": "2c7b4408-4fdc-417d-bbe9-d1ddd373f965",
+      "landing_page_id": "dbd7217b-be5a-471f-93f5-c270c834a08c",
+      "landing_section_type_code": "intro",
+      "section_anchor_id": "intro",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "GIẢI PHÁP CHÍNH HÃNG PHÂN PHỐI BỞI CIC",
+        "items": [
+          {
+            "title": "Hiệu năng cao với chi phí đầu tư thấp",
+            "description": "Giao diện thay đổi trực quan và khoa học"
+          },
+          {
+            "title": "Giao diện quen thuộc",
+            "description": "Hàng trăm công cụ nâng cao thông minh nâng cao hiệu suất"
+          },
+          {
+            "title": "Định dạng file theo chuẩn quốc tế",
+            "description": "Tính năng mới update như Merge Drawing, bộ công cụ Parametric Constraints, Dwg compare, Centermark..."
+          },
+          {
+            "title": "Cấu hình yêu cầu thấp",
+            "description": "Cải tiến công cụ import PDF, Plot PDF hỗ trợ tối ưu công đoạn xuất/ nhập dữ liệu"
+          },
+          {
+            "title": "So sánh chi phí",
+            "description": "Thêm version dành cho MacOS"
+          },
+          {
+            "title": "Bản đơn vs Bản đơn",
+            "description": "Nâng cao giao tiếp với hàng loạt định dạng file RVT, STP, IGES, IFC..."
+          }
+        ],
+        "title": "Giới thiệu",
+        "subtitle": "Hiệu năng cao với chi phí đầu tư thấp",
+        "description": "Giao diện thay đổi trực quan và khoa học"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.240Z",
+      "updated_at_utc": "2026-10-28T01:12:42.240Z"
+    },
+    {
+      "landing_page_section_id": "6e98ac24-b3bf-4351-ab6f-23c05b8143b8",
+      "landing_page_id": "dbd7217b-be5a-471f-93f5-c270c834a08c",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "advantages",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "ƯU ĐIỂM VƯỢT TRỘI",
+        "items": [
+          {
+            "title": "ACAD LT",
+            "description": "Giao diện thay đổi trực quan và khoa học"
+          },
+          {
+            "title": "ACAD PRO",
+            "description": "Hàng trăm công cụ nâng cao thông minh nâng cao hiệu suất"
+          },
+          {
+            "title": "Phần mềm CAD cho kỹ sư người Việt",
+            "description": "Tính năng mới update như Merge Drawing, bộ công cụ Parametric Constraints, Dwg compare, Centermark..."
+          },
+          {
+            "title": "CÁC PHIÊN BẢN enjiCAD",
+            "description": "Cải tiến công cụ import PDF, Plot PDF hỗ trợ tối ưu công đoạn xuất/ nhập dữ liệu"
+          },
+          {
+            "title": "2026",
+            "description": "Thêm version dành cho MacOS"
+          },
+          {
+            "title": "Version",
+            "description": "Nâng cao giao tiếp với hàng loạt định dạng file RVT, STP, IGES, IFC..."
+          }
+        ],
+        "title": "So sánh tính năng",
+        "subtitle": "ACAD LT",
+        "description": "Giao diện thay đổi trực quan và khoa học"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.247Z",
+      "updated_at_utc": "2026-10-28T01:12:42.247Z"
+    },
+    {
+      "landing_page_section_id": "85ee9c18-cd8d-4680-8517-9d673d8a06d7",
+      "landing_page_id": "dbd7217b-be5a-471f-93f5-c270c834a08c",
+      "landing_section_type_code": "catalog",
+      "section_anchor_id": "catalog",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "DANH MỤC GIẢI PHÁP & MÔ-ĐUN CHUYÊN SÂU",
+        "items": [
+          {
+            "title": "Phần mềm CAD cho kỹ sư người Việt",
+            "description": "Giao diện thay đổi trực quan và khoa học"
+          },
+          {
+            "title": "CÁC PHIÊN BẢN enjiCAD",
+            "description": "Hàng trăm công cụ nâng cao thông minh nâng cao hiệu suất"
+          },
+          {
+            "title": "2026",
+            "description": "Tính năng mới update như Merge Drawing, bộ công cụ Parametric Constraints, Dwg compare, Centermark..."
+          },
+          {
+            "title": "Version",
+            "description": "Cải tiến công cụ import PDF, Plot PDF hỗ trợ tối ưu công đoạn xuất/ nhập dữ liệu"
+          },
+          {
+            "title": "Phiên bản mới nhất",
+            "description": "Thêm version dành cho MacOS"
+          },
+          {
+            "title": "2025",
+            "description": "Nâng cao giao tiếp với hàng loạt định dạng file RVT, STP, IGES, IFC..."
+          }
+        ],
+        "title": "ACAD PRO",
+        "subtitle": "Phần mềm CAD cho kỹ sư người Việt",
+        "description": "Giao diện thay đổi trực quan và khoa học"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.260Z",
+      "updated_at_utc": "2026-10-28T01:12:42.260Z"
+    },
+    {
+      "landing_page_section_id": "e0d61889-9988-431a-948f-2090667ca217",
+      "landing_page_id": "dbd7217b-be5a-471f-93f5-c270c834a08c",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "comparison",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "CÁC GÓI BẢN QUYỀN & TÀI LIỆU SO SÁNH",
+        "items": [
+          {
+            "title": "2026",
+            "description": "Giao diện thay đổi trực quan và khoa học"
+          },
+          {
+            "title": "Version",
+            "description": "Hàng trăm công cụ nâng cao thông minh nâng cao hiệu suất"
+          },
+          {
+            "title": "Phiên bản mới nhất",
+            "description": "Tính năng mới update như Merge Drawing, bộ công cụ Parametric Constraints, Dwg compare, Centermark..."
+          },
+          {
+            "title": "2025",
+            "description": "Cải tiến công cụ import PDF, Plot PDF hỗ trợ tối ưu công đoạn xuất/ nhập dữ liệu"
+          },
+          {
+            "title": "Verson",
+            "description": "Thêm version dành cho MacOS"
+          },
+          {
+            "title": "Phiên bản cải thiện",
+            "description": "Nâng cao giao tiếp với hàng loạt định dạng file RVT, STP, IGES, IFC..."
+          }
+        ],
+        "title": "CÁC PHIÊN BẢN enjiCAD",
+        "pdf_url": "/api/landing/media/enjicad/downloads/brochure.pdf",
+        "packages": [
+          {
+            "name": "EnjiCAD Standalone (Khóa Đơn)",
+            "price": "Bản quyền Vĩnh viễn",
+            "period": "Mua 1 lần — Sử dụng trọn đời",
+            "features": [
+              "Kích hoạt cố định theo từng máy",
+              "Đầy đủ tính năng 2D/3D & LISP",
+              "Hỗ trợ kỹ thuật trực tiếp từ CIC"
+            ],
+            "cta_label": "Tải Bản Dùng Thử Ngay",
+            "description": "Phù hợp cho kỹ sư thiết kế độc lập hoặc các phòng thiết kế cố định máy trạm."
+          },
+          {
+            "name": "EnjiCAD Network (Khóa Mạng)",
+            "badge": "DOANH NGHIỆP ƯA CHUỘNG",
+            "price": "Tối ưu cho Doanh nghiệp",
+            "period": "Chia sẻ linh hoạt trong mạng LAN/VPN",
+            "features": [
+              "Cài đặt không giới hạn số máy trong công ty",
+              "Quản lý số người dùng đồng thời thông minh",
+              "Tặng kèm bộ Thư viện LISP & Block chuẩn CIC",
+              "Cấp giấy chứng nhận bản quyền chính hãng"
+            ],
+            "cta_label": "Nhận Báo Giá Ưu Đãi",
+            "highlight": true,
+            "description": "Giải pháp tiết kiệm nhất cho công ty tư vấn thiết kế và nhà thầu có từ 5 máy trở lên."
+          },
+          {
+            "name": "EnjiCAD Enterprise Combo",
+            "price": "Chính sách Tập đoàn",
+            "period": "Trang bị số lượng lớn (>20 Licenses)",
+            "features": [
+              "Chiết khấu bậc thang hấp dẫn",
+              "Tùy biến bộ LISP riêng theo yêu cầu",
+              "Đào tạo & cài đặt tận nơi"
+            ],
+            "cta_label": "Liên Hệ Chuyên Gia CIC",
+            "description": "Dành cho các Tổng công ty, Viện thiết kế cần chuẩn hóa bản quyền CAD toàn đơn vị."
+          }
+        ],
+        "subtitle": "2026",
+        "description": "Giao diện thay đổi trực quan và khoa học",
+        "modal_title": "Tài Liệu Kỹ Thuật & So Sánh Phiên Bản — EnjiCAD",
+        "pdf_cta_label": "XEM TÀI LIỆU SO SÁNH & BROCHURE (PDF)",
+        "modal_download_label": "Tải Xuống Tài Liệu PDF",
+        "modal_register_label": "Nhận Tư Vấn & Báo Giá Chi Tiết"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.271Z",
+      "updated_at_utc": "2026-10-28T01:12:42.271Z"
+    },
+    {
+      "landing_page_section_id": "6ae0eca7-f89c-40ee-9431-d605949b730b",
+      "landing_page_id": "dbd7217b-be5a-471f-93f5-c270c834a08c",
+      "landing_section_type_code": "resources",
+      "section_anchor_id": "resources",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "TÀI NGUYÊN & HỖ TRỢ KỸ THUẬT",
+        "items": [
+          {
+            "title": "Hỏi đáp",
+            "description": "enjiCAD Education là phiên bản hoàn toàn miễn phí dành cho sinh viên, giảng viên cũng như các trường Đại học, Cao đẳng, Trung cấp và các Tổ chức đào tạo khác nhằm tạo hiệu quả giảng dạy, học tập và nghiên cứu tốt nhất với phần mềm CAD có bản quyền."
+          },
+          {
+            "title": "Một số khách hàng tiêu biểu",
+            "description": "Sinh viên, Giảng viên có thể đăng ký nhận bản quyền sử dụng phần mềm enjiCAD Education bằng cách đăng ký tại đây, chúng tôi sẽ xác minh thông tin và gửi file cài đặt tới bạn. Nếu bạn là Sinh viên, bản quyền sẽ được cấp hàng năm cho đến khi bạn ra trường."
+          },
+          {
+            "title": "Liên hệ",
+            "description": "Với các trường Đại học, Cao đẳng, Trung cấp và các Tổ chức đào tạo, sau khi Quý nhà trường đăng ký, chúng tôi sẽ liên hệ lại để hoàn thiện các thủ tục hợp tác."
+          },
+          {
+            "title": "Đăng ký",
+            "description": "*Lưu ý: Các license Education không được phép sử dụng với mục đích thương mại hoặc bất kì mục đích vì lợi nhuận nào khác"
+          },
+          {
+            "title": "Vui lòng để lại thông tin, chúng tôi sẽ gửi bản dùng thử qua email của bạn:",
+            "description": "Tại sao phần mềm CAD cho kỹ sư Việt lại không sử dụng giao diện tiếng Việt?"
+          },
+          {
+            "title": "ĐĂNG KÝ",
+            "description": "Các kỹ sư Việt Nam đã quá quen thuộc với giao diện phần mềm CAD bằng tiếng Anh, việc sử dụng giao diện tiếng Việt đôi khi gây khó khăn cho người sử dụng. Vì vậy, để người sử dụng dễ tiếp cận nhất, chúng tôi chỉ làm giao diện tiếng Anh cho enjiCAD."
+          }
+        ],
+        "title": "enjiCAD Education",
+        "subtitle": "Hỏi đáp",
+        "description": "enjiCAD Education là phiên bản hoàn toàn miễn phí dành cho sinh viên, giảng viên cũng như các trường Đại học, Cao đẳng, Trung cấp và các Tổ chức đào tạo khác nhằm tạo hiệu quả giảng dạy, học tập và nghiên cứu tốt nhất với phần mềm CAD có bản quyền."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.278Z",
+      "updated_at_utc": "2026-10-28T01:12:42.278Z"
+    },
+    {
+      "landing_page_section_id": "0160ccdf-3153-4a11-84b1-8d719c6279eb",
+      "landing_page_id": "dbd7217b-be5a-471f-93f5-c270c834a08c",
+      "landing_section_type_code": "faq",
+      "section_anchor_id": "faq",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "CÂU HỎI THƯỜNG GẶP",
+        "items": [
+          {
+            "title": "Liên hệ",
+            "description": "© Bản quyền thuộc Công ty Cổ phần Công nghệ và Tư vấn CIC"
+          },
+          {
+            "title": "Chúng tôi cam kết bảo mật thông tin người dùng theo quy định pháp luật. Mọi thông tin chỉ được sử dụng cho mục đích tư vấn và cung cấp enjiCAD",
+            "description": "Nhận báo giá tại đây"
+          },
+          {
+            "title": "Mua enjiCAD Nhận ngay iPad !!!",
+            "description": "Nhận ngay 1 iPad Wifi 32GB trị giá 8.500.000 VNĐ khi mua 2 licenses bản quyền phần mềm enjiCAD Professional hoặc 3 licenses bản quyền phần mềm enjiCAD Standard"
+          },
+          {
+            "title": "Khuyến mãi",
+            "description": "Mỗi khách hàng có thể nhận nhiều phần quà (iPAD Wifi 32GB) , tùy theo số lượng license bản quyền được mua"
+          },
+          {
+            "title": "Điền thông tin nhận bản dùng thử",
+            "description": "Quà tặng có thể quy đổi thành tiền và chiết khấu trực tiếp vào giá mua phần mềm"
+          },
+          {
+            "title": "Vui lòng để lại thông tin, chúng tôi sẽ gửi bản dùng thử qua email của bạn:",
+            "description": "Chương trình bắt đầu từ ngày 12/12/2019 đến hết ngày 11/01/2020"
+          }
+        ],
+        "title": "Một số khách hàng tiêu biểu",
+        "subtitle": "Liên hệ",
+        "description": "© Bản quyền thuộc Công ty Cổ phần Công nghệ và Tư vấn CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.304Z",
+      "updated_at_utc": "2026-10-28T01:12:42.304Z"
+    },
+    {
+      "landing_page_section_id": "6c1cf8b1-0eaf-4ead-a6cb-b250e57a8de9",
+      "landing_page_id": "dbd7217b-be5a-471f-93f5-c270c834a08c",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "consultation",
+      "section_order": 9,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "ĐĂNG KÝ TƯ VẤN & TẢI DÙNG THỬ MIỄN PHÍ",
+        "items": [
+          {
+            "title": "Chúng tôi cam kết bảo mật thông tin người dùng theo quy định pháp luật. Mọi thông tin chỉ được sử dụng cho mục đích tư vấn và cung cấp enjiCAD",
+            "description": "© Bản quyền thuộc Công ty Cổ phần Công nghệ và Tư vấn CIC"
+          },
+          {
+            "title": "Mua enjiCAD Nhận ngay iPad !!!",
+            "description": "Nhận báo giá tại đây"
+          },
+          {
+            "title": "Khuyến mãi",
+            "description": "Nhận ngay 1 iPad Wifi 32GB trị giá 8.500.000 VNĐ khi mua 2 licenses bản quyền phần mềm enjiCAD Professional hoặc 3 licenses bản quyền phần mềm enjiCAD Standard"
+          },
+          {
+            "title": "Điền thông tin nhận bản dùng thử",
+            "description": "Mỗi khách hàng có thể nhận nhiều phần quà (iPAD Wifi 32GB) , tùy theo số lượng license bản quyền được mua"
+          },
+          {
+            "title": "Đăng ký nhận enjiCAD Education",
+            "description": "Quà tặng có thể quy đổi thành tiền và chiết khấu trực tiếp vào giá mua phần mềm"
+          },
+          {
+            "title": "Vui lòng để lại thông tin, chúng tôi sẽ gửi bản dùng thử qua email của bạn:",
+            "description": "Chương trình bắt đầu từ ngày 12/12/2019 đến hết ngày 11/01/2020"
+          }
+        ],
+        "title": "Liên hệ",
+        "benefits": [
+          "Tải ngay Tài liệu kỹ thuật, Brochure & Bộ cài đặt dùng thử chính thức",
+          "Nhận báo giá ưu đãi đặc biệt dành cho doanh nghiệp từ CIC",
+          "Hỗ trợ cài đặt, giải đáp kỹ thuật 1-1 bởi đội ngũ kỹ sư giàu kinh nghiệm",
+          "Cam kết bảo mật 100% thông tin doanh nghiệp và dự án"
+        ],
+        "subtitle": "Chúng tôi cam kết bảo mật thông tin người dùng theo quy định pháp luật. Mọi thông tin chỉ được sử dụng cho mục đích tư vấn và cung cấp enjiCAD",
+        "description": "© Bản quyền thuộc Công ty Cổ phần Công nghệ và Tư vấn CIC",
+        "modal_title": "Tài Liệu & Bộ Cài Đặt Đã Sẵn Sàng!",
+        "submit_label": "Gửi Yêu Cầu & Nhận Tài Liệu Ngay",
+        "modal_description": "Cảm ơn Quý khách đã đăng ký! Quý khách có thể bấm vào nút bên dưới để tải ngay tài liệu/bộ cài đặt hoặc chờ chuyên gia CIC liên hệ trong ít phút:",
+        "modal_button_label": "Tải Tài Liệu & Bộ Cài Đặt Ngay"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.374Z",
+      "updated_at_utc": "2026-10-28T01:12:42.374Z"
+    },
+    {
+      "landing_page_section_id": "ca1c86ee-9a98-4634-85c3-2c6bd881d3e8",
+      "landing_page_id": "dbd7217b-be5a-471f-93f5-c270c834a08c",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "footer",
+      "section_order": 10,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "email": "info@cic.com.vn",
+        "items": [
+          {
+            "title": "Khuyến mãi",
+            "description": "© Bản quyền thuộc Công ty Cổ phần Công nghệ và Tư vấn CIC"
+          },
+          {
+            "title": "Điền thông tin nhận bản dùng thử",
+            "description": "Nhận ngay 1 iPad Wifi 32GB trị giá 8.500.000 VNĐ khi mua 2 licenses bản quyền phần mềm enjiCAD Professional hoặc 3 licenses bản quyền phần mềm enjiCAD Standard"
+          },
+          {
+            "title": "Đăng ký nhận enjiCAD Education",
+            "description": "Mỗi khách hàng có thể nhận nhiều phần quà (iPAD Wifi 32GB) , tùy theo số lượng license bản quyền được mua"
+          },
+          {
+            "title": "Đăng ký nhận quà",
+            "description": "Quà tặng có thể quy đổi thành tiền và chiết khấu trực tiếp vào giá mua phần mềm"
+          },
+          {
+            "title": "Nhận bản dùng thử",
+            "description": "Chương trình bắt đầu từ ngày 12/12/2019 đến hết ngày 11/01/2020"
+          },
+          {
+            "title": "Nhận enjiCAD Education",
+            "description": "Vui lòng điền đúng thông tin, chúng tôi sẽ gửi link tải bản dùng thử qua email của bạn"
+          }
+        ],
+        "title": "Mua enjiCAD Nhận ngay iPad !!!",
+        "address": "Trụ sở chính: Số 37 Lê Văn Thiêm, Phường Nhân Chính, Quận Thanh Xuân, TP. Hà Nội | Chi nhánh TP.HCM: Số 36 Nguyễn Huy Lượng, Phường 14, Quận Bình Thạnh",
+        "hotline": "0866 059 659",
+        "subtitle": "Khuyến mãi",
+        "copyright": "© 2026 Công ty Cổ phần Công nghệ và Tư vấn CIC. Bảo lưu mọi quyền cho chuyên trang enjicad.vn.",
+        "description": "© Bản quyền thuộc Công ty Cổ phần Công nghệ và Tư vấn CIC",
+        "company_name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ TƯ VẤN CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.396Z",
+      "updated_at_utc": "2026-10-28T01:12:42.396Z"
+    },
+    {
+      "landing_page_section_id": "69b084b6-5a78-4ae1-b4f4-b8fcfd8c90d4",
+      "landing_page_id": "dbd7217b-be5a-471f-93f5-c270c834a08c",
+      "landing_section_type_code": "floating_cta",
+      "section_anchor_id": "floating_cta",
+      "section_order": 11,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [],
+        "title": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt",
+        "hotline": "0866 059 659",
+        "subtitle": "",
+        "zalo_url": "https://zalo.me/0866059659",
+        "cta_label": "Đăng Ký Tư Vấn",
+        "description": ""
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.428Z",
+      "updated_at_utc": "2026-10-28T01:12:42.428Z"
+    }
+  ],
+  "forms": [
+    {
+      "landing_form_id": "0d7538f4-dcf5-455b-8410-e3d093902cf0",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "form_code": "enjicad-lead-form",
+      "form_name": "Form Đăng ký Tư vấn & Dùng thử — EnjiCAD",
+      "fields_schema_json": [
+        {
+          "name": "full_name",
+          "type": "text",
+          "label": "Họ và tên *",
+          "required": true,
+          "placeholder": "Nguyễn Văn An",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "label": "Số điện thoại *",
+          "required": true,
+          "placeholder": "0912 345 678",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "work_email",
+          "type": "email",
+          "label": "Email công việc *",
+          "required": true,
+          "placeholder": "ban@congty.com.vn",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "company",
+          "type": "text",
+          "label": "Tên công ty / Đơn vị",
+          "required": false,
+          "placeholder": "Công ty Cổ phần Tư vấn Thiết kế...",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "primary_need",
+          "type": "select",
+          "label": "Nhu cầu quan tâm chính *",
+          "options": [
+            {
+              "label": "Đăng ký dùng thử & tải tài liệu EnjiCAD",
+              "value": "trial_30_days"
+            },
+            {
+              "label": "Nhận báo giá bản quyền EnjiCAD ưu đãi",
+              "value": "request_quote"
+            },
+            {
+              "label": "Tư vấn kỹ thuật & giải pháp triển khai",
+              "value": "technical_consult"
+            }
+          ],
+          "required": true,
+          "default_value": "trial_30_days",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "device_quantity",
+          "type": "number",
+          "label": "Số lượng máy / người dùng dự kiến",
+          "required": false,
+          "placeholder": "5",
+          "default_value": 5,
+          "visibility_rule": {
+            "value": "request_quote",
+            "operator": "equals",
+            "dependsOnField": "primary_need"
+          }
+        },
+        {
+          "name": "requirements",
+          "type": "textarea",
+          "label": "Ghi chú hoặc yêu cầu cụ thể",
+          "required": false,
+          "placeholder": "Mô tả thêm về quy mô dự án hoặc cấu hình cần tư vấn...",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        }
+      ],
+      "notification_emails_json": [
+        "info@cic.com.vn"
+      ],
+      "google_sheet_config_json": {
+        "sheet_name": "LEADS",
+        "spreadsheet_id": ""
+      },
+      "success_action": "modal_download",
+      "success_payload_json": {
+        "message": "Cảm ơn Quý khách đã quan tâm tới EnjiCAD. Chuyên gia CIC sẽ liên hệ trong thời gian sớm nhất!",
+        "modal_title": "Tài Liệu & Bộ Dùng Thử EnjiCAD Đã Sẵn Sàng!",
+        "outcome_rules": [
+          {
+            "id": "rule_enjicad_trial",
+            "title": "Tài Liệu & Bộ Dùng Thử EnjiCAD Đã Sẵn Sàng!",
+            "message": "Cảm ơn Quý khách đã đăng ký trải nghiệm EnjiCAD. Quý khách có thể bấm nút bên dưới để tải ngay Hồ sơ kỹ thuật & Hướng dẫn dùng thử:",
+            "operator": "equals",
+            "whenField": "primary_need",
+            "whenValue": "trial_30_days",
+            "actionType": "download_modal",
+            "downloadUrl": "/api/landing/media/enjicad/downloads/brochure.pdf",
+            "downloadLabel": "Tải Tài Liệu EnjiCAD (PDF)",
+            "targetSheetName": "LEADS"
+          },
+          {
+            "id": "rule_enjicad_quote",
+            "title": "Đã Ghi Nhận Yêu Cầu Báo Giá!",
+            "message": "Cảm ơn Quý khách! Chuyên viên phụ trách giải pháp EnjiCAD của CIC sẽ gửi bảng báo giá và chính sách chiết khấu tốt nhất qua Email/Zalo trong 15 phút làm việc.",
+            "operator": "equals",
+            "whenField": "primary_need",
+            "whenValue": "request_quote",
+            "actionType": "message_only",
+            "downloadUrl": "",
+            "downloadLabel": "",
+            "targetSheetName": "LEADS"
+          },
+          {
+            "id": "rule_enjicad_default",
+            "title": "Đăng Ký Tư Vấn Kỹ Thuật Thành Công!",
+            "message": "Cảm ơn Quý khách! Kỹ sư giải pháp EnjiCAD của CIC sẽ liên hệ trực tiếp để tư vấn chi tiết cho doanh nghiệp.",
+            "operator": "always",
+            "whenField": "primary_need",
+            "whenValue": "",
+            "actionType": "message_only",
+            "downloadUrl": "",
+            "downloadLabel": "",
+            "targetSheetName": "LEADS"
+          }
+        ],
+        "modal_description": "Bấm vào nút bên dưới để tải ngay tài liệu hướng dẫn và thông số kỹ thuật EnjiCAD:",
+        "default_download_url": "/api/landing/media/enjicad/downloads/brochure.pdf"
+      },
+      "is_form_active": true,
+      "created_at_utc": "2026-10-28T01:12:42.624Z",
+      "updated_at_utc": "2026-10-28T01:12:42.624Z"
+    }
+  ],
+  "media": [
+    {
+      "landing_media_asset_id": "e1dc1205-dfcb-488f-87e1-545e25c0e73f",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "Logo-CIC",
+      "file_name": "Logo-CIC.png",
+      "file_path": "img/Logo-CIC.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "10817",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - Logo-CIC.png",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - Logo-CIC.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.900Z",
+      "updated_at_utc": "2026-10-28T01:12:46.900Z"
+    },
+    {
+      "landing_media_asset_id": "ec4e4ac4-601d-4d2a-bc4c-f9a21b7dff60",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "logo",
+      "file_name": "logo.jpg",
+      "file_path": "img/logos/logo.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "7006",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo.jpg",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.907Z",
+      "updated_at_utc": "2026-10-28T01:12:46.907Z"
+    },
+    {
+      "landing_media_asset_id": "873bcc5e-17a5-4c54-8360-4be3bd242e58",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "logo1",
+      "file_name": "logo1.png",
+      "file_path": "img/logos/logo1.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "5389",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo1.png",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo1.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.914Z",
+      "updated_at_utc": "2026-10-28T01:12:46.914Z"
+    },
+    {
+      "landing_media_asset_id": "31b38f2b-27f3-4d91-a632-6a309cfdcfb0",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "logo2",
+      "file_name": "logo2.png",
+      "file_path": "img/logos/logo2.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "5389",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo2.png",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo2.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.922Z",
+      "updated_at_utc": "2026-10-28T01:12:46.922Z"
+    },
+    {
+      "landing_media_asset_id": "b499e40f-25db-4304-af7d-6cf0224ddbf5",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "logo3",
+      "file_name": "logo3.png",
+      "file_path": "img/logos/logo3.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "5389",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo3.png",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo3.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.928Z",
+      "updated_at_utc": "2026-10-28T01:12:46.928Z"
+    },
+    {
+      "landing_media_asset_id": "6a34feaa-7f1e-47a4-97d6-f48bcb4d791d",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "logo4",
+      "file_name": "logo4.png",
+      "file_path": "img/logos/logo4.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "5389",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo4.png",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo4.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.936Z",
+      "updated_at_utc": "2026-10-28T01:12:46.936Z"
+    },
+    {
+      "landing_media_asset_id": "a543103e-2f32-4e5a-872b-1bc35c152c25",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "logo5",
+      "file_name": "logo5.png",
+      "file_path": "img/logos/logo5.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "5389",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo5.png",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo5.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.942Z",
+      "updated_at_utc": "2026-10-28T01:12:46.942Z"
+    },
+    {
+      "landing_media_asset_id": "ac8395ad-02d4-43b1-930d-d32ae8cdc38b",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "logo",
+      "file_name": "logo.png",
+      "file_path": "img/logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "2400",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo.png",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - logo.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.951Z",
+      "updated_at_utc": "2026-10-28T01:12:46.951Z"
+    },
+    {
+      "landing_media_asset_id": "7a7e7ab0-54a8-4568-858f-0f327b11c583",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "favicon",
+      "file_name": "favicon.ico",
+      "file_path": "img/favicon.ico",
+      "mime_type": "image/x-icon",
+      "file_size_bytes": "119262",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - favicon.ico",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - favicon.ico",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.960Z",
+      "updated_at_utc": "2026-10-28T01:12:46.960Z"
+    },
+    {
+      "landing_media_asset_id": "067dcdac-164b-4214-8c04-ed46db555316",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "header",
+      "file_name": "header.png",
+      "file_path": "img/header.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "22612",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - header.png",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - header.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.975Z",
+      "updated_at_utc": "2026-10-28T01:12:46.975Z"
+    },
+    {
+      "landing_media_asset_id": "28a4317b-a912-481f-9185-3c448366d9d5",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "header-shadow",
+      "file_name": "header-shadow.png",
+      "file_path": "img/header-shadow.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "5984",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - header-shadow.png",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - header-shadow.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.985Z",
+      "updated_at_utc": "2026-10-28T01:12:46.985Z"
+    },
+    {
+      "landing_media_asset_id": "6cf9e213-15e1-482a-9d05-efc6b3295614",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "mobile",
+      "file_name": "mobile.png",
+      "file_path": "img/mockups/mobile.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "66946",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - mobile.png",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - mobile.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.992Z",
+      "updated_at_utc": "2026-10-28T01:12:46.992Z"
+    },
+    {
+      "landing_media_asset_id": "75483694-45d2-4891-92ba-0e30fc0434a8",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "tab1",
+      "file_name": "tab1.png",
+      "file_path": "img/mockups/tab1.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "22385",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - tab1.png",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - tab1.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.003Z",
+      "updated_at_utc": "2026-10-28T01:12:47.003Z"
+    },
+    {
+      "landing_media_asset_id": "5cf37b83-f68d-45a5-812f-b18cce5297f9",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "tab2",
+      "file_name": "tab2.png",
+      "file_path": "img/mockups/tab2.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "17214",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - tab2.png",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - tab2.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.011Z",
+      "updated_at_utc": "2026-10-28T01:12:47.011Z"
+    },
+    {
+      "landing_media_asset_id": "0425215a-8544-46f2-9cc7-8c2d80f29021",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "tab3",
+      "file_name": "tab3.png",
+      "file_path": "img/mockups/tab3.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "12317",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - tab3.png",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - tab3.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.024Z",
+      "updated_at_utc": "2026-10-28T01:12:47.024Z"
+    },
+    {
+      "landing_media_asset_id": "3409653e-822c-429d-892c-5917c0782926",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "so-do",
+      "file_name": "so-do.png",
+      "file_path": "img/so-do.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "404952",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - so-do.png",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - so-do.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.036Z",
+      "updated_at_utc": "2026-10-28T01:12:47.036Z"
+    },
+    {
+      "landing_media_asset_id": "96be8550-bde2-4b11-8f3a-c059c522cfe3",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "hinhanh",
+      "file_name": "hinhanh.png",
+      "file_path": "img/hinhanh.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "184624",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - hinhanh.png",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - hinhanh.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.073Z",
+      "updated_at_utc": "2026-10-28T01:12:47.073Z"
+    },
+    {
+      "landing_media_asset_id": "5ed75107-078e-4541-a879-425d2fa63e7d",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "tab2",
+      "file_name": "tab2.png",
+      "file_path": "img/tab2.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "184209",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - tab2.png",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt - tab2.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.092Z",
+      "updated_at_utc": "2026-10-28T01:12:47.092Z"
+    },
+    {
+      "landing_media_asset_id": "f440cf51-3c3f-4404-91e0-4fd21b2eef42",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "brand_logo",
+      "file_name": "logo.png",
+      "file_path": "images/logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "10817",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt Logo",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt Logo",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.109Z",
+      "updated_at_utc": "2026-10-28T01:12:47.109Z"
+    },
+    {
+      "landing_media_asset_id": "9a7701d8-89d1-4792-b315-9686c560c4f4",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "favicon",
+      "file_name": "favicon.ico",
+      "file_path": "images/favicon.ico",
+      "mime_type": "image/x-icon",
+      "file_size_bytes": "119262",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Favicon",
+      "alt_text_en": "Favicon",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.118Z",
+      "updated_at_utc": "2026-10-28T01:12:47.118Z"
+    },
+    {
+      "landing_media_asset_id": "a2c343ae-2873-462d-b23e-30444cdc5669",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "brochure_pdf",
+      "file_name": "brochure.pdf",
+      "file_path": "downloads/brochure.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": "671641",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Tài liệu Brochure EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt",
+      "alt_text_en": "Brochure EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.137Z",
+      "updated_at_utc": "2026-10-28T01:12:47.137Z"
+    },
+    {
+      "landing_media_asset_id": "6ff8327f-c120-414b-96de-77e070fe8ec4",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "media_slot_code": "hero_banner",
+      "file_name": "hero.png",
+      "file_path": "images/hero.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "22612",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt Hero",
+      "alt_text_en": "EnjiCAD — Phần Mềm CAD 2D/3D Bản Quyền Vĩnh Viễn Cho Kỹ Sư Việt Hero",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.200Z",
+      "updated_at_utc": "2026-10-28T01:12:47.200Z"
+    }
+  ],
+  "leads": [
+    {
+      "landing_lead_submission_id": "0fddc15f-fee1-4c42-9823-9f7bcd0e3330",
+      "landing_form_id": "0d7538f4-dcf5-455b-8410-e3d093902cf0",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test enjicad",
+      "customer_phone": "0912345678",
+      "customer_email": "test_enjicad@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test enjicad",
+        "work_email": "test_enjicad@cic.com.vn",
+        "primary_need": "trial_30_days",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:37:26.244Z"
+    },
+    {
+      "landing_lead_submission_id": "7c0718f8-58ea-434d-894c-c9c3111ae097",
+      "landing_form_id": "0d7538f4-dcf5-455b-8410-e3d093902cf0",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test enjicad",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_enjicad@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test enjicad",
+        "work_email": "quote_enjicad@cic.com.vn",
+        "primary_need": "request_quote",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:37:26.431Z"
+    },
+    {
+      "landing_lead_submission_id": "667b1151-329d-47f3-adb3-5d320187b5bc",
+      "landing_form_id": "0d7538f4-dcf5-455b-8410-e3d093902cf0",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test enjicad",
+      "customer_phone": "0912345678",
+      "customer_email": "test_enjicad@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test enjicad",
+        "work_email": "test_enjicad@cic.com.vn",
+        "primary_need": "trial_30_days",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:38:09.144Z"
+    },
+    {
+      "landing_lead_submission_id": "d50b9e8f-9ce5-430f-a899-0b3f1f40207d",
+      "landing_form_id": "0d7538f4-dcf5-455b-8410-e3d093902cf0",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test enjicad",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_enjicad@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test enjicad",
+        "work_email": "quote_enjicad@cic.com.vn",
+        "primary_need": "request_quote",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:38:09.207Z"
+    },
+    {
+      "landing_lead_submission_id": "1682765c-b264-4519-960e-44b6561be2e2",
+      "landing_form_id": "0d7538f4-dcf5-455b-8410-e3d093902cf0",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test enjicad",
+      "customer_phone": "0912345678",
+      "customer_email": "test_enjicad@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test enjicad",
+        "work_email": "test_enjicad@cic.com.vn",
+        "primary_need": "trial_30_days",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:39:00.790Z"
+    },
+    {
+      "landing_lead_submission_id": "079582cf-55c3-449b-b120-8824f390c201",
+      "landing_form_id": "0d7538f4-dcf5-455b-8410-e3d093902cf0",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test enjicad",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_enjicad@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test enjicad",
+        "work_email": "quote_enjicad@cic.com.vn",
+        "primary_need": "request_quote",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:39:00.831Z"
+    },
+    {
+      "landing_lead_submission_id": "c8dc45f1-50a6-4d6c-bef3-98db4525f3b3",
+      "landing_form_id": "0d7538f4-dcf5-455b-8410-e3d093902cf0",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_page_id": null,
+      "customer_full_name": "Test Quote enjicad",
+      "customer_phone": "0988654321",
+      "customer_email": "quote@enjicad.cic.com.vn",
+      "customer_company": "CIC Verification Corp",
+      "submitted_fields_json": {
+        "name": "Test Quote enjicad",
+        "email": "quote@enjicad.cic.com.vn",
+        "phone": "0988654321",
+        "company": "CIC Verification Corp",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T05:06:30.206Z"
+    },
+    {
+      "landing_lead_submission_id": "552c10f3-47af-48a2-bd9e-2b0f0d7410ef",
+      "landing_form_id": "0d7538f4-dcf5-455b-8410-e3d093902cf0",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_page_id": null,
+      "customer_full_name": "Test Trial enjicad",
+      "customer_phone": "0988123456",
+      "customer_email": "trial@enjicad.cic.com.vn",
+      "customer_company": "CIC Verification Corp",
+      "submitted_fields_json": {
+        "name": "Test Trial enjicad",
+        "email": "trial@enjicad.cic.com.vn",
+        "phone": "0988123456",
+        "company": "CIC Verification Corp",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T05:06:46.598Z"
+    },
+    {
+      "landing_lead_submission_id": "f37e78b2-5904-4a4c-8b63-5e8ff0602074",
+      "landing_form_id": "0d7538f4-dcf5-455b-8410-e3d093902cf0",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_page_id": null,
+      "customer_full_name": "Test Quote enjicad",
+      "customer_phone": "0988654321",
+      "customer_email": "quote@enjicad.cic.com.vn",
+      "customer_company": "CIC Verification Corp",
+      "submitted_fields_json": {
+        "name": "Test Quote enjicad",
+        "email": "quote@enjicad.cic.com.vn",
+        "phone": "0988654321",
+        "company": "CIC Verification Corp",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T05:06:46.629Z"
+    },
+    {
+      "landing_lead_submission_id": "194269fc-eb1b-4888-b1ca-788c1b372bda",
+      "landing_form_id": "0d7538f4-dcf5-455b-8410-e3d093902cf0",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Trial enjicad",
+      "customer_phone": "0912345678",
+      "customer_email": "standalone@enjicad.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Trial enjicad",
+        "email": "standalone@enjicad.cic.com.vn",
+        "phone": "0912345678",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T06:26:11.389Z"
+    },
+    {
+      "landing_lead_submission_id": "fba87330-954c-4637-80f6-868ad29f7a13",
+      "landing_form_id": "0d7538f4-dcf5-455b-8410-e3d093902cf0",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Quote enjicad",
+      "customer_phone": "0987654321",
+      "customer_email": "quote@enjicad.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Quote enjicad",
+        "email": "quote@enjicad.cic.com.vn",
+        "phone": "0987654321",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 12
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T06:26:11.438Z"
+    },
+    {
+      "landing_lead_submission_id": "cfb7206a-529b-4d58-a9b5-bd58ae3cd35e",
+      "landing_form_id": "0d7538f4-dcf5-455b-8410-e3d093902cf0",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Trial enjicad",
+      "customer_phone": "0912345678",
+      "customer_email": "standalone@enjicad.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Trial enjicad",
+        "email": "standalone@enjicad.cic.com.vn",
+        "phone": "0912345678",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T07:36:04.471Z"
+    },
+    {
+      "landing_lead_submission_id": "de10efd2-a5e5-430d-8136-ab1ca77a72d3",
+      "landing_form_id": "0d7538f4-dcf5-455b-8410-e3d093902cf0",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Quote enjicad",
+      "customer_phone": "0987654321",
+      "customer_email": "quote@enjicad.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Quote enjicad",
+        "email": "quote@enjicad.cic.com.vn",
+        "phone": "0987654321",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 12
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T07:36:04.521Z"
+    },
+    {
+      "landing_lead_submission_id": "8ae32a86-7764-45a5-9748-70d58fc85d8b",
+      "landing_form_id": "0d7538f4-dcf5-455b-8410-e3d093902cf0",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Trial enjicad",
+      "customer_phone": "0912345678",
+      "customer_email": "standalone@enjicad.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Trial enjicad",
+        "email": "standalone@enjicad.cic.com.vn",
+        "phone": "0912345678",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T08:39:09.326Z"
+    },
+    {
+      "landing_lead_submission_id": "1d05093f-a9de-451d-8526-6fbdf27fc6aa",
+      "landing_form_id": "0d7538f4-dcf5-455b-8410-e3d093902cf0",
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Quote enjicad",
+      "customer_phone": "0987654321",
+      "customer_email": "quote@enjicad.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Quote enjicad",
+        "email": "quote@enjicad.cic.com.vn",
+        "phone": "0987654321",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 12
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T08:39:09.372Z"
+    }
+  ],
+  "pageViews": [
+    {
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "view_date": "2026-10-26",
+      "views_count": 30,
+      "unique_visitors_count": 3
+    },
+    {
+      "landing_site_id": "914469f6-eb85-452c-b6f1-9d190417e27b",
+      "view_date": "2026-10-27",
+      "views_count": 22,
+      "unique_visitors_count": 3
+    }
+  ],
+  "adminAccounts": [
+    {
+      "username": "enjicad_admin",
+      "password_hash": "4a208b7ff43bd0a71c3bb331db13040694d36bd9e34b5d9ed62d0be880dc5b58",
+      "display_name": "Quản trị viên EnjiCAD",
+      "role": "site_admin",
+      "landing_site_code": "enjicad",
+      "is_active": true
+    },
+    {
+      "username": "admin",
+      "password_hash": "2e6c21501300cc6fa4d50597c1c483c802b6d9f00f119f004d8344f663129109",
+      "display_name": "Quản trị Tổng CIC",
+      "role": "super_admin",
+      "landing_site_code": null,
+      "is_active": true
+    }
+  ]
+}

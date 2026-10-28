@@ -1,0 +1,2340 @@
+{
+  "exportedAt": "2026-10-28T01:15:56.271Z",
+  "targetSiteCode": "allplan",
+  "sectionTypes": [
+    {
+      "landing_section_type_code": "advantages",
+      "landing_section_type_name": "Ưu Điểm Vượt Trội",
+      "category": "feature",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.707Z",
+      "updated_at_utc": "2026-10-28T01:12:40.707Z"
+    },
+    {
+      "landing_section_type_code": "catalog",
+      "landing_section_type_name": "Danh Mục Tính Năng / Giải Pháp",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.719Z",
+      "updated_at_utc": "2026-10-28T01:12:40.719Z"
+    },
+    {
+      "landing_section_type_code": "comparison",
+      "landing_section_type_name": "Bảng So Sánh & Các Gói Bản Quyền",
+      "category": "comparison",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.725Z",
+      "updated_at_utc": "2026-10-28T01:12:40.725Z"
+    },
+    {
+      "landing_section_type_code": "consultation_form",
+      "landing_section_type_name": "Form Đăng Ký Tư Vấn & Tải Dùng Thử",
+      "category": "form",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.731Z",
+      "updated_at_utc": "2026-10-28T01:12:40.731Z"
+    },
+    {
+      "landing_section_type_code": "faq",
+      "landing_section_type_name": "Câu Hỏi Thường Gặp (FAQ)",
+      "category": "faq",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.739Z",
+      "updated_at_utc": "2026-10-28T01:12:40.739Z"
+    },
+    {
+      "landing_section_type_code": "floating_cta",
+      "landing_section_type_name": "Nút Liên Hệ Nổi (Floating CTA)",
+      "category": "cta",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.743Z",
+      "updated_at_utc": "2026-10-28T01:12:40.743Z"
+    },
+    {
+      "landing_section_type_code": "footer",
+      "landing_section_type_name": "Chân Trang (Footer)",
+      "category": "footer",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.750Z",
+      "updated_at_utc": "2026-10-28T01:12:40.750Z"
+    },
+    {
+      "landing_section_type_code": "header",
+      "landing_section_type_name": "Thanh Điều Hướng (Header)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.756Z",
+      "updated_at_utc": "2026-10-28T01:12:40.756Z"
+    },
+    {
+      "landing_section_type_code": "hero",
+      "landing_section_type_name": "Banner Chính (Hero Section)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.762Z",
+      "updated_at_utc": "2026-10-28T01:12:40.762Z"
+    },
+    {
+      "landing_section_type_code": "infrastructure",
+      "landing_section_type_name": "Infrastructure & Specialized Machinery",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.769Z",
+      "updated_at_utc": "2026-10-28T01:12:40.769Z"
+    },
+    {
+      "landing_section_type_code": "intro",
+      "landing_section_type_name": "Giới Thiệu Tổng Quan & Thống Kê",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.773Z",
+      "updated_at_utc": "2026-10-28T01:12:40.773Z"
+    },
+    {
+      "landing_section_type_code": "requirements",
+      "landing_section_type_name": "Yêu Cầu Cấu Hình Hệ Thống",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.777Z",
+      "updated_at_utc": "2026-10-28T01:12:40.777Z"
+    },
+    {
+      "landing_section_type_code": "resources",
+      "landing_section_type_name": "Tài Nguyên & Thư Viện Hỗ Trợ",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.781Z",
+      "updated_at_utc": "2026-10-28T01:12:40.781Z"
+    },
+    {
+      "landing_section_type_code": "video_slider",
+      "landing_section_type_name": "YouTube Video Showcase Slider",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.789Z",
+      "updated_at_utc": "2026-10-28T01:12:40.789Z"
+    }
+  ],
+  "sites": [
+    {
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_site_code": "allplan",
+      "landing_site_name": "Allplan — Phần mềm BIM Cầu đường & Kết cấu (LadiPage)",
+      "landing_site_type": "landing",
+      "primary_domain": "allplan.cic.com.vn",
+      "custom_domains_json": [
+        "allplan.localhost",
+        "www.allplan.cic.com.vn"
+      ],
+      "supported_locales_json": [
+        "vi",
+        "en"
+      ],
+      "default_locale": "vi",
+      "site_status": "active",
+      "brand_config_json": {
+        "email": "info@cic.com.vn",
+        "address": "Số 37 Lê Văn Thiêm, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",
+        "hotline": "0988 026 858",
+        "logo_url": "/api/landing/media/allplan/images/logo.png",
+        "zalo_url": "https://zalo.me/0988026858",
+        "favicon_url": "/api/landing/media/allplan/images/favicon.ico",
+        "primary_color": "#1d4ed8",
+        "hosting_origin": "LadiPage"
+      },
+      "seo_meta_json": {
+        "title": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường",
+        "keywords": "allplan, CIC, phần mềm xây dựng, BIM, CAD, bản quyền chính hãng",
+        "og_image": "/api/landing/media/allplan/images/hero.png",
+        "description": "Phần mềm BIM hàng đầu từ CHLB Đức (Nemetschek) chuyên sâu cho Kết cấu nhà cao tầng, Cầu hầm, Hạ tầng giao thông và Cấu kiện bê tông đúc sẵn (Precast)."
+      },
+      "tracking_config_json": {
+        "ga4_id": "G-P5TJVS0H6N",
+        "gtm_id": "",
+        "fb_pixel_id": ""
+      },
+      "created_at_utc": "2026-10-28T01:12:40.794Z",
+      "updated_at_utc": "2026-10-28T01:12:40.794Z"
+    }
+  ],
+  "pages": [
+    {
+      "landing_page_id": "2ad6920c-65a3-44fe-9f56-6a4ed7d5794e",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_page_slug": "home",
+      "landing_page_locale": "en",
+      "page_title": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường (EN)",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường",
+        "description": "Phần mềm BIM hàng đầu từ CHLB Đức (Nemetschek) chuyên sâu cho Kết cấu nhà cao tầng, Cầu hầm, Hạ tầng giao thông và Cấu kiện bê tông đúc sẵn (Precast)."
+      },
+      "published_at_utc": "2026-10-26T04:29:27.224Z",
+      "created_at_utc": "2026-10-28T01:12:40.896Z",
+      "updated_at_utc": "2026-10-28T01:12:40.896Z"
+    },
+    {
+      "landing_page_id": "d65c6d5c-1cf5-464f-b7e4-d0c9f4b8ff4b",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_page_slug": "home",
+      "landing_page_locale": "vi",
+      "page_title": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường",
+        "description": "Phần mềm BIM hàng đầu từ CHLB Đức (Nemetschek) chuyên sâu cho Kết cấu nhà cao tầng, Cầu hầm, Hạ tầng giao thông và Cấu kiện bê tông đúc sẵn (Precast)."
+      },
+      "published_at_utc": "2026-10-26T04:29:27.124Z",
+      "created_at_utc": "2026-10-28T01:12:40.903Z",
+      "updated_at_utc": "2026-10-28T01:12:40.903Z"
+    }
+  ],
+  "sections": [
+    {
+      "landing_page_section_id": "8f69096b-5ec0-42c0-ba90-09eebae48f1c",
+      "landing_page_id": "2ad6920c-65a3-44fe-9f56-6a4ed7d5794e",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "header",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "LỢI THẾ TỪ ALLPLAN",
+            "description": "Giải pháp BIM và CAD trên cùng 1 nền tảng"
+          },
+          {
+            "title": "Thiết kế tự do và liền mạch",
+            "description": "Mô hình, môi trường bản vẽ và chi tiết thép trong cùng 1 giải pháp phần mềm"
+          },
+          {
+            "title": "Bản vẽ thiết kế có độ chuẩn xác cao​",
+            "description": "Nền tảng Open BIM giúp cho việc phối hợp các bộ môn thuận tiện hơn"
+          },
+          {
+            "title": "Thiết kế hỗ trợ BIM",
+            "description": "Lập mô hình cho các kết cấu có hình dạng phức tạp một cách nhanh chóng và chính xác"
+          },
+          {
+            "title": "Bóc tách khối lượng chuẩn xác",
+            "description": "Triển khai nhanh chi tiết thép 3D, bản vẽ shop và khối lượng"
+          },
+          {
+            "title": "Dễ dàng trao đổi thông tin",
+            "description": "Các dự án xây dựng càng ngày càng trở nên phức tạp và yêu cầu cao về tiến độ cũng như độ chính xác. Để đáp ứng những yêu cầu trên các kỹ sư cũng cần phải sử dụng những công cụ mạnh mẽ và hiệu quả hơn. Công cụ đó phải có thể làm việc được trên cả môi trường 2D và 3D, giao tiếp tốt với các phần mềm khác và đưa ra chất lượng tốt nhất. ALLPLAN là một trong số ít giải pháp lý tưởng có thể thực hiện được những yêu cầu sau"
+          }
+        ],
+        "title": "ALLPLAN ENGINEERING Giải pháp BIM cho các kỹ sư kết cấu",
+        "logo_url": "/api/landing/media/allplan/images/logo.png",
+        "subtitle": "LỢI THẾ TỪ ALLPLAN",
+        "cta_label": "Register Now",
+        "nav_items": [
+          {
+            "href": "#intro",
+            "label": "Overview"
+          },
+          {
+            "href": "#advantages",
+            "label": "Advantages"
+          },
+          {
+            "href": "#catalog",
+            "label": "Solutions"
+          },
+          {
+            "href": "#comparison",
+            "label": "Pricing & Packages"
+          },
+          {
+            "href": "#faq",
+            "label": "FAQ"
+          }
+        ],
+        "brand_name": "Allplan",
+        "description": "Giải pháp BIM và CAD trên cùng 1 nền tảng"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.318Z",
+      "updated_at_utc": "2026-10-28T01:12:41.318Z"
+    },
+    {
+      "landing_page_section_id": "55c45084-a855-4000-843b-d69c0cd1b5c0",
+      "landing_page_id": "2ad6920c-65a3-44fe-9f56-6a4ed7d5794e",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "hero",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "Nemetschek Group — Phân Phối Chính Thức Bởi CIC",
+        "items": [
+          {
+            "title": "LỢI THẾ TỪ ALLPLAN",
+            "description": "Giải pháp BIM và CAD trên cùng 1 nền tảng"
+          },
+          {
+            "title": "Thiết kế tự do và liền mạch",
+            "description": "Mô hình, môi trường bản vẽ và chi tiết thép trong cùng 1 giải pháp phần mềm"
+          },
+          {
+            "title": "Bản vẽ thiết kế có độ chuẩn xác cao​",
+            "description": "Nền tảng Open BIM giúp cho việc phối hợp các bộ môn thuận tiện hơn"
+          },
+          {
+            "title": "Thiết kế hỗ trợ BIM",
+            "description": "Lập mô hình cho các kết cấu có hình dạng phức tạp một cách nhanh chóng và chính xác"
+          },
+          {
+            "title": "Bóc tách khối lượng chuẩn xác",
+            "description": "Triển khai nhanh chi tiết thép 3D, bản vẽ shop và khối lượng"
+          },
+          {
+            "title": "Dễ dàng trao đổi thông tin",
+            "description": "Các dự án xây dựng càng ngày càng trở nên phức tạp và yêu cầu cao về tiến độ cũng như độ chính xác. Để đáp ứng những yêu cầu trên các kỹ sư cũng cần phải sử dụng những công cụ mạnh mẽ và hiệu quả hơn. Công cụ đó phải có thể làm việc được trên cả môi trường 2D và 3D, giao tiếp tốt với các phần mềm khác và đưa ra chất lượng tốt nhất. ALLPLAN là một trong số ít giải pháp lý tưởng có thể thực hiện được những yêu cầu sau"
+          }
+        ],
+        "stats": [
+          {
+            "label": "Tiết kiệm thời gian triển khai bản vẽ cốt thép 3D",
+            "value": "30%+"
+          },
+          {
+            "label": "Chuẩn IFC4 & OpenBIM quốc tế (BIMPlus)",
+            "value": "100%"
+          },
+          {
+            "label": "Thương hiệu Nemetschek CHLB Đức",
+            "value": "50+ Năm"
+          },
+          {
+            "label": "Hỗ trợ kỹ thuật trực tiếp từ kỹ sư CIC",
+            "value": "24/7"
+          }
+        ],
+        "title": "ALLPLAN ENGINEERING Giải pháp BIM cho các kỹ sư kết cấu",
+        "subtitle": "LỢI THẾ TỪ ALLPLAN",
+        "description": "Giải pháp BIM và CAD trên cùng 1 nền tảng",
+        "hero_image_url": "/api/landing/media/allplan/images/hero.png",
+        "primary_cta_href": "#consultation",
+        "primary_cta_label": "Download Trial & Quote",
+        "secondary_cta_href": "#comparison",
+        "secondary_cta_label": "View Brochure (PDF)"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.321Z",
+      "updated_at_utc": "2026-10-28T01:12:41.321Z"
+    },
+    {
+      "landing_page_section_id": "fbdd317f-3c1d-4b8f-9238-6a73b153c49f",
+      "landing_page_id": "2ad6920c-65a3-44fe-9f56-6a4ed7d5794e",
+      "landing_section_type_code": "intro",
+      "section_anchor_id": "intro",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "WHY CHOOSE CIC VIETNAM",
+        "items": [
+          {
+            "title": "Thiết kế tự do và liền mạch",
+            "description": "088 691 6666"
+          },
+          {
+            "title": "Bản vẽ thiết kế có độ chuẩn xác cao​",
+            "description": "Với lõi mô hình hóa Parasolid từ Siemens được tích hợp vào Allplan, giúp người dùng dựng các mô hình 3D dễ dàng hơn.​ Allplan hỗ trợ toàn bộ quá trình thiết kế trong một hệ thống duy nhất - từ bản thảo ban đầu cho đến bản vẽ gia cố và bố trí chung cuối cùng."
+          },
+          {
+            "title": "Thiết kế hỗ trợ BIM",
+            "description": "Các bản vẽ 2D/3D luôn được cập nhật nhanh. Ngoài ra, các công cụ thiết kế và layout mạnh mẽ cung cấp độ chính xác tối ưu khi thiết kế bản vẽ kiến trúc."
+          },
+          {
+            "title": "Bóc tách khối lượng chuẩn xác",
+            "description": "Phần mềm Allplan cho phép bạn xây dựng mô hình 3D trước khi đưa vào thực tế, điều này giúp chỉ ra những lỗi sai và xung đột trong giai đoạn thiết kế để tránh những trì hoãn khi thi công.​"
+          },
+          {
+            "title": "Dễ dàng trao đổi thông tin",
+            "description": "Với độ tin cậy tối đa cho việc bóc tách khối lượng, thống kê, tính toán trong mô hình 3D."
+          },
+          {
+            "title": "Làm việc nhóm hiệu quả",
+            "description": "Dễ dàng trao đổi dữ liệu với các đối tác, phần mềm hỗ trợ nhiều định dạng tập tin bao gồm DWG, DXF, DGN, IFC4 và PDF.​"
+          }
+        ],
+        "title": "LỢI THẾ TỪ ALLPLAN",
+        "subtitle": "Thiết kế tự do và liền mạch",
+        "description": "088 691 6666"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.324Z",
+      "updated_at_utc": "2026-10-28T01:12:41.324Z"
+    },
+    {
+      "landing_page_section_id": "5f0fb5a6-8e3b-47ed-88fd-2391538192dd",
+      "landing_page_id": "2ad6920c-65a3-44fe-9f56-6a4ed7d5794e",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "advantages",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "KEY ADVANTAGES",
+        "items": [
+          {
+            "title": "Mô hình thép và thống kê thép hiệu quả nhất",
+            "description": "Tạo mô hình nhanh chóng từ AutoCAD; Giao diện đa màn hình, 2D và 3D xuất hiện cùng lúc giúp cho người dùng thao tác trong môi trường 2D nhưng tạo ra mô hình 3D; Tuỳ chỉnh cao độ các cấu kiện từ đơn giản tới nâng cao giúp cho việc tiết kiệm thời gian cho việc thay đổi thiết kế; Quản lý bản vẽ, cấu kiện khoa học giúp tăng tốc độ làm việc, tối ưu hoá mô hình và dung lựng file."
+          },
+          {
+            "title": "TỰ ĐỘNG TẠO, RẢI THÉP, THỐNG KÊ CHO DẦM",
+            "description": "Mô hình thép dễ dàng Thống kê tự động, nhanh chóng và chuẩn xác Hỗ trợ tự động nối thép, rải thép theo chuẩn Việt Nam"
+          },
+          {
+            "title": "Xem trước các tệp nhập trực tiếp từ Revit",
+            "description": "• Thao tác quen thuộc, không mất thời gian tìm hiểu và học phần mềm • Thực hiện trên từng khối một cách nhanh chóng • Trình bày theo tiêu chuẩn Việt Nam"
+          },
+          {
+            "title": "Tương tác giữa Allplan và Allplan Bimplus",
+            "description": "Lần đầu tiên các tệp Revit có thể được nhập trực tiếp trong phạm vi chế độ xem trước về mặt kỹ thuật. Điều này có nghĩa là các mô hình Revit có thể được nhập vào Allplan và sử dụng mà không cần chuyển đổi chúng sang định dạng IFC trước. Trong quá trình nhập, các đối tượng Allplan nguyên bản như tường, cột, trần nhà, dầm, cửa sổ, cửa ra vào và mái nhà được tạo ra. Khi nhập tệp DWG / DXF, hiện có thể chuyển đổi tọa độ UTM ở chế độ chuyên gia, bao gồm việc lựa chọn trực tiếp tệp NTv2."
+          },
+          {
+            "title": "DÙNG THỬ ALLPLAN",
+            "description": "Để tối ưu hóa sự tương tác giữa Allplan và Allplan Bimplus, bây giờ bạn có thể khởi động BIM Explorer trực tiếp từ Allplan mà không cần bất kỳ bước trung gian nào. Điều này giúp bạn có thể xem mô hình của chính mình cùng với các mô hình từ các ngành khác (ví dụ: MEP) và đặt chúng trong bối cảnh tổng thể. Ngoài ra, hiện đã hỗ trợ tải xuống phần gia cố từ Allplan Bimplus để thêm chi tiết trong Allplan."
+          },
+          {
+            "title": "CÁC DỰ ÁN THỰC HIỆN BỞI ALLPLAN",
+            "description": "Kỹ sư có thể dựng mô hình nhanh chóng, trình bày chi tiết gia cố bê tông hiệu quả và tạo ra bản vẽ chất lượng cao với cùng một phần mềm. &gt; Tạo bản vẽ và dựng mô hình hiệu quả và chính xác &gt; Trực quan chuyên nghiệp và tài liệu mới nhất &gt; Bóc tách khối lượng chính xác giúp giảm thiểu chi phí Thử nghiệm phiên bản đầy đủ của Allplan 2021 trong 30 ngày hoàn toàn miễn phí. Hãy tải xuống ngay phần mềm và tận tay trải nghiệm."
+          }
+        ],
+        "title": "Nền tảng 3D mạnh mẽ",
+        "subtitle": "Mô hình thép và thống kê thép hiệu quả nhất",
+        "description": "Tạo mô hình nhanh chóng từ AutoCAD; Giao diện đa màn hình, 2D và 3D xuất hiện cùng lúc giúp cho người dùng thao tác trong môi trường 2D nhưng tạo ra mô hình 3D; Tuỳ chỉnh cao độ các cấu kiện từ đơn giản tới nâng cao giúp cho việc tiết kiệm thời gian cho việc thay đổi thiết kế; Quản lý bản vẽ, cấu kiện khoa học giúp tăng tốc độ làm việc, tối ưu hoá mô hình và dung lựng file."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.327Z",
+      "updated_at_utc": "2026-10-28T01:12:41.327Z"
+    },
+    {
+      "landing_page_section_id": "bf6c7a59-0f24-443d-8689-cb7fe9478a9f",
+      "landing_page_id": "2ad6920c-65a3-44fe-9f56-6a4ed7d5794e",
+      "landing_section_type_code": "catalog",
+      "section_anchor_id": "catalog",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "PRODUCT MODULES",
+        "items": [
+          {
+            "title": "TỰ ĐỘNG TẠO, RẢI THÉP, THỐNG KÊ CHO DẦM",
+            "description": "Mô hình thép dễ dàng Thống kê tự động, nhanh chóng và chuẩn xác Hỗ trợ tự động nối thép, rải thép theo chuẩn Việt Nam"
+          },
+          {
+            "title": "Xem trước các tệp nhập trực tiếp từ Revit",
+            "description": "• Thao tác quen thuộc, không mất thời gian tìm hiểu và học phần mềm • Thực hiện trên từng khối một cách nhanh chóng • Trình bày theo tiêu chuẩn Việt Nam"
+          },
+          {
+            "title": "Tương tác giữa Allplan và Allplan Bimplus",
+            "description": "Lần đầu tiên các tệp Revit có thể được nhập trực tiếp trong phạm vi chế độ xem trước về mặt kỹ thuật. Điều này có nghĩa là các mô hình Revit có thể được nhập vào Allplan và sử dụng mà không cần chuyển đổi chúng sang định dạng IFC trước. Trong quá trình nhập, các đối tượng Allplan nguyên bản như tường, cột, trần nhà, dầm, cửa sổ, cửa ra vào và mái nhà được tạo ra. Khi nhập tệp DWG / DXF, hiện có thể chuyển đổi tọa độ UTM ở chế độ chuyên gia, bao gồm việc lựa chọn trực tiếp tệp NTv2."
+          },
+          {
+            "title": "DÙNG THỬ ALLPLAN",
+            "description": "Để tối ưu hóa sự tương tác giữa Allplan và Allplan Bimplus, bây giờ bạn có thể khởi động BIM Explorer trực tiếp từ Allplan mà không cần bất kỳ bước trung gian nào. Điều này giúp bạn có thể xem mô hình của chính mình cùng với các mô hình từ các ngành khác (ví dụ: MEP) và đặt chúng trong bối cảnh tổng thể. Ngoài ra, hiện đã hỗ trợ tải xuống phần gia cố từ Allplan Bimplus để thêm chi tiết trong Allplan."
+          },
+          {
+            "title": "CÁC DỰ ÁN THỰC HIỆN BỞI ALLPLAN",
+            "description": "Kỹ sư có thể dựng mô hình nhanh chóng, trình bày chi tiết gia cố bê tông hiệu quả và tạo ra bản vẽ chất lượng cao với cùng một phần mềm. &gt; Tạo bản vẽ và dựng mô hình hiệu quả và chính xác &gt; Trực quan chuyên nghiệp và tài liệu mới nhất &gt; Bóc tách khối lượng chính xác giúp giảm thiểu chi phí Thử nghiệm phiên bản đầy đủ của Allplan 2021 trong 30 ngày hoàn toàn miễn phí. Hãy tải xuống ngay phần mềm và tận tay trải nghiệm."
+          },
+          {
+            "title": "ĐÀO TẠO TRỰC TUYẾN",
+            "description": "Four-track extension between Olten & Aarau, Switzerland"
+          }
+        ],
+        "title": "Mô hình thép và thống kê thép hiệu quả nhất",
+        "subtitle": "TỰ ĐỘNG TẠO, RẢI THÉP, THỐNG KÊ CHO DẦM",
+        "description": "Mô hình thép dễ dàng Thống kê tự động, nhanh chóng và chuẩn xác Hỗ trợ tự động nối thép, rải thép theo chuẩn Việt Nam"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.333Z",
+      "updated_at_utc": "2026-10-28T01:12:41.333Z"
+    },
+    {
+      "landing_page_section_id": "ce915752-3200-49eb-8d73-1467821b91d9",
+      "landing_page_id": "2ad6920c-65a3-44fe-9f56-6a4ed7d5794e",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "comparison",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "LICENSING & PACKAGES",
+        "items": [
+          {
+            "title": "Xem trước các tệp nhập trực tiếp từ Revit",
+            "description": "• Thao tác quen thuộc, không mất thời gian tìm hiểu và học phần mềm • Thực hiện trên từng khối một cách nhanh chóng • Trình bày theo tiêu chuẩn Việt Nam"
+          },
+          {
+            "title": "Tương tác giữa Allplan và Allplan Bimplus",
+            "description": "Lần đầu tiên các tệp Revit có thể được nhập trực tiếp trong phạm vi chế độ xem trước về mặt kỹ thuật. Điều này có nghĩa là các mô hình Revit có thể được nhập vào Allplan và sử dụng mà không cần chuyển đổi chúng sang định dạng IFC trước. Trong quá trình nhập, các đối tượng Allplan nguyên bản như tường, cột, trần nhà, dầm, cửa sổ, cửa ra vào và mái nhà được tạo ra. Khi nhập tệp DWG / DXF, hiện có thể chuyển đổi tọa độ UTM ở chế độ chuyên gia, bao gồm việc lựa chọn trực tiếp tệp NTv2."
+          },
+          {
+            "title": "DÙNG THỬ ALLPLAN",
+            "description": "Để tối ưu hóa sự tương tác giữa Allplan và Allplan Bimplus, bây giờ bạn có thể khởi động BIM Explorer trực tiếp từ Allplan mà không cần bất kỳ bước trung gian nào. Điều này giúp bạn có thể xem mô hình của chính mình cùng với các mô hình từ các ngành khác (ví dụ: MEP) và đặt chúng trong bối cảnh tổng thể. Ngoài ra, hiện đã hỗ trợ tải xuống phần gia cố từ Allplan Bimplus để thêm chi tiết trong Allplan."
+          },
+          {
+            "title": "CÁC DỰ ÁN THỰC HIỆN BỞI ALLPLAN",
+            "description": "Kỹ sư có thể dựng mô hình nhanh chóng, trình bày chi tiết gia cố bê tông hiệu quả và tạo ra bản vẽ chất lượng cao với cùng một phần mềm. &gt; Tạo bản vẽ và dựng mô hình hiệu quả và chính xác &gt; Trực quan chuyên nghiệp và tài liệu mới nhất &gt; Bóc tách khối lượng chính xác giúp giảm thiểu chi phí Thử nghiệm phiên bản đầy đủ của Allplan 2021 trong 30 ngày hoàn toàn miễn phí. Hãy tải xuống ngay phần mềm và tận tay trải nghiệm."
+          },
+          {
+            "title": "ĐÀO TẠO TRỰC TUYẾN",
+            "description": "Four-track extension between Olten & Aarau, Switzerland"
+          },
+          {
+            "title": "LIÊN HỆ",
+            "description": "Hotel Complex Costabella"
+          }
+        ],
+        "title": "TỰ ĐỘNG TẠO, RẢI THÉP, THỐNG KÊ CHO DẦM",
+        "pdf_url": "/api/landing/media/allplan/downloads/brochure.pdf",
+        "packages": [
+          {
+            "name": "Allplan Concept",
+            "price": "Liên hệ nhận báo giá",
+            "period": "Thuê bao năm hoặc Vĩnh viễn",
+            "features": [
+              "Mô hình 3D BIM đa vật liệu",
+              "Xuất bản vẽ 2D & thống kê",
+              "Hỗ trợ chuẩn IFC / BCF"
+            ],
+            "cta_label": "Nhận Báo Giá Concept",
+            "description": "Dành cho kỹ sư thiết kế cơ sở, mô hình 3D kiến trúc - kết cấu và bóc tách khối lượng."
+          },
+          {
+            "name": "Allplan Professional",
+            "badge": "PHỔ BIẾN NHẤT",
+            "price": "Khuyên dùng cho Doanh nghiệp",
+            "period": "Đầy đủ tính năng Cốt thép 3D & BIM",
+            "features": [
+              "Toàn bộ tính năng Concept",
+              "Mô hình hóa cốt thép 3D & Kết cấu thép",
+              "PythonParts tự động hóa & đám mây BIMPlus",
+              "Đào tạo chuyển giao chuẩn CIC"
+            ],
+            "cta_label": "Đăng Ký Dùng Thử 30 Ngày",
+            "highlight": true,
+            "description": "Giải pháp hoàn chỉnh cho tư vấn thiết kế kết cấu, tổng thầu Design & Build và ban QLDA."
+          },
+          {
+            "name": "Allplan Ultimate / Civil",
+            "price": "Giải pháp Hạ tầng & Cầu đường",
+            "period": "Tích hợp Địa hình & Cầu hầm",
+            "features": [
+              "Thiết kế địa hình & tuyến đường",
+              "Tích hợp mô-đun Allplan Bridge",
+              "Quản lý bản quyền mạng Floating"
+            ],
+            "cta_label": "Tư Vấn Giải Pháp",
+            "description": "Dành cho các tổng công ty tư vấn thiết kế giao thông, cầu đường và công trình ngầm."
+          }
+        ],
+        "subtitle": "Xem trước các tệp nhập trực tiếp từ Revit",
+        "description": "• Thao tác quen thuộc, không mất thời gian tìm hiểu và học phần mềm • Thực hiện trên từng khối một cách nhanh chóng • Trình bày theo tiêu chuẩn Việt Nam",
+        "modal_title": "Tài Liệu Kỹ Thuật & So Sánh Phiên Bản — Allplan",
+        "pdf_cta_label": "XEM TÀI LIỆU SO SÁNH & BROCHURE (PDF)",
+        "modal_download_label": "Tải Xuống Tài Liệu PDF",
+        "modal_register_label": "Nhận Tư Vấn & Báo Giá Chi Tiết"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.341Z",
+      "updated_at_utc": "2026-10-28T01:12:41.341Z"
+    },
+    {
+      "landing_page_section_id": "3f5389a1-d440-415b-a596-684b4f678713",
+      "landing_page_id": "2ad6920c-65a3-44fe-9f56-6a4ed7d5794e",
+      "landing_section_type_code": "resources",
+      "section_anchor_id": "resources",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "DOCUMENTATION & RESOURCES",
+        "items": [
+          {
+            "title": "DÙNG THỬ ALLPLAN",
+            "description": "Để tối ưu hóa sự tương tác giữa Allplan và Allplan Bimplus, bây giờ bạn có thể khởi động BIM Explorer trực tiếp từ Allplan mà không cần bất kỳ bước trung gian nào. Điều này giúp bạn có thể xem mô hình của chính mình cùng với các mô hình từ các ngành khác (ví dụ: MEP) và đặt chúng trong bối cảnh tổng thể. Ngoài ra, hiện đã hỗ trợ tải xuống phần gia cố từ Allplan Bimplus để thêm chi tiết trong Allplan."
+          },
+          {
+            "title": "CÁC DỰ ÁN THỰC HIỆN BỞI ALLPLAN",
+            "description": "Kỹ sư có thể dựng mô hình nhanh chóng, trình bày chi tiết gia cố bê tông hiệu quả và tạo ra bản vẽ chất lượng cao với cùng một phần mềm. &gt; Tạo bản vẽ và dựng mô hình hiệu quả và chính xác &gt; Trực quan chuyên nghiệp và tài liệu mới nhất &gt; Bóc tách khối lượng chính xác giúp giảm thiểu chi phí Thử nghiệm phiên bản đầy đủ của Allplan 2021 trong 30 ngày hoàn toàn miễn phí. Hãy tải xuống ngay phần mềm và tận tay trải nghiệm."
+          },
+          {
+            "title": "ĐÀO TẠO TRỰC TUYẾN",
+            "description": "Four-track extension between Olten & Aarau, Switzerland"
+          },
+          {
+            "title": "LIÊN HỆ",
+            "description": "Hotel Complex Costabella"
+          },
+          {
+            "title": "THÔNG TIN ĐĂNG KÝ DÙNG THỬ",
+            "description": "Hydroelectric power plant, Nepal"
+          },
+          {
+            "title": "DÙNG THỬ",
+            "description": "Pumping station Katwijk, Netherlands"
+          }
+        ],
+        "title": "Tương tác giữa Allplan và Allplan Bimplus",
+        "subtitle": "DÙNG THỬ ALLPLAN",
+        "description": "Để tối ưu hóa sự tương tác giữa Allplan và Allplan Bimplus, bây giờ bạn có thể khởi động BIM Explorer trực tiếp từ Allplan mà không cần bất kỳ bước trung gian nào. Điều này giúp bạn có thể xem mô hình của chính mình cùng với các mô hình từ các ngành khác (ví dụ: MEP) và đặt chúng trong bối cảnh tổng thể. Ngoài ra, hiện đã hỗ trợ tải xuống phần gia cố từ Allplan Bimplus để thêm chi tiết trong Allplan."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.344Z",
+      "updated_at_utc": "2026-10-28T01:12:41.344Z"
+    },
+    {
+      "landing_page_section_id": "1750bcca-77c4-4de4-966c-25385415f576",
+      "landing_page_id": "2ad6920c-65a3-44fe-9f56-6a4ed7d5794e",
+      "landing_section_type_code": "faq",
+      "section_anchor_id": "faq",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "FREQUENTLY ASKED QUESTIONS",
+        "items": [
+          {
+            "title": "LIÊN HỆ",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "THÔNG TIN ĐĂNG KÝ DÙNG THỬ",
+            "description": "Đối tác phân phối độc quyền ALLPLAN tại Việt Nam"
+          },
+          {
+            "title": "SỰ KIỆN CHUYÊN MÔN &gt;",
+            "description": "Vui lòng điền đúng thông tin, chúng tôi sẽ liên hệ tư vấn và gửi bản dùng thử qua email của bạn"
+          },
+          {
+            "title": "HỘI THẢO TRỰC TUYẾN &gt;",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "ALLPLAN COMMUNITY &gt;",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          }
+        ],
+        "title": "ĐÀO TẠO TRỰC TUYẾN",
+        "subtitle": "LIÊN HỆ",
+        "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.351Z",
+      "updated_at_utc": "2026-10-28T01:12:41.351Z"
+    },
+    {
+      "landing_page_section_id": "4f6bbe4f-8a4b-44fe-a939-89645a18dbd4",
+      "landing_page_id": "2ad6920c-65a3-44fe-9f56-6a4ed7d5794e",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "consultation",
+      "section_order": 9,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "FREE CONSULTATION & TRIAL",
+        "items": [
+          {
+            "title": "ĐÀO TẠO TRỰC TUYẾN",
+            "description": "Four-track extension between Olten & Aarau, Switzerland"
+          },
+          {
+            "title": "LIÊN HỆ",
+            "description": "Hotel Complex Costabella"
+          },
+          {
+            "title": "THÔNG TIN ĐĂNG KÝ DÙNG THỬ",
+            "description": "Hydroelectric power plant, Nepal"
+          },
+          {
+            "title": "DÙNG THỬ",
+            "description": "Pumping station Katwijk, Netherlands"
+          },
+          {
+            "title": "SỰ KIỆN CHUYÊN MÔN &gt;",
+            "description": "Sava Bridge, Serbia"
+          },
+          {
+            "title": "HỘI THẢO TRỰC TUYẾN &gt;",
+            "description": "Steel plant in Jizan, Saudi Arabia"
+          }
+        ],
+        "title": "CÁC DỰ ÁN THỰC HIỆN BỞI ALLPLAN",
+        "benefits": [
+          "Tải ngay Tài liệu kỹ thuật, Brochure & Bộ cài đặt dùng thử chính thức",
+          "Nhận báo giá ưu đãi đặc biệt dành cho doanh nghiệp từ CIC",
+          "Hỗ trợ cài đặt, giải đáp kỹ thuật 1-1 bởi đội ngũ kỹ sư giàu kinh nghiệm",
+          "Cam kết bảo mật 100% thông tin doanh nghiệp và dự án"
+        ],
+        "subtitle": "ĐÀO TẠO TRỰC TUYẾN",
+        "description": "Four-track extension between Olten & Aarau, Switzerland",
+        "modal_title": "Tài Liệu & Bộ Cài Đặt Đã Sẵn Sàng!",
+        "submit_label": "Gửi Yêu Cầu & Nhận Tài Liệu Ngay",
+        "modal_description": "Cảm ơn Quý khách đã đăng ký! Quý khách có thể bấm vào nút bên dưới để tải ngay tài liệu/bộ cài đặt hoặc chờ chuyên gia CIC liên hệ trong ít phút:",
+        "modal_button_label": "Tải Tài Liệu & Bộ Cài Đặt Ngay"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.355Z",
+      "updated_at_utc": "2026-10-28T01:12:41.355Z"
+    },
+    {
+      "landing_page_section_id": "eb3408b2-4fe2-4ef9-b73f-c09d727aec3a",
+      "landing_page_id": "2ad6920c-65a3-44fe-9f56-6a4ed7d5794e",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "footer",
+      "section_order": 10,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "email": "info@cic.com.vn",
+        "items": [
+          {
+            "title": "THÔNG TIN ĐĂNG KÝ DÙNG THỬ",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "Đối tác phân phối độc quyền ALLPLAN tại Việt Nam"
+          },
+          {
+            "title": "Hotline: 088 691 6666 - 088 645 2020 (miền Nam)",
+            "description": "Vui lòng điền đúng thông tin, chúng tôi sẽ liên hệ tư vấn và gửi bản dùng thử qua email của bạn"
+          },
+          {
+            "title": "Email: info@cic.com.vn",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Website: https://www.cic.com.vn",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Vui lòng để lại thông tin, chúng tôi sẽ gửi bản dùng thử qua email của bạn:",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          }
+        ],
+        "title": "LIÊN HỆ",
+        "address": "Trụ sở chính: Số 37 Lê Văn Thiêm, Phường Nhân Chính, Quận Thanh Xuân, TP. Hà Nội | Chi nhánh TP.HCM: Số 36 Nguyễn Huy Lượng, Phường 14, Quận Bình Thạnh",
+        "hotline": "0988 026 858",
+        "subtitle": "THÔNG TIN ĐĂNG KÝ DÙNG THỬ",
+        "copyright": "© 2026 Công ty Cổ phần Công nghệ và Tư vấn CIC. Bảo lưu mọi quyền cho chuyên trang allplan.cic.com.vn.",
+        "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC",
+        "company_name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ TƯ VẤN CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.359Z",
+      "updated_at_utc": "2026-10-28T01:12:41.359Z"
+    },
+    {
+      "landing_page_section_id": "69bda9d4-bc3b-4cfa-8afc-16a760599d9e",
+      "landing_page_id": "2ad6920c-65a3-44fe-9f56-6a4ed7d5794e",
+      "landing_section_type_code": "floating_cta",
+      "section_anchor_id": "floating_cta",
+      "section_order": 11,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [],
+        "title": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường",
+        "hotline": "0988 026 858",
+        "subtitle": "",
+        "zalo_url": "https://zalo.me/0988026858",
+        "cta_label": "Đăng Ký Tư Vấn",
+        "description": ""
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.362Z",
+      "updated_at_utc": "2026-10-28T01:12:41.362Z"
+    },
+    {
+      "landing_page_section_id": "67b32c3a-d41c-4f22-ab84-1fa588df982b",
+      "landing_page_id": "d65c6d5c-1cf5-464f-b7e4-d0c9f4b8ff4b",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "header",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "LỢI THẾ TỪ ALLPLAN",
+            "description": "Giải pháp BIM và CAD trên cùng 1 nền tảng"
+          },
+          {
+            "title": "Thiết kế tự do và liền mạch",
+            "description": "Mô hình, môi trường bản vẽ và chi tiết thép trong cùng 1 giải pháp phần mềm"
+          },
+          {
+            "title": "Bản vẽ thiết kế có độ chuẩn xác cao​",
+            "description": "Nền tảng Open BIM giúp cho việc phối hợp các bộ môn thuận tiện hơn"
+          },
+          {
+            "title": "Thiết kế hỗ trợ BIM",
+            "description": "Lập mô hình cho các kết cấu có hình dạng phức tạp một cách nhanh chóng và chính xác"
+          },
+          {
+            "title": "Bóc tách khối lượng chuẩn xác",
+            "description": "Triển khai nhanh chi tiết thép 3D, bản vẽ shop và khối lượng"
+          },
+          {
+            "title": "Dễ dàng trao đổi thông tin",
+            "description": "Các dự án xây dựng càng ngày càng trở nên phức tạp và yêu cầu cao về tiến độ cũng như độ chính xác. Để đáp ứng những yêu cầu trên các kỹ sư cũng cần phải sử dụng những công cụ mạnh mẽ và hiệu quả hơn. Công cụ đó phải có thể làm việc được trên cả môi trường 2D và 3D, giao tiếp tốt với các phần mềm khác và đưa ra chất lượng tốt nhất. ALLPLAN là một trong số ít giải pháp lý tưởng có thể thực hiện được những yêu cầu sau"
+          }
+        ],
+        "title": "ALLPLAN ENGINEERING Giải pháp BIM cho các kỹ sư kết cấu",
+        "logo_url": "/api/landing/media/allplan/images/logo.png",
+        "subtitle": "LỢI THẾ TỪ ALLPLAN",
+        "cta_label": "Đăng Ký Tư Vấn",
+        "nav_items": [
+          {
+            "href": "#intro",
+            "label": "Tổng quan"
+          },
+          {
+            "href": "#advantages",
+            "label": "Ưu điểm"
+          },
+          {
+            "href": "#catalog",
+            "label": "Giải pháp"
+          },
+          {
+            "href": "#comparison",
+            "label": "Các gói & So sánh"
+          },
+          {
+            "href": "#faq",
+            "label": "Hỏi đáp"
+          }
+        ],
+        "brand_name": "Allplan",
+        "description": "Giải pháp BIM và CAD trên cùng 1 nền tảng"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.143Z",
+      "updated_at_utc": "2026-10-28T01:12:42.143Z"
+    },
+    {
+      "landing_page_section_id": "e08621f3-570c-46ff-8748-87962503a886",
+      "landing_page_id": "d65c6d5c-1cf5-464f-b7e4-d0c9f4b8ff4b",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "hero",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "Nemetschek Group — Phân Phối Chính Thức Bởi CIC",
+        "items": [
+          {
+            "title": "LỢI THẾ TỪ ALLPLAN",
+            "description": "Giải pháp BIM và CAD trên cùng 1 nền tảng"
+          },
+          {
+            "title": "Thiết kế tự do và liền mạch",
+            "description": "Mô hình, môi trường bản vẽ và chi tiết thép trong cùng 1 giải pháp phần mềm"
+          },
+          {
+            "title": "Bản vẽ thiết kế có độ chuẩn xác cao​",
+            "description": "Nền tảng Open BIM giúp cho việc phối hợp các bộ môn thuận tiện hơn"
+          },
+          {
+            "title": "Thiết kế hỗ trợ BIM",
+            "description": "Lập mô hình cho các kết cấu có hình dạng phức tạp một cách nhanh chóng và chính xác"
+          },
+          {
+            "title": "Bóc tách khối lượng chuẩn xác",
+            "description": "Triển khai nhanh chi tiết thép 3D, bản vẽ shop và khối lượng"
+          },
+          {
+            "title": "Dễ dàng trao đổi thông tin",
+            "description": "Các dự án xây dựng càng ngày càng trở nên phức tạp và yêu cầu cao về tiến độ cũng như độ chính xác. Để đáp ứng những yêu cầu trên các kỹ sư cũng cần phải sử dụng những công cụ mạnh mẽ và hiệu quả hơn. Công cụ đó phải có thể làm việc được trên cả môi trường 2D và 3D, giao tiếp tốt với các phần mềm khác và đưa ra chất lượng tốt nhất. ALLPLAN là một trong số ít giải pháp lý tưởng có thể thực hiện được những yêu cầu sau"
+          }
+        ],
+        "stats": [
+          {
+            "label": "Tiết kiệm thời gian triển khai bản vẽ cốt thép 3D",
+            "value": "30%+"
+          },
+          {
+            "label": "Chuẩn IFC4 & OpenBIM quốc tế (BIMPlus)",
+            "value": "100%"
+          },
+          {
+            "label": "Thương hiệu Nemetschek CHLB Đức",
+            "value": "50+ Năm"
+          },
+          {
+            "label": "Hỗ trợ kỹ thuật trực tiếp từ kỹ sư CIC",
+            "value": "24/7"
+          }
+        ],
+        "title": "ALLPLAN ENGINEERING Giải pháp BIM cho các kỹ sư kết cấu",
+        "subtitle": "LỢI THẾ TỪ ALLPLAN",
+        "description": "Giải pháp BIM và CAD trên cùng 1 nền tảng",
+        "hero_image_url": "/api/landing/media/allplan/images/hero.png",
+        "primary_cta_href": "#consultation",
+        "primary_cta_label": "Đăng Ký Dùng Thử & Nhận Báo Giá",
+        "secondary_cta_href": "#comparison",
+        "secondary_cta_label": "Xem Tài Liệu & Bảng Giá"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.149Z",
+      "updated_at_utc": "2026-10-28T01:12:42.149Z"
+    },
+    {
+      "landing_page_section_id": "af1fc1aa-9791-4241-82f1-f84bb081cab3",
+      "landing_page_id": "d65c6d5c-1cf5-464f-b7e4-d0c9f4b8ff4b",
+      "landing_section_type_code": "intro",
+      "section_anchor_id": "intro",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "GIẢI PHÁP CHÍNH HÃNG PHÂN PHỐI BỞI CIC",
+        "items": [
+          {
+            "title": "Thiết kế tự do và liền mạch",
+            "description": "088 691 6666"
+          },
+          {
+            "title": "Bản vẽ thiết kế có độ chuẩn xác cao​",
+            "description": "Với lõi mô hình hóa Parasolid từ Siemens được tích hợp vào Allplan, giúp người dùng dựng các mô hình 3D dễ dàng hơn.​ Allplan hỗ trợ toàn bộ quá trình thiết kế trong một hệ thống duy nhất - từ bản thảo ban đầu cho đến bản vẽ gia cố và bố trí chung cuối cùng."
+          },
+          {
+            "title": "Thiết kế hỗ trợ BIM",
+            "description": "Các bản vẽ 2D/3D luôn được cập nhật nhanh. Ngoài ra, các công cụ thiết kế và layout mạnh mẽ cung cấp độ chính xác tối ưu khi thiết kế bản vẽ kiến trúc."
+          },
+          {
+            "title": "Bóc tách khối lượng chuẩn xác",
+            "description": "Phần mềm Allplan cho phép bạn xây dựng mô hình 3D trước khi đưa vào thực tế, điều này giúp chỉ ra những lỗi sai và xung đột trong giai đoạn thiết kế để tránh những trì hoãn khi thi công.​"
+          },
+          {
+            "title": "Dễ dàng trao đổi thông tin",
+            "description": "Với độ tin cậy tối đa cho việc bóc tách khối lượng, thống kê, tính toán trong mô hình 3D."
+          },
+          {
+            "title": "Làm việc nhóm hiệu quả",
+            "description": "Dễ dàng trao đổi dữ liệu với các đối tác, phần mềm hỗ trợ nhiều định dạng tập tin bao gồm DWG, DXF, DGN, IFC4 và PDF.​"
+          }
+        ],
+        "title": "LỢI THẾ TỪ ALLPLAN",
+        "subtitle": "Thiết kế tự do và liền mạch",
+        "description": "088 691 6666"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.154Z",
+      "updated_at_utc": "2026-10-28T01:12:42.154Z"
+    },
+    {
+      "landing_page_section_id": "21f12828-4107-4ce1-85a0-25f39adf3809",
+      "landing_page_id": "d65c6d5c-1cf5-464f-b7e4-d0c9f4b8ff4b",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "advantages",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "ƯU ĐIỂM VƯỢT TRỘI",
+        "items": [
+          {
+            "title": "Mô hình thép và thống kê thép hiệu quả nhất",
+            "description": "Tạo mô hình nhanh chóng từ AutoCAD; Giao diện đa màn hình, 2D và 3D xuất hiện cùng lúc giúp cho người dùng thao tác trong môi trường 2D nhưng tạo ra mô hình 3D; Tuỳ chỉnh cao độ các cấu kiện từ đơn giản tới nâng cao giúp cho việc tiết kiệm thời gian cho việc thay đổi thiết kế; Quản lý bản vẽ, cấu kiện khoa học giúp tăng tốc độ làm việc, tối ưu hoá mô hình và dung lựng file."
+          },
+          {
+            "title": "TỰ ĐỘNG TẠO, RẢI THÉP, THỐNG KÊ CHO DẦM",
+            "description": "Mô hình thép dễ dàng Thống kê tự động, nhanh chóng và chuẩn xác Hỗ trợ tự động nối thép, rải thép theo chuẩn Việt Nam"
+          },
+          {
+            "title": "Xem trước các tệp nhập trực tiếp từ Revit",
+            "description": "• Thao tác quen thuộc, không mất thời gian tìm hiểu và học phần mềm • Thực hiện trên từng khối một cách nhanh chóng • Trình bày theo tiêu chuẩn Việt Nam"
+          },
+          {
+            "title": "Tương tác giữa Allplan và Allplan Bimplus",
+            "description": "Lần đầu tiên các tệp Revit có thể được nhập trực tiếp trong phạm vi chế độ xem trước về mặt kỹ thuật. Điều này có nghĩa là các mô hình Revit có thể được nhập vào Allplan và sử dụng mà không cần chuyển đổi chúng sang định dạng IFC trước. Trong quá trình nhập, các đối tượng Allplan nguyên bản như tường, cột, trần nhà, dầm, cửa sổ, cửa ra vào và mái nhà được tạo ra. Khi nhập tệp DWG / DXF, hiện có thể chuyển đổi tọa độ UTM ở chế độ chuyên gia, bao gồm việc lựa chọn trực tiếp tệp NTv2."
+          },
+          {
+            "title": "DÙNG THỬ ALLPLAN",
+            "description": "Để tối ưu hóa sự tương tác giữa Allplan và Allplan Bimplus, bây giờ bạn có thể khởi động BIM Explorer trực tiếp từ Allplan mà không cần bất kỳ bước trung gian nào. Điều này giúp bạn có thể xem mô hình của chính mình cùng với các mô hình từ các ngành khác (ví dụ: MEP) và đặt chúng trong bối cảnh tổng thể. Ngoài ra, hiện đã hỗ trợ tải xuống phần gia cố từ Allplan Bimplus để thêm chi tiết trong Allplan."
+          },
+          {
+            "title": "CÁC DỰ ÁN THỰC HIỆN BỞI ALLPLAN",
+            "description": "Kỹ sư có thể dựng mô hình nhanh chóng, trình bày chi tiết gia cố bê tông hiệu quả và tạo ra bản vẽ chất lượng cao với cùng một phần mềm. &gt; Tạo bản vẽ và dựng mô hình hiệu quả và chính xác &gt; Trực quan chuyên nghiệp và tài liệu mới nhất &gt; Bóc tách khối lượng chính xác giúp giảm thiểu chi phí Thử nghiệm phiên bản đầy đủ của Allplan 2021 trong 30 ngày hoàn toàn miễn phí. Hãy tải xuống ngay phần mềm và tận tay trải nghiệm."
+          }
+        ],
+        "title": "Nền tảng 3D mạnh mẽ",
+        "subtitle": "Mô hình thép và thống kê thép hiệu quả nhất",
+        "description": "Tạo mô hình nhanh chóng từ AutoCAD; Giao diện đa màn hình, 2D và 3D xuất hiện cùng lúc giúp cho người dùng thao tác trong môi trường 2D nhưng tạo ra mô hình 3D; Tuỳ chỉnh cao độ các cấu kiện từ đơn giản tới nâng cao giúp cho việc tiết kiệm thời gian cho việc thay đổi thiết kế; Quản lý bản vẽ, cấu kiện khoa học giúp tăng tốc độ làm việc, tối ưu hoá mô hình và dung lựng file."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.158Z",
+      "updated_at_utc": "2026-10-28T01:12:42.158Z"
+    },
+    {
+      "landing_page_section_id": "de21c820-48c5-4614-ab47-82dab331521c",
+      "landing_page_id": "d65c6d5c-1cf5-464f-b7e4-d0c9f4b8ff4b",
+      "landing_section_type_code": "catalog",
+      "section_anchor_id": "catalog",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "DANH MỤC GIẢI PHÁP & MÔ-ĐUN CHUYÊN SÂU",
+        "items": [
+          {
+            "title": "TỰ ĐỘNG TẠO, RẢI THÉP, THỐNG KÊ CHO DẦM",
+            "description": "Mô hình thép dễ dàng Thống kê tự động, nhanh chóng và chuẩn xác Hỗ trợ tự động nối thép, rải thép theo chuẩn Việt Nam"
+          },
+          {
+            "title": "Xem trước các tệp nhập trực tiếp từ Revit",
+            "description": "• Thao tác quen thuộc, không mất thời gian tìm hiểu và học phần mềm • Thực hiện trên từng khối một cách nhanh chóng • Trình bày theo tiêu chuẩn Việt Nam"
+          },
+          {
+            "title": "Tương tác giữa Allplan và Allplan Bimplus",
+            "description": "Lần đầu tiên các tệp Revit có thể được nhập trực tiếp trong phạm vi chế độ xem trước về mặt kỹ thuật. Điều này có nghĩa là các mô hình Revit có thể được nhập vào Allplan và sử dụng mà không cần chuyển đổi chúng sang định dạng IFC trước. Trong quá trình nhập, các đối tượng Allplan nguyên bản như tường, cột, trần nhà, dầm, cửa sổ, cửa ra vào và mái nhà được tạo ra. Khi nhập tệp DWG / DXF, hiện có thể chuyển đổi tọa độ UTM ở chế độ chuyên gia, bao gồm việc lựa chọn trực tiếp tệp NTv2."
+          },
+          {
+            "title": "DÙNG THỬ ALLPLAN",
+            "description": "Để tối ưu hóa sự tương tác giữa Allplan và Allplan Bimplus, bây giờ bạn có thể khởi động BIM Explorer trực tiếp từ Allplan mà không cần bất kỳ bước trung gian nào. Điều này giúp bạn có thể xem mô hình của chính mình cùng với các mô hình từ các ngành khác (ví dụ: MEP) và đặt chúng trong bối cảnh tổng thể. Ngoài ra, hiện đã hỗ trợ tải xuống phần gia cố từ Allplan Bimplus để thêm chi tiết trong Allplan."
+          },
+          {
+            "title": "CÁC DỰ ÁN THỰC HIỆN BỞI ALLPLAN",
+            "description": "Kỹ sư có thể dựng mô hình nhanh chóng, trình bày chi tiết gia cố bê tông hiệu quả và tạo ra bản vẽ chất lượng cao với cùng một phần mềm. &gt; Tạo bản vẽ và dựng mô hình hiệu quả và chính xác &gt; Trực quan chuyên nghiệp và tài liệu mới nhất &gt; Bóc tách khối lượng chính xác giúp giảm thiểu chi phí Thử nghiệm phiên bản đầy đủ của Allplan 2021 trong 30 ngày hoàn toàn miễn phí. Hãy tải xuống ngay phần mềm và tận tay trải nghiệm."
+          },
+          {
+            "title": "ĐÀO TẠO TRỰC TUYẾN",
+            "description": "Four-track extension between Olten & Aarau, Switzerland"
+          }
+        ],
+        "title": "Mô hình thép và thống kê thép hiệu quả nhất",
+        "subtitle": "TỰ ĐỘNG TẠO, RẢI THÉP, THỐNG KÊ CHO DẦM",
+        "description": "Mô hình thép dễ dàng Thống kê tự động, nhanh chóng và chuẩn xác Hỗ trợ tự động nối thép, rải thép theo chuẩn Việt Nam"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.163Z",
+      "updated_at_utc": "2026-10-28T01:12:42.163Z"
+    },
+    {
+      "landing_page_section_id": "e162042a-f7f7-4def-985a-797e2ac8d91f",
+      "landing_page_id": "d65c6d5c-1cf5-464f-b7e4-d0c9f4b8ff4b",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "comparison",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "CÁC GÓI BẢN QUYỀN & TÀI LIỆU SO SÁNH",
+        "items": [
+          {
+            "title": "Xem trước các tệp nhập trực tiếp từ Revit",
+            "description": "• Thao tác quen thuộc, không mất thời gian tìm hiểu và học phần mềm • Thực hiện trên từng khối một cách nhanh chóng • Trình bày theo tiêu chuẩn Việt Nam"
+          },
+          {
+            "title": "Tương tác giữa Allplan và Allplan Bimplus",
+            "description": "Lần đầu tiên các tệp Revit có thể được nhập trực tiếp trong phạm vi chế độ xem trước về mặt kỹ thuật. Điều này có nghĩa là các mô hình Revit có thể được nhập vào Allplan và sử dụng mà không cần chuyển đổi chúng sang định dạng IFC trước. Trong quá trình nhập, các đối tượng Allplan nguyên bản như tường, cột, trần nhà, dầm, cửa sổ, cửa ra vào và mái nhà được tạo ra. Khi nhập tệp DWG / DXF, hiện có thể chuyển đổi tọa độ UTM ở chế độ chuyên gia, bao gồm việc lựa chọn trực tiếp tệp NTv2."
+          },
+          {
+            "title": "DÙNG THỬ ALLPLAN",
+            "description": "Để tối ưu hóa sự tương tác giữa Allplan và Allplan Bimplus, bây giờ bạn có thể khởi động BIM Explorer trực tiếp từ Allplan mà không cần bất kỳ bước trung gian nào. Điều này giúp bạn có thể xem mô hình của chính mình cùng với các mô hình từ các ngành khác (ví dụ: MEP) và đặt chúng trong bối cảnh tổng thể. Ngoài ra, hiện đã hỗ trợ tải xuống phần gia cố từ Allplan Bimplus để thêm chi tiết trong Allplan."
+          },
+          {
+            "title": "CÁC DỰ ÁN THỰC HIỆN BỞI ALLPLAN",
+            "description": "Kỹ sư có thể dựng mô hình nhanh chóng, trình bày chi tiết gia cố bê tông hiệu quả và tạo ra bản vẽ chất lượng cao với cùng một phần mềm. &gt; Tạo bản vẽ và dựng mô hình hiệu quả và chính xác &gt; Trực quan chuyên nghiệp và tài liệu mới nhất &gt; Bóc tách khối lượng chính xác giúp giảm thiểu chi phí Thử nghiệm phiên bản đầy đủ của Allplan 2021 trong 30 ngày hoàn toàn miễn phí. Hãy tải xuống ngay phần mềm và tận tay trải nghiệm."
+          },
+          {
+            "title": "ĐÀO TẠO TRỰC TUYẾN",
+            "description": "Four-track extension between Olten & Aarau, Switzerland"
+          },
+          {
+            "title": "LIÊN HỆ",
+            "description": "Hotel Complex Costabella"
+          }
+        ],
+        "title": "TỰ ĐỘNG TẠO, RẢI THÉP, THỐNG KÊ CHO DẦM",
+        "pdf_url": "/api/landing/media/allplan/downloads/brochure.pdf",
+        "packages": [
+          {
+            "name": "Allplan Concept",
+            "price": "Liên hệ nhận báo giá",
+            "period": "Thuê bao năm hoặc Vĩnh viễn",
+            "features": [
+              "Mô hình 3D BIM đa vật liệu",
+              "Xuất bản vẽ 2D & thống kê",
+              "Hỗ trợ chuẩn IFC / BCF"
+            ],
+            "cta_label": "Nhận Báo Giá Concept",
+            "description": "Dành cho kỹ sư thiết kế cơ sở, mô hình 3D kiến trúc - kết cấu và bóc tách khối lượng."
+          },
+          {
+            "name": "Allplan Professional",
+            "badge": "PHỔ BIẾN NHẤT",
+            "price": "Khuyên dùng cho Doanh nghiệp",
+            "period": "Đầy đủ tính năng Cốt thép 3D & BIM",
+            "features": [
+              "Toàn bộ tính năng Concept",
+              "Mô hình hóa cốt thép 3D & Kết cấu thép",
+              "PythonParts tự động hóa & đám mây BIMPlus",
+              "Đào tạo chuyển giao chuẩn CIC"
+            ],
+            "cta_label": "Đăng Ký Dùng Thử 30 Ngày",
+            "highlight": true,
+            "description": "Giải pháp hoàn chỉnh cho tư vấn thiết kế kết cấu, tổng thầu Design & Build và ban QLDA."
+          },
+          {
+            "name": "Allplan Ultimate / Civil",
+            "price": "Giải pháp Hạ tầng & Cầu đường",
+            "period": "Tích hợp Địa hình & Cầu hầm",
+            "features": [
+              "Thiết kế địa hình & tuyến đường",
+              "Tích hợp mô-đun Allplan Bridge",
+              "Quản lý bản quyền mạng Floating"
+            ],
+            "cta_label": "Tư Vấn Giải Pháp",
+            "description": "Dành cho các tổng công ty tư vấn thiết kế giao thông, cầu đường và công trình ngầm."
+          }
+        ],
+        "subtitle": "Xem trước các tệp nhập trực tiếp từ Revit",
+        "description": "• Thao tác quen thuộc, không mất thời gian tìm hiểu và học phần mềm • Thực hiện trên từng khối một cách nhanh chóng • Trình bày theo tiêu chuẩn Việt Nam",
+        "modal_title": "Tài Liệu Kỹ Thuật & So Sánh Phiên Bản — Allplan",
+        "pdf_cta_label": "XEM TÀI LIỆU SO SÁNH & BROCHURE (PDF)",
+        "modal_download_label": "Tải Xuống Tài Liệu PDF",
+        "modal_register_label": "Nhận Tư Vấn & Báo Giá Chi Tiết"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.171Z",
+      "updated_at_utc": "2026-10-28T01:12:42.171Z"
+    },
+    {
+      "landing_page_section_id": "b3e4df8b-810f-4e24-8456-fcc2b8838b9e",
+      "landing_page_id": "d65c6d5c-1cf5-464f-b7e4-d0c9f4b8ff4b",
+      "landing_section_type_code": "resources",
+      "section_anchor_id": "resources",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "TÀI NGUYÊN & HỖ TRỢ KỸ THUẬT",
+        "items": [
+          {
+            "title": "DÙNG THỬ ALLPLAN",
+            "description": "Để tối ưu hóa sự tương tác giữa Allplan và Allplan Bimplus, bây giờ bạn có thể khởi động BIM Explorer trực tiếp từ Allplan mà không cần bất kỳ bước trung gian nào. Điều này giúp bạn có thể xem mô hình của chính mình cùng với các mô hình từ các ngành khác (ví dụ: MEP) và đặt chúng trong bối cảnh tổng thể. Ngoài ra, hiện đã hỗ trợ tải xuống phần gia cố từ Allplan Bimplus để thêm chi tiết trong Allplan."
+          },
+          {
+            "title": "CÁC DỰ ÁN THỰC HIỆN BỞI ALLPLAN",
+            "description": "Kỹ sư có thể dựng mô hình nhanh chóng, trình bày chi tiết gia cố bê tông hiệu quả và tạo ra bản vẽ chất lượng cao với cùng một phần mềm. &gt; Tạo bản vẽ và dựng mô hình hiệu quả và chính xác &gt; Trực quan chuyên nghiệp và tài liệu mới nhất &gt; Bóc tách khối lượng chính xác giúp giảm thiểu chi phí Thử nghiệm phiên bản đầy đủ của Allplan 2021 trong 30 ngày hoàn toàn miễn phí. Hãy tải xuống ngay phần mềm và tận tay trải nghiệm."
+          },
+          {
+            "title": "ĐÀO TẠO TRỰC TUYẾN",
+            "description": "Four-track extension between Olten & Aarau, Switzerland"
+          },
+          {
+            "title": "LIÊN HỆ",
+            "description": "Hotel Complex Costabella"
+          },
+          {
+            "title": "THÔNG TIN ĐĂNG KÝ DÙNG THỬ",
+            "description": "Hydroelectric power plant, Nepal"
+          },
+          {
+            "title": "DÙNG THỬ",
+            "description": "Pumping station Katwijk, Netherlands"
+          }
+        ],
+        "title": "Tương tác giữa Allplan và Allplan Bimplus",
+        "subtitle": "DÙNG THỬ ALLPLAN",
+        "description": "Để tối ưu hóa sự tương tác giữa Allplan và Allplan Bimplus, bây giờ bạn có thể khởi động BIM Explorer trực tiếp từ Allplan mà không cần bất kỳ bước trung gian nào. Điều này giúp bạn có thể xem mô hình của chính mình cùng với các mô hình từ các ngành khác (ví dụ: MEP) và đặt chúng trong bối cảnh tổng thể. Ngoài ra, hiện đã hỗ trợ tải xuống phần gia cố từ Allplan Bimplus để thêm chi tiết trong Allplan."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.177Z",
+      "updated_at_utc": "2026-10-28T01:12:42.177Z"
+    },
+    {
+      "landing_page_section_id": "396c7034-2759-4b3c-ae66-3bb7da8a4a7b",
+      "landing_page_id": "d65c6d5c-1cf5-464f-b7e4-d0c9f4b8ff4b",
+      "landing_section_type_code": "faq",
+      "section_anchor_id": "faq",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "CÂU HỎI THƯỜNG GẶP",
+        "items": [
+          {
+            "title": "LIÊN HỆ",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "THÔNG TIN ĐĂNG KÝ DÙNG THỬ",
+            "description": "Đối tác phân phối độc quyền ALLPLAN tại Việt Nam"
+          },
+          {
+            "title": "SỰ KIỆN CHUYÊN MÔN &gt;",
+            "description": "Vui lòng điền đúng thông tin, chúng tôi sẽ liên hệ tư vấn và gửi bản dùng thử qua email của bạn"
+          },
+          {
+            "title": "HỘI THẢO TRỰC TUYẾN &gt;",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "ALLPLAN COMMUNITY &gt;",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          }
+        ],
+        "title": "ĐÀO TẠO TRỰC TUYẾN",
+        "subtitle": "LIÊN HỆ",
+        "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.186Z",
+      "updated_at_utc": "2026-10-28T01:12:42.186Z"
+    },
+    {
+      "landing_page_section_id": "4a3afaf8-de80-40f1-b4e6-429bd4b46da7",
+      "landing_page_id": "d65c6d5c-1cf5-464f-b7e4-d0c9f4b8ff4b",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "consultation",
+      "section_order": 9,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "ĐĂNG KÝ TƯ VẤN & TẢI DÙNG THỬ MIỄN PHÍ",
+        "items": [
+          {
+            "title": "ĐÀO TẠO TRỰC TUYẾN",
+            "description": "Four-track extension between Olten & Aarau, Switzerland"
+          },
+          {
+            "title": "LIÊN HỆ",
+            "description": "Hotel Complex Costabella"
+          },
+          {
+            "title": "THÔNG TIN ĐĂNG KÝ DÙNG THỬ",
+            "description": "Hydroelectric power plant, Nepal"
+          },
+          {
+            "title": "DÙNG THỬ",
+            "description": "Pumping station Katwijk, Netherlands"
+          },
+          {
+            "title": "SỰ KIỆN CHUYÊN MÔN &gt;",
+            "description": "Sava Bridge, Serbia"
+          },
+          {
+            "title": "HỘI THẢO TRỰC TUYẾN &gt;",
+            "description": "Steel plant in Jizan, Saudi Arabia"
+          }
+        ],
+        "title": "CÁC DỰ ÁN THỰC HIỆN BỞI ALLPLAN",
+        "benefits": [
+          "Tải ngay Tài liệu kỹ thuật, Brochure & Bộ cài đặt dùng thử chính thức",
+          "Nhận báo giá ưu đãi đặc biệt dành cho doanh nghiệp từ CIC",
+          "Hỗ trợ cài đặt, giải đáp kỹ thuật 1-1 bởi đội ngũ kỹ sư giàu kinh nghiệm",
+          "Cam kết bảo mật 100% thông tin doanh nghiệp và dự án"
+        ],
+        "subtitle": "ĐÀO TẠO TRỰC TUYẾN",
+        "description": "Four-track extension between Olten & Aarau, Switzerland",
+        "modal_title": "Tài Liệu & Bộ Cài Đặt Đã Sẵn Sàng!",
+        "submit_label": "Gửi Yêu Cầu & Nhận Tài Liệu Ngay",
+        "modal_description": "Cảm ơn Quý khách đã đăng ký! Quý khách có thể bấm vào nút bên dưới để tải ngay tài liệu/bộ cài đặt hoặc chờ chuyên gia CIC liên hệ trong ít phút:",
+        "modal_button_label": "Tải Tài Liệu & Bộ Cài Đặt Ngay"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.191Z",
+      "updated_at_utc": "2026-10-28T01:12:42.191Z"
+    },
+    {
+      "landing_page_section_id": "7b3999c1-f661-4eca-a202-8cc81039fa7e",
+      "landing_page_id": "d65c6d5c-1cf5-464f-b7e4-d0c9f4b8ff4b",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "footer",
+      "section_order": 10,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "email": "info@cic.com.vn",
+        "items": [
+          {
+            "title": "THÔNG TIN ĐĂNG KÝ DÙNG THỬ",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "Đối tác phân phối độc quyền ALLPLAN tại Việt Nam"
+          },
+          {
+            "title": "Hotline: 088 691 6666 - 088 645 2020 (miền Nam)",
+            "description": "Vui lòng điền đúng thông tin, chúng tôi sẽ liên hệ tư vấn và gửi bản dùng thử qua email của bạn"
+          },
+          {
+            "title": "Email: info@cic.com.vn",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Website: https://www.cic.com.vn",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Vui lòng để lại thông tin, chúng tôi sẽ gửi bản dùng thử qua email của bạn:",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          }
+        ],
+        "title": "LIÊN HỆ",
+        "address": "Trụ sở chính: Số 37 Lê Văn Thiêm, Phường Nhân Chính, Quận Thanh Xuân, TP. Hà Nội | Chi nhánh TP.HCM: Số 36 Nguyễn Huy Lượng, Phường 14, Quận Bình Thạnh",
+        "hotline": "0988 026 858",
+        "subtitle": "THÔNG TIN ĐĂNG KÝ DÙNG THỬ",
+        "copyright": "© 2026 Công ty Cổ phần Công nghệ và Tư vấn CIC. Bảo lưu mọi quyền cho chuyên trang allplan.cic.com.vn.",
+        "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC",
+        "company_name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ TƯ VẤN CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.196Z",
+      "updated_at_utc": "2026-10-28T01:12:42.196Z"
+    },
+    {
+      "landing_page_section_id": "d32bbabd-76ea-437d-8608-b2eac7c40a39",
+      "landing_page_id": "d65c6d5c-1cf5-464f-b7e4-d0c9f4b8ff4b",
+      "landing_section_type_code": "floating_cta",
+      "section_anchor_id": "floating_cta",
+      "section_order": 11,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [],
+        "title": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường",
+        "hotline": "0988 026 858",
+        "subtitle": "",
+        "zalo_url": "https://zalo.me/0988026858",
+        "cta_label": "Đăng Ký Tư Vấn",
+        "description": ""
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.203Z",
+      "updated_at_utc": "2026-10-28T01:12:42.203Z"
+    }
+  ],
+  "forms": [
+    {
+      "landing_form_id": "baf29b38-58d5-45ac-abac-c34a4f4c4bf8",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "form_code": "allplan-lead-form",
+      "form_name": "Form Đăng ký Tư vấn & Dùng thử — Allplan",
+      "fields_schema_json": [
+        {
+          "name": "full_name",
+          "type": "text",
+          "label": "Họ và tên *",
+          "required": true,
+          "placeholder": "Nguyễn Văn An",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "label": "Số điện thoại *",
+          "required": true,
+          "placeholder": "0912 345 678",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "work_email",
+          "type": "email",
+          "label": "Email công việc *",
+          "required": true,
+          "placeholder": "ban@congty.com.vn",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "company",
+          "type": "text",
+          "label": "Tên công ty / Đơn vị",
+          "required": false,
+          "placeholder": "Công ty Cổ phần Tư vấn Thiết kế...",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "primary_need",
+          "type": "select",
+          "label": "Nhu cầu quan tâm chính *",
+          "options": [
+            {
+              "label": "Đăng ký dùng thử & tải tài liệu Allplan",
+              "value": "trial_30_days"
+            },
+            {
+              "label": "Nhận báo giá bản quyền Allplan ưu đãi",
+              "value": "request_quote"
+            },
+            {
+              "label": "Tư vấn kỹ thuật & giải pháp triển khai",
+              "value": "technical_consult"
+            }
+          ],
+          "required": true,
+          "default_value": "trial_30_days",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "device_quantity",
+          "type": "number",
+          "label": "Số lượng máy / người dùng dự kiến",
+          "required": false,
+          "placeholder": "5",
+          "default_value": 5,
+          "visibility_rule": {
+            "value": "request_quote",
+            "operator": "equals",
+            "dependsOnField": "primary_need"
+          }
+        },
+        {
+          "name": "requirements",
+          "type": "textarea",
+          "label": "Ghi chú hoặc yêu cầu cụ thể",
+          "required": false,
+          "placeholder": "Mô tả thêm về quy mô dự án hoặc cấu hình cần tư vấn...",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        }
+      ],
+      "notification_emails_json": [
+        "info@cic.com.vn"
+      ],
+      "google_sheet_config_json": {
+        "sheet_name": "LEADS",
+        "spreadsheet_id": ""
+      },
+      "success_action": "modal_download",
+      "success_payload_json": {
+        "message": "Cảm ơn Quý khách đã quan tâm tới Allplan. Chuyên gia CIC sẽ liên hệ trong thời gian sớm nhất!",
+        "modal_title": "Tài Liệu & Bộ Dùng Thử Allplan Đã Sẵn Sàng!",
+        "outcome_rules": [
+          {
+            "id": "rule_allplan_trial",
+            "title": "Tài Liệu & Bộ Dùng Thử Allplan Đã Sẵn Sàng!",
+            "message": "Cảm ơn Quý khách đã đăng ký trải nghiệm Allplan. Quý khách có thể bấm nút bên dưới để tải ngay Hồ sơ kỹ thuật & Hướng dẫn dùng thử:",
+            "operator": "equals",
+            "whenField": "primary_need",
+            "whenValue": "trial_30_days",
+            "actionType": "download_modal",
+            "downloadUrl": "/api/landing/media/allplan/downloads/brochure.pdf",
+            "downloadLabel": "Tải Tài Liệu Allplan (PDF)",
+            "targetSheetName": "LEADS"
+          },
+          {
+            "id": "rule_allplan_quote",
+            "title": "Đã Ghi Nhận Yêu Cầu Báo Giá!",
+            "message": "Cảm ơn Quý khách! Chuyên viên phụ trách giải pháp Allplan của CIC sẽ gửi bảng báo giá và chính sách chiết khấu tốt nhất qua Email/Zalo trong 15 phút làm việc.",
+            "operator": "equals",
+            "whenField": "primary_need",
+            "whenValue": "request_quote",
+            "actionType": "message_only",
+            "downloadUrl": "",
+            "downloadLabel": "",
+            "targetSheetName": "LEADS"
+          },
+          {
+            "id": "rule_allplan_default",
+            "title": "Đăng Ký Tư Vấn Kỹ Thuật Thành Công!",
+            "message": "Cảm ơn Quý khách! Kỹ sư giải pháp Allplan của CIC sẽ liên hệ trực tiếp để tư vấn chi tiết cho doanh nghiệp.",
+            "operator": "always",
+            "whenField": "primary_need",
+            "whenValue": "",
+            "actionType": "message_only",
+            "downloadUrl": "",
+            "downloadLabel": "",
+            "targetSheetName": "LEADS"
+          }
+        ],
+        "modal_description": "Bấm vào nút bên dưới để tải ngay tài liệu hướng dẫn và thông số kỹ thuật Allplan:",
+        "default_download_url": "/api/landing/media/allplan/downloads/brochure.pdf"
+      },
+      "is_form_active": true,
+      "created_at_utc": "2026-10-28T01:12:42.596Z",
+      "updated_at_utc": "2026-10-28T01:12:42.596Z"
+    }
+  ],
+  "media": [
+    {
+      "landing_media_asset_id": "c5fc5bb4-2eb1-4973-bcb5-9385761dc3b6",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "media_slot_code": "allplan-logo-20210412081348",
+      "file_name": "allplan-logo-20210412081348.png",
+      "file_path": "images/allplan-logo-20210412081348.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "19254",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - allplan-logo-20210412081348.png",
+      "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - allplan-logo-20210412081348.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.311Z",
+      "updated_at_utc": "2026-10-28T01:12:46.311Z"
+    },
+    {
+      "landing_media_asset_id": "593b22ce-4ab6-414c-87d6-9f517874b397",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "media_slot_code": "2-00_00_00-00_00_30-20210406040229",
+      "file_name": "2-00_00_00-00_00_30-20210406040229.gif",
+      "file_path": "images/2-00_00_00-00_00_30-20210406040229.gif",
+      "mime_type": "image/gif",
+      "file_size_bytes": "1301526",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 2-00_00_00-00_00_30-20210406040229.gif",
+      "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 2-00_00_00-00_00_30-20210406040229.gif",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.331Z",
+      "updated_at_utc": "2026-10-28T01:12:46.331Z"
+    },
+    {
+      "landing_media_asset_id": "29f3df79-5c8d-4ec6-b61a-d110f3a7fb5f",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "media_slot_code": "call-icon-5-20210412081602",
+      "file_name": "call-icon-5-20210412081602.gif",
+      "file_path": "images/call-icon-5-20210412081602.gif",
+      "mime_type": "image/gif",
+      "file_size_bytes": "157009",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - call-icon-5-20210412081602.gif",
+      "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - call-icon-5-20210412081602.gif",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.428Z",
+      "updated_at_utc": "2026-10-28T01:12:46.428Z"
+    },
+    {
+      "landing_media_asset_id": "e842f6cf-16a8-4439-9647-dc05dcc06975",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "media_slot_code": "four-track-extension-between-olten-and-aarau-epp",
+      "file_name": "four-track-extension-between-olten-and-aarau-eppenberg-tunnel-switzerland-min-20210407043823.jpg",
+      "file_path": "images/four-track-extension-between-olten-and-aarau-eppenberg-tunnel-switzerland-min-20210407043823.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "55321",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - four-track-extension-between-olten-and-aarau-eppenberg-tunnel-switzerland-min-20210407043823.jpg",
+      "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - four-track-extension-between-olten-and-aarau-eppenberg-tunnel-switzerland-min-20210407043823.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.445Z",
+      "updated_at_utc": "2026-10-28T01:12:46.445Z"
+    },
+    {
+      "landing_media_asset_id": "7b84b05d-53e3-4f31-8f6a-1986c83c09a2",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "media_slot_code": "hotel-complex-costabella-min-20210407043856",
+      "file_name": "hotel-complex-costabella-min-20210407043856.jpg",
+      "file_path": "images/hotel-complex-costabella-min-20210407043856.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "42946",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - hotel-complex-costabella-min-20210407043856.jpg",
+      "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - hotel-complex-costabella-min-20210407043856.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.457Z",
+      "updated_at_utc": "2026-10-28T01:12:46.457Z"
+    },
+    {
+      "landing_media_asset_id": "0f0695ea-beb2-4bfa-b6db-9805dd6f9131",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "media_slot_code": "hydroelectric-power-plant-middle-marsyangdi-nepa",
+      "file_name": "hydroelectric-power-plant-middle-marsyangdi-nepal-1-min-20210407043908.jpg",
+      "file_path": "images/hydroelectric-power-plant-middle-marsyangdi-nepal-1-min-20210407043908.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "38953",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - hydroelectric-power-plant-middle-marsyangdi-nepal-1-min-20210407043908.jpg",
+      "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - hydroelectric-power-plant-middle-marsyangdi-nepal-1-min-20210407043908.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.470Z",
+      "updated_at_utc": "2026-10-28T01:12:46.470Z"
+    },
+    {
+      "landing_media_asset_id": "7de488d8-207c-43eb-9d35-47e87c8328ae",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "media_slot_code": "pumping-station-katwijk-netherlands-min-20210407",
+      "file_name": "pumping-station-katwijk-netherlands-min-20210407043957.jpg",
+      "file_path": "images/pumping-station-katwijk-netherlands-min-20210407043957.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "38847",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - pumping-station-katwijk-netherlands-min-20210407043957.jpg",
+      "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - pumping-station-katwijk-netherlands-min-20210407043957.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.478Z",
+      "updated_at_utc": "2026-10-28T01:12:46.478Z"
+    },
+    {
+      "landing_media_asset_id": "a3857f31-07d4-4e07-8db5-bf11118c7e40",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "media_slot_code": "3-20210405033642",
+      "file_name": "3-20210405033642.png",
+      "file_path": "images/3-20210405033642.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "20929",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 3-20210405033642.png",
+      "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 3-20210405033642.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.489Z",
+      "updated_at_utc": "2026-10-28T01:12:46.489Z"
+    },
+    {
+      "landing_media_asset_id": "3af76510-1dcd-438f-89f0-f57b106667ac",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "media_slot_code": "2-20210405033457",
+      "file_name": "2-20210405033457.png",
+      "file_path": "images/2-20210405033457.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "19964",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 2-20210405033457.png",
+      "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 2-20210405033457.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.498Z",
+      "updated_at_utc": "2026-10-28T01:12:46.498Z"
+    },
+    {
+      "landing_media_asset_id": "d63aa676-e75d-4368-9cce-bed205d36416",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "media_slot_code": "1-20210405023015",
+      "file_name": "1-20210405023015.png",
+      "file_path": "images/1-20210405023015.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "19770",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 1-20210405023015.png",
+      "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 1-20210405023015.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.504Z",
+      "updated_at_utc": "2026-10-28T01:12:46.504Z"
+    },
+    {
+      "landing_media_asset_id": "ccad9dff-2070-4c33-b1f6-206a0ab322d3",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "media_slot_code": "6-20210405034511",
+      "file_name": "6-20210405034511.png",
+      "file_path": "images/6-20210405034511.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "19722",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 6-20210405034511.png",
+      "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 6-20210405034511.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.511Z",
+      "updated_at_utc": "2026-10-28T01:12:46.511Z"
+    },
+    {
+      "landing_media_asset_id": "addc970a-41ac-4c1c-86f7-a8d26e879551",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "media_slot_code": "download-20210412081112",
+      "file_name": "download-20210412081112.png",
+      "file_path": "images/download-20210412081112.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "17877",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - download-20210412081112.png",
+      "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - download-20210412081112.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.522Z",
+      "updated_at_utc": "2026-10-28T01:12:46.522Z"
+    },
+    {
+      "landing_media_asset_id": "62f63270-e74d-4d8c-8932-9c66c1efd1cf",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "media_slot_code": "1-20210405033608",
+      "file_name": "1-20210405033608.png",
+      "file_path": "images/1-20210405033608.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "17563",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 1-20210405033608.png",
+      "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 1-20210405033608.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.531Z",
+      "updated_at_utc": "2026-10-28T01:12:46.531Z"
+    },
+    {
+      "landing_media_asset_id": "436df444-60a2-4473-b2c7-d4ec59ce4937",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "media_slot_code": "5-20210405034442",
+      "file_name": "5-20210405034442.png",
+      "file_path": "images/5-20210405034442.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "16339",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 5-20210405034442.png",
+      "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường - 5-20210405034442.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.537Z",
+      "updated_at_utc": "2026-10-28T01:12:46.537Z"
+    },
+    {
+      "landing_media_asset_id": "f820347a-ae82-4095-991f-959df57b57c0",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "media_slot_code": "brand_logo",
+      "file_name": "logo.png",
+      "file_path": "images/logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "19254",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường Logo",
+      "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường Logo",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.542Z",
+      "updated_at_utc": "2026-10-28T01:12:46.542Z"
+    },
+    {
+      "landing_media_asset_id": "a0907bcb-20b1-4523-bfd4-682a6be9ac40",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "media_slot_code": "favicon",
+      "file_name": "favicon.ico",
+      "file_path": "images/favicon.ico",
+      "mime_type": "image/x-icon",
+      "file_size_bytes": "19254",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Favicon",
+      "alt_text_en": "Favicon",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.552Z",
+      "updated_at_utc": "2026-10-28T01:12:46.552Z"
+    },
+    {
+      "landing_media_asset_id": "cb852e32-cac6-49f9-9a9b-978de7f5d81a",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "media_slot_code": "brochure_pdf",
+      "file_name": "brochure.pdf",
+      "file_path": "downloads/brochure.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": "671641",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Tài liệu Brochure Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường",
+      "alt_text_en": "Brochure Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.565Z",
+      "updated_at_utc": "2026-10-28T01:12:46.565Z"
+    },
+    {
+      "landing_media_asset_id": "a4ab5856-0936-4355-8ba1-3a0996414fda",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "media_slot_code": "hero_banner",
+      "file_name": "hero.png",
+      "file_path": "images/hero.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "19254",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường Hero",
+      "alt_text_en": "Allplan — Giải Pháp BIM Đa Vật Liệu Cho Kết Cấu & Cầu Đường Hero",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:46.607Z",
+      "updated_at_utc": "2026-10-28T01:12:46.607Z"
+    }
+  ],
+  "leads": [
+    {
+      "landing_lead_submission_id": "c06bba79-5600-488f-91cd-96995f0033c8",
+      "landing_form_id": "baf29b38-58d5-45ac-abac-c34a4f4c4bf8",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test allplan",
+      "customer_phone": "0912345678",
+      "customer_email": "test_allplan@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test allplan",
+        "work_email": "test_allplan@cic.com.vn",
+        "primary_need": "trial_30_days",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:37:25.043Z"
+    },
+    {
+      "landing_lead_submission_id": "54fa7e6a-9311-4451-96e9-0463bf831632",
+      "landing_form_id": "baf29b38-58d5-45ac-abac-c34a4f4c4bf8",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test allplan",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_allplan@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test allplan",
+        "work_email": "quote_allplan@cic.com.vn",
+        "primary_need": "request_quote",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:37:25.095Z"
+    },
+    {
+      "landing_lead_submission_id": "9644b419-16d1-4621-ae62-60883d2747a0",
+      "landing_form_id": "baf29b38-58d5-45ac-abac-c34a4f4c4bf8",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test allplan",
+      "customer_phone": "0912345678",
+      "customer_email": "test_allplan@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test allplan",
+        "work_email": "test_allplan@cic.com.vn",
+        "primary_need": "trial_30_days",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:38:08.236Z"
+    },
+    {
+      "landing_lead_submission_id": "6aa1e8af-1154-46b5-b61a-f77dbc36569d",
+      "landing_form_id": "baf29b38-58d5-45ac-abac-c34a4f4c4bf8",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test allplan",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_allplan@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test allplan",
+        "work_email": "quote_allplan@cic.com.vn",
+        "primary_need": "request_quote",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:38:08.409Z"
+    },
+    {
+      "landing_lead_submission_id": "6b5105ff-394c-4eb3-a107-dcdc311972c0",
+      "landing_form_id": "baf29b38-58d5-45ac-abac-c34a4f4c4bf8",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test allplan",
+      "customer_phone": "0912345678",
+      "customer_email": "test_allplan@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test allplan",
+        "work_email": "test_allplan@cic.com.vn",
+        "primary_need": "trial_30_days",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:39:00.166Z"
+    },
+    {
+      "landing_lead_submission_id": "51f682cd-e11d-48db-aa40-bf16816755e8",
+      "landing_form_id": "baf29b38-58d5-45ac-abac-c34a4f4c4bf8",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test allplan",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_allplan@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test allplan",
+        "work_email": "quote_allplan@cic.com.vn",
+        "primary_need": "request_quote",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:39:00.233Z"
+    },
+    {
+      "landing_lead_submission_id": "22ffd6dc-a0ed-4ae7-8dee-3c380fb5fc17",
+      "landing_form_id": "baf29b38-58d5-45ac-abac-c34a4f4c4bf8",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_page_id": null,
+      "customer_full_name": "Test Quote allplan",
+      "customer_phone": "0988654321",
+      "customer_email": "quote@allplan.cic.com.vn",
+      "customer_company": "CIC Verification Corp",
+      "submitted_fields_json": {
+        "name": "Test Quote allplan",
+        "email": "quote@allplan.cic.com.vn",
+        "phone": "0988654321",
+        "company": "CIC Verification Corp",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T05:06:30.011Z"
+    },
+    {
+      "landing_lead_submission_id": "d7ab6535-bca9-438d-a059-3911cf4a9ae8",
+      "landing_form_id": "baf29b38-58d5-45ac-abac-c34a4f4c4bf8",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_page_id": null,
+      "customer_full_name": "Test Trial allplan",
+      "customer_phone": "0988123456",
+      "customer_email": "trial@allplan.cic.com.vn",
+      "customer_company": "CIC Verification Corp",
+      "submitted_fields_json": {
+        "name": "Test Trial allplan",
+        "email": "trial@allplan.cic.com.vn",
+        "phone": "0988123456",
+        "company": "CIC Verification Corp",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T05:06:46.371Z"
+    },
+    {
+      "landing_lead_submission_id": "bcb742ff-3a9c-487a-8578-98bb00f811af",
+      "landing_form_id": "baf29b38-58d5-45ac-abac-c34a4f4c4bf8",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_page_id": null,
+      "customer_full_name": "Test Quote allplan",
+      "customer_phone": "0988654321",
+      "customer_email": "quote@allplan.cic.com.vn",
+      "customer_company": "CIC Verification Corp",
+      "submitted_fields_json": {
+        "name": "Test Quote allplan",
+        "email": "quote@allplan.cic.com.vn",
+        "phone": "0988654321",
+        "company": "CIC Verification Corp",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T05:06:46.391Z"
+    },
+    {
+      "landing_lead_submission_id": "347e00fd-b8c7-4fb4-b5e8-adc80d38e191",
+      "landing_form_id": "baf29b38-58d5-45ac-abac-c34a4f4c4bf8",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Trial allplan",
+      "customer_phone": "0912345678",
+      "customer_email": "standalone@allplan.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Trial allplan",
+        "email": "standalone@allplan.cic.com.vn",
+        "phone": "0912345678",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T06:25:58.877Z"
+    },
+    {
+      "landing_lead_submission_id": "f8e5fac3-678a-4213-98e3-9f84ce0eb2d3",
+      "landing_form_id": "baf29b38-58d5-45ac-abac-c34a4f4c4bf8",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Quote allplan",
+      "customer_phone": "0987654321",
+      "customer_email": "quote@allplan.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Quote allplan",
+        "email": "quote@allplan.cic.com.vn",
+        "phone": "0987654321",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 12
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T06:25:58.945Z"
+    },
+    {
+      "landing_lead_submission_id": "af6983c4-a0a8-43b1-a3f3-e189979ce566",
+      "landing_form_id": "baf29b38-58d5-45ac-abac-c34a4f4c4bf8",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Trial allplan",
+      "customer_phone": "0912345678",
+      "customer_email": "standalone@allplan.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Trial allplan",
+        "email": "standalone@allplan.cic.com.vn",
+        "phone": "0912345678",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T07:35:56.383Z"
+    },
+    {
+      "landing_lead_submission_id": "958a39c6-6fc6-4d9c-9f05-1139a802e843",
+      "landing_form_id": "baf29b38-58d5-45ac-abac-c34a4f4c4bf8",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Quote allplan",
+      "customer_phone": "0987654321",
+      "customer_email": "quote@allplan.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Quote allplan",
+        "email": "quote@allplan.cic.com.vn",
+        "phone": "0987654321",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 12
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T07:35:56.431Z"
+    },
+    {
+      "landing_lead_submission_id": "7ef77992-dfd6-4807-b281-46f57ab4e800",
+      "landing_form_id": "baf29b38-58d5-45ac-abac-c34a4f4c4bf8",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Trial allplan",
+      "customer_phone": "0912345678",
+      "customer_email": "standalone@allplan.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Trial allplan",
+        "email": "standalone@allplan.cic.com.vn",
+        "phone": "0912345678",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T08:37:21.934Z"
+    },
+    {
+      "landing_lead_submission_id": "b5f8cb70-ead9-4a9d-a433-ad1612773391",
+      "landing_form_id": "baf29b38-58d5-45ac-abac-c34a4f4c4bf8",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Quote allplan",
+      "customer_phone": "0987654321",
+      "customer_email": "quote@allplan.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Quote allplan",
+        "email": "quote@allplan.cic.com.vn",
+        "phone": "0987654321",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 12
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T08:37:21.972Z"
+    },
+    {
+      "landing_lead_submission_id": "5fca1020-604f-4b0e-a456-e962b7cb2e64",
+      "landing_form_id": "baf29b38-58d5-45ac-abac-c34a4f4c4bf8",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Trial allplan",
+      "customer_phone": "0912345678",
+      "customer_email": "standalone@allplan.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Trial allplan",
+        "email": "standalone@allplan.cic.com.vn",
+        "phone": "0912345678",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "trial_30_days"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T08:38:53.157Z"
+    },
+    {
+      "landing_lead_submission_id": "49ae957c-cfb3-42e6-b532-016af34f8b79",
+      "landing_form_id": "baf29b38-58d5-45ac-abac-c34a4f4c4bf8",
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "landing_page_id": null,
+      "customer_full_name": "Standalone Quote allplan",
+      "customer_phone": "0987654321",
+      "customer_email": "quote@allplan.cic.com.vn",
+      "customer_company": "CIC Standalone Test",
+      "submitted_fields_json": {
+        "name": "Standalone Quote allplan",
+        "email": "quote@allplan.cic.com.vn",
+        "phone": "0987654321",
+        "company": "CIC Standalone Test",
+        "website_url": "",
+        "primary_need": "request_quote",
+        "device_quantity": 12
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T08:38:53.191Z"
+    }
+  ],
+  "pageViews": [
+    {
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "view_date": "2026-10-26",
+      "views_count": 35,
+      "unique_visitors_count": 3
+    },
+    {
+      "landing_site_id": "76eaf32a-f759-4595-9b78-4ed7403cb959",
+      "view_date": "2026-10-27",
+      "views_count": 24,
+      "unique_visitors_count": 4
+    }
+  ],
+  "adminAccounts": [
+    {
+      "username": "allplan_admin",
+      "password_hash": "4a208b7ff43bd0a71c3bb331db13040694d36bd9e34b5d9ed62d0be880dc5b58",
+      "display_name": "Quản trị viên Allplan",
+      "role": "site_admin",
+      "landing_site_code": "allplan",
+      "is_active": true
+    },
+    {
+      "username": "admin",
+      "password_hash": "2e6c21501300cc6fa4d50597c1c483c802b6d9f00f119f004d8344f663129109",
+      "display_name": "Quản trị Tổng CIC",
+      "role": "super_admin",
+      "landing_site_code": null,
+      "is_active": true
+    }
+  ]
+}

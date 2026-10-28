@@ -1,0 +1,153 @@
+{
+  "exportedAt": "2026-10-22T08:17:50.000Z",
+  "source": {
+    "id": "3",
+    "code": "robot_landing_page",
+    "name": "Robot Công Trình — Khách đăng ký tư vấn (Landing Page)",
+    "spreadsheet_id": "1izAJ8r7SeyicYJ2tNnCxXlSah-6meMlpYwQqvaU_A24",
+    "sheet_name": "Landing Page",
+    "key_columns": [],
+    "column_schema": [
+      {
+        "key": "landing_page_robot_cong_trinh",
+        "type": "text",
+        "header": "Landing Page Robot Công Trình",
+        "hidden": false,
+        "position": 1
+      },
+      {
+        "key": "cot_2",
+        "type": "text",
+        "header": "Cột 2",
+        "hidden": false,
+        "position": 2
+      },
+      {
+        "key": "cot_3",
+        "type": "text",
+        "header": "Cột 3",
+        "hidden": false,
+        "position": 3
+      },
+      {
+        "key": "cot_4",
+        "type": "text",
+        "header": "Cột 4",
+        "hidden": false,
+        "position": 4
+      },
+      {
+        "key": "cot_5",
+        "type": "text",
+        "header": "Cột 5",
+        "hidden": false,
+        "position": 5
+      },
+      {
+        "key": "cot_6",
+        "type": "text",
+        "header": "Cột 6",
+        "hidden": false,
+        "position": 6
+      },
+      {
+        "key": "cot_7",
+        "type": "text",
+        "header": "Cột 7",
+        "hidden": false,
+        "position": 7
+      },
+      {
+        "key": "cot_8",
+        "type": "text",
+        "header": "Cột 8",
+        "hidden": false,
+        "position": 8
+      },
+      {
+        "key": "cot_9",
+        "type": "text",
+        "header": "Cột 9",
+        "hidden": false,
+        "position": 9
+      },
+      {
+        "key": "cot_10",
+        "type": "text",
+        "header": "Cột 10",
+        "hidden": false,
+        "position": 10
+      }
+    ]
+  },
+  "rowCount": 4,
+  "rows": [
+    {
+      "row_key": "005bed4a4289c074fa141e35162f611869140f90e9b189ba943a95543126bd30",
+      "row_number": 2,
+      "data": {
+        "cot_2": "Họ và tên",
+        "cot_3": "Số điện thoại",
+        "cot_4": "Email",
+        "cot_5": "Công ty / Đơn vị",
+        "cot_6": "Giải pháp quan tâm",
+        "cot_7": "Nhu cầu",
+        "cot_8": "Trạng thái",
+        "cot_9": "Người phụ trách",
+        "cot_10": "Ghi chú chăm sóc",
+        "landing_page_robot_cong_trinh": "Thời gian gửi"
+      },
+      "data_hash": "005bed4a4289c074fa141e35162f611869140f90e9b189ba943a95543126bd30",
+      "first_seen_at": "2026-10-22T08:17:49.721Z",
+      "last_seen_at": "2026-10-22T08:17:49.721Z"
+    },
+    {
+      "row_key": "d7a648f27fe69308ae302ec354bea2fda6426cdd2c5038303f4e438c42781f8b",
+      "row_number": 3,
+      "data": {
+        "cot_2": "KhuuTrongLuat Nguyen",
+        "cot_3": "0983232012",
+        "cot_4": "luatnkt@coteccons.vn",
+        "cot_5": "Coteccons JSC",
+        "cot_6": "Cần CIC tư vấn lựa chọn",
+        "cot_10": "19/10/2026: chưa nghe máy, chiều gọi lại",
+        "landing_page_robot_cong_trinh": "14/10/2026 23:08:59"
+      },
+      "data_hash": "d7a648f27fe69308ae302ec354bea2fda6426cdd2c5038303f4e438c42781f8b",
+      "first_seen_at": "2026-10-22T08:17:49.721Z",
+      "last_seen_at": "2026-10-22T08:17:49.721Z"
+    },
+    {
+      "row_key": "24c73d37a8155d486e2cd2776df51f729faaa0557e848f1574ddd74477e5c470",
+      "row_number": 4,
+      "data": {
+        "cot_2": "Phạm Văn Trang",
+        "cot_3": "0384345570",
+        "cot_4": "trangpv@fecon.com.vn",
+        "cot_5": "Công ty cổ phần Tập đoàn FECON",
+        "cot_6": "Cần CIC tư vấn lựa chọn",
+        "cot_10": "19/10/2026: chưa nghe máy, chiều gọi lại\nanh Trang bận nên kết bạn zalo gửi tài liệu trước\n20/10/2026: Anh Trang chia sẻ bên anh làm nhiều về dự án to + dài , bao gồm nhiều nhà thầu phụ.",
+        "landing_page_robot_cong_trinh": "16/10/2026 10:18:10"
+      },
+      "data_hash": "24c73d37a8155d486e2cd2776df51f729faaa0557e848f1574ddd74477e5c470",
+      "first_seen_at": "2026-10-22T08:17:49.721Z",
+      "last_seen_at": "2026-10-22T08:17:49.721Z"
+    },
+    {
+      "row_key": "9adbd65ca825ef60a2ca035e80d2f0bb4007673c201a8634c33617c249cf6072",
+      "row_number": 5,
+      "data": {
+        "cot_2": "VŨ Thành Long",
+        "cot_3": "0903235579",
+        "cot_4": "longvt@cjsc.com.vn",
+        "cot_5": "Công ty CP Cjsc (www.cjsc.com.vn",
+        "cot_6": "Hoàn thiện sàn bê tông",
+        "cot_7": "cả 4 loại robot mình đều quan tâm, liên hệ qua cty mình trao đổi nhé",
+        "landing_page_robot_cong_trinh": "22/10/2026 08:23:25"
+      },
+      "data_hash": "9adbd65ca825ef60a2ca035e80d2f0bb4007673c201a8634c33617c249cf6072",
+      "first_seen_at": "2026-10-22T08:17:49.721Z",
+      "last_seen_at": "2026-10-22T08:17:49.721Z"
+    }
+  ]
+}

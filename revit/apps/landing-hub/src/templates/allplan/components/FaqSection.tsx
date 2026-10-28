@@ -1,0 +1,10 @@
+import React from 'react';
+import type { ModularSectionProps } from '../../shared/types';
+import { hydrateSectionHtml } from '../../shared/sectionHtmlHydrator';
+
+const SECTION_HTML = "<div id=\"SECTION1005\" class='ladi-section'><div class='ladi-section-background'></div><div class=\"ladi-container\"><div id=\"IMAGE1026\" class='ladi-element'><div class='ladi-image ladi-transition'><div class=\"ladi-image-background\"></div></div></div><div id=\"HEADLINE1027\" class='ladi-element'><h2 class='ladi-headline ladi-transition'>ĐÀO TẠO TRỰC TUYẾN</h2></div><a href=\"https://allplan.asia/vi/su-kien/\" target=\"_blank\" id=\"BUTTON1036\" class='ladi-element'><div class='ladi-button ladi-transition'><div class=\"ladi-button-background\"></div><div id=\"BUTTON_TEXT1036\" class='ladi-element ladi-button-headline'><p class='ladi-headline ladi-transition'>SỰ KIỆN CHUYÊN MÔN&nbsp; <span style=\"font-weight: bold;\">&gt;</span></p></div></div></a><a href=\"https://allplan.asia/vi/webinar-series-vn/\" target=\"_blank\" id=\"BUTTON1038\" class='ladi-element'><div class='ladi-button ladi-transition'><div class=\"ladi-button-background\"></div><div id=\"BUTTON_TEXT1038\" class='ladi-element ladi-button-headline'><p class='ladi-headline ladi-transition'>HỘI THẢO TRỰC TUYẾN <span style=\"font-weight: bold;\">&gt;</span></p></div></div></a><a href=\"https://www.facebook.com/groups/allplan.asia\" target=\"_blank\" id=\"BUTTON1040\" class='ladi-element'><div class='ladi-button ladi-transition'><div class=\"ladi-button-background\"></div><div id=\"BUTTON_TEXT1040\" class='ladi-element ladi-button-headline'><p class='ladi-headline ladi-transition'>ALLPLAN COMMUNITY&nbsp; &nbsp;<span style=\"font-weight: bold;\">&gt;</span></p></div></div></a></div></div>";
+
+export function FaqSection({ payload, allPayloads }: ModularSectionProps) {
+  const html = hydrateSectionHtml(SECTION_HTML, payload, allPayloads);
+  return <article data-anchor="faq" style={{ display: 'contents' }} dangerouslySetInnerHTML={{ __html: html }} />;
+}

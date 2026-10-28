@@ -1,0 +1,7 @@
+node_modules/
+**/.next/
+**/node_modules/
+**/credentials/
+.turbo/
+.DS_Store
+*.log

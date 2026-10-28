@@ -1,0 +1,378 @@
+
+
+/* To make Responsive
+---------------------------------------------------------------------- /
+#  1 - media screen and (max-width: 1200px)
+#  2 - media screen and (max-width: 1024px)
+#  3 - media screen and (max-width: 992px)
+#  4 - media screen and (max-width: 768px)
+#  5 - media screen and (max-width: 480px)
+#  6 - media screen and (max-width: 320px)
+
+#
+---------------------------------------------------------------------- */
+
+
+
+@media screen and (min-width: 1200px) {
+  header .app li {
+    margin-left: 20px;
+  }
+  header .app li .fa {
+    font-size: 36px;
+  } 
+   header .nav > li > a {
+     font-size: 16px;
+   } 
+}
+@media screen and (max-width: 1200px) { 
+	header .nav > li > a { 
+		font-size: 14px;
+	}
+	.downlaod .default-btn {
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}	
+}
+@media screen and (max-width: 1024px) { 
+	.feature-area, .counter-area, .video-area, .review, .downlaod, .subscribe-area  {
+		background-attachment: scroll !important;
+		background-size: cover !important;
+			-webkit-background-size: cover !important;
+	}
+}
+@media screen and (max-width: 992px) {
+   
+   header .nav > li > a {
+     font-size: 12px;
+     padding: 5px 8px;
+   }
+   .img-responsive {
+   	display: inline-block;
+   }
+   .purchase-area p {
+   	display: block;
+   }
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) { 
+	.tab-content > .tab-pane p, .tab-content .tab-list ul li {
+		font-size: 14px;	
+		line-height: 21px;
+	}
+	.price {
+		font-size: 28px;
+	}
+	.team-block {
+		margin-bottom: 70px;
+	}
+	.flex_text li {
+		font-size:24px
+	}	
+}
+
+@media screen and (min-width: 768px) { 
+	.feature-block {
+		width: 650px;
+		margin: 0 auto;
+	}
+}
+
+@media screen and (max-width: 768px) {
+
+	/*Generel style*/
+
+	h2 {
+		font-size: 24px;
+	}
+
+	/*menu style*/
+
+
+	/*.banner-area section*/
+
+	.banner-area .color-overlay,
+	.intro-area,
+	.feature-area .color-overlay,
+	.more-feature-area,
+	.description-area,
+	.video-area .color-overlay,
+	.screenshot,
+	.review .color-overlay,
+	.pricingtable-section,
+	.downlaod .color-overlay,
+	.team-area,
+	.faq-area,
+	.contact-area {
+	    padding: 65px 0;
+	    text-align: center;
+	}
+	.banner-carousel {text-align: center}
+	#content-wrapper {padding-top: 20px;}
+	.showcase {
+		margin-top: 15px;
+	}
+	.showcase h2 {
+		font-size: 24px;
+		line-height: normal;
+	}
+	.apps-icon {
+		padding: 0;
+		margin: 0 0 15px 0;
+	}
+	.download-block {
+		margin: 0;
+	}
+	.download-block .btn {
+		margin-bottom: 10px;
+	}
+	.downlaod .default-btn {		
+		font-size: 14px;
+		padding: 8px 20px;
+		margin-top: 28px;
+	}
+	.download-block .extra {
+		margin-left: 0;
+	}
+
+	/*.trial-area style*/
+	
+	.trial-area .form-control {
+		margin-bottom: 10px;
+	}
+	.sub-heading {
+		margin-bottom: 0;
+	}
+	.sub-heading p {
+		margin: 0;
+		font-size: 12px;
+	}
+
+	/*.feature style*/
+	
+	.circle {
+		display: none;
+	}
+	.single-feature {
+		position: relative;
+		float: none;
+		width: auto;
+		padding: 30px 0;
+		text-align: center;
+		border: 0;
+	}
+	.next-arrow a {
+		display: none;
+	}
+	.more-feature-mockup {
+		margin: 10px 0;
+	}
+	.more-feature-mockup img {
+		width: 100%;
+	}
+	.feature-list ul {
+		padding-left: 0;
+	}
+	.feature-details {
+		text-align: left;
+	}
+
+	/*description section style*/
+	
+	.tab-border {border: none;}
+	.tab-content > .tab-pane {
+		position: inherit;
+	}
+	.description-area .nav-tabs {
+		margin-top: 20px;
+	}
+	.description-area .nav-tabs > li {
+		display: inline-block;
+	}
+	.description-area .nav-tabs > li a {
+		padding: 16px;	
+		margin-left: 0;
+}
+	.description-area .nav-tabs > li a i {
+		font-size: 30px;
+	}
+
+	/*.video section style*/
+
+	.play {
+		margin-top: 50px;
+	}
+	.video-area span {
+		font-size: 24px;
+	}
+
+	/*.review section style*/
+	
+	.review .carousel-inner .item {
+		padding: 0 40px;
+	}
+
+	/*pricing table section style*/
+
+	.price-block {
+		margin: 10px 0;
+	}
+	
+	.team-area .col-md-3 .team-block {
+		margin-bottom: 65px;
+	}
+	.panel-group {
+		margin: 20px 0;
+	}
+	.panel-group .panel {
+		text-align: left;
+	}
+	.subscribe-area .input-group {
+		margin-top: 20px;
+	}
+	.subscribe-area .form-control::-moz-placeholder {
+	  color: #fff;
+	  opacity: 1;
+	  font-size: 12px;
+	  line-height: 18px;
+	}
+	.subscribe-area .form-control:-ms-input-placeholder {
+	  color: #fff;
+	  font-size: 12px;
+	  line-height: 18px;
+	}
+	.subscribe-area .form-control::-webkit-input-placeholder {
+	  color: #fff;
+	  font-size: 12px;
+	  line-height: 24px;
+	}
+	.default-btn {
+		padding: 12px 18px;
+	}
+	.divider {
+		border: none;
+		margin-top: 20px;
+	}
+	.contact-address ul li {
+		margin-bottom: 18px;
+		text-align: left;
+	}
+	.contact-area ul {
+		margin-bottom: 20px;
+	}
+	.contact-block {
+		padding:0px;
+	}
+	.contact-area .form-control, .contact-area textarea {
+		border-radius: 1px;
+	}
+	.contact-address ul li {
+		text-align:center
+	}
+	.contact-address ul li .fa, .contact-address ul li .address-phone {
+		float:none
+	}
+	.contact-address ul li .address-phone {
+		margin: 0 auto;
+		padding-left:0;
+	}
+	
+	#header, #header2 {
+		padding:0;
+	} 
+
+  header .navbar-toggle {
+    float: right;
+  }
+  header ul > li {
+  	text-align: left;
+  }
+  .nav-brand {
+    display: inline-block;
+	margin-top: 5px;
+  }
+  header .navbar-default .navbar-collapse {
+    border: none;
+  }
+  .mob-right {
+		position: absolute;
+		top: 5px;
+		right: 80px;
+	}
+	.owl-carousel {
+		margin-top:10px;
+	}
+}
+
+@media screen and (max-width: 480px) {
+
+	p, .tab-content .tab-list ul li {
+		font-size: 12px;
+	}
+	.feature-icon i {
+	  	width: 35px;
+	  	height: 35px;
+	  	font-size: 18px;
+	  	line-height: 33px;
+	 }
+    .feature-list li {
+    	padding-left: 45px;
+    	margin-bottom: 10px;
+    }
+    .feature-details h3 {
+    	margin-bottom: 14px;
+    	margin-bottom: 0;
+    }
+    .single-counter {
+    	width: 100px;
+        height: 100px;
+        padding:0;
+        margin-bottom: 10px;
+    }
+    .single-counter h3 {
+    	font-size: 18px;
+    }
+    .downlaod .default-btn {
+    	font-size: 18px;
+    	margin-top: 10px;
+    }
+    .downlaod a.default-btn:first-child {
+    	margin-top: 50px;
+    }
+    .nav-logo {
+    	font-size: 22px;
+    }
+	.download-block .btn {
+		margin-bottom: 10px;
+		padding: 10px 20px;
+	}
+
+  header .nav-brand img {
+    width: 85px;
+  }
+  header .app li .fa {
+    font-size: 14px;
+  } 
+  .social-icon .fa {
+  	font-size: 20px;
+  	width: 50px;
+  	height: 50px;
+  	border-width: 5px;
+  }
+  .text-slider {
+	margin-bottom: 18px;
+	}
+	.flex_text li {
+		font-size: 16px;	
+	}
+}
+
+@media screen and (max-width: 480px) { 
+
+	.screenshot-block .caption {
+		padding: 100% 0;
+	
+	}
+}
+
+

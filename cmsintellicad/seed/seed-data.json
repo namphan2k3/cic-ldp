@@ -1,0 +1,4285 @@
+{
+  "exportedAt": "2026-10-28T01:15:40.091Z",
+  "targetSiteCode": "cms-intellicad",
+  "sectionTypes": [
+    {
+      "landing_section_type_code": "advantages",
+      "landing_section_type_name": "Ưu Điểm Vượt Trội",
+      "category": "feature",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.707Z",
+      "updated_at_utc": "2026-10-28T01:12:40.707Z"
+    },
+    {
+      "landing_section_type_code": "catalog",
+      "landing_section_type_name": "Danh Mục Tính Năng / Giải Pháp",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.719Z",
+      "updated_at_utc": "2026-10-28T01:12:40.719Z"
+    },
+    {
+      "landing_section_type_code": "comparison",
+      "landing_section_type_name": "Bảng So Sánh & Các Gói Bản Quyền",
+      "category": "comparison",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.725Z",
+      "updated_at_utc": "2026-10-28T01:12:40.725Z"
+    },
+    {
+      "landing_section_type_code": "consultation_form",
+      "landing_section_type_name": "Form Đăng Ký Tư Vấn & Tải Dùng Thử",
+      "category": "form",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.731Z",
+      "updated_at_utc": "2026-10-28T01:12:40.731Z"
+    },
+    {
+      "landing_section_type_code": "faq",
+      "landing_section_type_name": "Câu Hỏi Thường Gặp (FAQ)",
+      "category": "faq",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.739Z",
+      "updated_at_utc": "2026-10-28T01:12:40.739Z"
+    },
+    {
+      "landing_section_type_code": "floating_cta",
+      "landing_section_type_name": "Nút Liên Hệ Nổi (Floating CTA)",
+      "category": "cta",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.743Z",
+      "updated_at_utc": "2026-10-28T01:12:40.743Z"
+    },
+    {
+      "landing_section_type_code": "footer",
+      "landing_section_type_name": "Chân Trang (Footer)",
+      "category": "footer",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.750Z",
+      "updated_at_utc": "2026-10-28T01:12:40.750Z"
+    },
+    {
+      "landing_section_type_code": "header",
+      "landing_section_type_name": "Thanh Điều Hướng (Header)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.756Z",
+      "updated_at_utc": "2026-10-28T01:12:40.756Z"
+    },
+    {
+      "landing_section_type_code": "hero",
+      "landing_section_type_name": "Banner Chính (Hero Section)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.762Z",
+      "updated_at_utc": "2026-10-28T01:12:40.762Z"
+    },
+    {
+      "landing_section_type_code": "infrastructure",
+      "landing_section_type_name": "Infrastructure & Specialized Machinery",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.769Z",
+      "updated_at_utc": "2026-10-28T01:12:40.769Z"
+    },
+    {
+      "landing_section_type_code": "intro",
+      "landing_section_type_name": "Giới Thiệu Tổng Quan & Thống Kê",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.773Z",
+      "updated_at_utc": "2026-10-28T01:12:40.773Z"
+    },
+    {
+      "landing_section_type_code": "requirements",
+      "landing_section_type_name": "Yêu Cầu Cấu Hình Hệ Thống",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.777Z",
+      "updated_at_utc": "2026-10-28T01:12:40.777Z"
+    },
+    {
+      "landing_section_type_code": "resources",
+      "landing_section_type_name": "Tài Nguyên & Thư Viện Hỗ Trợ",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.781Z",
+      "updated_at_utc": "2026-10-28T01:12:40.781Z"
+    },
+    {
+      "landing_section_type_code": "video_slider",
+      "landing_section_type_name": "YouTube Video Showcase Slider",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.789Z",
+      "updated_at_utc": "2026-10-28T01:12:40.789Z"
+    }
+  ],
+  "sites": [
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_site_code": "cms-intellicad",
+      "landing_site_name": "CMS IntelliCAD — Giải pháp CAD bản quyền thay thế AutoCAD (Host Mắt Bão)",
+      "landing_site_type": "landing",
+      "primary_domain": "cmsintellicad.vn",
+      "custom_domains_json": [
+        "cmsintellicad.vn",
+        "www.cmsintellicad.vn",
+        "intellicad.cic.com.vn",
+        "cms-intellicad.localhost"
+      ],
+      "supported_locales_json": [
+        "vi",
+        "en"
+      ],
+      "default_locale": "vi",
+      "site_status": "active",
+      "brand_config_json": {
+        "email": "info@techaz.vn",
+        "address": "Tầng 3, Tòa nhà CIC, 37 Lê Văn Thiêm, Thanh Xuân, Hà Nội",
+        "hotline": "0979 596 954",
+        "logo_url": "/api/landing/media/cms-intellicad/images/logo.png",
+        "favicon_url": "/api/landing/media/cms-intellicad/images/favicon.ico",
+        "privacy_url": "https://techaz.vn/chinh-sach-bao-mat",
+        "accent_color": "#ff6600",
+        "primary_color": "#005baa",
+        "hosting_origin": "Host Mắt Bão",
+        "trial_form_url": "https://docs.google.com/forms/d/1-QVo_aWL3fTJ3H5o8I8g6TLFRdTqVVP1u5eeHrJSInQ/edit",
+        "hotline_display": "0979 596 954",
+        "company_logo_url": "/api/landing/media/cms-intellicad/images/company_logo.png",
+        "trial_download_url": "https://drive.google.com/file/d/1QvZAwcThb2JvhcNm1kXLVli02i3wJ3NZ/view?usp=drive_link"
+      },
+      "seo_meta_json": {
+        "title": "CMS IntelliCAD – Giải pháp CAD bản quyền tối ưu chi phí | TechAZ",
+        "keywords": "CMS IntelliCAD, phần mềm CAD bản quyền, thay thế AutoCAD, DWG, LISP, CIC, TechAZ",
+        "og_image": "/api/landing/media/cms-intellicad/images/hero-workspace.png",
+        "description": "CMS IntelliCAD tương thích DWG, LISP và quy trình AutoCAD. Đăng ký tư vấn và dùng thử miễn phí 30 ngày."
+      },
+      "tracking_config_json": {
+        "ga4_id": "G-E4YSGZB0Y8",
+        "gtm_id": "GTM-W6LKTW6G",
+        "fb_pixel_id": "1588699922986390"
+      },
+      "created_at_utc": "2026-10-28T01:12:40.813Z",
+      "updated_at_utc": "2026-10-28T01:12:40.813Z"
+    }
+  ],
+  "pages": [
+    {
+      "landing_page_id": "c8792e53-6766-4813-9cee-9a9580604280",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_slug": "home",
+      "landing_page_locale": "en",
+      "page_title": "CMS IntelliCAD – Cost-effective licensed CAD | TechAZ",
+      "page_status": "published",
+      "is_home_page": false,
+      "page_seo_json": {
+        "title": "CMS IntelliCAD – Cost-effective licensed CAD | TechAZ",
+        "keywords": "CMS IntelliCAD, phần mềm CAD bản quyền, thay thế AutoCAD, DWG, LISP, CIC, TechAZ",
+        "og_image": "/api/landing/media/cms-intellicad/images/hero-workspace.png",
+        "description": "CMS IntelliCAD tương thích DWG, LISP và quy trình AutoCAD. Đăng ký tư vấn và dùng thử miễn phí 30 ngày."
+      },
+      "published_at_utc": "2026-10-23T03:42:40.054Z",
+      "created_at_utc": "2026-10-28T01:12:40.938Z",
+      "updated_at_utc": "2026-10-28T01:12:40.938Z"
+    },
+    {
+      "landing_page_id": "b492b20e-dbff-41ea-b557-a33ffbd6608d",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_slug": "home",
+      "landing_page_locale": "vi",
+      "page_title": "CMS IntelliCAD – Giải pháp CAD bản quyền tối ưu chi phí | TechAZ",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "CMS IntelliCAD – Giải pháp CAD bản quyền tối ưu chi phí | TechAZ",
+        "keywords": "CMS IntelliCAD, phần mềm CAD bản quyền, thay thế AutoCAD, DWG, LISP, CIC, TechAZ",
+        "og_image": "/api/landing/media/cms-intellicad/images/hero-workspace.png",
+        "description": "CMS IntelliCAD tương thích DWG, LISP và quy trình AutoCAD. Đăng ký tư vấn và dùng thử miễn phí 30 ngày."
+      },
+      "published_at_utc": "2026-10-23T03:42:39.991Z",
+      "created_at_utc": "2026-10-28T01:12:40.942Z",
+      "updated_at_utc": "2026-10-28T01:12:40.942Z"
+    }
+  ],
+  "sections": [
+    {
+      "landing_page_section_id": "41321541-1001-4aaf-8fa9-2704b7182e54",
+      "landing_page_id": "b492b20e-dbff-41ea-b557-a33ffbd6608d",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "header",
+      "section_order": 0,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "quote": "ĐĂNG KÝ NHẬN BÁO GIÁ",
+        "logo_url": "/api/landing/media/cms-intellicad/images/logo.png",
+        "subtitle": "Phần mềm CAD 2D/3D Bản Quyền Vĩnh Viễn",
+        "company_logo_url": "/api/landing/media/cms-intellicad/images/company_logo.png"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {
+        "faq_answer": {
+          "font_size_desktop": 15
+        },
+        "faq_question": {
+          "font_size_desktop": 16.5
+        },
+        "licensing_body": {
+          "font_size_desktop": 17
+        },
+        "licensing_card": {
+          "font_size_desktop": 15
+        },
+        "resources_body": {
+          "font_size_desktop": 16.5
+        },
+        "resources_note": {
+          "font_size_desktop": 13
+        },
+        "licensing_title": {
+          "text_align": "center",
+          "font_size_desktop": 31
+        },
+        "form_company_body": {
+          "font_size_desktop": 14.5
+        },
+        "requirements_note": {
+          "font_size_desktop": 13.5
+        },
+        "hero_license_titles": {
+          "font_size_desktop": 13.5
+        },
+        "advantages_card_body": {
+          "font_size_desktop": 15
+        },
+        "hero_license_options": {
+          "font_size_desktop": 14
+        },
+        "licensing_card_title": {
+          "font_size_desktop": 18
+        },
+        "advantages_card_title": {
+          "font_size_desktop": 18
+        },
+        "comparison_table_body": {
+          "font_size_desktop": 14
+        }
+      },
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.919Z",
+      "updated_at_utc": "2026-10-28T01:12:41.919Z"
+    },
+    {
+      "landing_page_section_id": "0315cf0d-47e9-4b11-bbbc-251f5aa17fbc",
+      "landing_page_id": "b492b20e-dbff-41ea-b557-a33ffbd6608d",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "hero",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "Giải Pháp CMS IntelliCAD Bản Quyền Vĩnh Viễn",
+        "visual": {
+          "specs": [
+            {
+              "label": "Tương thích",
+              "value": "DWG Native"
+            },
+            {
+              "label": "Công nghệ",
+              "value": "64-Bit Multi-Core"
+            },
+            {
+              "label": "Lập trình",
+              "value": "LISP, FAS, VLX, .NET"
+            }
+          ],
+          "title": "Mô phỏng Giao diện CAD trực quan",
+          "real_ui": "Giao Diện Thực Tế"
+        },
+        "pricing": {
+          "from": "Bản quyền CMS IntelliCAD chính hãng chỉ từ:",
+          "note": "*(Áp dụng ưu đãi khi mua từ 2 license trở lên)",
+          "badge": "Chi Phí Đầu Tư Bản Quyền Tối Ưu",
+          "price": "7.500.000 VNĐ",
+          "types": "Vĩnh Viễn / Theo Năm / Theo Nhu Cầu",
+          "network": "Bản Network (License Mạng)",
+          "options": [
+            "Bản quyền vĩnh viễn",
+            "Thuê bao theo năm",
+            "Theo nhu cầu sử dụng"
+          ],
+          "standalone": "Bản Standalone (Máy đơn)"
+        },
+        "versions": [
+          {
+            "tag": "Cốt Lõi 2D/3D",
+            "icon": "monitor",
+            "name": "1. PE (Premium Edition)",
+            "description": "Bao gồm đầy đủ các công cụ thiết kế 2D cốt lõi, đồng thời hỗ trợ mô hình hóa 3D, kết xuất hình ảnh (Rendering), BIM Underlay và làm việc với các định dạng tệp bên ngoài."
+          },
+          {
+            "tag": "Nâng Cao & ACIS",
+            "icon": "award",
+            "name": "2. PE Plus (Premium Edition Plus)",
+            "description": "Bổ sung các tính năng mô hình hóa 3D nâng cao, hỗ trợ đầy đủ việc chỉnh sửa khối ACIS Solid, cùng nhiều công cụ nâng cao giúp tăng năng suất làm việc."
+          },
+          {
+            "tag": "Không Cần Cài Đặt",
+            "icon": "zap",
+            "name": "3. Easy Run",
+            "description": "CMS IntelliCAD hỗ trợ chạy trực tiếp không cần cài đặt, đáp ứng nhu cầu sử dụng linh động và cấp phép cho một máy có kết nối internet tại một thời điểm."
+          }
+        ],
+        "licensing": {
+          "badge": "Hình Thức Cấp Phép Bản Quyền",
+          "title": "HÌNH THỨC CẤP PHÉP BẢN QUYỀN",
+          "description": "CMS IntelliCAD có các bản chính dựa trên nhóm tính năng: <strong>Premium Edition (PE)</strong>, <strong>Premium Edition Plus (PE Plus)</strong> và <strong>Easy Run</strong>:"
+        },
+        "title_line": "CMS INTELLICAD –",
+        "title_accent": "GIẢI PHÁP CAD THAY THẾ MẠNH MẼ",
+        "description_1": "CMS IntelliCAD là phần mềm CAD chuyên nghiệp, cung cấp đầy đủ các công cụ thiết kế 2D và 3D, hỗ trợ định dạng DWG và mang đến môi trường làm việc quen thuộc cho người dùng CAD.",
+        "description_2": "CMS IntelliCAD là giải pháp phù hợp cho các doanh nghiệp, kỹ sư, kiến trúc sư, đơn vị tư vấn thiết kế, cũng như doanh nghiệp trong lĩnh vực sản xuất, cơ khí và chế tạo, đang tìm kiếm một phần mềm CAD chuyên nghiệp, hiệu năng cao và tối ưu chi phí đầu tư.",
+        "hero_visual_url": "/api/landing/media/cms-intellicad/images/intellicad_3d_laptop_1785898332833.jpg",
+        "compare_versions": "SO SÁNH BẢN PE / PE PLUS",
+        "backup_visual_url": "/api/landing/media/cms-intellicad/images/intellicad-hero.jpg"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {
+        "faq_answer": {
+          "font_size_desktop": 15
+        },
+        "faq_question": {
+          "font_size_desktop": 16.5
+        },
+        "licensing_body": {
+          "font_size_desktop": 17
+        },
+        "licensing_card": {
+          "font_size_desktop": 15
+        },
+        "resources_body": {
+          "font_size_desktop": 16.5
+        },
+        "resources_note": {
+          "font_size_desktop": 13
+        },
+        "licensing_title": {
+          "text_align": "center",
+          "font_size_desktop": 31
+        },
+        "form_company_body": {
+          "font_size_desktop": 14.5
+        },
+        "requirements_note": {
+          "font_size_desktop": 13.5
+        },
+        "hero_license_titles": {
+          "font_size_desktop": 13.5
+        },
+        "advantages_card_body": {
+          "font_size_desktop": 15
+        },
+        "hero_license_options": {
+          "font_size_desktop": 14
+        },
+        "licensing_card_title": {
+          "font_size_desktop": 18
+        },
+        "advantages_card_title": {
+          "font_size_desktop": 18
+        },
+        "comparison_table_body": {
+          "font_size_desktop": 14
+        }
+      },
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.923Z",
+      "updated_at_utc": "2026-10-28T01:12:41.923Z"
+    },
+    {
+      "landing_page_section_id": "7ff39877-0c5b-4156-b8c8-51b230ef8993",
+      "landing_page_id": "b492b20e-dbff-41ea-b557-a33ffbd6608d",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "advantages",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "text": "CMS IntelliCAD cung cấp đầy đủ các công cụ thiết kế CAD chuyên nghiệp, đáp ứng tốt nhu cầu thiết kế 2D và 3D với chi phí đầu tư hợp lý.",
+            "title": "Hiệu năng cao, chi phí hợp lý"
+          },
+          {
+            "text": "Giao diện và các thao tác của CMS IntelliCAD quen thuộc với người dùng CAD, giúp dễ dàng chuyển đổi và sử dụng mà không mất nhiều thời gian làm quen.",
+            "title": "Giao diện quen thuộc, dễ sử dụng"
+          },
+          {
+            "text": "CMS IntelliCAD hỗ trợ các định dạng phổ biến như DWG, DXF, thuận tiện cho việc mở, chỉnh sửa và trao đổi bản vẽ.",
+            "title": "Tương thích định dạng CAD phổ biến"
+          },
+          {
+            "text": "CMS IntelliCAD cung cấp các công cụ thiết kế 2D và 3D, phù hợp với nhiều lĩnh vực như kiến trúc, xây dựng, cơ khí, giao thông, điện, địa chất, khai thác mỏ và trắc địa.",
+            "title": "Hỗ trợ thiết kế 2D và 3D"
+          },
+          {
+            "text": "CMS IntelliCAD hỗ trợ LISP, VBA, .NET/API và nhiều công cụ tùy biến, giúp doanh nghiệp tiếp tục sử dụng các công cụ và quy trình CAD hiện có.",
+            "title": "Hỗ trợ LISP và tùy biến"
+          },
+          {
+            "text": "Có các hình thức Standalone và Network, phù hợp từ cá nhân đến doanh nghiệp có hàng trăm người dùng.",
+            "title": "Nhiều lựa chọn bản quyền"
+          }
+        ],
+        "title": "ƯU ĐIỂM VƯỢT TRỘI",
+        "eyebrow": "Nền Tảng CAD Chuyên Nghiệp",
+        "description": "Các ưu điểm của CMS IntelliCAD",
+        "background_image_url": "/api/landing/media/cms-intellicad/images/cad_engineers_bg_1785984144734.jpg"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {
+        "faq_answer": {
+          "font_size_desktop": 15
+        },
+        "faq_question": {
+          "font_size_desktop": 16.5
+        },
+        "licensing_body": {
+          "font_size_desktop": 17
+        },
+        "licensing_card": {
+          "font_size_desktop": 15
+        },
+        "resources_body": {
+          "font_size_desktop": 16.5
+        },
+        "resources_note": {
+          "font_size_desktop": 13
+        },
+        "licensing_title": {
+          "text_align": "center",
+          "font_size_desktop": 31
+        },
+        "form_company_body": {
+          "font_size_desktop": 14.5
+        },
+        "requirements_note": {
+          "font_size_desktop": 13.5
+        },
+        "hero_license_titles": {
+          "font_size_desktop": 13.5
+        },
+        "advantages_card_body": {
+          "font_size_desktop": 15
+        },
+        "hero_license_options": {
+          "font_size_desktop": 14
+        },
+        "licensing_card_title": {
+          "font_size_desktop": 18
+        },
+        "advantages_card_title": {
+          "font_size_desktop": 18
+        },
+        "comparison_table_body": {
+          "font_size_desktop": 14
+        }
+      },
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.928Z",
+      "updated_at_utc": "2026-10-28T01:12:41.928Z"
+    },
+    {
+      "landing_page_section_id": "b277b913-46a1-4fdf-8ad2-c281e5618e2e",
+      "landing_page_id": "b492b20e-dbff-41ea-b557-a33ffbd6608d",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "comparison",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "rows": [
+          {
+            "pe": true,
+            "feature": "Đọc / Ghi tệp .DWG gốc",
+            "pe_plus": true,
+            "autocad_lt": true,
+            "autocad_full": true
+          },
+          {
+            "pe": true,
+            "feature": "Đính kèm tệp BIM (*.ifc, *.rvt) & Point Cloud (.rcp)",
+            "pe_plus": true,
+            "autocad_lt": false,
+            "autocad_full": true
+          },
+          {
+            "pe": true,
+            "feature": "Lập trình LISP (.lsp, .fas, .vlx) & VBA 7.1 / .NET",
+            "pe_plus": true,
+            "autocad_lt": "Hạn chế",
+            "autocad_full": true
+          },
+          {
+            "pe": false,
+            "feature": "Mô hình hóa 3D Solids ACIS / STEP / IGES",
+            "pe_plus": true,
+            "autocad_lt": false,
+            "autocad_full": true
+          },
+          {
+            "pe": "Sở hữu vĩnh viễn",
+            "feature": "Hình thức sở hữu bản quyền",
+            "pe_plus": "Sở hữu vĩnh viễn",
+            "autocad_lt": "Thuê bao năm",
+            "autocad_full": "Thuê bao năm"
+          }
+        ],
+        "modal": {
+          "note": "Nhấn Đăng ký để nhận bản tài liệu đầy đủ gửi qua Email hoặc Zalo.",
+          "agent": "Đại lý ủy quyền chính thức:",
+          "close": "Đóng",
+          "title": "Tài Liệu So Sánh CMS IntelliCAD và AutoCAD®",
+          "company": "CÔNG TY CỔ PHẦN TECHAZ - Hotline: 0979 596 954",
+          "download": "NHẬN FILE TÀI LIỆU PDF (MIỄN PHÍ)",
+          "overview": "CMS IntelliCAD Premium Edition (PE) được thiết kế để mang đến khả năng tương thích tối đa với phần mềm Autodesk AutoCAD® và hoàn toàn có thể lập trình với hàng trăm giải pháp của bên thứ ba. CMS IntelliCAD cung cấp bộ công cụ vẽ 2D và 3D đầy đủ, là giải pháp thay thế CAD thực sự tốt nhất cho doanh nghiệp.",
+          "sections": [
+            {
+              "text": "Hỗ trợ DWG/DXF/DWT gốc, MicroStation .DGN, chữ ký số.",
+              "title": "1. Tương thích DWG & Định dạng tệp:"
+            },
+            {
+              "text": "Xuất PDF 2D/3D, Nhập PDF Vector trực tiếp thành CAD, STEP, IGES, 3D Collada (.DAE).",
+              "title": "2. Nhập/Xuất Dữ liệu & PDF:"
+            },
+            {
+              "text": "Đính kèm BIM .IFC / .RVT / .RFA, Đám mây điểm .RCP/.RCS, 3D Solids ACIS, AEC.",
+              "title": "3. Mô hình hóa 3D, BIM & Point Cloud:"
+            },
+            {
+              "text": "AutoLISP (.lsp, .fas, .vlx), DCL, VBA 7.1, .NET 4.5 API, Object IRX, Script Recorder.",
+              "title": "4. Lập trình API & Mở rộng:"
+            },
+            {
+              "text": "Menu AutoCAD (.mnu, .scr), TrueType font, Express tools, Tool palettes, Explorer.",
+              "title": "5. Tiện ích Quản lý & Giao diện:"
+            },
+            {
+              "text": "Render 3D chuyên nghiệp ARTISAN, Bảng ETOOLBOX tự động hóa bản vẽ.",
+              "title": "6. Add-ons & Rendering:"
+            }
+          ],
+          "publisher": "Phát hành chính thức bởi CÔNG TY CỔ PHẦN TECHAZ",
+          "overview_title": "Tổng Quan Tài Liệu Kỹ Thuật (PDF 3 Trang)",
+          "sections_title": "Các Hạng Mục So Sánh Chi Tiết Trong Tài Liệu:"
+        },
+        "title": "SO SÁNH CMS INTELLICAD VÀ AUTOCAD®",
+        "points": [
+          {
+            "title": "Tương thích 100% DWG/DXF gốc",
+            "autocad": "Định dạng chuẩn AutoCAD®",
+            "category": "I. Tương thích & Định dạng File",
+            "intellicad": "Tương thích tuyệt đối DWG gốc",
+            "description": "Mở, chỉnh sửa & lưu tệp DWG gốc. Hỗ trợ MicroStation .DGN, PDF Vector, .DWF & chữ ký số bản vẽ."
+          },
+          {
+            "title": "Hỗ trợ 3D Solid, BIM & LISP/VBA API",
+            "autocad": "AutoCAD LT không hỗ trợ 3D/BIM",
+            "category": "II. Công cụ 3D, BIM & LISP API",
+            "intellicad": "Tích hợp sẵn BIM, 3D & LISP",
+            "description": "Đính kèm tệp BIM (.IFC, .RVT), Đám mây điểm Point Cloud (.RCP/.RCS). Chạy trực tiếp LISP/FAS/VLX, VBA 7.1 & .NET API."
+          },
+          {
+            "title": "Sở hữu vĩnh viễn (Mua đứt)",
+            "autocad": "Thuê bao năm (Subscription)",
+            "category": "III. Bản quyền & Chi phí",
+            "intellicad": "Mua đứt vĩnh viễn / Thuê bao",
+            "description": "Sở hữu vĩnh viễn không lo gia hạn hàng năm. Tiết kiệm tới 90% ngân sách (giá chỉ từ 6.200.000 VNĐ/license) so với mô hình thuê bao bắt buộc."
+          }
+        ],
+        "source": "Nguồn: CÔNG TY CỔ PHẦN TECHAZ",
+        "eyebrow": "Đối Chiếu Kỹ Thuật Chính Thức",
+        "headers": [
+          "Tính Năng / Khả Năng Xử Lý",
+          "IntelliCAD PE",
+          "IntelliCAD PE Plus",
+          "AutoCAD® LT",
+          "AutoCAD® Full"
+        ],
+        "pdf_button": "XEM TÀI LIỆU SO SÁNH (PDF)",
+        "description": "Khả năng tương thích 100% DWG, hỗ trợ 2D/3D & LISP API với chi phí tối ưu.",
+        "matrix_title": "Bảng So Sánh Tính Năng Trọng Tâm"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {
+        "faq_answer": {
+          "font_size_desktop": 15
+        },
+        "faq_question": {
+          "font_size_desktop": 16.5
+        },
+        "licensing_body": {
+          "font_size_desktop": 17
+        },
+        "licensing_card": {
+          "font_size_desktop": 15
+        },
+        "resources_body": {
+          "font_size_desktop": 16.5
+        },
+        "resources_note": {
+          "font_size_desktop": 13
+        },
+        "licensing_title": {
+          "text_align": "center",
+          "font_size_desktop": 31
+        },
+        "form_company_body": {
+          "font_size_desktop": 14.5
+        },
+        "requirements_note": {
+          "font_size_desktop": 13.5
+        },
+        "hero_license_titles": {
+          "font_size_desktop": 13.5
+        },
+        "advantages_card_body": {
+          "font_size_desktop": 15
+        },
+        "hero_license_options": {
+          "font_size_desktop": 14
+        },
+        "licensing_card_title": {
+          "font_size_desktop": 18
+        },
+        "advantages_card_title": {
+          "font_size_desktop": 18
+        },
+        "comparison_table_body": {
+          "font_size_desktop": 14
+        }
+      },
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.935Z",
+      "updated_at_utc": "2026-10-28T01:12:41.935Z"
+    },
+    {
+      "landing_page_section_id": "b592f364-a061-4a52-8e7b-6f597f46c8ab",
+      "landing_page_id": "b492b20e-dbff-41ea-b557-a33ffbd6608d",
+      "landing_section_type_code": "requirements",
+      "section_anchor_id": "requirements",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "cta": "TƯ VẤN CẤU HÌNH PHÙ HỢP",
+        "note": "Đội ngũ kỹ thuật TechAZ hỗ trợ tư vấn kiểm tra tương thích phần cứng và hỗ trợ cài đặt hoàn toàn miễn phí.",
+        "specs": [
+          {
+            "new": "Hệ điều hành 64-bit Microsoft® Windows. Hệ điều hành Microsoft® Windows 64-bit ảo chạy trên MAC OS yêu cầu giấy phép khóa USB.",
+            "old": "Microsoft® Windows 8.x, Windows 7, Windows Vista®, bao gồm cả 32-bit và 64-bit.",
+            "icon": "laptop",
+            "title": "Hệ điều hành"
+          },
+          {
+            "new": "Từ Intel Core i5 trở lên (Khuyên dùng Intel Core i7 hoặc AMD Ryzen 7).",
+            "old": "Từ Intel Pentium 4 trở lên.",
+            "icon": "cpu",
+            "title": "Bộ vi xử lý (CPU)"
+          },
+          {
+            "new": "Tối thiểu 2 GB (Khuyên dùng 8 GB - 16 GB cho tệp DWG lớn/3D).",
+            "old": "Tối thiểu 2 GB.",
+            "icon": "check-circle-2",
+            "title": "Bộ nhớ trong (RAM)"
+          },
+          {
+            "new": "Trống 7 GB (Khuyên dùng ổ cứng SSD NVMe).",
+            "old": "Trống 500 MB.",
+            "icon": "hard-drive",
+            "title": "Dung lượng ổ cứng"
+          },
+          {
+            "new": "Độ phân giải VGA 1024 x 768 hoặc cao hơn. Khuyên dùng Card rời, hỗ trợ OpenGL ES.",
+            "old": "Độ phân giải VGA 1024 x 768 hoặc cao hơn. Card đồ họa tương thích với OpenGL Phiên bản 1.4 trở lên.",
+            "icon": "monitor",
+            "title": "Đồ họa & Màn hình"
+          },
+          {
+            "full": "Các thiết bị tương thích với hệ điều hành Microsoft.",
+            "icon": "mouse-pointer",
+            "title": "Thiết bị trỏ, chuột"
+          }
+        ],
+        "title": "YÊU CẦU HỆ THỐNG CMS INTELLICAD (Windows)",
+        "eyebrow": "Thông Số Kỹ Thuật Lắp Đặt",
+        "headers": {
+          "new": "CMS IntelliCAD 10.0 và các bản mới hơn (14.0)",
+          "old": "CMS IntelliCAD 8.1 và các bản cũ hơn",
+          "system": "Yêu cầu hệ thống",
+          "minimum": "Yêu cầu tối thiểu",
+          "component": "Thành phần"
+        },
+        "mobile_new": "CMS IntelliCAD 10.0 - 14.0 (Mới nhất):",
+        "mobile_old": "CMS IntelliCAD 8.1 & Cũ hơn:",
+        "note_title": "Lưu ý hỗ trợ:",
+        "description": "Bảng tra cứu cấu hình phần cứng tối thiểu và khuyến nghị để phần mềm vận hành tối ưu, mượt mà trên hệ thống làm việc của doanh nghiệp.",
+        "mobile_title": "Bảng Yêu Cầu Cấu Hình CMS IntelliCAD"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {
+        "faq_answer": {
+          "font_size_desktop": 15
+        },
+        "faq_question": {
+          "font_size_desktop": 16.5
+        },
+        "licensing_body": {
+          "font_size_desktop": 17
+        },
+        "licensing_card": {
+          "font_size_desktop": 15
+        },
+        "resources_body": {
+          "font_size_desktop": 16.5
+        },
+        "resources_note": {
+          "font_size_desktop": 13
+        },
+        "licensing_title": {
+          "text_align": "center",
+          "font_size_desktop": 31
+        },
+        "form_company_body": {
+          "font_size_desktop": 14.5
+        },
+        "requirements_note": {
+          "font_size_desktop": 13.5
+        },
+        "hero_license_titles": {
+          "font_size_desktop": 13.5
+        },
+        "advantages_card_body": {
+          "font_size_desktop": 15
+        },
+        "hero_license_options": {
+          "font_size_desktop": 14
+        },
+        "licensing_card_title": {
+          "font_size_desktop": 18
+        },
+        "advantages_card_title": {
+          "font_size_desktop": 18
+        },
+        "comparison_table_body": {
+          "font_size_desktop": 14
+        }
+      },
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.938Z",
+      "updated_at_utc": "2026-10-28T01:12:41.938Z"
+    },
+    {
+      "landing_page_section_id": "9085fd8c-69ad-45e8-8722-f4b54d22bb67",
+      "landing_page_id": "b492b20e-dbff-41ea-b557-a33ffbd6608d",
+      "landing_section_type_code": "resources",
+      "section_anchor_id": "resources",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "note": "Tải file hỗ trợ & nhận tư vấn kỹ thuật cài đặt hoàn toàn miễn phí từ TechAZ",
+        "title": "THƯ VIỆN TÀI LIỆU, VIDEO & LISP HỖ TRỢ CAD",
+        "button": "DÙNG THỬ MIỄN PHÍ 30 NGÀY",
+        "eyebrow": "Thư Viện Tài Nguyên & Hỗ Trợ LISP TechAZ",
+        "image_alt": "CMS IntelliCAD 64bit Product Box, Disc & 3D Monitor Display",
+        "description": "Chúng tôi chuẩn bị sẵn một thư viện gồm các tài liệu, video hướng dẫn và file LISP hỗ trợ nhằm giúp bạn có trải nghiệm sử dụng CMS IntelliCAD thuận tiện, tối ưu hóa tốc độ hoàn thiện bản vẽ.",
+        "lisp_button": "ĐĂNG KÝ ĐỂ NHẬN LISP",
+        "visual_image_url": "/api/landing/media/cms-intellicad/images/cms_box_monitor_1785990083366.jpg",
+        "lisp_download_url": "/api/landing/media/cms-intellicad/downloads/Lisp Intellicad.rar",
+        "comparison_download_url": "/api/landing/media/cms-intellicad/downloads/TechAZ_So_Sanh_IntelliCAD_AutoCAD.pdf"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {
+        "faq_answer": {
+          "font_size_desktop": 15
+        },
+        "faq_question": {
+          "font_size_desktop": 16.5
+        },
+        "licensing_body": {
+          "font_size_desktop": 17
+        },
+        "licensing_card": {
+          "font_size_desktop": 15
+        },
+        "resources_body": {
+          "font_size_desktop": 16.5
+        },
+        "resources_note": {
+          "font_size_desktop": 13
+        },
+        "licensing_title": {
+          "text_align": "center",
+          "font_size_desktop": 31
+        },
+        "form_company_body": {
+          "font_size_desktop": 14.5
+        },
+        "requirements_note": {
+          "font_size_desktop": 13.5
+        },
+        "hero_license_titles": {
+          "font_size_desktop": 13.5
+        },
+        "advantages_card_body": {
+          "font_size_desktop": 15
+        },
+        "hero_license_options": {
+          "font_size_desktop": 14
+        },
+        "licensing_card_title": {
+          "font_size_desktop": 18
+        },
+        "advantages_card_title": {
+          "font_size_desktop": 18
+        },
+        "comparison_table_body": {
+          "font_size_desktop": 14
+        }
+      },
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.942Z",
+      "updated_at_utc": "2026-10-28T01:12:41.942Z"
+    },
+    {
+      "landing_page_section_id": "9a81fe59-5758-494f-af18-c33e72966375",
+      "landing_page_id": "b492b20e-dbff-41ea-b557-a33ffbd6608d",
+      "landing_section_type_code": "faq",
+      "section_anchor_id": "faq",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "answer": "Không. CMS IntelliCAD là sản phẩm CAD độc lập do tập đoàn CAD-Manufacturing Solutions, Inc. (CMS - Mỹ) phát triển dựa trên nền tảng công nghệ của IntelliCAD Technology Consortium (ITC). Phần mềm được thiết kế với độ tương thích rất cao với định dạng DWG và quy trình làm việc chuẩn CAD, giúp kỹ sư dễ dàng thao tác mà không cần đào tạo lại phức tạp.",
+            "category": "general",
+            "question": "CMS IntelliCAD có phải là AutoCAD không?"
+          },
+          {
+            "answer": "Có. CMS IntelliCAD công bố hỗ trợ mở, chỉnh sửa và lưu trực tiếp tệp DWG gốc. Kỹ sư có thể làm việc mượt mà với Xref, block thuộc tính, layout và nét in. Tuy nhiên, TechAZ khuyến nghị doanh nghiệp nên chạy thử nghiệm (pilot) với bộ tệp bản vẽ thực tế có font đặc thù (VNI, TCVN3) hoặc proxy object trước khi chuyển đổi toàn bộ hệ thống.",
+            "category": "compatibility",
+            "question": "CMS IntelliCAD có mở và chỉnh sửa được các bản vẽ DWG cũ không?"
+          },
+          {
+            "cta": "NHẬN BÁO GIÁ CÁC GÓI CẤP PHÉP",
+            "answer": "Có. Hãng CMS cung cấp hình thức bản quyền Standalone vĩnh viễn (Perpetual License), mua một lần dùng mãi mãi. Ngoài ra, để đáp ứng linh hoạt ngân sách doanh nghiệp, CMS cũng cung cấp các lựa chọn thuê bao 365 ngày (License Lease), USB Dongle cứng, Network License (quản lý tập trung trên máy chủ) và Subscription.",
+            "category": "licensing",
+            "question": "CMS IntelliCAD có bản quyền vĩnh viễn không?"
+          },
+          {
+            "cta": "XEM BẢNG SO SÁNH PHIÊN BẢN CHI TIẾT",
+            "href": "#so-sanh-autocad",
+            "answer": "Phiên bản PE (Standard) phù hợp với đa số công việc thiết kế 2D, dựng hình 3D Surface, nhập PDF vector, tùy chỉnh giao diện và lập trình LISP/VBA/.NET. Phiên bản PE Plus bổ sung thêm công nghệ dựng khối 3D Solid ACIS, khả năng nhập/xuất tệp 3D STEP/IGES, hỗ trợ đối tượng kiến trúc AEC (tường, cửa, cầu thang, sàn) và đọc underlay tệp IFC/Revit.",
+            "category": "technical",
+            "question": "Phiên bản PE và PE Plus khác nhau như thế nào?"
+          },
+          {
+            "cta": "ĐĂNG KÝ KIỂM THỬ LISP MIỄN PHÍ",
+            "need": "receive_lisp",
+            "answer": "Có. CMS IntelliCAD hỗ trợ trọn bộ môi trường lập trình bao gồm LISP/DCL, Microsoft VBA 7.1, .NET 4.5 API, SDS và DRX/IRX C++. Phiên bản mới 14.1 bổ sung hỗ trợ các file LISP biên dịch dạng .FAS và .VLX. Mức độ tương thích cụ thể phụ thuộc vào cấu trúc đoạn mã, vì vậy TechAZ hỗ trợ khách hàng kiểm thử trực tiếp các file LISP/Plugin nội bộ trên bộ cài thực tế.",
+            "category": "technical",
+            "question": "CMS IntelliCAD có chạy được các file LISP, VBA và Plugin hiện có không?"
+          },
+          {
+            "answer": "CMS IntelliCAD tương thích với Microsoft Windows, bao gồm Windows 10 và 11. Nó cũng tích hợp tốt với lưu trữ đám mây và môi trường máy chủ dựa trên Windows, giúp dễ dàng quản lý giữa các nhóm làm việc trên mạng.",
+            "category": "compatibility",
+            "question": "CMS IntelliCAD tương thích với hệ điều hành nào?"
+          }
+        ],
+        "title": "Thắc Mắc Thường Gặp Về CMS IntelliCAD",
+        "eyebrow": "Giải Đáp Khái Niệm & Kỹ Thuật Ban Đầu",
+        "warning": "Cần xác nhận rõ mục đích sử dụng với tài liệu kỹ thuật để không hiểu sai về phạm vi tính năng.",
+        "categories": {
+          "all": "Tất cả câu hỏi",
+          "general": "Tổng quan",
+          "licensing": "Cấp phép",
+          "technical": "Phiên bản PE/PE Plus",
+          "compatibility": "Định dạng DWG & PDF"
+        },
+        "description": "Tổng hợp các câu hỏi thắc mắc phổ biến nhất về tính tương thích, cấp phép, LISP và dữ liệu 3D/BIM.",
+        "empty_prefix": "Không tìm thấy câu hỏi phù hợp với từ khóa",
+        "warning_title": "Khuyến nghị từ TechAZ:",
+        "search_placeholder": "Tìm kiếm thắc mắc (ví dụ: DWG, LISP, bản quyền, Windows...)..."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {
+        "faq_answer": {
+          "font_size_desktop": 15
+        },
+        "faq_question": {
+          "font_size_desktop": 16.5
+        },
+        "licensing_body": {
+          "font_size_desktop": 17
+        },
+        "licensing_card": {
+          "font_size_desktop": 15
+        },
+        "resources_body": {
+          "font_size_desktop": 16.5
+        },
+        "resources_note": {
+          "font_size_desktop": 13
+        },
+        "licensing_title": {
+          "text_align": "center",
+          "font_size_desktop": 31
+        },
+        "form_company_body": {
+          "font_size_desktop": 14.5
+        },
+        "requirements_note": {
+          "font_size_desktop": 13.5
+        },
+        "hero_license_titles": {
+          "font_size_desktop": 13.5
+        },
+        "advantages_card_body": {
+          "font_size_desktop": 15
+        },
+        "hero_license_options": {
+          "font_size_desktop": 14
+        },
+        "licensing_card_title": {
+          "font_size_desktop": 18
+        },
+        "advantages_card_title": {
+          "font_size_desktop": 18
+        },
+        "comparison_table_body": {
+          "font_size_desktop": 14
+        }
+      },
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.945Z",
+      "updated_at_utc": "2026-10-28T01:12:41.945Z"
+    },
+    {
+      "landing_page_section_id": "746f36bb-46fc-4227-94de-f29d4a2327cb",
+      "landing_page_id": "b492b20e-dbff-41ea-b557-a33ffbd6608d",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "dang-ky",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "error": "Chưa thể gửi yêu cầu vào lúc này. Thông tin đã được lưu; vui lòng thử lại sau.",
+        "phone": "Số Điện Thoại",
+        "title": "ĐĂNG KÝ NHẬN BÁO GIÁ / DÙNG THỬ",
+        "submit": "GỬI ĐĂNG KÝ VÀ NHẬN BÁO GIÁ",
+        "company": "Công Ty / Đơn Vị",
+        "consent": "Bằng việc gửi form, bạn đồng ý để TechAZ xử lý dữ liệu liên hệ nhằm mục đích tư vấn sản phẩm và hỗ trợ kỹ thuật theo quy định bảo mật.",
+        "eyebrow": "Tư Vấn Tận Tâm Từ Chuyên Gia TechAZ",
+        "success": "Yêu cầu của bạn đã được gửi thành công. Đội ngũ chuyên gia TechAZ đã ghi nhận và sẽ liên hệ trong thời gian sớm nhất.",
+        "benefits": [
+          "Nhận key dùng thử bản đầy đủ 30 ngày",
+          "Tài liệu hướng dẫn cài đặt & chuyển đổi Tiếng Việt",
+          "Hỗ trợ test file DWG, LISP, font chữ trực tiếp"
+        ],
+        "full_name": "Họ và Tên",
+        "form_title": "Thông Tin Yêu Cầu Tư Vấn & Dùng Thử",
+        "submitting": "Đang gửi thông tin...",
+        "work_email": "Email Công Việc",
+        "description": "Đội ngũ TechAZ sẽ liên hệ ngay để hỗ trợ cung cấp bản quyền dùng thử, tư vấn đúng phiên bản.",
+        "notes_label": "Số Lượng Máy / Ghi Chú Yêu Cầu Về DWG, LISP, Font...",
+        "trial_close": "Đóng",
+        "company_info": {
+          "name": "CÔNG TY CỔ PHẦN TECHAZ",
+          "role": "Đơn Vị Phân Phối Chính Thức CMS IntelliCAD",
+          "hours": "Thứ 2 - Thứ 6: 08:00 - 17:30",
+          "address": "Shophouse SH2-16, Khu đô thị Centa Riverside, Từ Sơn, Bắc Ninh",
+          "security": "Cam kết không tiết lộ thông tin dự án & bản vẽ của doanh nghiệp.",
+          "description": "Chúng tôi cam kết đồng hành và hỗ trợ kỹ thuật tận tâm cho doanh nghiệp trong suốt quá trình kiểm thử và chuyển đổi bản quyền phần mềm CAD.",
+          "contact_title": "Thông Tin Liên Hệ",
+          "security_title": "Bảo Mật Thông Tin:"
+        },
+        "placeholders": {
+          "phone": "0912 345 678",
+          "company": "Công ty Tư Vấn Thiết Kế ABC",
+          "full_name": "Nguyễn Văn A",
+          "work_email": "kientrucsur@company.com",
+          "requirements": "Mô tả số lượng user, định dạng tệp vẽ thường dùng hoặc thắc mắc LISP/Plugin..."
+        },
+        "primary_need": "Nhu Cầu Chính",
+        "lisp_download": "TẢI LISP INTELLICAD",
+        "benefits_title": "Quyền Lợi Khi Đăng Ký",
+        "trial_download": "TẢI BỘ CÀI DÙNG THỬ",
+        "device_quantity": "Số máy",
+        "product_version": "Phiên Bản Quan Tâm",
+        "lisp_modal_title": "Đăng ký nhận LISP thành công",
+        "notes_lisp_label": "Ghi Chú Yêu Cầu Về LISP, DWG, Font...",
+        "trial_modal_title": "Đăng ký dùng thử thành công",
+        "lisp_modal_description": "Thông tin của bạn đã được gửi tới TechAZ. Bạn có thể tải bộ LISP dành cho IntelliCAD ngay bên dưới.",
+        "trial_modal_description": "Thông tin của bạn đã được gửi tới TechAZ. Bạn có thể tải bộ cài CMS IntelliCAD 14.1 ngay bên dưới."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {
+        "faq_answer": {
+          "font_size_desktop": 15
+        },
+        "faq_question": {
+          "font_size_desktop": 16.5
+        },
+        "licensing_body": {
+          "font_size_desktop": 17
+        },
+        "licensing_card": {
+          "font_size_desktop": 15
+        },
+        "resources_body": {
+          "font_size_desktop": 16.5
+        },
+        "resources_note": {
+          "font_size_desktop": 13
+        },
+        "licensing_title": {
+          "text_align": "center",
+          "font_size_desktop": 31
+        },
+        "form_company_body": {
+          "font_size_desktop": 14.5
+        },
+        "requirements_note": {
+          "font_size_desktop": 13.5
+        },
+        "hero_license_titles": {
+          "font_size_desktop": 13.5
+        },
+        "advantages_card_body": {
+          "font_size_desktop": 15
+        },
+        "hero_license_options": {
+          "font_size_desktop": 14
+        },
+        "licensing_card_title": {
+          "font_size_desktop": 18
+        },
+        "advantages_card_title": {
+          "font_size_desktop": 18
+        },
+        "comparison_table_body": {
+          "font_size_desktop": 14
+        }
+      },
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.953Z",
+      "updated_at_utc": "2026-10-28T01:12:41.953Z"
+    },
+    {
+      "landing_page_section_id": "a226cbb3-ed60-4e39-8e11-9656a1be21f4",
+      "landing_page_id": "b492b20e-dbff-41ea-b557-a33ffbd6608d",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "footer",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "hours": "Thứ 2 - Thứ 6: 08:00 - 17:30",
+        "address": "Shophouse SH2-16, Khu đô thị Centa Riverside, Từ Sơn, Bắc Ninh",
+        "company": "CÔNG TY CỔ PHẦN TECHAZ",
+        "logo_url": "/api/landing/media/cms-intellicad/images/logo.png",
+        "community": "CỘNG ĐỒNG TECHAZ (FANPAGE FACEBOOK)",
+        "copyright": "© 2026 CÔNG TY CỔ PHẦN TECHAZ. All Rights Reserved.",
+        "back_to_top": "Về đầu trang ↑",
+        "description": "Đơn vị cung cấp giải pháp bản quyền phần mềm thiết kế kỹ thuật CAD/CAM/BIM hàng đầu tại Việt Nam. Cam kết đồng hành kỹ thuật 24/7.",
+        "contact_title": "Thông Tin Liên Hệ",
+        "company_logo_url": "/api/landing/media/cms-intellicad/images/company_logo.png"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {
+        "faq_answer": {
+          "font_size_desktop": 15
+        },
+        "faq_question": {
+          "font_size_desktop": 16.5
+        },
+        "licensing_body": {
+          "font_size_desktop": 17
+        },
+        "licensing_card": {
+          "font_size_desktop": 15
+        },
+        "resources_body": {
+          "font_size_desktop": 16.5
+        },
+        "resources_note": {
+          "font_size_desktop": 13
+        },
+        "licensing_title": {
+          "text_align": "center",
+          "font_size_desktop": 31
+        },
+        "form_company_body": {
+          "font_size_desktop": 14.5
+        },
+        "requirements_note": {
+          "font_size_desktop": 13.5
+        },
+        "hero_license_titles": {
+          "font_size_desktop": 13.5
+        },
+        "advantages_card_body": {
+          "font_size_desktop": 15
+        },
+        "hero_license_options": {
+          "font_size_desktop": 14
+        },
+        "licensing_card_title": {
+          "font_size_desktop": 18
+        },
+        "advantages_card_title": {
+          "font_size_desktop": 18
+        },
+        "comparison_table_body": {
+          "font_size_desktop": 14
+        }
+      },
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.957Z",
+      "updated_at_utc": "2026-10-28T01:12:41.957Z"
+    },
+    {
+      "landing_page_section_id": "62f42a17-ca63-4810-a456-0c7e2295d295",
+      "landing_page_id": "b492b20e-dbff-41ea-b557-a33ffbd6608d",
+      "landing_section_type_code": "floating_cta",
+      "section_anchor_id": "floating-cta",
+      "section_order": 9,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "call": "Gọi Tư Vấn",
+        "close": "Đóng thanh đăng ký",
+        "quote": "ĐĂNG KÝ DÙNG THỬ",
+        "title": "Dùng thử CMS IntelliCAD 30 Ngày Miễn Phí",
+        "description": "Tương thích DWG 2026, chạy LISP & Ribbon UI"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {
+        "faq_answer": {
+          "font_size_desktop": 15
+        },
+        "faq_question": {
+          "font_size_desktop": 16.5
+        },
+        "licensing_body": {
+          "font_size_desktop": 17
+        },
+        "licensing_card": {
+          "font_size_desktop": 15
+        },
+        "resources_body": {
+          "font_size_desktop": 16.5
+        },
+        "resources_note": {
+          "font_size_desktop": 13
+        },
+        "licensing_title": {
+          "text_align": "center",
+          "font_size_desktop": 31
+        },
+        "form_company_body": {
+          "font_size_desktop": 14.5
+        },
+        "requirements_note": {
+          "font_size_desktop": 13.5
+        },
+        "hero_license_titles": {
+          "font_size_desktop": 13.5
+        },
+        "advantages_card_body": {
+          "font_size_desktop": 15
+        },
+        "hero_license_options": {
+          "font_size_desktop": 14
+        },
+        "licensing_card_title": {
+          "font_size_desktop": 18
+        },
+        "advantages_card_title": {
+          "font_size_desktop": 18
+        },
+        "comparison_table_body": {
+          "font_size_desktop": 14
+        }
+      },
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.960Z",
+      "updated_at_utc": "2026-10-28T01:12:41.960Z"
+    },
+    {
+      "landing_page_section_id": "1b49333b-903b-4a18-8a5b-ab5e16ac6636",
+      "landing_page_id": "c8792e53-6766-4813-9cee-9a9580604280",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "header",
+      "section_order": 0,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "quote": "REGISTER FOR QUOTE",
+        "logo_url": "/api/landing/media/cms-intellicad/images/logo.png",
+        "subtitle": "Permanent Licensed 2D/3D CAD Software",
+        "company_logo_url": "/api/landing/media/cms-intellicad/images/company_logo.png"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.996Z",
+      "updated_at_utc": "2026-10-28T01:12:41.996Z"
+    },
+    {
+      "landing_page_section_id": "5a16fb42-ab2b-4da2-ae70-f65b7b1d2630",
+      "landing_page_id": "c8792e53-6766-4813-9cee-9a9580604280",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "hero",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "badge": "Permanent CMS IntelliCAD Licensing Solution",
+        "visual": {
+          "specs": [
+            {
+              "label": "Compatibility",
+              "value": "DWG Native"
+            },
+            {
+              "label": "Technology",
+              "value": "64-Bit Multi-Core"
+            },
+            {
+              "label": "Programming",
+              "value": "LISP, FAS, VLX, .NET"
+            }
+          ],
+          "title": "Interactive CAD interface demo",
+          "real_ui": "Actual Interface"
+        },
+        "pricing": {
+          "from": "Genuine CMS IntelliCAD licenses from:",
+          "note": "*(Promotional price for two or more licenses)",
+          "badge": "Optimized License Investment",
+          "price": "7,500,000 VND",
+          "types": "Perpetual / Annual / On Demand",
+          "network": "Network License",
+          "options": [
+            "Perpetual license",
+            "Annual subscription",
+            "On-demand licensing"
+          ],
+          "standalone": "Standalone License"
+        },
+        "versions": [
+          {
+            "tag": "Core 2D/3D",
+            "icon": "monitor",
+            "name": "1. PE (Premium Edition)",
+            "description": "Includes core 2D design tools plus 3D modeling, rendering, BIM underlay and external file format support."
+          },
+          {
+            "tag": "Advanced & ACIS",
+            "icon": "award",
+            "name": "2. PE Plus (Premium Edition Plus)",
+            "description": "Adds advanced 3D modeling, complete ACIS Solid editing and productivity tools."
+          },
+          {
+            "tag": "No Installation",
+            "icon": "zap",
+            "name": "3. Easy Run",
+            "description": "CMS IntelliCAD supports direct execution without installation, meeting the need for flexible usage and allowing licensing for one internet-connected machine at a time."
+          }
+        ],
+        "licensing": {
+          "badge": "License Options",
+          "title": "LICENSE OPTIONS",
+          "description": "CMS IntelliCAD editions are based on feature groups: <strong>Premium Edition (PE)</strong>, <strong>Premium Edition Plus (PE Plus)</strong> and <strong>Easy Run</strong>:"
+        },
+        "title_line": "CMS INTELLICAD –",
+        "title_accent": "A POWERFUL CAD ALTERNATIVE",
+        "description_1": "CMS IntelliCAD is professional CAD software offering comprehensive 2D and 3D design tools, DWG support and a familiar working environment for CAD users.",
+        "description_2": "CMS IntelliCAD suits businesses, engineers, architects and design consultants seeking professional, high-performance CAD software with optimized investment costs.",
+        "hero_visual_url": "/api/landing/media/cms-intellicad/images/intellicad_3d_laptop_1785898332833.jpg",
+        "compare_versions": "COMPARE PE / PE PLUS",
+        "backup_visual_url": "/api/landing/media/cms-intellicad/images/intellicad-hero.jpg"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.002Z",
+      "updated_at_utc": "2026-10-28T01:12:42.002Z"
+    },
+    {
+      "landing_page_section_id": "43fc9fc8-7aa0-4ba4-9e01-5d2ae2e31f9e",
+      "landing_page_id": "c8792e53-6766-4813-9cee-9a9580604280",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "advantages",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "text": "CMS IntelliCAD provides comprehensive professional CAD design tools for 2D and 3D work at a reasonable investment cost.",
+            "title": "High performance, reasonable cost"
+          },
+          {
+            "text": "CMS IntelliCAD provides familiar CAD operations, enabling an easy transition without extensive retraining.",
+            "title": "Familiar, easy-to-use interface"
+          },
+          {
+            "text": "CMS IntelliCAD supports popular formats such as DWG and DXF for opening, editing and exchanging drawings.",
+            "title": "Popular CAD format compatibility"
+          },
+          {
+            "text": "CMS IntelliCAD provides 2D and 3D tools for architecture, construction, mechanical, transportation, electrical, geological, mining and surveying work.",
+            "title": "2D and 3D design support"
+          },
+          {
+            "text": "CMS IntelliCAD supports LISP, VBA, .NET/API and customization tools so businesses can retain their existing CAD workflows.",
+            "title": "LISP and customization support"
+          },
+          {
+            "text": "Standalone and Network licensing supports individuals through organizations with hundreds of users.",
+            "title": "Multiple licensing options"
+          }
+        ],
+        "title": "OUTSTANDING ADVANTAGES",
+        "eyebrow": "Professional CAD Platform",
+        "description": "The advantages of CMS IntelliCAD",
+        "background_image_url": "/api/landing/media/cms-intellicad/images/cad_engineers_bg_1785984144734.jpg"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.005Z",
+      "updated_at_utc": "2026-10-28T01:12:42.005Z"
+    },
+    {
+      "landing_page_section_id": "66b1117f-ac20-480f-b379-57b19d7762c3",
+      "landing_page_id": "c8792e53-6766-4813-9cee-9a9580604280",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "comparison",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "rows": [
+          {
+            "pe": true,
+            "feature": "Read / Write native .DWG files",
+            "pe_plus": true,
+            "autocad_lt": true,
+            "autocad_full": true
+          },
+          {
+            "pe": true,
+            "feature": "Attach BIM (*.ifc, *.rvt) & Point Cloud (.rcp)",
+            "pe_plus": true,
+            "autocad_lt": false,
+            "autocad_full": true
+          },
+          {
+            "pe": true,
+            "feature": "LISP (.lsp, .fas, .vlx), VBA 7.1 / .NET",
+            "pe_plus": true,
+            "autocad_lt": "Limited",
+            "autocad_full": true
+          },
+          {
+            "pe": false,
+            "feature": "3D Solids ACIS / STEP / IGES modeling",
+            "pe_plus": true,
+            "autocad_lt": false,
+            "autocad_full": true
+          },
+          {
+            "pe": "Perpetual",
+            "feature": "License ownership model",
+            "pe_plus": "Perpetual",
+            "autocad_lt": "Annual",
+            "autocad_full": "Annual"
+          }
+        ],
+        "modal": {
+          "note": "Register to receive the complete document by email or Zalo.",
+          "agent": "Official authorized distributor:",
+          "close": "Close",
+          "title": "CMS IntelliCAD and AutoCAD® Comparison",
+          "company": "TECHAZ JOINT STOCK COMPANY - Hotline: 0979 596 954",
+          "download": "GET THE PDF DOCUMENT (FREE)",
+          "overview": "CMS IntelliCAD Premium Edition (PE) is designed for maximum compatibility with Autodesk AutoCAD® and can be programmed with hundreds of third-party solutions. It provides comprehensive 2D and 3D drafting tools as a practical CAD alternative for businesses.",
+          "sections": [
+            {
+              "text": "Native DWG/DXF/DWT, MicroStation .DGN and digital signatures.",
+              "title": "1. DWG & file format compatibility:"
+            },
+            {
+              "text": "2D/3D PDF export, vector PDF import, STEP, IGES and 3D Collada.",
+              "title": "2. Data import/export & PDF:"
+            },
+            {
+              "text": "BIM IFC/Revit, RCP/RCS Point Clouds, ACIS solids and AEC.",
+              "title": "3. 3D, BIM & Point Cloud:"
+            },
+            {
+              "text": "AutoLISP, DCL, VBA 7.1, .NET 4.5 API, Object IRX and Script Recorder.",
+              "title": "4. Programming APIs:"
+            },
+            {
+              "text": "AutoCAD menus, TrueType fonts, Express tools, Tool palettes and Explorer.",
+              "title": "5. Management & interface tools:"
+            },
+            {
+              "text": "Professional ARTISAN rendering and ETOOLBOX drawing automation.",
+              "title": "6. Add-ons & Rendering:"
+            }
+          ],
+          "publisher": "Officially published by TECHAZ JOINT STOCK COMPANY",
+          "overview_title": "Technical Document Overview (3-page PDF)",
+          "sections_title": "Detailed comparison topics in the document:"
+        },
+        "title": "CMS INTELLICAD VS AUTOCAD®",
+        "points": [
+          {
+            "title": "100% native DWG/DXF compatibility",
+            "autocad": "Standard AutoCAD® format",
+            "category": "I. Compatibility & File Formats",
+            "intellicad": "Full native DWG compatibility",
+            "description": "Open, edit and save native DWG files. Supports MicroStation .DGN, vector PDF, .DWF and drawing digital signatures."
+          },
+          {
+            "title": "3D Solid, BIM & LISP/VBA API support",
+            "autocad": "AutoCAD LT lacks 3D/BIM",
+            "category": "II. 3D, BIM & LISP API Tools",
+            "intellicad": "Built-in BIM, 3D & LISP",
+            "description": "Attach BIM files (.IFC, .RVT) and Point Clouds (.RCP/.RCS). Run LISP/FAS/VLX, VBA 7.1 and .NET API directly."
+          },
+          {
+            "title": "Perpetual ownership",
+            "autocad": "Annual subscription",
+            "category": "III. Licensing & Cost",
+            "intellicad": "Perpetual / Subscription",
+            "description": "Own the software permanently without annual renewal. Save up to 90% versus mandatory subscription licensing."
+          }
+        ],
+        "source": "Source: TECHAZ JOINT STOCK COMPANY",
+        "eyebrow": "Official Technical Comparison",
+        "headers": [
+          "Feature / Capability",
+          "IntelliCAD PE",
+          "IntelliCAD PE Plus",
+          "AutoCAD® LT",
+          "AutoCAD® Full"
+        ],
+        "pdf_button": "VIEW COMPARISON DOCUMENT (PDF)",
+        "description": "100% DWG compatibility, 2D/3D and LISP API support at an optimized cost.",
+        "matrix_title": "Core Feature Comparison"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.008Z",
+      "updated_at_utc": "2026-10-28T01:12:42.008Z"
+    },
+    {
+      "landing_page_section_id": "0ef78788-2ca9-4e28-b7df-e75be24f1055",
+      "landing_page_id": "c8792e53-6766-4813-9cee-9a9580604280",
+      "landing_section_type_code": "requirements",
+      "section_anchor_id": "requirements",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "cta": "GET CONFIGURATION ADVICE",
+        "note": "The TechAZ technical team provides free hardware compatibility advice and installation support.",
+        "specs": [
+          {
+            "new": "64-bit Microsoft® Windows. Virtual 64-bit Microsoft® Windows running on MAC OS requires a USB key license.",
+            "old": "Microsoft® Windows 8.x, Windows 7 and Windows Vista®, including 32-bit and 64-bit.",
+            "icon": "laptop",
+            "title": "Operating system"
+          },
+          {
+            "new": "Intel Core i5 or later (Intel Core i7 or AMD Ryzen 7 recommended).",
+            "old": "Intel Pentium 4 or later.",
+            "icon": "cpu",
+            "title": "Processor (CPU)"
+          },
+          {
+            "new": "Minimum 2 GB (8 GB–16 GB recommended for large DWG/3D files).",
+            "old": "Minimum 2 GB.",
+            "icon": "check-circle-2",
+            "title": "Memory (RAM)"
+          },
+          {
+            "new": "7 GB free (SSD NVMe recommended).",
+            "old": "500 MB free.",
+            "icon": "hard-drive",
+            "title": "Disk space"
+          },
+          {
+            "new": "VGA resolution 1024 x 768 or higher. Dedicated graphics with OpenGL ES recommended.",
+            "old": "VGA resolution 1024 x 768 or higher. OpenGL 1.4-compatible graphics card or later.",
+            "icon": "monitor",
+            "title": "Graphics & display"
+          },
+          {
+            "full": "Devices compatible with Microsoft operating systems.",
+            "icon": "mouse-pointer",
+            "title": "Pointing device, mouse"
+          }
+        ],
+        "title": "CMS INTELLICAD SYSTEM REQUIREMENTS (Windows)",
+        "eyebrow": "Installation Specifications",
+        "headers": {
+          "new": "CMS IntelliCAD 10.0 and later (14.0)",
+          "old": "CMS IntelliCAD 8.1 and earlier",
+          "system": "System requirements",
+          "minimum": "Minimum requirements",
+          "component": "Component"
+        },
+        "mobile_new": "CMS IntelliCAD 10.0–14.0 (Latest):",
+        "mobile_old": "CMS IntelliCAD 8.1 & earlier:",
+        "note_title": "Support note:",
+        "description": "Minimum and recommended hardware specifications for smooth, optimized operation across your organization.",
+        "mobile_title": "CMS IntelliCAD Configuration Requirements"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.011Z",
+      "updated_at_utc": "2026-10-28T01:12:42.011Z"
+    },
+    {
+      "landing_page_section_id": "94e3c6e3-0bec-4a1f-9243-4b3bc0faac7a",
+      "landing_page_id": "c8792e53-6766-4813-9cee-9a9580604280",
+      "landing_section_type_code": "resources",
+      "section_anchor_id": "resources",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "note": "Download support files and receive free installation advice from TechAZ",
+        "title": "CAD DOCUMENT, VIDEO & LISP SUPPORT LIBRARY",
+        "button": "FREE 30-DAY TRIAL",
+        "eyebrow": "TechAZ Resource & LISP Support Library",
+        "image_alt": "CMS IntelliCAD 64bit Product Box, Disc & 3D Monitor Display",
+        "description": "We provide documents, tutorials and supporting LISP files to make CMS IntelliCAD easier to use and accelerate drawing completion.",
+        "lisp_button": "REGISTER TO RECEIVE LISP",
+        "visual_image_url": "/api/landing/media/cms-intellicad/images/cms_box_monitor_1785990083366.jpg",
+        "lisp_download_url": "/api/landing/media/cms-intellicad/downloads/Lisp Intellicad.rar",
+        "comparison_download_url": "/api/landing/media/cms-intellicad/downloads/TechAZ_So_Sanh_IntelliCAD_AutoCAD.pdf"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.019Z",
+      "updated_at_utc": "2026-10-28T01:12:42.019Z"
+    },
+    {
+      "landing_page_section_id": "11ff0295-78f0-41a9-9566-9935b2e09522",
+      "landing_page_id": "c8792e53-6766-4813-9cee-9a9580604280",
+      "landing_section_type_code": "faq",
+      "section_anchor_id": "faq",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "answer": "No. CMS IntelliCAD is an independent CAD product developed by CAD-Manufacturing Solutions, Inc. in the United States on technology from the IntelliCAD Technology Consortium. It offers high DWG and standard CAD workflow compatibility.",
+            "category": "general",
+            "question": "Is CMS IntelliCAD the same as AutoCAD?"
+          },
+          {
+            "answer": "Yes. CMS IntelliCAD supports opening, editing and directly saving native DWG files, including Xrefs, attributed blocks, layouts and plot styles. TechAZ recommends a pilot using drawings with custom fonts or proxy objects before full migration.",
+            "category": "compatibility",
+            "question": "Can CMS IntelliCAD edit older DWG drawings?"
+          },
+          {
+            "cta": "REQUEST LICENSE PACKAGE PRICING",
+            "answer": "Yes. CMS offers perpetual Standalone licensing as well as 365-day leases, USB dongles, centrally managed Network licenses and subscriptions.",
+            "category": "licensing",
+            "question": "Does CMS IntelliCAD offer perpetual licensing?"
+          },
+          {
+            "cta": "VIEW DETAILED EDITION COMPARISON",
+            "href": "#so-sanh-autocad",
+            "answer": "PE supports most 2D design, 3D surfaces, vector PDF import, interface customization and LISP/VBA/.NET programming. PE Plus adds ACIS 3D solids, STEP/IGES exchange, AEC objects and IFC/Revit underlays.",
+            "category": "technical",
+            "question": "What is the difference between PE and PE Plus?"
+          },
+          {
+            "cta": "REGISTER FOR FREE LISP TESTING",
+            "need": "receive_lisp",
+            "answer": "Yes. CMS IntelliCAD supports LISP/DCL, Microsoft VBA 7.1, .NET 4.5 API, SDS and DRX/IRX C++. Version 14.1 also supports compiled .FAS and .VLX files. TechAZ can test internal LISP and plugin files.",
+            "category": "technical",
+            "question": "Can CMS IntelliCAD run existing LISP, VBA and plugins?"
+          },
+          {
+            "answer": "CMS IntelliCAD supports Microsoft Windows, including Windows 10 and 11, and works with cloud storage and Windows-based server environments.",
+            "category": "compatibility",
+            "question": "Which operating systems support CMS IntelliCAD?"
+          }
+        ],
+        "title": "Frequently Asked Questions About CMS IntelliCAD",
+        "eyebrow": "Initial Concept & Technical Answers",
+        "warning": "Confirm your intended use against the technical documentation to avoid misunderstanding the feature scope.",
+        "categories": {
+          "all": "All questions",
+          "general": "Overview",
+          "licensing": "Licensing",
+          "technical": "PE/PE Plus editions",
+          "compatibility": "DWG & PDF formats"
+        },
+        "description": "Answers to common questions about compatibility, licensing, LISP and 3D/BIM data.",
+        "empty_prefix": "No questions matched",
+        "warning_title": "TechAZ recommendation:",
+        "search_placeholder": "Search questions (for example: DWG, LISP, licensing, Windows...)..."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.023Z",
+      "updated_at_utc": "2026-10-28T01:12:42.023Z"
+    },
+    {
+      "landing_page_section_id": "88153d6f-e3ef-4f47-8490-0f0a3c8d9910",
+      "landing_page_id": "c8792e53-6766-4813-9cee-9a9580604280",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "dang-ky",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "error": "We could not submit the request now. Your information was saved securely; please try again later.",
+        "phone": "Phone Number",
+        "title": "REQUEST A QUOTE / FREE TRIAL",
+        "submit": "SUBMIT REGISTRATION & REQUEST QUOTE",
+        "company": "Company / Organization",
+        "consent": "By submitting this form, you agree that TechAZ may process your contact details for product consultation and technical support under its privacy policy.",
+        "eyebrow": "Dedicated Advice From TechAZ Experts",
+        "success": "Your request was submitted successfully. The TechAZ expert team will contact you shortly.",
+        "benefits": [
+          "Receive a full 30-day trial key",
+          "Vietnamese installation and migration guide",
+          "Direct DWG, LISP and font testing support"
+        ],
+        "full_name": "Full Name",
+        "form_title": "Consultation & Trial Request Details",
+        "submitting": "Submitting information...",
+        "work_email": "Work Email",
+        "description": "TechAZ will contact you promptly with trial licensing and advice on the right edition.",
+        "notes_label": "Number of Devices / DWG, LISP and Font Requirements",
+        "trial_close": "Close",
+        "company_info": {
+          "name": "TECHAZ JOINT STOCK COMPANY",
+          "role": "Official CMS IntelliCAD Distributor",
+          "hours": "Monday–Friday: 08:00–17:30",
+          "address": "Shophouse SH2-16, Centa Riverside Urban Area, Tu Son, Bac Ninh",
+          "security": "Your project and drawing information will remain confidential.",
+          "description": "We provide dedicated technical support throughout software evaluation and CAD license migration.",
+          "contact_title": "Contact Information",
+          "security_title": "Information Security:"
+        },
+        "placeholders": {
+          "phone": "+84 912 345 678",
+          "company": "ABC Design Consultancy",
+          "full_name": "John Smith",
+          "work_email": "architect@company.com",
+          "requirements": "Describe user count, drawing formats, LISP or plugin requirements..."
+        },
+        "primary_need": "Primary Need",
+        "lisp_download": "DOWNLOAD INTELLICAD LISP",
+        "benefits_title": "Registration Benefits",
+        "trial_download": "DOWNLOAD TRIAL INSTALLER",
+        "device_quantity": "Devices",
+        "product_version": "Product Edition",
+        "lisp_modal_title": "LISP registration successful",
+        "notes_lisp_label": "LISP, DWG and Font Requirements",
+        "trial_modal_title": "Trial registration successful",
+        "lisp_modal_description": "Your information has been sent to TechAZ. You can download the IntelliCAD LISP package below.",
+        "trial_modal_description": "Your information has been sent to TechAZ. You can download the CMS IntelliCAD 14.1 installer below."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.028Z",
+      "updated_at_utc": "2026-10-28T01:12:42.028Z"
+    },
+    {
+      "landing_page_section_id": "991e97ac-a0b1-481c-9c59-fac7ab531366",
+      "landing_page_id": "c8792e53-6766-4813-9cee-9a9580604280",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "footer",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "hours": "Monday–Friday: 08:00–17:30",
+        "address": "Shophouse SH2-16, Centa Riverside Urban Area, Tu Son, Bac Ninh",
+        "company": "TECHAZ JOINT STOCK COMPANY",
+        "logo_url": "/api/landing/media/cms-intellicad/images/logo.png",
+        "community": "TECHAZ COMMUNITY (FACEBOOK FANPAGE)",
+        "copyright": "© 2026 TECHAZ JOINT STOCK COMPANY. All Rights Reserved.",
+        "back_to_top": "Back to top ↑",
+        "description": "A leading provider of licensed CAD/CAM/BIM engineering software solutions in Vietnam, with dedicated technical support.",
+        "contact_title": "Contact Information",
+        "company_logo_url": "/api/landing/media/cms-intellicad/images/company_logo.png"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.036Z",
+      "updated_at_utc": "2026-10-28T01:12:42.036Z"
+    },
+    {
+      "landing_page_section_id": "e21cbe69-ff22-47a1-9b3d-45ded1c2be57",
+      "landing_page_id": "c8792e53-6766-4813-9cee-9a9580604280",
+      "landing_section_type_code": "floating_cta",
+      "section_anchor_id": "floating-cta",
+      "section_order": 9,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "call": "Call for Advice",
+        "close": "Close registration bar",
+        "quote": "REGISTER FOR A QUOTE",
+        "title": "Try CMS IntelliCAD Free for 30 Days",
+        "description": "DWG 2026 compatible, LISP & Ribbon UI"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:42.039Z",
+      "updated_at_utc": "2026-10-28T01:12:42.039Z"
+    }
+  ],
+  "forms": [
+    {
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "form_code": "cms_consult_form",
+      "form_name": "Đăng Ký Tư Vấn & Trải Nghiệm CMS IntelliCAD",
+      "fields_schema_json": [
+        {
+          "name": "full_name",
+          "type": "text",
+          "label": "Họ và tên *",
+          "required": true,
+          "placeholder": "Nguyễn Văn A",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "label": "Số điện thoại *",
+          "required": true,
+          "placeholder": "0912 345 678",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "work_email",
+          "type": "email",
+          "label": "Email công việc *",
+          "required": true,
+          "placeholder": "name@company.com",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "company",
+          "type": "text",
+          "label": "Tên công ty / Đơn vị",
+          "required": false,
+          "placeholder": "Công ty Cổ phần ABC",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "primary_need",
+          "type": "select",
+          "label": "Nhu cầu chính",
+          "options": [
+            {
+              "label": "Dùng thử miễn phí 30 ngày",
+              "value": "trial_30_days"
+            },
+            {
+              "label": "Nhận bộ thư viện LISP hữu ích",
+              "value": "receive_lisp"
+            },
+            {
+              "label": "Nhận báo giá & chính sách chiết khấu",
+              "value": "request_quote"
+            },
+            {
+              "label": "Tư vấn kỹ thuật & giải pháp chuyển đổi",
+              "value": "technical_consult"
+            }
+          ],
+          "required": true,
+          "default_value": "trial_30_days",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        },
+        {
+          "name": "product_version",
+          "type": "select",
+          "label": "Phiên bản quan tâm",
+          "options": [
+            {
+              "label": "CMS IntelliCAD PE Plus (Khuyên dùng)",
+              "value": "pe_plus"
+            },
+            {
+              "label": "CMS IntelliCAD PE",
+              "value": "pe"
+            },
+            {
+              "label": "CMS IntelliCAD Easy Run (Cloud)",
+              "value": "easy_run"
+            }
+          ],
+          "required": false,
+          "default_value": "pe_plus",
+          "visibility_rule": {
+            "value": "receive_lisp",
+            "operator": "not_equals",
+            "dependsOnField": "primary_need"
+          }
+        },
+        {
+          "name": "device_quantity",
+          "type": "number",
+          "label": "Số lượng máy",
+          "required": false,
+          "placeholder": "5",
+          "default_value": 5,
+          "visibility_rule": {
+            "value": "receive_lisp",
+            "operator": "not_equals",
+            "dependsOnField": "primary_need"
+          }
+        },
+        {
+          "name": "requirements",
+          "type": "textarea",
+          "label": "Yêu cầu tư vấn cụ thể",
+          "required": false,
+          "placeholder": "Mô tả thêm về nhu cầu, phiên bản CAD hiện tại đang dùng...",
+          "visibility_rule": {
+            "operator": "always"
+          }
+        }
+      ],
+      "notification_emails_json": [
+        "intellicad@cic.com.vn"
+      ],
+      "google_sheet_config_json": {
+        "sheet_name": "LADIPAGE",
+        "last_sync_at": "2026-10-28T01:15:39.801Z",
+        "spreadsheet_id": "1789qGEPsGXONe_1fDxzA8xYCJDmV-TsHuS5fCiI7GiI",
+        "initial_sync_completed": true,
+        "initial_sync_completed_at": "2026-10-23T09:13:14.306368+00:00",
+        "sheet_name_conditional_map": {
+          "primary_need": "CMS INTELLICAD LISP"
+        }
+      },
+      "success_action": "modal_download",
+      "success_payload_json": {
+        "message": "Đăng ký thông tin thành công! Chuyên gia kỹ thuật sẽ liên hệ sớm nhất.",
+        "outcome_rules": [
+          {
+            "id": "rule_trial",
+            "title": "Bộ Cài Dùng Thử 30 Ngày Đã Sẵn Sàng!",
+            "message": "Cảm ơn Quý khách đã đăng ký trải nghiệm CMS IntelliCAD. Quý khách có thể bấm nút bên dưới để tải ngay Bộ cài đặt & Tài liệu hướng dẫn:",
+            "operator": "equals",
+            "whenField": "primary_need",
+            "whenValue": "trial_30_days",
+            "actionType": "download_modal",
+            "downloadUrl": "https://drive.google.com/file/d/1QvZAwcThb2JvhcNm1kXLVli02i3wJ3NZ/view?usp=drive_link",
+            "downloadLabel": "Tải Bộ Cài Dùng Thử 30 Ngày",
+            "targetSheetName": "LADIPAGE"
+          },
+          {
+            "id": "rule_lisp",
+            "title": "Tải Trọn Bộ Thư Viện LISP Miễn Phí",
+            "message": "Cảm ơn Quý khách! Gói thư viện LISP hữu ích dành cho kỹ sư đã sẵn sàng. Vui lòng bấm nút bên dưới để tải trực tiếp:",
+            "operator": "equals",
+            "whenField": "primary_need",
+            "whenValue": "receive_lisp",
+            "actionType": "download_modal",
+            "downloadUrl": "/api/landing/media/cms-intellicad/downloads/Lisp%20Intellicad.rar",
+            "downloadLabel": "Tải Bộ LISP (.RAR) Ngay",
+            "targetSheetName": "CMS INTELLICAD LISP"
+          },
+          {
+            "id": "rule_quote",
+            "title": "Đã Ghi Nhận Yêu Cầu Báo Giá!",
+            "message": "Cảm ơn Quý khách! Chuyên viên Kinh doanh CIC sẽ liên hệ gửi bảng báo giá và chính sách chiết khấu tốt nhất trong vòng 15 phút.",
+            "operator": "equals",
+            "whenField": "primary_need",
+            "whenValue": "request_quote",
+            "actionType": "message_only",
+            "downloadUrl": "",
+            "downloadLabel": "",
+            "targetSheetName": "LADIPAGE"
+          },
+          {
+            "id": "rule_default_consult",
+            "title": "Đăng Ký Tư Vấn Kỹ Thuật Thành Công!",
+            "message": "Cảm ơn Quý khách! Kỹ sư giải pháp CAD của CIC sẽ liên hệ trực tiếp để tư vấn lộ trình chuyển đổi tối ưu cho doanh nghiệp.",
+            "operator": "always",
+            "whenField": "primary_need",
+            "whenValue": "",
+            "actionType": "message_only",
+            "downloadUrl": "",
+            "downloadLabel": "",
+            "targetSheetName": "LADIPAGE"
+          }
+        ],
+        "lisp_download_url": "/api/landing/media/cms-intellicad/downloads/Lisp%20Intellicad.rar",
+        "trial_download_url": "https://drive.google.com/file/d/1QvZAwcThb2JvhcNm1kXLVli02i3wJ3NZ/view?usp=drive_link"
+      },
+      "is_form_active": true,
+      "created_at_utc": "2026-10-28T01:12:42.634Z",
+      "updated_at_utc": "2026-10-28T01:15:39.804Z"
+    }
+  ],
+  "media": [
+    {
+      "landing_media_asset_id": "0e26af69-d7cf-4366-84fd-ca2eb9ac5642",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "media_slot_code": "02-editor",
+      "file_name": "02-editor.png",
+      "file_path": "images/admin-guide/02-editor.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "148174",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "02-editor.png",
+      "alt_text_en": "02-editor.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:42.700Z",
+      "updated_at_utc": "2026-10-28T01:12:42.700Z"
+    },
+    {
+      "landing_media_asset_id": "483d2772-8e1e-4775-a252-c1c4e3e46236",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "media_slot_code": "03-media",
+      "file_name": "03-media.png",
+      "file_path": "images/admin-guide/03-media.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "600123",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "03-media.png",
+      "alt_text_en": "03-media.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:42.735Z",
+      "updated_at_utc": "2026-10-28T01:12:42.735Z"
+    },
+    {
+      "landing_media_asset_id": "f46ca780-d858-4b42-a38b-3b5211f92209",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "media_slot_code": "04-history",
+      "file_name": "04-history.png",
+      "file_path": "images/admin-guide/04-history.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "108876",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "04-history.png",
+      "alt_text_en": "04-history.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:42.806Z",
+      "updated_at_utc": "2026-10-28T01:12:42.806Z"
+    },
+    {
+      "landing_media_asset_id": "03deeb68-6c84-4568-abfa-2f18b4e1ed59",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "media_slot_code": "cad_engineers_bg_1785984144734",
+      "file_name": "cad_engineers_bg_1785984144734.jpg",
+      "file_path": "images/cad_engineers_bg_1785984144734.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "791895",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "cad_engineers_bg_1785984144734.jpg",
+      "alt_text_en": "cad_engineers_bg_1785984144734.jpg",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:42.838Z",
+      "updated_at_utc": "2026-10-28T01:12:42.838Z"
+    },
+    {
+      "landing_media_asset_id": "2df0ac2a-3835-4299-8fc0-15091773a40d",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "media_slot_code": "ef5b21dbacec6c404929c75c2e6e710c",
+      "file_name": "ef5b21dbacec6c404929c75c2e6e710c.png",
+      "file_path": "images/cms/ef5b21dbacec6c404929c75c2e6e710c.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "2221175",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "ef5b21dbacec6c404929c75c2e6e710c.png",
+      "alt_text_en": "ef5b21dbacec6c404929c75c2e6e710c.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:42.987Z",
+      "updated_at_utc": "2026-10-28T01:12:42.987Z"
+    },
+    {
+      "landing_media_asset_id": "2aa24607-54a4-45d8-9fbf-c27c8e1ba8a8",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "media_slot_code": "cms_box_monitor_1785990083366",
+      "file_name": "cms_box_monitor_1785990083366.jpg",
+      "file_path": "images/cms_box_monitor_1785990083366.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "733897",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "cms_box_monitor_1785990083366.jpg",
+      "alt_text_en": "cms_box_monitor_1785990083366.jpg",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:43.291Z",
+      "updated_at_utc": "2026-10-28T01:12:43.291Z"
+    },
+    {
+      "landing_media_asset_id": "1a4988d0-d667-4215-ac98-ec24eae9ca24",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "media_slot_code": "company_logo",
+      "file_name": "company_logo.png",
+      "file_path": "images/company_logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "46463",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "company_logo.png",
+      "alt_text_en": "company_logo.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:43.358Z",
+      "updated_at_utc": "2026-10-28T01:12:43.358Z"
+    },
+    {
+      "landing_media_asset_id": "e6dddde9-9dc6-41e2-ae6b-9ca708dda682",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "media_slot_code": "favicon",
+      "file_name": "favicon.ico",
+      "file_path": "images/favicon.ico",
+      "mime_type": "image/x-icon",
+      "file_size_bytes": "15406",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "favicon.ico",
+      "alt_text_en": "favicon.ico",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:43.369Z",
+      "updated_at_utc": "2026-10-28T01:12:43.369Z"
+    },
+    {
+      "landing_media_asset_id": "c8fd3659-300a-4cac-ad81-bb7f5dece78b",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "media_slot_code": "intellicad-hero",
+      "file_name": "intellicad-hero.jpg",
+      "file_path": "images/intellicad-hero.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "753591",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "intellicad-hero.jpg",
+      "alt_text_en": "intellicad-hero.jpg",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:43.380Z",
+      "updated_at_utc": "2026-10-28T01:12:43.380Z"
+    },
+    {
+      "landing_media_asset_id": "cc6a612a-2849-4048-887d-9f06b0555895",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "media_slot_code": "intellicad_3d_laptop_1785898332833",
+      "file_name": "intellicad_3d_laptop_1785898332833.jpg",
+      "file_path": "images/intellicad_3d_laptop_1785898332833.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "750005",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "intellicad_3d_laptop_1785898332833.jpg",
+      "alt_text_en": "intellicad_3d_laptop_1785898332833.jpg",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:43.518Z",
+      "updated_at_utc": "2026-10-28T01:12:43.518Z"
+    },
+    {
+      "landing_media_asset_id": "d062cb6a-3b53-4ee7-898e-bfa8287067ea",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "media_slot_code": "logo",
+      "file_name": "logo.png",
+      "file_path": "images/logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "30064",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "logo.png",
+      "alt_text_en": "logo.png",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:43.603Z",
+      "updated_at_utc": "2026-10-28T01:12:43.603Z"
+    },
+    {
+      "landing_media_asset_id": "37a73ee0-954d-40fb-ba41-a417929c5c50",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "media_slot_code": "Lisp Intellicad",
+      "file_name": "Lisp Intellicad.rar",
+      "file_path": "downloads/Lisp Intellicad.rar",
+      "mime_type": "application/vnd.rar",
+      "file_size_bytes": "250306",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Lisp Intellicad.rar",
+      "alt_text_en": "Lisp Intellicad.rar",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:43.619Z",
+      "updated_at_utc": "2026-10-28T01:12:43.619Z"
+    },
+    {
+      "landing_media_asset_id": "616afdab-19f7-4879-b2bb-be5cfda4cca8",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "media_slot_code": "TechAZ_So_Sanh_IntelliCAD_AutoCAD",
+      "file_name": "TechAZ_So_Sanh_IntelliCAD_AutoCAD.pdf",
+      "file_path": "downloads/TechAZ_So_Sanh_IntelliCAD_AutoCAD.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": "671641",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "TechAZ_So_Sanh_IntelliCAD_AutoCAD.pdf",
+      "alt_text_en": "TechAZ_So_Sanh_IntelliCAD_AutoCAD.pdf",
+      "storage_provider": "supabase_pg_bytea",
+      "created_at_utc": "2026-10-28T01:12:43.659Z",
+      "updated_at_utc": "2026-10-28T01:12:43.659Z"
+    }
+  ],
+  "leads": [
+    {
+      "landing_lead_submission_id": "cf0d303d-160b-4329-afec-f67608bd9f59",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Tran Quan Tru",
+      "customer_phone": "0886012299",
+      "customer_email": "hunglonglongan@gmail.com",
+      "customer_company": "Hưng Long",
+      "submitted_fields_json": {
+        "pic": "A Thìn",
+        "care_note": "other",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đang tư vấn",
+        "primary_need": "trial_30_days",
+        "requirements": "Gửi báo giá, chat, KH cũ cic",
+        "source_label": "Trực tiếp",
+        "device_quantity": "3",
+        "product_version": "pe_plus"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-08T07:06:45.000Z"
+    },
+    {
+      "landing_lead_submission_id": "8d08e17d-f50d-46d8-bf9f-598eacff2d4d",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Kha Lại",
+      "customer_phone": "0915434892",
+      "customer_email": "laingockha123@gmail.com",
+      "customer_company": "Công ty TNHH XD và TV Thái Sơn",
+      "submitted_fields_json": {
+        "pic": "A Thìn",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Mới",
+        "primary_need": "request_quote",
+        "requirements": "Tương thích DWG 2D, sử dụng các lisp, font SHX",
+        "source_label": "Trực tiếp",
+        "device_quantity": "2",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-10T01:11:39.000Z"
+    },
+    {
+      "landing_lead_submission_id": "7100266a-b687-4061-948e-6e42780ed2c6",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Phạm Thanh Xuân",
+      "customer_phone": "0983601462",
+      "customer_email": "tvtk.nguyenan@gmail.com",
+      "customer_company": "Nguyễn An",
+      "submitted_fields_json": {
+        "pic": "A Thìn",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã gửi báo giá",
+        "primary_need": "trial_30_days",
+        "requirements": "Gửi báo giá, chat",
+        "source_label": "Trực tiếp",
+        "device_quantity": "10",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-10T10:47:41.000Z"
+    },
+    {
+      "landing_lead_submission_id": "201e50cd-beae-475d-89ea-cc7350fe1e0b",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "VKL",
+      "customer_phone": "0913625500",
+      "customer_email": "ltarch77@gmail.com",
+      "customer_company": "GREEN ACADEMY",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "Anh Luân - Đang dùng thử",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đang dùng thử",
+        "primary_need": "trial_30_days",
+        "requirements": "Sai SĐT",
+        "source_label": "Trực tiếp",
+        "device_quantity": "3",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-11T01:40:31.000Z"
+    },
+    {
+      "landing_lead_submission_id": "ad46db66-9c67-410a-af3f-0df1e88a3743",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "TRỊNH NGỌC PHỤC",
+      "customer_phone": "0911567466",
+      "customer_email": "trinhphucaluoi2512@gmail.com",
+      "customer_company": "Cá Nhân",
+      "submitted_fields_json": {
+        "pic": "A Thìn",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "gửi kb zalo trao đổi, phản ảnh lisp có sẵn không chạy",
+        "source_label": "Trực tiếp",
+        "device_quantity": "5",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-15T15:52:47.000Z"
+    },
+    {
+      "landing_lead_submission_id": "bdafab21-cbf9-48b8-a39b-5f41860dd439",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Nguyễn Trung Hiếu",
+      "customer_phone": "0962685939",
+      "customer_email": "trunghieu111988@gmail.com",
+      "customer_company": "Công ty thiết kế Smallhome",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Chốt thành công",
+        "primary_need": "trial_30_days",
+        "requirements": "17/8: Đổ chuông ko nghe",
+        "source_label": "Trực tiếp",
+        "device_quantity": "2",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-17T01:35:53.000Z"
+    },
+    {
+      "landing_lead_submission_id": "f0675f27-bca2-4343-882d-7926655387e6",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Trần Trung",
+      "customer_phone": "0589567779",
+      "customer_email": "ks.tranbaotrungtn@gmai.com",
+      "customer_company": "Home",
+      "submitted_fields_json": {
+        "pic": "https://cmsintellicad.vn/vi",
+        "care_note": "",
+        "sheet_tab": "CMS INTELLICAD LISP",
+        "care_status": "https://cmsintellicad.vn/vi",
+        "primary_need": "receive_lisp",
+        "requirements": "",
+        "source_label": "vi"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-17T02:57:19.000Z"
+    },
+    {
+      "landing_lead_submission_id": "bb172bd6-74f4-4490-92aa-3f5b1f4c5c89",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "levanthanh",
+      "customer_phone": "0917790086",
+      "customer_email": "levanthanhvcc@gmail.com",
+      "customer_company": "công ty tư vấn vcc",
+      "submitted_fields_json": {
+        "pic": "A Thìn",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đang dùng thử",
+        "primary_need": "trial_30_days",
+        "requirements": "gửi kb zalo trao đổi, đang dùng thử",
+        "source_label": "Trực tiếp",
+        "device_quantity": "1",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-18T16:09:27.000Z"
+    },
+    {
+      "landing_lead_submission_id": "de1922fe-7f67-4af7-9f04-562f31e9f733",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Huong Giang",
+      "customer_phone": "0345748668",
+      "customer_email": "bktvthang@gmail.com",
+      "customer_company": "TNTC Power",
+      "submitted_fields_json": {
+        "pic": "A Thìn",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "request_quote",
+        "requirements": "Kb zalo trao đổi",
+        "source_label": "Trực tiếp",
+        "device_quantity": "3",
+        "product_version": "pe_plus"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-20T09:41:13.000Z"
+    },
+    {
+      "landing_lead_submission_id": "879897bd-2841-41c0-92ca-053faf933ac5",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Nguyễn Đức Phương",
+      "customer_phone": "0989093074",
+      "customer_email": "phuonghcdc@gmail.com",
+      "customer_company": "HCDC",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đang tư vấn",
+        "primary_need": "trial_30_days",
+        "requirements": "24/8/2026 gửi kb zalo gửi thông tin , dùng thử",
+        "source_label": "Trực tiếp",
+        "device_quantity": "2",
+        "product_version": "pe_plus"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-21T03:32:59.000Z"
+    },
+    {
+      "landing_lead_submission_id": "9b4276d0-4a69-4be6-af3c-6593771444ed",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "le lam thuyen",
+      "customer_phone": "0989833690",
+      "customer_email": "lelamthuyen@gmail.com",
+      "customer_company": "Công ty Phúc Lâm",
+      "submitted_fields_json": {
+        "pic": "A Thìn",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "Kb zalo trao đổi",
+        "source_label": "Trực tiếp",
+        "device_quantity": "2",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-22T08:45:08.000Z"
+    },
+    {
+      "landing_lead_submission_id": "76a5fba0-e775-471e-8fe2-e43c7ed9ed9a",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Nguyễn Công Thông",
+      "customer_phone": "0707609551",
+      "customer_email": "ngcongthong247@gmail.com",
+      "customer_company": "CTI Design",
+      "submitted_fields_json": {
+        "pic": "A Thìn",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "kb zalo trao đổi",
+        "source_label": "Trực tiếp",
+        "device_quantity": "1",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-22T12:53:44.000Z"
+    },
+    {
+      "landing_lead_submission_id": "61390f61-3467-44a1-81e3-7646e303934b",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Nguyễn Quốc Việt",
+      "customer_phone": "0936280057",
+      "customer_email": "vietnq@tdmk.com.vn",
+      "customer_company": "TDMK",
+      "submitted_fields_json": {
+        "pic": "A Thìn",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "request_quote",
+        "requirements": "sms trao đổi",
+        "source_label": "Trực tiếp",
+        "device_quantity": "1",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-26T01:32:00.000Z"
+    },
+    {
+      "landing_lead_submission_id": "052c8a2f-3b43-47f6-aba4-e65e37a05e72",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "dao thanh",
+      "customer_phone": "0914881867",
+      "customer_email": "thietkekientruc@gmaii.com",
+      "customer_company": "cong ty ngan ha",
+      "submitted_fields_json": {
+        "pic": "A Thìn",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "kb zalo trao đổi",
+        "source_label": "Trực tiếp",
+        "device_quantity": "1",
+        "product_version": "pe_plus"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-26T07:03:32.000Z"
+    },
+    {
+      "landing_lead_submission_id": "dc3af5f8-932f-4d46-b396-09e716a2f4dc",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Mai Thanh Quyet",
+      "customer_phone": "0962034604",
+      "customer_email": "maithanhquyet@gmail.com",
+      "customer_company": "Skyline Vietnam Architecture Joint Stock Company",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Chốt thành công",
+        "primary_need": "request_quote",
+        "requirements": "27/8: Dùng thử Zlo, chuyển cho team dùng xong phản hồi",
+        "source_label": "Trực tiếp",
+        "device_quantity": "2",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-27T03:10:41.000Z"
+    },
+    {
+      "landing_lead_submission_id": "bbcbd928-15e6-4dbe-afe1-dddf229dc656",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Học Phạm Văn",
+      "customer_phone": "0981481990",
+      "customer_email": "phamvanhoc18@gmail.com",
+      "customer_company": "cá nhân",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "",
+        "primary_need": "trial_30_days",
+        "requirements": "",
+        "source_label": "Trực tiếp",
+        "device_quantity": "2",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-27T03:17:20.000Z"
+    },
+    {
+      "landing_lead_submission_id": "7f46686e-e3e5-4b17-84a7-471e02c5d6e4",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Thinh Vo Quoc",
+      "customer_phone": "0911996467",
+      "customer_email": "arcvothinh@gmail.com",
+      "customer_company": "MILIMET VUÔNG",
+      "submitted_fields_json": {
+        "pic": "",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "",
+        "primary_need": "trial_30_days",
+        "requirements": "sms giới thiệu sản phẩm",
+        "source_label": "Trực tiếp",
+        "device_quantity": "1",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-28T02:20:26.000Z"
+    },
+    {
+      "landing_lead_submission_id": "15501230-a5e5-417b-bf70-4ea04724e8e4",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Nguyễn Thế Hùng",
+      "customer_phone": "0946879878",
+      "customer_email": "coffeeblack1018@gmail.com",
+      "customer_company": "Công ty TNHH TVTK và XD Phúc Đăng Huy",
+      "submitted_fields_json": {
+        "pic": "",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "",
+        "primary_need": "trial_30_days",
+        "requirements": "kb zalo trao đổi",
+        "source_label": "Trực tiếp",
+        "device_quantity": "2",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-28T04:23:35.000Z"
+    },
+    {
+      "landing_lead_submission_id": "1be42017-117c-4393-9cc0-c442f70a372f",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Nguyễn trọng huy",
+      "customer_phone": "0386763988",
+      "customer_email": "tronghuy1980cb@gmail.com",
+      "customer_company": "Cty tnhh tư vấn xây dựng huy phương",
+      "submitted_fields_json": {
+        "pic": "",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "",
+        "primary_need": "trial_30_days",
+        "requirements": "",
+        "source_label": "Trực tiếp",
+        "device_quantity": "1",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-31T09:25:14.000Z"
+    },
+    {
+      "landing_lead_submission_id": "18f124d0-680a-4853-b7b1-2bf3f1fb62e1",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Phạm Ngọc Phúc",
+      "customer_phone": "0934649268",
+      "customer_email": "phuctb79@gmail.com",
+      "customer_company": "Công ty TNHH Sungshin Vina",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Thất bại",
+        "primary_need": "trial_30_days",
+        "requirements": "Mua autocad lt . Interrli Lag ko làm đc",
+        "source_label": "Trực tiếp",
+        "device_quantity": "2",
+        "product_version": "pe_plus"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-08-31T20:05:42.000Z"
+    },
+    {
+      "landing_lead_submission_id": "dd32f081-12d6-46b5-84d1-c2549c8bcdfe",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Đỗ văn mạnh",
+      "customer_phone": "0936255268",
+      "customer_email": "manhdv@tbvin.vn",
+      "customer_company": "Công ty cổ phần quốc tế TBV",
+      "submitted_fields_json": {
+        "pic": "",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "kb zalo trao đổi, thiết bị nhà bếp",
+        "source_label": "Trực tiếp",
+        "device_quantity": "3",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-02T14:51:38.000Z"
+    },
+    {
+      "landing_lead_submission_id": "0252c6b7-ff33-4b48-9609-19e7d1ca0f48",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Phó Đức Dũng",
+      "customer_phone": "0985811019",
+      "customer_email": "dzung.pd@studio8.com.vn",
+      "customer_company": "Studio8 Vietnam",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "9/9 Gửi bgia, theo dõi",
+        "source_label": "Trực tiếp",
+        "device_quantity": "5",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-03T02:45:11.000Z"
+    },
+    {
+      "landing_lead_submission_id": "147c03f5-2b66-4cad-b648-3b72000cdf5d",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Hoang Le Si",
+      "customer_phone": "0915687846",
+      "customer_email": "hoang56ctn@gmail.com",
+      "customer_company": "cpt construction",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "9/9 gửi thông tin ko Tl",
+        "source_label": "Trực tiếp",
+        "device_quantity": "5",
+        "product_version": "pe_plus"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-04T00:34:31.000Z"
+    },
+    {
+      "landing_lead_submission_id": "f776849c-58cf-402b-a44d-02a182ff205b",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Thành Đinh Vũ",
+      "customer_phone": "0976167858",
+      "customer_email": "td6261@gmail.com",
+      "customer_company": "Công ty TNHH tư vấn xây dựng 372",
+      "submitted_fields_json": {
+        "pic": "",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "",
+        "primary_need": "trial_30_days",
+        "requirements": "",
+        "source_label": "Trực tiếp",
+        "device_quantity": "5",
+        "product_version": "pe_plus"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-04T01:57:51.000Z"
+    },
+    {
+      "landing_lead_submission_id": "6593ce9b-f3b2-4fe4-aae3-2bda91ba81d0",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Quân Nguyễn",
+      "customer_phone": "0393086007",
+      "customer_email": "nguyenquanhd.tv2@gmail.com",
+      "customer_company": "Công ty TNHH MTV tư vấn xây dựng 30-10",
+      "submitted_fields_json": {
+        "pic": "",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "",
+        "primary_need": "trial_30_days",
+        "requirements": "10 máy. thiết kế 2D; 3D",
+        "source_label": "Trực tiếp",
+        "device_quantity": "10",
+        "product_version": "pe_plus"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-04T01:59:49.000Z"
+    },
+    {
+      "landing_lead_submission_id": "1411a3d8-b74d-45ea-981e-3b9e1009ca5b",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Nguyễn Xuân Chính",
+      "customer_phone": "0865735000",
+      "customer_email": "nxchinh18012003@gmail.com",
+      "customer_company": "CÔNG TY TƯ VẪN XÂY DỰNG 30-10",
+      "submitted_fields_json": {
+        "pic": "",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "",
+        "primary_need": "trial_30_days",
+        "requirements": "",
+        "source_label": "Trực tiếp",
+        "device_quantity": "5",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-04T02:00:23.000Z"
+    },
+    {
+      "landing_lead_submission_id": "6b2cb555-aeaf-4137-bb37-9a4cb14d01dd",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Nguyễn Thế Hùng",
+      "customer_phone": "0946879878",
+      "customer_email": "tvtkxdphucdanghuy@gmail.com",
+      "customer_company": "Công ty TNHH TVTK và XD Phúc Đăng Huy",
+      "submitted_fields_json": {
+        "pic": "",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "",
+        "primary_need": "request_quote",
+        "requirements": "",
+        "source_label": "Trực tiếp",
+        "device_quantity": "5",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-04T04:32:25.000Z"
+    },
+    {
+      "landing_lead_submission_id": "7df16f93-fe47-4878-b441-f5a641b54206",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Nam Le Van",
+      "customer_phone": "0973534001",
+      "customer_email": "namlv.thehome2025@gmail.com",
+      "customer_company": "Thehome",
+      "submitted_fields_json": {
+        "pic": "",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "",
+        "primary_need": "trial_30_days",
+        "requirements": "sử dụng đầy đủ về dwg, lisp, font",
+        "source_label": "Trực tiếp",
+        "device_quantity": "1",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-04T04:54:32.000Z"
+    },
+    {
+      "landing_lead_submission_id": "4b044175-44b4-4701-bdda-6dd69b932d80",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Nguyễn Ngọc Mai",
+      "customer_phone": "0344696393",
+      "customer_email": "nnmai.hr.vinse@gmail.com",
+      "customer_company": "Công ty Cổ phần Xây dựng và Môi trường Việt Nam",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "request_quote",
+        "requirements": "8/9 Kb Zlo",
+        "source_label": "Trực tiếp",
+        "device_quantity": "5",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-05T01:57:55.000Z"
+    },
+    {
+      "landing_lead_submission_id": "b1f4554e-d3cd-49e7-809a-25cd23ecdffa",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Le Mai Thanh Huy",
+      "customer_phone": "0939010305",
+      "customer_email": "lemaithanhhuy@gmail.com",
+      "customer_company": "Cty CP Phát triển nhà Cần Thơ",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Chốt thành công",
+        "primary_need": "request_quote",
+        "requirements": "sử dụng các file autocad 2D về bản vẽ quy hoạch, kiến trúc 2D, kết cấu 2D",
+        "source_label": "Trực tiếp",
+        "device_quantity": "8",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-06T12:12:36.000Z"
+    },
+    {
+      "landing_lead_submission_id": "217b91ff-f306-4288-a4fb-2424f76218bd",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Nguyễn Thọ Cường",
+      "customer_phone": "+84983252510",
+      "customer_email": "thocuongkts@gmail.com",
+      "customer_company": "Cty sak",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "10/9: gửi thông tin",
+        "source_label": "Trực tiếp",
+        "device_quantity": "2",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-09T01:19:44.000Z"
+    },
+    {
+      "landing_lead_submission_id": "1dd5413d-3237-4de7-b8f5-587a4982c54a",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Dũng Dương Nguyễn Ngọc",
+      "customer_phone": "0971150079",
+      "customer_email": "duongndung@gmail.com",
+      "customer_company": "Công ty TNHH Xây dựng Tuấn Dương Phát",
+      "submitted_fields_json": {
+        "pic": "A Thìn",
+        "care_note": "50%",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "request_quote",
+        "requirements": "Gửi bộ cài, báo giá",
+        "source_label": "Trực tiếp",
+        "device_quantity": "3",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-10T02:10:24.000Z"
+    },
+    {
+      "landing_lead_submission_id": "6ca9f3a4-92b4-47de-94f0-bc5d62988579",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Thuận Nguyễn Bá",
+      "customer_phone": "0943389229",
+      "customer_email": "nguyenbathuan1987@gmail.com",
+      "customer_company": "Công ty TNHH xây dựng và TM Thuận Phát",
+      "submitted_fields_json": {
+        "pic": "A Thìn",
+        "care_note": "Chưa đánh giá được",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "Liên hệ",
+        "source_label": "Trực tiếp",
+        "device_quantity": "5",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-10T04:43:28.000Z"
+    },
+    {
+      "landing_lead_submission_id": "6c0362d7-086d-43ce-b28a-463173d997d1",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Tran Cam Tu",
+      "customer_phone": "0915084485",
+      "customer_email": "camtumtcn@gmail.com",
+      "customer_company": "3T",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "11/9 gửi tông tin > đang dung thử.",
+        "source_label": "Trực tiếp",
+        "device_quantity": "5",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-11T02:38:35.000Z"
+    },
+    {
+      "landing_lead_submission_id": "f6844b09-f701-4537-8b47-06b51384a053",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "cao lam",
+      "customer_phone": "0933578388",
+      "customer_email": "lamviet1988@gmail.com",
+      "customer_company": "3TGVN",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Thất bại",
+        "primary_need": "trial_30_days",
+        "requirements": "11/9 gửi tông tin > đang dung thử. Đc ctu khác giới thiệu. 2/10 Dùng dự án lớn ko đc",
+        "source_label": "Trực tiếp",
+        "device_quantity": "5",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-11T03:56:52.000Z"
+    },
+    {
+      "landing_lead_submission_id": "36116325-9ea4-48c8-883c-c531cb2a83cd",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Đinh Ngọc Thắng",
+      "customer_phone": "0976766988",
+      "customer_email": "greenhanoivn.jsc@gmail.com",
+      "customer_company": "GreenHN",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Chốt thành công",
+        "primary_need": "trial_30_days",
+        "requirements": "11/9 gửi tông tin > Đang dùng ghử",
+        "source_label": "Trực tiếp",
+        "device_quantity": "5",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-11T04:00:32.000Z"
+    },
+    {
+      "landing_lead_submission_id": "7ce53f52-b3df-4ec1-a0ba-afa264e36fc4",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Vu Ngo Truong Lam",
+      "customer_phone": "0908007764",
+      "customer_email": "lamvu.scqc@gmail.com",
+      "customer_company": "Công ty Cổ phần Kiểm định Xây dựng Sài Gòn",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Chốt thành công",
+        "primary_need": "request_quote",
+        "requirements": "11/9Sử dụng 01 máy chỉ cần dùng 2D xem và thể hiện bản vẽ mặt bằng.",
+        "source_label": "Trực tiếp",
+        "device_quantity": "1",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-11T06:32:18.000Z"
+    },
+    {
+      "landing_lead_submission_id": "487c0165-5f11-4739-8574-bc54c28c53f3",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Cong Ta Quoc",
+      "customer_phone": "0869257905",
+      "customer_email": "congta905@gmail.com",
+      "customer_company": "Ngoc Thien Pharmaceutical and Trading Joint Stock Company",
+      "submitted_fields_json": {
+        "pic": "A Thìn",
+        "care_note": "30%",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "KB zalo trao đổi",
+        "source_label": "Trực tiếp",
+        "device_quantity": "1",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-14T09:19:55.000Z"
+    },
+    {
+      "landing_lead_submission_id": "eb62e74e-ebe2-4f22-8c9b-ed53f54a5f40",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Trần Kim Lượng",
+      "customer_phone": "0949933676",
+      "customer_email": "trankimluong1985@gmail.com",
+      "customer_company": "Công ty thi công",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đang dùng thử",
+        "primary_need": "trial_30_days",
+        "requirements": "",
+        "source_label": "Trực tiếp",
+        "device_quantity": "1",
+        "product_version": "pe_plus"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-15T02:39:44.000Z"
+    },
+    {
+      "landing_lead_submission_id": "4ccb34b4-8f93-4c6e-9a96-7f7ed35ced92",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Đỗ Cao",
+      "customer_phone": "+84372362909",
+      "customer_email": "hamgiaothong@gmail.com",
+      "customer_company": "Tuta",
+      "submitted_fields_json": {
+        "pic": "A Thìn",
+        "care_note": "10%",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "Gửi bộ cài chat không phản hồi",
+        "source_label": "Trực tiếp",
+        "device_quantity": "1",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-16T05:07:38.000Z"
+    },
+    {
+      "landing_lead_submission_id": "1cd1f71d-9604-4f2b-b528-4f87b8624bbe",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Nguyễn Anh Việt",
+      "customer_phone": "0362098180",
+      "customer_email": "nguyenviet24081995@gmail.com",
+      "customer_company": "tự do",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "cut dim",
+        "source_label": "Trực tiếp",
+        "device_quantity": "1",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-17T02:22:47.000Z"
+    },
+    {
+      "landing_lead_submission_id": "80fdbec2-41d8-4bda-931a-22c18c73152c",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "phanlong",
+      "customer_phone": "0879653223",
+      "customer_email": "phanbaolong106@gmail.com",
+      "customer_company": "acb",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "5 máy",
+        "source_label": "Trực tiếp",
+        "device_quantity": "5",
+        "product_version": "pe_plus"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-19T04:53:44.000Z"
+    },
+    {
+      "landing_lead_submission_id": "15a99659-a7f5-40d5-bd0b-66d6e03f9487",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Nhàn Thanh Bùi",
+      "customer_phone": "0975779053",
+      "customer_email": "thanhnhanxc07@gmail.com",
+      "customer_company": "vndb",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "23/9: Đang dùng thử , 7/10 Lisp được, cái ko. Để xem có chập nhận đck o",
+        "source_label": "Trực tiếp",
+        "device_quantity": "2",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-21T07:08:02.000Z"
+    },
+    {
+      "landing_lead_submission_id": "03d01c40-0168-4f15-8588-61c2de08ae2c",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Nguyễn Duy Quang",
+      "customer_phone": "0965562419",
+      "customer_email": "stormrage239@gmail.com",
+      "customer_company": "Xhome HP",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Thất bại",
+        "primary_need": "trial_30_days",
+        "requirements": "23/9: Chạy thử ko ổn, giật. Dùng enjic, Zw",
+        "source_label": "Trực tiếp",
+        "device_quantity": "1",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-09-23T03:48:53.000Z"
+    },
+    {
+      "landing_lead_submission_id": "10eeff16-a4db-42b3-a79d-1723f99bec8a",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Thanh Tịnh Lê",
+      "customer_phone": "0983971418",
+      "customer_email": "tinh.hcmut@gmail.com",
+      "customer_company": "Cty TNHH Dịch vụ tư vấn Thiết kế xây dựng và đo đạc GIA LẠC",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đang tư vấn",
+        "primary_need": "trial_30_days",
+        "requirements": "dùng dc yqarch",
+        "source_label": "Trực tiếp",
+        "device_quantity": "3",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-02T06:05:06.000Z"
+    },
+    {
+      "landing_lead_submission_id": "f6790c5e-4f00-462b-89e9-633294cb8eb0",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Công",
+      "customer_phone": "0989261379",
+      "customer_email": "haiduonghong2021@gmail.com",
+      "customer_company": "Hà Nội",
+      "submitted_fields_json": {
+        "pic": "E Đức",
+        "care_note": "Đã gọi điện, kết bạn, trao đổi zalo (số khác). 20/10: Chờ phản hồi thêm",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "sms giới thiệu sản phẩm",
+        "source_label": "Chatgpt.com",
+        "device_quantity": "1",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Chatgpt.com",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-03T01:32:11.000Z"
+    },
+    {
+      "landing_lead_submission_id": "4c06ade2-7c62-4923-8912-f2804bbc1952",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Lê Văn Hưởng",
+      "customer_phone": "0825671989",
+      "customer_email": "levanhuongadcc@gmail.com",
+      "customer_company": "ADCC",
+      "submitted_fields_json": {
+        "pic": "A Thìn",
+        "care_note": "Chờ hoản thiện để tích hợp phần mềm, đã trình lãnh đạo, bên phát triển phần mềm nói có thể mất hàng tháng để hoàn thiện ap đi kèm",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đang tư vấn",
+        "primary_need": "trial_30_days",
+        "requirements": "",
+        "source_label": "Trực tiếp",
+        "device_quantity": "5",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-03T02:05:41.000Z"
+    },
+    {
+      "landing_lead_submission_id": "28d823ab-880a-4f95-90fc-00cfa95d6dcb",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Nguyễn Đông Nhật",
+      "customer_phone": "0978502975",
+      "customer_email": "poxaydon2007@gmail.com",
+      "customer_company": "CUBIC",
+      "submitted_fields_json": {
+        "pic": "",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "",
+        "primary_need": "trial_30_days",
+        "requirements": "",
+        "source_label": "Trực tiếp",
+        "device_quantity": "5",
+        "product_version": "pe_plus"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-09T03:48:25.000Z"
+    },
+    {
+      "landing_lead_submission_id": "921bfb0f-476e-4d0e-9936-2a58d1acde86",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Trần Thanh Sa",
+      "customer_phone": "0979923777",
+      "customer_email": "transa.arc@gmail.com",
+      "customer_company": "Cty Thiết kế Xây dựng Trí Minh",
+      "submitted_fields_json": {
+        "pic": "E Đức",
+        "care_note": "14/10: Fail, không còn nhu cầu",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Không có nhu cầu",
+        "primary_need": "trial_30_days",
+        "requirements": "",
+        "source_label": "Facebook Ads",
+        "device_quantity": "5",
+        "product_version": "pe_plus"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Facebook Ads",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-09T23:56:16.000Z"
+    },
+    {
+      "landing_lead_submission_id": "c5620f23-313d-446a-a4a5-600c42144793",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "nguyen duc phu",
+      "customer_phone": "0978516868",
+      "customer_email": "ndphu010273@gmail.com",
+      "customer_company": "Cong ty thiet ke Long Phu",
+      "submitted_fields_json": {
+        "pic": "E Đức",
+        "care_note": "14/10: Đã mua bên Acad Revit LT",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Thất bại",
+        "primary_need": "trial_30_days",
+        "requirements": "1",
+        "source_label": "Facebook Ads",
+        "device_quantity": "1",
+        "product_version": "pe_plus"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Facebook Ads",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-10T02:04:00.000Z"
+    },
+    {
+      "landing_lead_submission_id": "3414ec5e-aa7f-4664-935e-4892507567d0",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "trần vũ phong",
+      "customer_phone": "0389042274",
+      "customer_email": "phongtranbqlda@gmail.com",
+      "customer_company": "công ty tnhh đầu tư xây dựng 2p",
+      "submitted_fields_json": {
+        "pic": "Thái",
+        "care_note": "14/10 gửi thông tin",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "",
+        "source_label": "Trực tiếp",
+        "device_quantity": "1",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-14T03:06:22.000Z"
+    },
+    {
+      "landing_lead_submission_id": "6090fa63-7210-4bb8-9f9c-c8ee992bda9f",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Trần Thanh Bình",
+      "customer_phone": "0918124411",
+      "customer_email": "tranthanhbinh1976vn@gmail.con",
+      "customer_company": "Cty Tnhh mtv đtxd Nhật Trang",
+      "submitted_fields_json": {
+        "pic": "E Đức",
+        "care_note": "19/10: Trao đổi zalo. 19-20/10: Đang hỗ trợ cài đặt dùng thử (lỗi về win) 21/10: Đang dùng thử",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "1 máy, DWG",
+        "source_label": "Facebook Ads",
+        "device_quantity": "5",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Facebook Ads",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-19T01:18:31.000Z"
+    },
+    {
+      "landing_lead_submission_id": "a64698e7-4ace-4bb6-8a0d-ac03a6bffed0",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Bình Trần Thanh",
+      "customer_phone": "0918124411",
+      "customer_email": "tranthanhbinh1976vn@gmail.com",
+      "customer_company": "Cty TNHH MTV ĐTXD Nhật Trang",
+      "submitted_fields_json": {
+        "pic": "E Đức",
+        "care_note": "Bị trùng",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "",
+        "source_label": "Trực tiếp",
+        "device_quantity": "1",
+        "product_version": "pe_plus"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-19T02:01:00.000Z"
+    },
+    {
+      "landing_lead_submission_id": "ec9c267f-bb8f-424d-890b-5deea19a42ad",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Thai HoangMinh",
+      "customer_phone": "0903508596",
+      "customer_email": "mrthai58@gmail.com",
+      "customer_company": "dùng riêng tại nhà",
+      "submitted_fields_json": {
+        "pic": "E Đức",
+        "care_note": "19/10: Trao đổi zalo. Chú chỉ dùng 2D, đang tư vấn PE, 20/10: Đang dùng thử",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "dùng 2D đơn giản - đăng ký sở hữu vĩnh viễn sau khi dùng thử",
+        "source_label": "Cms intellicad",
+        "device_quantity": "1",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Cms intellicad",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-19T02:57:15.000Z"
+    },
+    {
+      "landing_lead_submission_id": "f01b57d3-7cac-4536-9512-1a4462039fb2",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Phuong Nga",
+      "customer_phone": "0898785162",
+      "customer_email": "phuongkieunga01@gmail.com",
+      "customer_company": "Cá nhân",
+      "submitted_fields_json": {
+        "pic": "E Đức",
+        "care_note": "23/10: Có nhu cầu PEP, đang trao đổi Zalo (Anh Toàn)",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "",
+        "source_label": "Trực tiếp",
+        "device_quantity": "1",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-22T02:13:58.000Z"
+    },
+    {
+      "landing_lead_submission_id": "97764774-72d1-4f1c-a27d-4f47fc8c15ec",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Hữu Vinh Bùi",
+      "customer_phone": "0901194332",
+      "customer_email": "henryvinhbui@gmail.com",
+      "customer_company": "ABC",
+      "submitted_fields_json": {
+        "pic": "",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "",
+        "primary_need": "trial_30_days",
+        "requirements": "",
+        "source_label": "Trực tiếp",
+        "device_quantity": "5",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-23T09:11:49.000Z"
+    },
+    {
+      "landing_lead_submission_id": "dc652da5-4ca7-4086-a9f7-870cf3692299",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Lua Hai",
+      "customer_phone": "0774691356",
+      "customer_email": "hailua2711@gmail.com",
+      "customer_company": "Làm tự do",
+      "submitted_fields_json": {
+        "pic": "",
+        "care_note": "",
+        "sheet_tab": "CMS INTELLICAD LISP",
+        "care_status": "",
+        "primary_need": "receive_lisp",
+        "requirements": "đăng ký dùng thử 1 use bao gồm các chức năng vẽ 2D , Các chức năng hỗ trợ Lisp, VLX , DLL , Arx , API , VBA , .NET , C# / Không biết bản PE có chạy được các ƯD viết bằng các ngôn ngữ lập trình đã nêu không",
+        "source_label": "Trực tiếp"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-25T01:58:21.000Z"
+    },
+    {
+      "landing_lead_submission_id": "1e83030f-5a20-4e0c-9875-909b8462910e",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Lua Hai (Vũ Minh Tuấn)",
+      "customer_phone": "0774691356",
+      "customer_email": "hailua2711@gmail.com",
+      "customer_company": "Làm tự do",
+      "submitted_fields_json": {
+        "pic": "E Đức",
+        "care_note": "Khách đang trao đổi với anh Thìn. Đang có thắc mắc về mảng kết cấu: phần mềm Kata Pro.",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "Đã liên hệ",
+        "primary_need": "trial_30_days",
+        "requirements": "đăng ký dùng thử 1 use bao gồm các chức năng vẽ 2D , Các chức năng hỗ trợ Lisp, VLX , DLL , Arx , API , VBA , .NET , C# / Không biết bản PE có chạy được các ƯD viết bằng các ngôn ngữ lập trình đã nêu không",
+        "source_label": "Trực tiếp",
+        "device_quantity": "1",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-25T01:58:21.000Z"
+    },
+    {
+      "landing_lead_submission_id": "afc62e53-5a6e-4714-88ad-6ddb22d7424f",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Kỹ sư Test cms-intellicad",
+      "customer_phone": "0912345678",
+      "customer_email": "test_cms-intellicad@cic.com.vn",
+      "customer_company": "Công ty Kiểm thử CIC",
+      "submitted_fields_json": {
+        "phone": "0912345678",
+        "company": "Công ty Kiểm thử CIC",
+        "full_name": "Kỹ sư Test cms-intellicad",
+        "work_email": "test_cms-intellicad@cic.com.vn",
+        "primary_need": "trial_30_days",
+        "requirements": "Kiểm thử tải file tự động theo điều kiện"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:38:55.041Z"
+    },
+    {
+      "landing_lead_submission_id": "37d4b926-41a3-4d9e-ab38-2a7890515a17",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "Giám đốc Test cms-intellicad",
+      "customer_phone": "0987654321",
+      "customer_email": "quote_cms-intellicad@cic.com.vn",
+      "customer_company": "Tập đoàn Xây dựng CIC",
+      "submitted_fields_json": {
+        "phone": "0987654321",
+        "company": "Tập đoàn Xây dựng CIC",
+        "full_name": "Giám đốc Test cms-intellicad",
+        "work_email": "quote_cms-intellicad@cic.com.vn",
+        "primary_need": "request_quote",
+        "requirements": "Báo giá 10 license",
+        "device_quantity": 10
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-26T04:38:56.401Z"
+    },
+    {
+      "landing_lead_submission_id": "fbb136e2-9139-45a7-9bb8-4bec572ba540",
+      "landing_form_id": "b79809aa-321b-4524-919d-da274ce977d0",
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "landing_page_id": null,
+      "customer_full_name": "DucHai Do",
+      "customer_phone": "0964258656",
+      "customer_email": "doduchai90@gmail.com",
+      "customer_company": "Aden Services",
+      "submitted_fields_json": {
+        "pic": "",
+        "care_note": "",
+        "sheet_tab": "LADIPAGE",
+        "care_status": "",
+        "primary_need": "request_quote",
+        "requirements": "1",
+        "source_label": "Trực tiếp",
+        "device_quantity": "5",
+        "product_version": "pe"
+      },
+      "ip_address": null,
+      "user_agent": null,
+      "utm_source": "Trực tiếp",
+      "utm_medium": null,
+      "utm_campaign": null,
+      "utm_term": null,
+      "utm_content": null,
+      "referrer_url": null,
+      "submitted_at_utc": "2026-10-27T01:49:41.000Z"
+    }
+  ],
+  "pageViews": [
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-08-08",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-08-10",
+      "views_count": 2,
+      "unique_visitors_count": 2
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-08-11",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-08-15",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-08-17",
+      "views_count": 2,
+      "unique_visitors_count": 2
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-08-18",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-08-20",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-08-21",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-08-22",
+      "views_count": 2,
+      "unique_visitors_count": 2
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-08-26",
+      "views_count": 2,
+      "unique_visitors_count": 2
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-08-27",
+      "views_count": 2,
+      "unique_visitors_count": 2
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-08-28",
+      "views_count": 2,
+      "unique_visitors_count": 2
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-08-31",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-09-01",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-09-02",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-09-03",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-09-04",
+      "views_count": 6,
+      "unique_visitors_count": 6
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-09-05",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-09-06",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-09-09",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-09-10",
+      "views_count": 2,
+      "unique_visitors_count": 2
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-09-11",
+      "views_count": 4,
+      "unique_visitors_count": 4
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-09-14",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-09-15",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-09-16",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-09-17",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-09-19",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-09-21",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-09-23",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-10-02",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-10-03",
+      "views_count": 2,
+      "unique_visitors_count": 2
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-10-09",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-10-10",
+      "views_count": 2,
+      "unique_visitors_count": 2
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-10-14",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-10-19",
+      "views_count": 3,
+      "unique_visitors_count": 2
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-10-22",
+      "views_count": 1,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-10-23",
+      "views_count": 9,
+      "unique_visitors_count": 4
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-10-25",
+      "views_count": 2,
+      "unique_visitors_count": 1
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-10-26",
+      "views_count": 46,
+      "unique_visitors_count": 3
+    },
+    {
+      "landing_site_id": "b0ab9418-4fce-4cfa-b94d-f5312dac42de",
+      "view_date": "2026-10-27",
+      "views_count": 15,
+      "unique_visitors_count": 2
+    }
+  ],
+  "adminAccounts": [
+    {
+      "username": "cad_admin",
+      "password_hash": "15aca9f6994e316ce71604692e36a3e9d290c54e14eff49f3454f28e8cca59a7",
+      "display_name": "Quản trị CMS IntelliCAD",
+      "role": "site_admin",
+      "landing_site_code": "cms-intellicad",
+      "is_active": true
+    },
+    {
+      "username": "admin",
+      "password_hash": "2e6c21501300cc6fa4d50597c1c483c802b6d9f00f119f004d8344f663129109",
+      "display_name": "Quản trị Tổng CIC",
+      "role": "super_admin",
+      "landing_site_code": null,
+      "is_active": true
+    }
+  ]
+}

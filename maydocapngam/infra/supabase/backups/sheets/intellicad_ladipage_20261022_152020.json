@@ -1,0 +1,1360 @@
+{
+  "exportedAt": "2026-10-22T08:20:20.040Z",
+  "source": {
+    "id": "1",
+    "code": "intellicad_ladipage",
+    "name": "CMS IntelliCAD — Khách đăng ký tư vấn & dùng thử (LADIPAGE)",
+    "spreadsheet_id": "1789qGEPsGXONe_1fDxzA8xYCJDmV-TsHuS5fCiI7GiI",
+    "sheet_name": "LADIPAGE",
+    "key_columns": [
+      "thoi_gian_gui",
+      "so_dien_thoai"
+    ],
+    "column_schema": [
+      {
+        "key": "thoi_gian_gui",
+        "type": "datetime",
+        "header": "Thời gian gửi",
+        "hidden": false,
+        "position": 1
+      },
+      {
+        "key": "ho_va_ten",
+        "type": "text",
+        "header": "Họ và tên",
+        "hidden": false,
+        "position": 2
+      },
+      {
+        "key": "so_dien_thoai",
+        "type": "phone",
+        "header": "Số điện thoại",
+        "hidden": false,
+        "position": 3
+      },
+      {
+        "key": "email_cong_viec",
+        "type": "email",
+        "header": "Email công việc",
+        "hidden": false,
+        "position": 4
+      },
+      {
+        "key": "cong_ty_don_vi",
+        "type": "text",
+        "header": "Công ty / Đơn vị",
+        "hidden": false,
+        "position": 5
+      },
+      {
+        "key": "nhu_cau_chinh",
+        "type": "text",
+        "header": "Nhu cầu chính",
+        "hidden": false,
+        "position": 6
+      },
+      {
+        "key": "phien_ban_quan_tam",
+        "type": "text",
+        "header": "Phiên bản quan tâm",
+        "hidden": false,
+        "position": 7
+      },
+      {
+        "key": "so_luong_may",
+        "type": "number",
+        "header": "Số lượng máy",
+        "hidden": false,
+        "position": 8
+      },
+      {
+        "key": "ghi_chu_yeu_cau",
+        "type": "text",
+        "header": "Ghi chú yêu cầu",
+        "hidden": false,
+        "position": 9
+      },
+      {
+        "key": "nguon",
+        "type": "text",
+        "header": "Nguồn",
+        "hidden": false,
+        "position": 10
+      },
+      {
+        "key": "trang_thai",
+        "type": "text",
+        "header": "Trạng thái",
+        "hidden": false,
+        "position": 11
+      },
+      {
+        "key": "nguoi_phu_trach",
+        "type": "text",
+        "header": "Người phụ trách",
+        "hidden": false,
+        "position": 12
+      },
+      {
+        "key": "ghi_chu_cham_soc",
+        "type": "text",
+        "header": "Ghi chú chăm sóc",
+        "hidden": false,
+        "position": 13
+      }
+    ]
+  },
+  "rowCount": 61,
+  "rows": [
+    {
+      "row_key": "2026-08-08t14:06:45+07:00|0886012299",
+      "row_number": 3,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Tran Quan Tru",
+        "trang_thai": "Đang tư vấn",
+        "so_luong_may": "3",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0886012299",
+        "thoi_gian_gui": "2026-08-08T14:06:45+07:00",
+        "cong_ty_don_vi": "Hưng Long",
+        "email_cong_viec": "hunglonglongan@gmail.com",
+        "ghi_chu_yeu_cau": "Gửi báo giá, chat, KH cũ cic",
+        "nguoi_phu_trach": "A Thìn",
+        "ghi_chu_cham_soc": "other",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "f25c4cfddd1db6e8072d08618a6be490fbd5c2d6851480cf45d67b0b54e690fb",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-10t08:11:39+07:00|0915434892",
+      "row_number": 4,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Kha Lại",
+        "trang_thai": "Mới",
+        "so_luong_may": "2",
+        "nhu_cau_chinh": "request_quote",
+        "so_dien_thoai": "0915434892",
+        "thoi_gian_gui": "2026-08-10T08:11:39+07:00",
+        "cong_ty_don_vi": "Công ty TNHH XD và TV Thái Sơn",
+        "email_cong_viec": "laingockha123@gmail.com",
+        "ghi_chu_yeu_cau": "Tương thích DWG 2D, sử dụng các lisp, font SHX",
+        "nguoi_phu_trach": "A Thìn",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "06f4bce17217df5d19f04e652b4bf4ffa49867a54f3b6bf205b17d7e7e0c4cb2",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-10t17:47:41+07:00|0983601462",
+      "row_number": 5,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Phạm Thanh Xuân",
+        "trang_thai": "Đã gửi báo giá",
+        "so_luong_may": "10",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0983601462",
+        "thoi_gian_gui": "2026-08-10T17:47:41+07:00",
+        "cong_ty_don_vi": "Nguyễn An",
+        "email_cong_viec": "tvtk.nguyenan@gmail.com",
+        "ghi_chu_yeu_cau": "Gửi báo giá, chat",
+        "nguoi_phu_trach": "A Thìn",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "e5972eac2a405a266e80fc1135dcc0c69682eca888bc1493136a27c655150238",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-10t17:53:02+07:00|0983601462",
+      "row_number": 6,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Phạm Thanh Xuân",
+        "trang_thai": "Đã gửi báo giá",
+        "so_luong_may": "10",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0983601462",
+        "thoi_gian_gui": "2026-08-10T17:53:02+07:00",
+        "cong_ty_don_vi": "Nguyễn An",
+        "email_cong_viec": "tvtk.nguyenan@gmail.com",
+        "ghi_chu_yeu_cau": "Gửi báo giá, chat",
+        "nguoi_phu_trach": "A Thìn",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "c9b817578eec3b18711d8baa532818d3692f895df52efbc7db4692ac9d316e67",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-11t08:40:31+07:00|0913625500",
+      "row_number": 7,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "VKL",
+        "trang_thai": "Đang dùng thử",
+        "so_luong_may": "3",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0913625500",
+        "thoi_gian_gui": "2026-08-11T08:40:31+07:00",
+        "cong_ty_don_vi": "GREEN ACADEMY",
+        "email_cong_viec": "ltarch77@gmail.com",
+        "ghi_chu_yeu_cau": "Sai SĐT",
+        "nguoi_phu_trach": "Thái",
+        "ghi_chu_cham_soc": "Anh Luân - Đang dùng thử",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "1cfcadb1450938d25571de60a8b4103bea5fe4829535c0fe05f823a21ec9677a",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-15t22:52:47+07:00|0911567466",
+      "row_number": 8,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "TRỊNH NGỌC PHỤC",
+        "so_luong_may": "1",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0911567466",
+        "thoi_gian_gui": "2026-08-15T22:52:47+07:00",
+        "cong_ty_don_vi": "Cá Nhân",
+        "email_cong_viec": "trinhphucaluoi2512@gmail.com",
+        "ghi_chu_yeu_cau": "1",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "4d38c7ccc9637556c95893fef7b765cdc675da8b59c498d8184b33536d595f2b",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-17t08:35:53+07:00|0962685939",
+      "row_number": 9,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Nguyễn Trung Hiếu",
+        "trang_thai": "Chốt thành công",
+        "so_luong_may": "2",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0962685939",
+        "thoi_gian_gui": "2026-08-17T08:35:53+07:00",
+        "cong_ty_don_vi": "Công ty thiết kế Smallhome",
+        "email_cong_viec": "trunghieu111988@gmail.com",
+        "ghi_chu_yeu_cau": "17/8: Đổ chuông ko nghe",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "bab76d48f875bd44a8af1b4656104a5bea772467c32d350dbbce9635e089afcb",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-17t09:57:19+07:00|0589567779",
+      "row_number": 10,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Trần Trung",
+        "so_luong_may": "1",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0589567779",
+        "thoi_gian_gui": "2026-08-17T09:57:19+07:00",
+        "cong_ty_don_vi": "Home",
+        "email_cong_viec": "ks.tranbaotrungtn@gmai.com",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "9121350046069c900ebb280d1a650d8c10806a202eb51e21cc358b2aa7ebcdee",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-17t10:29:01+07:00|0589567779",
+      "row_number": 11,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Trần Trung",
+        "so_luong_may": "1",
+        "nhu_cau_chinh": "request_quote",
+        "so_dien_thoai": "0589567779",
+        "thoi_gian_gui": "2026-08-17T10:29:01+07:00",
+        "cong_ty_don_vi": "Home",
+        "email_cong_viec": "ks.tranbaotrungtn@gmai.com",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "4a8ff6e95296647f6afcb2e165d6f08abf775adaa8199b0595de2330214a8704",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-18t12:38:17+07:00|0911567466",
+      "row_number": 12,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "TRỊNH NGỌC PHỤC",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "5",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0911567466",
+        "thoi_gian_gui": "2026-08-18T12:38:17+07:00",
+        "cong_ty_don_vi": "Cá Nhân",
+        "email_cong_viec": "trinhphucaluoi2512@gmail.com",
+        "ghi_chu_yeu_cau": "gửi kb zalo trao đổi, phản ảnh lisp có sẵn không chạy",
+        "nguoi_phu_trach": "A Thìn",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "2bc14bff2ef118ebee0ee72047ab8e00ad30829f84cf5beed89ff637f50d2ac3",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-18t23:09:27+07:00|0917790086",
+      "row_number": 13,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "levanthanh",
+        "trang_thai": "Đang dùng thử",
+        "so_luong_may": "1",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0917790086",
+        "thoi_gian_gui": "2026-08-18T23:09:27+07:00",
+        "cong_ty_don_vi": "công ty tư vấn vcc",
+        "email_cong_viec": "levanthanhvcc@gmail.com",
+        "ghi_chu_yeu_cau": "gửi kb zalo trao đổi, đang dùng thử",
+        "nguoi_phu_trach": "A Thìn",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "752aae911a36b0e102f7e96ca610246e74d861f712447cecb475d8c4dedcf9a7",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-20t16:41:13+07:00|0345748668",
+      "row_number": 14,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Huong Giang",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "3",
+        "nhu_cau_chinh": "request_quote",
+        "so_dien_thoai": "0345748668",
+        "thoi_gian_gui": "2026-08-20T16:41:13+07:00",
+        "cong_ty_don_vi": "TNTC Power",
+        "email_cong_viec": "bktvthang@gmail.com",
+        "ghi_chu_yeu_cau": "Kb zalo trao đổi",
+        "nguoi_phu_trach": "A Thìn",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "9fd65f29fb209da071ccda694d4cbef3d5f1098f03bc63baeffe52b71e3b92b6",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-21t10:32:59+07:00|0989093074",
+      "row_number": 15,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Nguyễn Đức Phương",
+        "trang_thai": "Đang tư vấn",
+        "so_luong_may": "2",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0989093074",
+        "thoi_gian_gui": "2026-08-21T10:32:59+07:00",
+        "cong_ty_don_vi": "HCDC",
+        "email_cong_viec": "phuonghcdc@gmail.com",
+        "ghi_chu_yeu_cau": "24/8/2026 gửi kb zalo gửi thông tin , dùng thử",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "70bd7f2ec52b34d47106f7edf0e5dad5e4066790bfd80192290bf2f40e44e34a",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-22t15:45:08+07:00|0989833690",
+      "row_number": 16,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "le lam thuyen",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "2",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0989833690",
+        "thoi_gian_gui": "2026-08-22T15:45:08+07:00",
+        "cong_ty_don_vi": "Công ty Phúc Lâm",
+        "email_cong_viec": "lelamthuyen@gmail.com",
+        "ghi_chu_yeu_cau": "Kb zalo trao đổi",
+        "nguoi_phu_trach": "A Thìn",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "00b6d1d185ed2da43257868abefc693ebc2247e248d1c13946f42fc3c11db33b",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-22t19:53:44+07:00|0707609551",
+      "row_number": 17,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Nguyễn Công Thông",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "1",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0707609551",
+        "thoi_gian_gui": "2026-08-22T19:53:44+07:00",
+        "cong_ty_don_vi": "CTI Design",
+        "email_cong_viec": "ngcongthong247@gmail.com",
+        "ghi_chu_yeu_cau": "kb zalo trao đổi",
+        "nguoi_phu_trach": "A Thìn",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "e5a5ac98020e27018de5826d4d31b52d69bf0c8bdf31e3c42c61e90bfa149050",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-26t08:32:00+07:00|0936280057",
+      "row_number": 18,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Nguyễn Quốc Việt",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "1",
+        "nhu_cau_chinh": "request_quote",
+        "so_dien_thoai": "0936280057",
+        "thoi_gian_gui": "2026-08-26T08:32:00+07:00",
+        "cong_ty_don_vi": "TDMK",
+        "email_cong_viec": "vietnq@tdmk.com.vn",
+        "ghi_chu_yeu_cau": "sms trao đổi",
+        "nguoi_phu_trach": "A Thìn",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "e5c7396f6ed67f937dad27ee03b817ed5c8c8dc4fbadf37ee77963c89d8043d7",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-26t14:03:32+07:00|0914881867",
+      "row_number": 19,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "dao thanh",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "1",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0914881867",
+        "thoi_gian_gui": "2026-08-26T14:03:32+07:00",
+        "cong_ty_don_vi": "cong ty ngan ha",
+        "email_cong_viec": "thietkekientruc@gmaii.com",
+        "ghi_chu_yeu_cau": "kb zalo trao đổi",
+        "nguoi_phu_trach": "A Thìn",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "a0a57be10d651e45277a4b24d0215ddb8228acb60caa5b9ef7df9d050a59746f",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-27t10:10:41+07:00|0962034604",
+      "row_number": 20,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Mai Thanh Quyet",
+        "trang_thai": "Chốt thành công",
+        "so_luong_may": "2",
+        "nhu_cau_chinh": "request_quote",
+        "so_dien_thoai": "0962034604",
+        "thoi_gian_gui": "2026-08-27T10:10:41+07:00",
+        "cong_ty_don_vi": "Skyline Vietnam Architecture Joint Stock Company",
+        "email_cong_viec": "maithanhquyet@gmail.com",
+        "ghi_chu_yeu_cau": "27/8: Dùng thử Zlo, chuyển cho team dùng xong phản hồi",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "95743f469899c1676199a3a7b824ebfb8cca2f3405ec026e7f479714a8f3e7db",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-27t10:17:20+07:00|0981481990",
+      "row_number": 21,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Học Phạm Văn",
+        "so_luong_may": "2",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0981481990",
+        "thoi_gian_gui": "2026-08-27T10:17:20+07:00",
+        "cong_ty_don_vi": "cá nhân",
+        "email_cong_viec": "phamvanhoc18@gmail.com",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "ef4ef74381d2bed9d831de4c8bca0c423d0a311b1d378344a7a5586ca2a93066",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-28t09:20:26+07:00|0911996467",
+      "row_number": 22,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Thinh Vo Quoc",
+        "so_luong_may": "1",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0911996467",
+        "thoi_gian_gui": "2026-08-28T09:20:26+07:00",
+        "cong_ty_don_vi": "MILIMET VUÔNG",
+        "email_cong_viec": "arcvothinh@gmail.com",
+        "ghi_chu_yeu_cau": "sms giới thiệu sản phẩm",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "c55898f33a9f127b2b152a68b4f43fb2716e82aeef90166fe7b8fb8d83a0b032",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-28t11:23:35+07:00|0946879878",
+      "row_number": 23,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Nguyễn Thế Hùng",
+        "so_luong_may": "2",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0946879878",
+        "thoi_gian_gui": "2026-08-28T11:23:35+07:00",
+        "cong_ty_don_vi": "Công ty TNHH TVTK và XD Phúc Đăng Huy",
+        "email_cong_viec": "coffeeblack1018@gmail.com",
+        "ghi_chu_yeu_cau": "kb zalo trao đổi",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "f210848fa4159bb8a38993cead1395ef6f09fd9eec16eea3b6af29e6577a4b00",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-28t11:39:29+07:00|0946879878",
+      "row_number": 24,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Nguyễn Thế Hùng",
+        "so_luong_may": "2",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0946879878",
+        "thoi_gian_gui": "2026-08-28T11:39:29+07:00",
+        "cong_ty_don_vi": "Công ty TNHH TVTK và XD Phúc Đăng Huy",
+        "email_cong_viec": "coffeeblack1018@gmail.com",
+        "ghi_chu_yeu_cau": "kb zalo trao đổi",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "3ca770a924def23c559e9b74a555ad5c870525e5c26bde4979c10d9f5d96a8f7",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-08-31t16:25:14+07:00|0386763988",
+      "row_number": 25,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Nguyễn trọng huy",
+        "so_luong_may": "1",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0386763988",
+        "thoi_gian_gui": "2026-08-31T16:25:14+07:00",
+        "cong_ty_don_vi": "Cty tnhh tư vấn xây dựng huy phương",
+        "email_cong_viec": "tronghuy1980cb@gmail.com",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "7f04196dc507fb23aedb9ad208c9c337075c2f3c4d0ffe4217401c049a3f413a",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-01t03:05:42+07:00|0934649268",
+      "row_number": 26,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Phạm Ngọc Phúc",
+        "trang_thai": "Thất bại",
+        "so_luong_may": "2",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0934649268",
+        "thoi_gian_gui": "2026-09-01T03:05:42+07:00",
+        "cong_ty_don_vi": "Công ty TNHH Sungshin Vina",
+        "email_cong_viec": "phuctb79@gmail.com",
+        "ghi_chu_yeu_cau": "Mua autocad lt . Interrli Lag ko làm đc",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "063c69be4401eb4d8e1aa3a17d4a5ced190d08451cd8804e42ed91a33133c2e2",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-02t21:51:38+07:00|0936255268",
+      "row_number": 27,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Đỗ văn mạnh",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "3",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0936255268",
+        "thoi_gian_gui": "2026-09-02T21:51:38+07:00",
+        "cong_ty_don_vi": "Công ty cổ phần quốc tế TBV",
+        "email_cong_viec": "manhdv@tbvin.vn",
+        "ghi_chu_yeu_cau": "kb zalo trao đổi, thiết bị nhà bếp",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "193cb0db296a6c64b0d8a2392633392798df7853a5e0db73f72c35e24fdd02cf",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-03t09:45:11+07:00|0985811019",
+      "row_number": 28,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Phó Đức Dũng",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "5",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0985811019",
+        "thoi_gian_gui": "2026-09-03T09:45:11+07:00",
+        "cong_ty_don_vi": "Studio8 Vietnam",
+        "email_cong_viec": "dzung.pd@studio8.com.vn",
+        "ghi_chu_yeu_cau": "9/9 Gửi bgia, theo dõi",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "66cd591782d34ce7b3e7db88ab801aea3da51e72fea55841e442ca89818ee5ec",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-04t07:34:31+07:00|0915687846",
+      "row_number": 29,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Hoang Le Si",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "20",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0915687846",
+        "thoi_gian_gui": "2026-09-04T07:34:31+07:00",
+        "cong_ty_don_vi": "cpt construction",
+        "email_cong_viec": "hoang56ctn@gmail.com",
+        "ghi_chu_yeu_cau": "20 máy",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "d21dd024794997722bbe8a1474228f9b208e78b5bb4b6d9f7ecbf7d3f288d8ff",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-04t08:57:51+07:00|0976167858",
+      "row_number": 30,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Thành Đinh Vũ",
+        "so_luong_may": "5",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0976167858",
+        "thoi_gian_gui": "2026-09-04T08:57:51+07:00",
+        "cong_ty_don_vi": "Công ty TNHH tư vấn xây dựng 372",
+        "email_cong_viec": "td6261@gmail.com",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "0050fc7593bab7165233c11740a98b9776c75ff167b793d8deab03e817aae30f",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-04t08:59:49+07:00|0393086007",
+      "row_number": 31,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Quân Nguyễn",
+        "so_luong_may": "10",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0393086007",
+        "thoi_gian_gui": "2026-09-04T08:59:49+07:00",
+        "cong_ty_don_vi": "Công ty TNHH MTV tư vấn xây dựng 30-10",
+        "email_cong_viec": "nguyenquanhd.tv2@gmail.com",
+        "ghi_chu_yeu_cau": "10 máy. thiết kế 2D; 3D",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "d0ceed2642907e4ca4797e064b4725b005e17982a0eea8c41710359da6f32f50",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-04t09:00:23+07:00|0865735000",
+      "row_number": 32,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Nguyễn Xuân Chính",
+        "so_luong_may": "5",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0865735000",
+        "thoi_gian_gui": "2026-09-04T09:00:23+07:00",
+        "cong_ty_don_vi": "CÔNG TY TƯ VẪN XÂY DỰNG 30-10",
+        "email_cong_viec": "nxchinh18012003@gmail.com",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "ff1afa96b9518a6d3eed61ae113dd756f82f06bf02a8c46f96dc8f7691ab9792",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-04t11:32:25+07:00|0946879878",
+      "row_number": 33,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Nguyễn Thế Hùng",
+        "so_luong_may": "5",
+        "nhu_cau_chinh": "request_quote",
+        "so_dien_thoai": "0946879878",
+        "thoi_gian_gui": "2026-09-04T11:32:25+07:00",
+        "cong_ty_don_vi": "Công ty TNHH TVTK và XD Phúc Đăng Huy",
+        "email_cong_viec": "tvtkxdphucdanghuy@gmail.com",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "128323e74303fe0528c66e7b5408e275f40cc1d1d10719e6350afc0ef6939190",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-04t11:54:32+07:00|0973534001",
+      "row_number": 34,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Nam Le Van",
+        "so_luong_may": "1",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0973534001",
+        "thoi_gian_gui": "2026-09-04T11:54:32+07:00",
+        "cong_ty_don_vi": "Thehome",
+        "email_cong_viec": "namlv.thehome2025@gmail.com",
+        "ghi_chu_yeu_cau": "sử dụng đầy đủ về dwg, lisp, font",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "752fb70d520fe3c0149802c50203cb73e274a806913ad4aff0c2495f8faaf2f2",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-05t07:59:26+07:00|0915687846",
+      "row_number": 35,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Hoang Le Si",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "5",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0915687846",
+        "thoi_gian_gui": "2026-09-05T07:59:26+07:00",
+        "cong_ty_don_vi": "cpt construction",
+        "email_cong_viec": "hoang56ctn@gmail.com",
+        "ghi_chu_yeu_cau": "9/9 gửi thông tin ko Tl",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "eeae2b34290a16ab624d7a0f72f61e75a4e735c96e4231e7c92a9f369e5a1f25",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-05t08:57:55+07:00|0344696393",
+      "row_number": 36,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Nguyễn Ngọc Mai",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "5",
+        "nhu_cau_chinh": "request_quote",
+        "so_dien_thoai": "0344696393",
+        "thoi_gian_gui": "2026-09-05T08:57:55+07:00",
+        "cong_ty_don_vi": "Công ty Cổ phần Xây dựng và Môi trường Việt Nam",
+        "email_cong_viec": "nnmai.hr.vinse@gmail.com",
+        "ghi_chu_yeu_cau": "8/9 Kb Zlo",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "9cfcbfc6bd3bdddbc51535d1d7d60559dfd555848b4645ad91db8738883ca53e",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-06t19:12:36+07:00|0939010305",
+      "row_number": 37,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Le Mai Thanh Huy",
+        "trang_thai": "Chốt thành công",
+        "so_luong_may": "8",
+        "nhu_cau_chinh": "request_quote",
+        "so_dien_thoai": "0939010305",
+        "thoi_gian_gui": "2026-09-06T19:12:36+07:00",
+        "cong_ty_don_vi": "Cty CP Phát triển nhà Cần Thơ",
+        "email_cong_viec": "lemaithanhhuy@gmail.com",
+        "ghi_chu_yeu_cau": "sử dụng các file autocad 2D về bản vẽ quy hoạch, kiến trúc 2D, kết cấu 2D",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "6c9ddbc85065736773f91f50a879c410c3dd86abfd5a5bb704043374b52b5a8d",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-09t08:19:44+07:00|0983252510",
+      "row_number": 38,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Nguyễn Thọ Cường",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "2",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0983252510",
+        "thoi_gian_gui": "2026-09-09T08:19:44+07:00",
+        "cong_ty_don_vi": "Cty sak",
+        "email_cong_viec": "thocuongkts@gmail.com",
+        "ghi_chu_yeu_cau": "10/9: gửi thông tin",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "ac3e8aa7d96cbc4cd6b23bafdec59ab1836c5ccc837488a088de24cd1ec2ce96",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-10t09:10:24+07:00|0971150079",
+      "row_number": 39,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Dũng Dương Nguyễn Ngọc",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "3",
+        "nhu_cau_chinh": "request_quote",
+        "so_dien_thoai": "0971150079",
+        "thoi_gian_gui": "2026-09-10T09:10:24+07:00",
+        "cong_ty_don_vi": "Công ty TNHH Xây dựng Tuấn Dương Phát",
+        "email_cong_viec": "duongndung@gmail.com",
+        "ghi_chu_yeu_cau": "Gửi bộ cài, báo giá",
+        "nguoi_phu_trach": "A Thìn",
+        "ghi_chu_cham_soc": "50%",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "a8e4c826a0c9651e2547dbf13d2080cd044f71392ca88986559cafa0c299f1be",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-10t11:43:28+07:00|0943389229",
+      "row_number": 40,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Thuận Nguyễn Bá",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "5",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0943389229",
+        "thoi_gian_gui": "2026-09-10T11:43:28+07:00",
+        "cong_ty_don_vi": "Công ty TNHH xây dựng và TM Thuận Phát",
+        "email_cong_viec": "nguyenbathuan1987@gmail.com",
+        "ghi_chu_yeu_cau": "Liên hệ",
+        "nguoi_phu_trach": "A Thìn",
+        "ghi_chu_cham_soc": "Chưa đánh giá được",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "ae94df61bdaecf57a84923ac703b977a1f142aa9907472466bd27c0f98ce197d",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-11t09:38:35+07:00|0915084485",
+      "row_number": 41,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Tran Cam Tu",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "5",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0915084485",
+        "thoi_gian_gui": "2026-09-11T09:38:35+07:00",
+        "cong_ty_don_vi": "3T",
+        "email_cong_viec": "camtumtcn@gmail.com",
+        "ghi_chu_yeu_cau": "11/9 gửi tông tin > đang dung thử.",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "3704f57fc74ec57d4048632f868950a6da48ebb12fd60bd058dc5562050092f6",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-11t10:56:52+07:00|0933578388",
+      "row_number": 42,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "cao lam",
+        "trang_thai": "Thất bại",
+        "so_luong_may": "5",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0933578388",
+        "thoi_gian_gui": "2026-09-11T10:56:52+07:00",
+        "cong_ty_don_vi": "3TGVN",
+        "email_cong_viec": "lamviet1988@gmail.com",
+        "ghi_chu_yeu_cau": "11/9 gửi tông tin > đang dung thử. Đc ctu khác giới thiệu. 2/10 Dùng dự án lớn ko đc",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "6514cbf965b424e3028ff2e896b14e2704b795963ef25717a86fb06318f8d35d",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-11t11:00:32+07:00|0976766988",
+      "row_number": 43,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Đinh Ngọc Thắng",
+        "trang_thai": "Chốt thành công",
+        "so_luong_may": "5",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0976766988",
+        "thoi_gian_gui": "2026-09-11T11:00:32+07:00",
+        "cong_ty_don_vi": "GreenHN",
+        "email_cong_viec": "greenhanoivn.jsc@gmail.com",
+        "ghi_chu_yeu_cau": "11/9 gửi tông tin > Đang dùng ghử",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "ccb1d5a12f4c316b56cfe0e784341b2c7663ac5f93904298a85f68dbd19a12f9",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-11t13:32:18+07:00|0908007764",
+      "row_number": 44,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Vu Ngo Truong Lam",
+        "trang_thai": "Chốt thành công",
+        "so_luong_may": "1",
+        "nhu_cau_chinh": "request_quote",
+        "so_dien_thoai": "0908007764",
+        "thoi_gian_gui": "2026-09-11T13:32:18+07:00",
+        "cong_ty_don_vi": "Công ty Cổ phần Kiểm định Xây dựng Sài Gòn",
+        "email_cong_viec": "lamvu.scqc@gmail.com",
+        "ghi_chu_yeu_cau": "11/9Sử dụng 01 máy chỉ cần dùng 2D xem và thể hiện bản vẽ mặt bằng.",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "ddb8ccc0946d8e36f56ca32b93cd35a7866feeb0188fa14baae0178f65046117",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-14t16:19:55+07:00|0869257905",
+      "row_number": 45,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Cong Ta Quoc",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "1",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0869257905",
+        "thoi_gian_gui": "2026-09-14T16:19:55+07:00",
+        "cong_ty_don_vi": "Ngoc Thien Pharmaceutical and Trading Joint Stock Company",
+        "email_cong_viec": "congta905@gmail.com",
+        "ghi_chu_yeu_cau": "KB zalo trao đổi",
+        "nguoi_phu_trach": "A Thìn",
+        "ghi_chu_cham_soc": "30%",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "72aa6b077cc2701a245f32c479dda7eaef0242992911be2126d91ea2106a2e1f",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-15t09:39:44+07:00|0949933676",
+      "row_number": 46,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Trần Kim Lượng",
+        "trang_thai": "Đang dùng thử",
+        "so_luong_may": "1",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0949933676",
+        "thoi_gian_gui": "2026-09-15T09:39:44+07:00",
+        "cong_ty_don_vi": "Công ty thi công",
+        "email_cong_viec": "trankimluong1985@gmail.com",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "eaeceb061ee951fbc1b83c155fcd08c62c4906626bfe5225103cb2fff860c7c9",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-15t09:49:49+07:00|0949933676",
+      "row_number": 47,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Trần Kim Lượng",
+        "trang_thai": "Đang dùng thử",
+        "so_luong_may": "1",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0949933676",
+        "thoi_gian_gui": "2026-09-15T09:49:49+07:00",
+        "cong_ty_don_vi": "Công ty thi công",
+        "email_cong_viec": "trankimluong1985@gmail.com",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "602e678b5a8fa5a9249ecc5256ad2ad07401df3eee94e3cd11a79ef0283d16bc",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-16t12:07:38+07:00|0372362909",
+      "row_number": 48,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Đỗ Cao",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "1",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0372362909",
+        "thoi_gian_gui": "2026-09-16T12:07:38+07:00",
+        "cong_ty_don_vi": "Tuta",
+        "email_cong_viec": "hamgiaothong@gmail.com",
+        "ghi_chu_yeu_cau": "Gửi bộ cài chat không phản hồi",
+        "nguoi_phu_trach": "A Thìn",
+        "ghi_chu_cham_soc": "10%",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "3424de53a856790b3617457531871453b3f363c7bbf045150cb28aa6b54da21f",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-17t09:22:47+07:00|0362098180",
+      "row_number": 49,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Nguyễn Anh Việt",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "1",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0362098180",
+        "thoi_gian_gui": "2026-09-17T09:22:47+07:00",
+        "cong_ty_don_vi": "tự do",
+        "email_cong_viec": "nguyenviet24081995@gmail.com",
+        "ghi_chu_yeu_cau": "cut dim",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "b4a5f17cf8f7731901db1922ccbbe46ca460eaf7c43696caa910466d3a4c515b",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-19t11:53:44+07:00|0879653223",
+      "row_number": 50,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "phanlong",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "5",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0879653223",
+        "thoi_gian_gui": "2026-09-19T11:53:44+07:00",
+        "cong_ty_don_vi": "acb",
+        "email_cong_viec": "phanbaolong106@gmail.com",
+        "ghi_chu_yeu_cau": "5 máy",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "38e321cf71928fff61006a86f9bce46a70a015cbe96ab7e75ec3f85dbdcfbfa3",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-21t14:08:02+07:00|0975779053",
+      "row_number": 51,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Nhàn Thanh Bùi",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": "2",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0975779053",
+        "thoi_gian_gui": "2026-09-21T14:08:02+07:00",
+        "cong_ty_don_vi": "vndb",
+        "email_cong_viec": "thanhnhanxc07@gmail.com",
+        "ghi_chu_yeu_cau": "23/9: Đang dùng thử , 7/10 Lisp được, cái ko. Để xem có chập nhận đck o",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "77080e78e1165ec9bfb468e2105a293769842ecc00e060b2d0d32b99b562f68b",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-09-23t10:48:53+07:00|0965562419",
+      "row_number": 52,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Nguyễn Duy Quang",
+        "trang_thai": "Thất bại",
+        "so_luong_may": "1",
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0965562419",
+        "thoi_gian_gui": "2026-09-23T10:48:53+07:00",
+        "cong_ty_don_vi": "Xhome HP",
+        "email_cong_viec": "stormrage239@gmail.com",
+        "ghi_chu_yeu_cau": "23/9: Chạy thử ko ổn, giật. Dùng enjic, Zw",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "056ce9efe1063b488fdc6054a226a9c82b93c60d5fbd14da1600610187580ec9",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-10-02t13:05:06+07:00|0983971418",
+      "row_number": 53,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Thanh Tịnh Lê",
+        "trang_thai": "Đang tư vấn",
+        "so_luong_may": 3,
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0983971418",
+        "thoi_gian_gui": "2026-10-02T13:05:06+07:00",
+        "cong_ty_don_vi": "Cty TNHH Dịch vụ tư vấn Thiết kế xây dựng và đo đạc GIA LẠC",
+        "email_cong_viec": "tinh.hcmut@gmail.com",
+        "ghi_chu_yeu_cau": "dùng dc yqarch",
+        "nguoi_phu_trach": "Thái",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "563e26694b396c79732ad14dfa278379bc95373626de75f2999aa1b6138beaa4",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-10-03t08:32:11+07:00|0989261379",
+      "row_number": 54,
+      "data": {
+        "nguon": "Chatgpt.com",
+        "ho_va_ten": "Công",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": 1,
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0989261379",
+        "thoi_gian_gui": "2026-10-03T08:32:11+07:00",
+        "cong_ty_don_vi": "Hà Nội",
+        "email_cong_viec": "haiduonghong2021@gmail.com",
+        "ghi_chu_yeu_cau": "sms giới thiệu sản phẩm",
+        "nguoi_phu_trach": "E Đức",
+        "ghi_chu_cham_soc": "Đã gọi điện, kết bạn, trao đổi zalo (số khác). 20/10: Chờ phản hồi thêm",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "95c5719c475a433d9d1e5767d5e76b69263bb7233da9f7b44129a8cfdeb9f7bc",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-10-03t09:05:41+07:00|0825671989",
+      "row_number": 55,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Lê Văn Hưởng",
+        "trang_thai": "Đang tư vấn",
+        "so_luong_may": 5,
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0825671989",
+        "thoi_gian_gui": "2026-10-03T09:05:41+07:00",
+        "cong_ty_don_vi": "ADCC",
+        "email_cong_viec": "levanhuongadcc@gmail.com",
+        "nguoi_phu_trach": "A Thìn",
+        "ghi_chu_cham_soc": "Chờ hoản thiện để tích hợp phần mềm, đã trình lãnh đạo, bên phát triển phần mềm nói có thể mất hàng tháng để hoàn thiện ap đi kèm",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "ae54917f18c650c54ba9a414ba4f93fb5d76195a3db219d8f53a939c82764574",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-10-09t10:48:25+07:00|0978502975",
+      "row_number": 56,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Nguyễn Đông Nhật",
+        "so_luong_may": 5,
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0978502975",
+        "thoi_gian_gui": "2026-10-09T10:48:25+07:00",
+        "cong_ty_don_vi": "CUBIC",
+        "email_cong_viec": "poxaydon2007@gmail.com",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "4b39ce3abbba6fdc91cf38e0cb3dbebe0da07cee522406fb35ecb1cdbc9a578d",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-10-10t06:56:16+07:00|0979923777",
+      "row_number": 57,
+      "data": {
+        "nguon": "Facebook Ads",
+        "ho_va_ten": "Trần Thanh Sa",
+        "trang_thai": "Không có nhu cầu",
+        "so_luong_may": 5,
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0979923777",
+        "thoi_gian_gui": "2026-10-10T06:56:16+07:00",
+        "cong_ty_don_vi": "Cty Thiết kế Xây dựng Trí Minh",
+        "email_cong_viec": "transa.arc@gmail.com",
+        "nguoi_phu_trach": "E Đức",
+        "ghi_chu_cham_soc": "14/10: Fail, không còn nhu cầu",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "02b742095df29854e1145e9793c03fb1888ced452a8f9ac1ecc3cfaf1887d346",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-10-10t09:04:00+07:00|0978516868",
+      "row_number": 58,
+      "data": {
+        "nguon": "Facebook Ads",
+        "ho_va_ten": "nguyen duc phu",
+        "trang_thai": "Thất bại",
+        "so_luong_may": 1,
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0978516868",
+        "thoi_gian_gui": "2026-10-10T09:04:00+07:00",
+        "cong_ty_don_vi": "Cong ty thiet ke Long Phu",
+        "email_cong_viec": "ndphu010273@gmail.com",
+        "ghi_chu_yeu_cau": "1",
+        "nguoi_phu_trach": "E Đức",
+        "ghi_chu_cham_soc": "14/10: Đã mua bên Acad Revit LT",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "d700ec51243d0a0068b7a578153d9eaf219ae29f4892c787e3d7bcc0902a8a9c",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-10-14t10:06:22+07:00|0389042274",
+      "row_number": 59,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "trần vũ phong",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": 1,
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0389042274",
+        "thoi_gian_gui": "2026-10-14T10:06:22+07:00",
+        "cong_ty_don_vi": "công ty tnhh đầu tư xây dựng 2p",
+        "email_cong_viec": "phongtranbqlda@gmail.com",
+        "nguoi_phu_trach": "Thái",
+        "ghi_chu_cham_soc": "14/10 gửi thông tin",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "46d997d580cfb860914c29532115608f454dcef4703017880fe387beb036e249",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-10-19t08:18:31+07:00|0918124411",
+      "row_number": 60,
+      "data": {
+        "nguon": "Facebook Ads",
+        "ho_va_ten": "Trần Thanh Bình",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": 5,
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0918124411",
+        "thoi_gian_gui": "2026-10-19T08:18:31+07:00",
+        "cong_ty_don_vi": "Cty Tnhh mtv đtxd Nhật Trang",
+        "email_cong_viec": "tranthanhbinh1976vn@gmail.con",
+        "ghi_chu_yeu_cau": "1 máy, DWG",
+        "nguoi_phu_trach": "E Đức",
+        "ghi_chu_cham_soc": "19/10: Trao đổi zalo. 19-20/10: Đang hỗ trợ cài đặt dùng thử (lỗi về win) 21/10: Đang dùng thử",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "67d991c905926a203efb1dcb36adb3d4dc2ad78684edcec92c9f7315b79c55fb",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-10-19t09:01:00+07:00|0918124411",
+      "row_number": 61,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Bình Trần Thanh",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": 1,
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0918124411",
+        "thoi_gian_gui": "2026-10-19T09:01:00+07:00",
+        "cong_ty_don_vi": "Cty TNHH MTV ĐTXD Nhật Trang",
+        "email_cong_viec": "tranthanhbinh1976vn@gmail.com",
+        "nguoi_phu_trach": "E Đức",
+        "ghi_chu_cham_soc": "Bị trùng",
+        "phien_ban_quan_tam": "pe_plus"
+      },
+      "data_hash": "43bc2e6867d7e53a5dd90363dd46f96a81cbc70a42e7f50a948aa6cfaab42a83",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-10-19t09:57:15+07:00|0903508596",
+      "row_number": 62,
+      "data": {
+        "nguon": "Cms intellicad",
+        "ho_va_ten": "Thai HoangMinh",
+        "trang_thai": "Đã liên hệ",
+        "so_luong_may": 1,
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0903508596",
+        "thoi_gian_gui": "2026-10-19T09:57:15+07:00",
+        "cong_ty_don_vi": "dùng riêng tại nhà",
+        "email_cong_viec": "mrthai58@gmail.com",
+        "ghi_chu_yeu_cau": "dùng 2D đơn giản - đăng ký sở hữu vĩnh viễn sau khi dùng thử",
+        "nguoi_phu_trach": "E Đức",
+        "ghi_chu_cham_soc": "19/10: Trao đổi zalo. Chú chỉ dùng 2D, đang tư vấn PE, 20/10: Đang dùng thử",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "0d4248fd56e05a33fc4c6e0a36eeef5c8971aa5fbe0ada81716385b48d7e688f",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    },
+    {
+      "row_key": "2026-10-22t09:13:58+07:00|0898785162",
+      "row_number": 63,
+      "data": {
+        "nguon": "Trực tiếp",
+        "ho_va_ten": "Phuong Nga",
+        "so_luong_may": 1,
+        "nhu_cau_chinh": "trial_30_days",
+        "so_dien_thoai": "0898785162",
+        "thoi_gian_gui": "2026-10-22T09:13:58+07:00",
+        "cong_ty_don_vi": "Cá nhân",
+        "email_cong_viec": "phuongkieunga01@gmail.com",
+        "phien_ban_quan_tam": "pe"
+      },
+      "data_hash": "499e4e56aac26229781d786cd6b80c09ad07c1d709fb64ba6b5407207cb4f254",
+      "first_seen_at": "2026-10-22T08:20:15.976Z",
+      "last_seen_at": "2026-10-22T08:20:15.976Z"
+    }
+  ]
+}

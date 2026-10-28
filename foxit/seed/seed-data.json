@@ -1,0 +1,1128 @@
+{
+  "exportedAt": "2026-10-28T01:16:59.261Z",
+  "targetSiteCode": "foxit",
+  "sectionTypes": [
+    {
+      "landing_section_type_code": "advantages",
+      "landing_section_type_name": "Ưu Điểm Vượt Trội",
+      "category": "feature",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.707Z",
+      "updated_at_utc": "2026-10-28T01:12:40.707Z"
+    },
+    {
+      "landing_section_type_code": "catalog",
+      "landing_section_type_name": "Danh Mục Tính Năng / Giải Pháp",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.719Z",
+      "updated_at_utc": "2026-10-28T01:12:40.719Z"
+    },
+    {
+      "landing_section_type_code": "comparison",
+      "landing_section_type_name": "Bảng So Sánh & Các Gói Bản Quyền",
+      "category": "comparison",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.725Z",
+      "updated_at_utc": "2026-10-28T01:12:40.725Z"
+    },
+    {
+      "landing_section_type_code": "consultation_form",
+      "landing_section_type_name": "Form Đăng Ký Tư Vấn & Tải Dùng Thử",
+      "category": "form",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.731Z",
+      "updated_at_utc": "2026-10-28T01:12:40.731Z"
+    },
+    {
+      "landing_section_type_code": "faq",
+      "landing_section_type_name": "Câu Hỏi Thường Gặp (FAQ)",
+      "category": "faq",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.739Z",
+      "updated_at_utc": "2026-10-28T01:12:40.739Z"
+    },
+    {
+      "landing_section_type_code": "floating_cta",
+      "landing_section_type_name": "Nút Liên Hệ Nổi (Floating CTA)",
+      "category": "cta",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.743Z",
+      "updated_at_utc": "2026-10-28T01:12:40.743Z"
+    },
+    {
+      "landing_section_type_code": "footer",
+      "landing_section_type_name": "Chân Trang (Footer)",
+      "category": "footer",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.750Z",
+      "updated_at_utc": "2026-10-28T01:12:40.750Z"
+    },
+    {
+      "landing_section_type_code": "header",
+      "landing_section_type_name": "Thanh Điều Hướng (Header)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.756Z",
+      "updated_at_utc": "2026-10-28T01:12:40.756Z"
+    },
+    {
+      "landing_section_type_code": "hero",
+      "landing_section_type_name": "Banner Chính (Hero Section)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.762Z",
+      "updated_at_utc": "2026-10-28T01:12:40.762Z"
+    },
+    {
+      "landing_section_type_code": "infrastructure",
+      "landing_section_type_name": "Infrastructure & Specialized Machinery",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.769Z",
+      "updated_at_utc": "2026-10-28T01:12:40.769Z"
+    },
+    {
+      "landing_section_type_code": "intro",
+      "landing_section_type_name": "Giới Thiệu Tổng Quan & Thống Kê",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.773Z",
+      "updated_at_utc": "2026-10-28T01:12:40.773Z"
+    },
+    {
+      "landing_section_type_code": "requirements",
+      "landing_section_type_name": "Yêu Cầu Cấu Hình Hệ Thống",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.777Z",
+      "updated_at_utc": "2026-10-28T01:12:40.777Z"
+    },
+    {
+      "landing_section_type_code": "resources",
+      "landing_section_type_name": "Tài Nguyên & Thư Viện Hỗ Trợ",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.781Z",
+      "updated_at_utc": "2026-10-28T01:12:40.781Z"
+    },
+    {
+      "landing_section_type_code": "video_slider",
+      "landing_section_type_name": "YouTube Video Showcase Slider",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.789Z",
+      "updated_at_utc": "2026-10-28T01:12:40.789Z"
+    }
+  ],
+  "sites": [
+    {
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "landing_site_code": "foxit",
+      "landing_site_name": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền (LadiPage)",
+      "landing_site_type": "landing",
+      "primary_domain": "foxit.cic.com.vn",
+      "custom_domains_json": [
+        "foxit.cic.com.vn",
+        "www.foxit.cic.com.vn"
+      ],
+      "supported_locales_json": [
+        "vi"
+      ],
+      "default_locale": "vi",
+      "site_status": "active",
+      "brand_config_json": {
+        "email": "info@cic.com.vn",
+        "address": "Tòa nhà CIC, 37 Lê Văn Thiêm, Nhân Chính, Thanh Xuân, Hà Nội",
+        "hotline": "0866 059 659",
+        "logo_alt": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền",
+        "logo_url": "/api/landing/media/foxit/images/logo.png",
+        "favicon_url": "/api/landing/media/foxit/images/favicon.ico",
+        "primary_color": "#ea580c",
+        "hosting_origin": "LadiPage",
+        "bitrix_loader_url": "https://crm.cic.com.vn/upload/crm/site_button/loader_5_p3genq.js"
+      },
+      "seo_meta_json": {
+        "title": "Foxit PDF Editor — Giải pháp Phần mềm PDF Bản quyền cho Doanh nghiệp",
+        "keywords": "Foxit PDF Editor, phần mềm chỉnh sửa PDF bản quyền, ký số PDF, quản lý tài liệu doanh nghiệp, CIC",
+        "og_image": "/api/landing/media/foxit/images/hero.png",
+        "description": "Phần mềm chỉnh sửa, ký số, bảo mật và quản lý tài liệu PDF chuyên nghiệp Foxit PDF Editor bản quyền vĩnh viễn và thuê bao do CIC phân phối."
+      },
+      "tracking_config_json": {},
+      "created_at_utc": "2026-10-28T01:12:40.842Z",
+      "updated_at_utc": "2026-10-28T01:12:40.842Z"
+    }
+  ],
+  "pages": [
+    {
+      "landing_page_id": "47055da4-0243-40f7-99e8-a5b6461c15cf",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "landing_page_slug": "home",
+      "landing_page_locale": "vi",
+      "page_title": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền",
+        "keywords": "Foxit PDF Editor, phần mềm chỉnh sửa PDF bản quyền, ký số PDF, quản lý tài liệu doanh nghiệp, CIC",
+        "og_image": "/api/landing/media/foxit/images/hero.png",
+        "description": "Phần mềm chỉnh sửa, ký số, bảo mật và quản lý tài liệu PDF chuyên nghiệp Foxit PDF Editor bản quyền vĩnh viễn và thuê bao do CIC phân phối."
+      },
+      "published_at_utc": "2026-10-27T02:49:17.799Z",
+      "created_at_utc": "2026-10-28T01:12:40.869Z",
+      "updated_at_utc": "2026-10-28T01:12:40.869Z"
+    }
+  ],
+  "sections": [
+    {
+      "landing_page_section_id": "ea963207-11ab-4d61-9b1f-826b9ecc0c5a",
+      "landing_page_id": "47055da4-0243-40f7-99e8-a5b6461c15cf",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "SECTION2",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Giới thiệu",
+            "description": "Foxit là phần mềm quen thuộc với người dùng để tạo, chỉnh sửa, bảo mật file PDF và các tài liệu điện tử. Với các sảm phẩm đa dạng điển hình như PDF Editor, PDF Reader."
+          },
+          {
+            "title": "Hiệu năng cao với chi phí đầu tư thấp",
+            "description": "enjiCAD là phần mềm CAD dành riêng cho người Việt. Với bản quyền vĩnh viễn, bạn sẽ không phải trả thêm chi phí bản quyền hàng năm. Giá mua bản quyền vĩnh viễn của enjiCAD còn thấp hơn giá thuê bao 01 năm của phần mềm CAD nổi tiếng khác."
+          },
+          {
+            "title": "Giao diện quen thuộc",
+            "description": "Giá rẻ là một trong những lợi ích lớn mà enjiCAD đem lại. Giá rẻ nhưng chất lượng sản phẩm không hề thua kém phần mềm đắt tiền khác có cùng tính năng."
+          },
+          {
+            "title": "Định dạng file theo chuẩn quốc tế",
+            "description": "Giao diện, tính năng hoàn toàn giống phần mềm CAD nổi tiếng khác. Bạn sẽ không phải làm quen lại mà có thể sử dụng thành thạo enjiCAD ngay lập tức."
+          },
+          {
+            "title": "Cấu hình yêu cầu thấp",
+            "description": "enjiCAD hoàn toàn tương thích với các định dạng file phổ biến như *.DWG, *.DXF,..."
+          },
+          {
+            "title": "So sánh chi phí",
+            "description": "Hệ điều hành: Windows 7 trở lên RAM: 32 bit - 1GB (nên 3GB trở lên) 64 bit - 2GB (nên 4GB trở lên) Màn hình: tối thiểu 1024x768 VGA Ổ cứng: trống 1GB (nên 3GB trở lên)"
+          }
+        ],
+        "title": "Foxit",
+        "subtitle": "Giới thiệu",
+        "description": "Foxit là phần mềm quen thuộc với người dùng để tạo, chỉnh sửa, bảo mật file PDF và các tài liệu điện tử. Với các sảm phẩm đa dạng điển hình như PDF Editor, PDF Reader."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.520Z",
+      "updated_at_utc": "2026-10-28T01:12:41.520Z"
+    },
+    {
+      "landing_page_section_id": "0e70302f-0f71-4758-bfe8-4f30470f0583",
+      "landing_page_id": "47055da4-0243-40f7-99e8-a5b6461c15cf",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "SECTION2",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Giới thiệu",
+            "description": "Foxit là phần mềm quen thuộc với người dùng để tạo, chỉnh sửa, bảo mật file PDF và các tài liệu điện tử. Với các sảm phẩm đa dạng điển hình như PDF Editor, PDF Reader."
+          },
+          {
+            "title": "Hiệu năng cao với chi phí đầu tư thấp",
+            "description": "enjiCAD là phần mềm CAD dành riêng cho người Việt. Với bản quyền vĩnh viễn, bạn sẽ không phải trả thêm chi phí bản quyền hàng năm. Giá mua bản quyền vĩnh viễn của enjiCAD còn thấp hơn giá thuê bao 01 năm của phần mềm CAD nổi tiếng khác."
+          },
+          {
+            "title": "Giao diện quen thuộc",
+            "description": "Giá rẻ là một trong những lợi ích lớn mà enjiCAD đem lại. Giá rẻ nhưng chất lượng sản phẩm không hề thua kém phần mềm đắt tiền khác có cùng tính năng."
+          },
+          {
+            "title": "Định dạng file theo chuẩn quốc tế",
+            "description": "Giao diện, tính năng hoàn toàn giống phần mềm CAD nổi tiếng khác. Bạn sẽ không phải làm quen lại mà có thể sử dụng thành thạo enjiCAD ngay lập tức."
+          },
+          {
+            "title": "Cấu hình yêu cầu thấp",
+            "description": "enjiCAD hoàn toàn tương thích với các định dạng file phổ biến như *.DWG, *.DXF,..."
+          },
+          {
+            "title": "So sánh chi phí",
+            "description": "Hệ điều hành: Windows 7 trở lên RAM: 32 bit - 1GB (nên 3GB trở lên) 64 bit - 2GB (nên 4GB trở lên) Màn hình: tối thiểu 1024x768 VGA Ổ cứng: trống 1GB (nên 3GB trở lên)"
+          }
+        ],
+        "title": "Foxit",
+        "subtitle": "Giới thiệu",
+        "description": "Foxit là phần mềm quen thuộc với người dùng để tạo, chỉnh sửa, bảo mật file PDF và các tài liệu điện tử. Với các sảm phẩm đa dạng điển hình như PDF Editor, PDF Reader."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.524Z",
+      "updated_at_utc": "2026-10-28T01:12:41.524Z"
+    },
+    {
+      "landing_page_section_id": "5be68e70-86e5-45a9-b720-48bb4beba9e7",
+      "landing_page_id": "47055da4-0243-40f7-99e8-a5b6461c15cf",
+      "landing_section_type_code": "intro",
+      "section_anchor_id": "SECTION676",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Hiệu năng cao với chi phí đầu tư thấp",
+            "description": "enjiCAD là phần mềm CAD dành riêng cho người Việt. Với bản quyền vĩnh viễn, bạn sẽ không phải trả thêm chi phí bản quyền hàng năm. Giá mua bản quyền vĩnh viễn của enjiCAD còn thấp hơn giá thuê bao 01 năm của phần mềm CAD nổi tiếng khác."
+          },
+          {
+            "title": "Giao diện quen thuộc",
+            "description": "Giá rẻ là một trong những lợi ích lớn mà enjiCAD đem lại. Giá rẻ nhưng chất lượng sản phẩm không hề thua kém phần mềm đắt tiền khác có cùng tính năng."
+          },
+          {
+            "title": "Định dạng file theo chuẩn quốc tế",
+            "description": "Giao diện, tính năng hoàn toàn giống phần mềm CAD nổi tiếng khác. Bạn sẽ không phải làm quen lại mà có thể sử dụng thành thạo enjiCAD ngay lập tức."
+          },
+          {
+            "title": "Cấu hình yêu cầu thấp",
+            "description": "enjiCAD hoàn toàn tương thích với các định dạng file phổ biến như *.DWG, *.DXF,..."
+          },
+          {
+            "title": "So sánh chi phí",
+            "description": "Hệ điều hành: Windows 7 trở lên RAM: 32 bit - 1GB (nên 3GB trở lên) 64 bit - 2GB (nên 4GB trở lên) Màn hình: tối thiểu 1024x768 VGA Ổ cứng: trống 1GB (nên 3GB trở lên)"
+          },
+          {
+            "title": "Bản đơn vs Bản đơn",
+            "description": "Bằng cách thay đổi từ ACAD - phiên bản đơn (Standalone) sang enjiCAD - phiên bản đơn (Standalone), với số lượng giấy phép không thay đổi thì bạn có thể tiết kiệm chi phí lên đến 85%."
+          }
+        ],
+        "title": "Giới thiệu",
+        "subtitle": "Hiệu năng cao với chi phí đầu tư thấp",
+        "description": "enjiCAD là phần mềm CAD dành riêng cho người Việt. Với bản quyền vĩnh viễn, bạn sẽ không phải trả thêm chi phí bản quyền hàng năm. Giá mua bản quyền vĩnh viễn của enjiCAD còn thấp hơn giá thuê bao 01 năm của phần mềm CAD nổi tiếng khác."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.527Z",
+      "updated_at_utc": "2026-10-28T01:12:41.527Z"
+    },
+    {
+      "landing_page_section_id": "a90816dc-2847-4640-bccf-5c245be2dccc",
+      "landing_page_id": "47055da4-0243-40f7-99e8-a5b6461c15cf",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "SECTION896",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "ACAD LT",
+            "description": "Giấy phép vĩnh viễn Hỗ trợ máy tính cấu hình thấp Sử dụng ngôn ngữ phát triển(LISP / ARX / .NET / VBA) So sánh bản vẽ và số liệu Hỗ trợ định dạng chuẩn quốc tế (.dwg/.dxf….) Giao diện Ribbon/Classic Hỗ trợ các định dạng font .shx và .ttf Tính năng tự động Auto Layer Batch Print Tự động làm sạch bản vẽ"
+          },
+          {
+            "title": "ACAD PRO",
+            "description": "Bản quyền vĩnh viễn Vẽ Cơ Bản, Sửa Và In Ấn Bản Vẽ CAD Hình Thức Giấy Phép Bản Quyền (Standalone, Network) Bộ Công Cụ Mở Rộng Bộ Công Cụ Nâng Cao Omni-Channel Real Time SLA Hỗ Trợ Ngôn Ngữ Lập Trình Nâng Cao (LISP/ARX/.NET/VBA) Tính Năng Vẽ 3D Và Tạo Khối Động (Block)"
+          },
+          {
+            "title": "11.900.000",
+            "description": "* Standalone: phiên bản đơn chỉ sử dụng cho 01 PC. Phiên bản này được kích hoạt trực tuyến hoặc qua email. Nếu bạn muốn sử dụng qua PC khác thì bạn cần di chuyển giấy phép ** Network: phiên bản mạng, có thể cài đặt không giới hạn số lượng PC và tại một thời điểm số lượng PC được sử dụng tương ứng với số lượng giấy phép đã mua. Phiên bản này được kích hoạt trên máy chủ. Cần mua ít nhất 05 giấy phép. *** Giá phần mềm thay đổi tuỳ thuộc vào cấu hình phần mềm (standard, pro, mechanical,...) , phiên bản, loại hình (bản đơn, bản mạng), số lượng... **** Giá đã bao gồm thuế (theo quy định, phần mềm thuộc đối tượng không chịu thuế)"
+          },
+          {
+            "title": "VNĐ",
+            "description": "Chúng tôi chuẩn bị sẵn một thư viện gồm các tài liệu, video và file hỗ trợ nhằm giúp bạn có trải nghiệm sử dụng enjiCAD thuận tiện và dễ dàng hơn"
+          },
+          {
+            "title": "Thư viện",
+            "description": "Thư viện LISP CAD tổng hợp hỗ trợ giúp bạn rút ngắn thời gian làm việc bằng các bộ mã lập trình có sẵn cài vào phần mở rộng trong enjiCAD."
+          },
+          {
+            "title": "enjiCAD Education",
+            "description": "Tổng hợp giới thiệu các tính năng nâng cao chỉ có trên enjiCAD"
+          }
+        ],
+        "title": "So sánh tính năng",
+        "subtitle": "ACAD LT",
+        "description": "Giấy phép vĩnh viễn Hỗ trợ máy tính cấu hình thấp Sử dụng ngôn ngữ phát triển(LISP / ARX / .NET / VBA) So sánh bản vẽ và số liệu Hỗ trợ định dạng chuẩn quốc tế (.dwg/.dxf….) Giao diện Ribbon/Classic Hỗ trợ các định dạng font .shx và .ttf Tính năng tự động Auto Layer Batch Print Tự động làm sạch bản vẽ"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.532Z",
+      "updated_at_utc": "2026-10-28T01:12:41.532Z"
+    },
+    {
+      "landing_page_section_id": "df9484be-5906-443d-98a7-262879485dbe",
+      "landing_page_id": "47055da4-0243-40f7-99e8-a5b6461c15cf",
+      "landing_section_type_code": "catalog",
+      "section_anchor_id": "SECTION241",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "11.900.000",
+            "description": "Bản quyền vĩnh viễn Vẽ Cơ Bản, Sửa Và In Ấn Bản Vẽ CAD Hình Thức Giấy Phép Bản Quyền (Standalone, Network) Bộ Công Cụ Mở Rộng Bộ Công Cụ Nâng Cao Omni-Channel Real Time SLA Hỗ Trợ Ngôn Ngữ Lập Trình Nâng Cao (LISP/ARX/.NET/VBA) Tính Năng Vẽ 3D Và Tạo Khối Động (Block)"
+          },
+          {
+            "title": "VNĐ",
+            "description": "* Standalone: phiên bản đơn chỉ sử dụng cho 01 PC. Phiên bản này được kích hoạt trực tuyến hoặc qua email. Nếu bạn muốn sử dụng qua PC khác thì bạn cần di chuyển giấy phép ** Network: phiên bản mạng, có thể cài đặt không giới hạn số lượng PC và tại một thời điểm số lượng PC được sử dụng tương ứng với số lượng giấy phép đã mua. Phiên bản này được kích hoạt trên máy chủ. Cần mua ít nhất 05 giấy phép. *** Giá phần mềm thay đổi tuỳ thuộc vào cấu hình phần mềm (standard, pro, mechanical,...) , phiên bản, loại hình (bản đơn, bản mạng), số lượng... **** Giá đã bao gồm thuế (theo quy định, phần mềm thuộc đối tượng không chịu thuế)"
+          },
+          {
+            "title": "Thư viện",
+            "description": "Chúng tôi chuẩn bị sẵn một thư viện gồm các tài liệu, video và file hỗ trợ nhằm giúp bạn có trải nghiệm sử dụng enjiCAD thuận tiện và dễ dàng hơn"
+          },
+          {
+            "title": "enjiCAD Education",
+            "description": "Thư viện LISP CAD tổng hợp hỗ trợ giúp bạn rút ngắn thời gian làm việc bằng các bộ mã lập trình có sẵn cài vào phần mở rộng trong enjiCAD."
+          },
+          {
+            "title": "Hỏi đáp",
+            "description": "Tổng hợp giới thiệu các tính năng nâng cao chỉ có trên enjiCAD"
+          },
+          {
+            "title": "Một số khách hàng tiêu biểu",
+            "description": "Tổng hợp các mẹo và thủ thuật giúp bạn xử lý tình huống và thao tác nhanh hơn trên enjicad nhằm nâng cao hiệu quả công việc."
+          }
+        ],
+        "title": "ACAD PRO",
+        "subtitle": "11.900.000",
+        "description": "Bản quyền vĩnh viễn Vẽ Cơ Bản, Sửa Và In Ấn Bản Vẽ CAD Hình Thức Giấy Phép Bản Quyền (Standalone, Network) Bộ Công Cụ Mở Rộng Bộ Công Cụ Nâng Cao Omni-Channel Real Time SLA Hỗ Trợ Ngôn Ngữ Lập Trình Nâng Cao (LISP/ARX/.NET/VBA) Tính Năng Vẽ 3D Và Tạo Khối Động (Block)"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.537Z",
+      "updated_at_utc": "2026-10-28T01:12:41.537Z"
+    },
+    {
+      "landing_page_section_id": "84920b06-92a1-4bac-9d37-9aa02b59486b",
+      "landing_page_id": "47055da4-0243-40f7-99e8-a5b6461c15cf",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "SECTION1179",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "enjiCAD Education",
+            "description": "Chúng tôi chuẩn bị sẵn một thư viện gồm các tài liệu, video và file hỗ trợ nhằm giúp bạn có trải nghiệm sử dụng enjiCAD thuận tiện và dễ dàng hơn"
+          },
+          {
+            "title": "Hỏi đáp",
+            "description": "Thư viện LISP CAD tổng hợp hỗ trợ giúp bạn rút ngắn thời gian làm việc bằng các bộ mã lập trình có sẵn cài vào phần mở rộng trong enjiCAD."
+          },
+          {
+            "title": "Một số khách hàng tiêu biểu",
+            "description": "Tổng hợp giới thiệu các tính năng nâng cao chỉ có trên enjiCAD"
+          },
+          {
+            "title": "Liên hệ",
+            "description": "Tổng hợp các mẹo và thủ thuật giúp bạn xử lý tình huống và thao tác nhanh hơn trên enjicad nhằm nâng cao hiệu quả công việc."
+          },
+          {
+            "title": "LISP",
+            "description": "enjiCAD Education là phiên bản hoàn toàn miễn phí dành cho sinh viên, giảng viên cũng như các trường Đại học, Cao đẳng, Trung cấp và các Tổ chức đào tạo khác nhằm tạo hiệu quả giảng dạy, học tập và nghiên cứu tốt nhất với phần mềm CAD có bản quyền."
+          },
+          {
+            "title": "Express Tools",
+            "description": "Sinh viên, Giảng viên có thể đăng ký nhận bản quyền sử dụng phần mềm enjiCAD Education bằng cách đăng ký tại đây, chúng tôi sẽ xác minh thông tin và gửi file cài đặt tới bạn. Nếu bạn là Sinh viên, bản quyền sẽ được cấp hàng năm cho đến khi bạn ra trường."
+          }
+        ],
+        "title": "Thư viện",
+        "subtitle": "enjiCAD Education",
+        "description": "Chúng tôi chuẩn bị sẵn một thư viện gồm các tài liệu, video và file hỗ trợ nhằm giúp bạn có trải nghiệm sử dụng enjiCAD thuận tiện và dễ dàng hơn"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.541Z",
+      "updated_at_utc": "2026-10-28T01:12:41.541Z"
+    },
+    {
+      "landing_page_section_id": "543375a9-34a0-481b-ae90-370f1191d253",
+      "landing_page_id": "47055da4-0243-40f7-99e8-a5b6461c15cf",
+      "landing_section_type_code": "requirements",
+      "section_anchor_id": "SECTION1078",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Hỏi đáp",
+            "description": "enjiCAD Education là phiên bản hoàn toàn miễn phí dành cho sinh viên, giảng viên cũng như các trường Đại học, Cao đẳng, Trung cấp và các Tổ chức đào tạo khác nhằm tạo hiệu quả giảng dạy, học tập và nghiên cứu tốt nhất với phần mềm CAD có bản quyền."
+          },
+          {
+            "title": "Một số khách hàng tiêu biểu",
+            "description": "Sinh viên, Giảng viên có thể đăng ký nhận bản quyền sử dụng phần mềm enjiCAD Education bằng cách đăng ký tại đây, chúng tôi sẽ xác minh thông tin và gửi file cài đặt tới bạn. Nếu bạn là Sinh viên, bản quyền sẽ được cấp hàng năm cho đến khi bạn ra trường."
+          },
+          {
+            "title": "Liên hệ",
+            "description": "Với các trường Đại học, Cao đẳng, Trung cấp và các Tổ chức đào tạo, sau khi Quý nhà trường đăng ký, chúng tôi sẽ liên hệ lại để hoàn thiện các thủ tục hợp tác."
+          },
+          {
+            "title": "Đăng ký",
+            "description": "*Lưu ý: Các license Education không được phép sử dụng với mục đích thương mại hoặc bất kì mục đích vì lợi nhuận nào khác"
+          },
+          {
+            "title": "Vui lòng để lại thông tin, chúng tôi sẽ gửi bản dùng thử qua email của bạn:",
+            "description": "Tại sao phần mềm CAD cho kỹ sư Việt lại không sử dụng giao diện tiếng Việt?"
+          },
+          {
+            "title": "ĐĂNG KÝ",
+            "description": "Các kỹ sư Việt Nam đã quá quen thuộc với giao diện phần mềm CAD bằng tiếng Anh, việc sử dụng giao diện tiếng Việt đôi khi gây khó khăn cho người sử dụng. Vì vậy, để người sử dụng dễ tiếp cận nhất, chúng tôi chỉ làm giao diện tiếng Anh cho enjiCAD."
+          }
+        ],
+        "title": "enjiCAD Education",
+        "subtitle": "Hỏi đáp",
+        "description": "enjiCAD Education là phiên bản hoàn toàn miễn phí dành cho sinh viên, giảng viên cũng như các trường Đại học, Cao đẳng, Trung cấp và các Tổ chức đào tạo khác nhằm tạo hiệu quả giảng dạy, học tập và nghiên cứu tốt nhất với phần mềm CAD có bản quyền."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.546Z",
+      "updated_at_utc": "2026-10-28T01:12:41.546Z"
+    },
+    {
+      "landing_page_section_id": "6ad0b9ea-91ec-4eb9-aafb-e13f847e65e9",
+      "landing_page_id": "47055da4-0243-40f7-99e8-a5b6461c15cf",
+      "landing_section_type_code": "resources",
+      "section_anchor_id": "SECTION985",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Một số khách hàng tiêu biểu",
+            "description": "Tại sao phần mềm CAD cho kỹ sư Việt lại không sử dụng giao diện tiếng Việt?"
+          },
+          {
+            "title": "Liên hệ",
+            "description": "Các kỹ sư Việt Nam đã quá quen thuộc với giao diện phần mềm CAD bằng tiếng Anh, việc sử dụng giao diện tiếng Việt đôi khi gây khó khăn cho người sử dụng. Vì vậy, để người sử dụng dễ tiếp cận nhất, chúng tôi chỉ làm giao diện tiếng Anh cho enjiCAD."
+          },
+          {
+            "title": "Vui lòng để lại thông tin, chúng tôi sẽ gửi bản dùng thử qua email của bạn:",
+            "description": "enjiCAD có phải là bản quyền vĩnh viễn không?"
+          },
+          {
+            "title": "ĐĂNG KÝ",
+            "description": "Đúng, enjiCAD là giấy phép vĩnh viễn"
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "Tôi muốn có báo giá của phần mềm?"
+          },
+          {
+            "title": "Hotline: 024 3974 6798 - 088 646 2020",
+            "description": "Bạn có thể tham khảo giá bán của chúng tôi trực tiếp trên trang này. Nếu bạn cần một báo giá chi tiết thì có thể để lại thông tin của bạn hoặc liên hệ trực tiếp với chúng tôi."
+          }
+        ],
+        "title": "Hỏi đáp",
+        "subtitle": "Một số khách hàng tiêu biểu",
+        "description": "Tại sao phần mềm CAD cho kỹ sư Việt lại không sử dụng giao diện tiếng Việt?"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.555Z",
+      "updated_at_utc": "2026-10-28T01:12:41.555Z"
+    },
+    {
+      "landing_page_section_id": "02290710-73d4-4315-98c8-16ceab85e1d7",
+      "landing_page_id": "47055da4-0243-40f7-99e8-a5b6461c15cf",
+      "landing_section_type_code": "faq",
+      "section_anchor_id": "SECTION1137",
+      "section_order": 9,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Liên hệ",
+            "description": "© Bản quyền thuộc Công ty Cổ phần Công nghệ và Tư vấn CIC"
+          },
+          {
+            "title": "Mua enjiCAD Nhận ngay iPad !!!",
+            "description": "Nhận ngay 1 iPad Wifi 32GB trị giá 8.500.000 VNĐ khi mua 2 licenses bản quyền phần mềm enjiCAD Professional hoặc 3 licenses bản quyền phần mềm enjiCAD Standard"
+          },
+          {
+            "title": "Khuyến mãi",
+            "description": "Mỗi khách hàng có thể nhận nhiều phần quà (iPAD Wifi 32GB) , tùy theo số lượng license bản quyền được mua"
+          },
+          {
+            "title": "Vui lòng để lại thông tin, chúng tôi sẽ gửi bản dùng thử qua email của bạn:",
+            "description": "Quà tặng có thể quy đổi thành tiền và chiết khấu trực tiếp vào giá mua phần mềm"
+          },
+          {
+            "title": "ĐĂNG KÝ",
+            "description": "Chương trình bắt đầu từ ngày 12/12/2019 đến hết ngày 11/01/2020"
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "© Bản quyền thuộc Công ty Cổ phần Công nghệ và Tư vấn CIC"
+          }
+        ],
+        "title": "Một số khách hàng tiêu biểu",
+        "subtitle": "Liên hệ",
+        "description": "© Bản quyền thuộc Công ty Cổ phần Công nghệ và Tư vấn CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.559Z",
+      "updated_at_utc": "2026-10-28T01:12:41.559Z"
+    },
+    {
+      "landing_page_section_id": "e9ee4f69-1316-43c8-b7c2-4abc8b811d33",
+      "landing_page_id": "47055da4-0243-40f7-99e8-a5b6461c15cf",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "SECTION305",
+      "section_order": 10,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Mua enjiCAD Nhận ngay iPad !!!",
+            "description": "© Bản quyền thuộc Công ty Cổ phần Công nghệ và Tư vấn CIC"
+          },
+          {
+            "title": "Khuyến mãi",
+            "description": "Nhận ngay 1 iPad Wifi 32GB trị giá 8.500.000 VNĐ khi mua 2 licenses bản quyền phần mềm enjiCAD Professional hoặc 3 licenses bản quyền phần mềm enjiCAD Standard"
+          },
+          {
+            "title": "Điền thông tin nhận bản dùng thử",
+            "description": "Mỗi khách hàng có thể nhận nhiều phần quà (iPAD Wifi 32GB) , tùy theo số lượng license bản quyền được mua"
+          },
+          {
+            "title": "Đăng ký nhận enjiCAD Education",
+            "description": "Quà tặng có thể quy đổi thành tiền và chiết khấu trực tiếp vào giá mua phần mềm"
+          },
+          {
+            "title": "Vui lòng để lại thông tin, chúng tôi sẽ gửi bản dùng thử qua email của bạn:",
+            "description": "Chương trình bắt đầu từ ngày 12/12/2019 đến hết ngày 11/01/2020"
+          },
+          {
+            "title": "ĐĂNG KÝ",
+            "description": "Vui lòng điền đúng thông tin, chúng tôi sẽ gửi link tải bản dùng thử qua email của bạn"
+          }
+        ],
+        "title": "Liên hệ",
+        "subtitle": "Mua enjiCAD Nhận ngay iPad !!!",
+        "description": "© Bản quyền thuộc Công ty Cổ phần Công nghệ và Tư vấn CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.562Z",
+      "updated_at_utc": "2026-10-28T01:12:41.562Z"
+    },
+    {
+      "landing_page_section_id": "44f05edd-6a43-4f72-aae9-4c52c09d1c81",
+      "landing_page_id": "47055da4-0243-40f7-99e8-a5b6461c15cf",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "SECTION971",
+      "section_order": 11,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Khuyến mãi",
+            "description": "Nhận ngay 1 iPad Wifi 32GB trị giá 8.500.000 VNĐ khi mua 2 licenses bản quyền phần mềm enjiCAD Professional hoặc 3 licenses bản quyền phần mềm enjiCAD Standard"
+          },
+          {
+            "title": "Điền thông tin nhận bản dùng thử",
+            "description": "Mỗi khách hàng có thể nhận nhiều phần quà (iPAD Wifi 32GB) , tùy theo số lượng license bản quyền được mua"
+          },
+          {
+            "title": "Đăng ký nhận enjiCAD Education",
+            "description": "Quà tặng có thể quy đổi thành tiền và chiết khấu trực tiếp vào giá mua phần mềm"
+          },
+          {
+            "title": "Email: cichcm@cic.com.vn",
+            "description": "Chương trình bắt đầu từ ngày 12/12/2019 đến hết ngày 11/01/2020"
+          },
+          {
+            "title": "Đăng ký nhận quà",
+            "description": "Vui lòng điền đúng thông tin, chúng tôi sẽ gửi link tải bản dùng thử qua email của bạn"
+          },
+          {
+            "title": "Nhận bản dùng thử",
+            "description": "Vui lòng điền đúng thông tin, chúng tôi sẽ kiểm tra thông tin và gửi bạn file cài đặt qua email của bạn"
+          }
+        ],
+        "title": "Mua enjiCAD Nhận ngay iPad !!!",
+        "subtitle": "Khuyến mãi",
+        "description": "Nhận ngay 1 iPad Wifi 32GB trị giá 8.500.000 VNĐ khi mua 2 licenses bản quyền phần mềm enjiCAD Professional hoặc 3 licenses bản quyền phần mềm enjiCAD Standard"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.571Z",
+      "updated_at_utc": "2026-10-28T01:12:41.571Z"
+    }
+  ],
+  "forms": [
+    {
+      "landing_form_id": "a50af90b-2bf4-4425-91aa-fd2666839e52",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "form_code": "consultation_form",
+      "form_name": "Biểu mẫu Đăng ký Tư vấn & Báo giá (foxit)",
+      "fields_schema_json": [
+        {
+          "name": "full_name",
+          "type": "text",
+          "label": "Họ và tên",
+          "required": true,
+          "placeholder": "Nhập họ và tên của bạn"
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "label": "Số điện thoại",
+          "required": true,
+          "placeholder": "Nhập số điện thoại liên hệ"
+        },
+        {
+          "name": "email",
+          "type": "email",
+          "label": "Email công việc",
+          "required": true,
+          "placeholder": "name@company.com"
+        },
+        {
+          "name": "company",
+          "type": "text",
+          "label": "Đơn vị / Công ty",
+          "required": false,
+          "placeholder": "Tên doanh nghiệp / tổ chức"
+        },
+        {
+          "name": "request_type",
+          "type": "select",
+          "label": "Nhu cầu tư vấn",
+          "options": [
+            {
+              "label": "Đăng ký dùng thử & Tài liệu kỹ thuật",
+              "value": "trial"
+            },
+            {
+              "label": "Nhận báo giá bản quyền / thiết bị",
+              "value": "quote"
+            },
+            {
+              "label": "Tư vấn giải pháp & Demo trực tiếp",
+              "value": "consultation"
+            }
+          ],
+          "required": true
+        }
+      ],
+      "notification_emails_json": [
+        "info@cic.com.vn"
+      ],
+      "google_sheet_config_json": {
+        "sheet_name": "FOXIT",
+        "spreadsheet_id": ""
+      },
+      "success_action": "modal_download",
+      "success_payload_json": {
+        "message": "Cảm ơn quý khách! Chuyên gia CIC sẽ liên hệ tư vấn trong thời gian sớm nhất.",
+        "modal_title": "Đăng ký thành công!",
+        "modal_description": "Quý khách có thể tải xuống tài liệu Brochure giới thiệu giải pháp ngay bên dưới:",
+        "default_download_url": "/api/landing/media/foxit/downloads/brochure.pdf"
+      },
+      "is_form_active": true,
+      "created_at_utc": "2026-10-28T01:12:42.569Z",
+      "updated_at_utc": "2026-10-28T01:12:42.569Z"
+    }
+  ],
+  "media": [
+    {
+      "landing_media_asset_id": "531a840f-3804-4118-a20a-7ff26082a416",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "enjicad-logo-only-20200709074610",
+      "file_name": "enjicad-logo-only-20200709074610.png",
+      "file_path": "ladicdn/w.ladicdn.com/s350x350/5e410597f4aa8d0f29888a88/enjicad-logo-only-20200709074610.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "85031",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - enjicad-logo-only-20200709074610.png",
+      "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - enjicad-logo-only-20200709074610.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.601Z",
+      "updated_at_utc": "2026-10-28T01:12:49.601Z"
+    },
+    {
+      "landing_media_asset_id": "5ef27bfe-57ae-4c47-b59d-f3d5bd7d45e4",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "enjicad-logo-only-20200709074610",
+      "file_name": "enjicad-logo-only-20200709074610.png",
+      "file_path": "ladicdn/w.ladicdn.com/s400x400/5e410597f4aa8d0f29888a88/enjicad-logo-only-20200709074610.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "83647",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - enjicad-logo-only-20200709074610.png",
+      "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - enjicad-logo-only-20200709074610.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.637Z",
+      "updated_at_utc": "2026-10-28T01:12:49.637Z"
+    },
+    {
+      "landing_media_asset_id": "09a3fcda-a14a-4420-bf1e-9fa1539f1c0f",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "logo-20220420021136",
+      "file_name": "logo-20220420021136.jpg",
+      "file_path": "ladicdn/w.ladicdn.com/s550x400/5e410597f4aa8d0f29888a88/logo-20220420021136.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "46817",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - logo-20220420021136.jpg",
+      "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - logo-20220420021136.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.658Z",
+      "updated_at_utc": "2026-10-28T01:12:49.658Z"
+    },
+    {
+      "landing_media_asset_id": "36ee1935-65c3-4974-b796-0b1dbf8ee7ee",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "foxit_software_logosvg-20221229082130-c8xki",
+      "file_name": "foxit_software_logosvg-20221229082130-c8xki.png",
+      "file_path": "ladicdn/w.ladicdn.com/s550x400/5e410597f4aa8d0f29888a88/foxit_software_logosvg-20221229082130-c8xki.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "45753",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - foxit_software_logosvg-20221229082130-c8xki.png",
+      "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - foxit_software_logosvg-20221229082130-c8xki.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.673Z",
+      "updated_at_utc": "2026-10-28T01:12:49.673Z"
+    },
+    {
+      "landing_media_asset_id": "850f3517-5ee5-42eb-81a6-48fe0e5916b7",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "foxit_software_logosvg-20221229072612-sfqyo",
+      "file_name": "foxit_software_logosvg-20221229072612-sfqyo.png",
+      "file_path": "ladicdn/w.ladicdn.com/s450x350/5e410597f4aa8d0f29888a88/foxit_software_logosvg-20221229072612-sfqyo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "38006",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - foxit_software_logosvg-20221229072612-sfqyo.png",
+      "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - foxit_software_logosvg-20221229072612-sfqyo.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.688Z",
+      "updated_at_utc": "2026-10-28T01:12:49.688Z"
+    },
+    {
+      "landing_media_asset_id": "4c99cba1-69c5-4a2c-8c7e-abc656263696",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "logo-20220308063400",
+      "file_name": "logo-20220308063400.jpg",
+      "file_path": "ladicdn/w.ladicdn.com/s500x350/5e410597f4aa8d0f29888a88/logo-20220308063400.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "37429",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - logo-20220308063400.jpg",
+      "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - logo-20220308063400.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.701Z",
+      "updated_at_utc": "2026-10-28T01:12:49.701Z"
+    },
+    {
+      "landing_media_asset_id": "9b5c4feb-dba9-48b2-a942-8cf92f42d063",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "1280px-ihi_logosvg-20220420023606",
+      "file_name": "1280px-ihi_logosvg-20220420023606.jpg",
+      "file_path": "ladicdn/w.ladicdn.com/s450x350/5e410597f4aa8d0f29888a88/1280px-ihi_logosvg-20220420023606.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "15978",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - 1280px-ihi_logosvg-20220420023606.jpg",
+      "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - 1280px-ihi_logosvg-20220420023606.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.715Z",
+      "updated_at_utc": "2026-10-28T01:12:49.715Z"
+    },
+    {
+      "landing_media_asset_id": "d6302542-d176-4d84-860c-d3280f768b30",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "logo-cic-20200514020157",
+      "file_name": "logo-cic-20200514020157.png",
+      "file_path": "ladicdn/w.ladicdn.com/s450x400/5e410597f4aa8d0f29888a88/logo-cic-20200514020157.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "14797",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - logo-cic-20200514020157.png",
+      "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - logo-cic-20200514020157.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.725Z",
+      "updated_at_utc": "2026-10-28T01:12:49.725Z"
+    },
+    {
+      "landing_media_asset_id": "dcb05340-c5b7-43b8-87bf-8514f5994855",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "logo-cic-20200514020157",
+      "file_name": "logo-cic-20200514020157.png",
+      "file_path": "ladicdn/w.ladicdn.com/s450x350/5e410597f4aa8d0f29888a88/logo-cic-20200514020157.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "13252",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - logo-cic-20200514020157.png",
+      "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - logo-cic-20200514020157.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.738Z",
+      "updated_at_utc": "2026-10-28T01:12:49.738Z"
+    },
+    {
+      "landing_media_asset_id": "232291be-ef72-4c08-bfaf-a1b4fbc50452",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "header-20221229091013-gj_xr",
+      "file_name": "header-20221229091013-gj_xr.png",
+      "file_path": "ladicdn/w.ladicdn.com/s900x700/5e410597f4aa8d0f29888a88/header-20221229091013-gj_xr.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "92827",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - header-20221229091013-gj_xr.png",
+      "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - header-20221229091013-gj_xr.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.750Z",
+      "updated_at_utc": "2026-10-28T01:12:49.750Z"
+    },
+    {
+      "landing_media_asset_id": "0f27d35c-62e4-45c4-821a-7f83698377ec",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "header-20221229091013-gj_xr",
+      "file_name": "header-20221229091013-gj_xr.png",
+      "file_path": "ladicdn/w.ladicdn.com/s750x600/5e410597f4aa8d0f29888a88/header-20221229091013-gj_xr.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "80152",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - header-20221229091013-gj_xr.png",
+      "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - header-20221229091013-gj_xr.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.770Z",
+      "updated_at_utc": "2026-10-28T01:12:49.770Z"
+    },
+    {
+      "landing_media_asset_id": "8fa40dd5-b59d-4857-829f-d02c925b06f8",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "untitled-1-20191217074453",
+      "file_name": "untitled-1-20191217074453.png",
+      "file_path": "ladicdn/w.ladicdn.com/s750x750/5def5421715a2921b62e6a5d/untitled-1-20191217074453.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "696131",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - untitled-1-20191217074453.png",
+      "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - untitled-1-20191217074453.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.803Z",
+      "updated_at_utc": "2026-10-28T01:12:49.803Z"
+    },
+    {
+      "landing_media_asset_id": "73b5e769-b511-4e86-9686-9cb262ba2392",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "untitled-1-20191217074453",
+      "file_name": "untitled-1-20191217074453.png",
+      "file_path": "ladicdn/w.ladicdn.com/s600x600/5def5421715a2921b62e6a5d/untitled-1-20191217074453.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "467279",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - untitled-1-20191217074453.png",
+      "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - untitled-1-20191217074453.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.858Z",
+      "updated_at_utc": "2026-10-28T01:12:49.858Z"
+    },
+    {
+      "landing_media_asset_id": "538a0290-87c3-49a4-ac03-3825ad3368d0",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "enji-laptop-mockup-20200518072000",
+      "file_name": "enji-laptop-mockup-20200518072000.png",
+      "file_path": "ladicdn/w.ladicdn.com/s900x700/5e410597f4aa8d0f29888a88/enji-laptop-mockup-20200518072000.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "348664",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - enji-laptop-mockup-20200518072000.png",
+      "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - enji-laptop-mockup-20200518072000.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.926Z",
+      "updated_at_utc": "2026-10-28T01:12:49.926Z"
+    },
+    {
+      "landing_media_asset_id": "da340828-5ecd-4a6d-b299-19c4427d19af",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "cd-mockup-20220405013840",
+      "file_name": "cd-mockup-20220405013840.png",
+      "file_path": "ladicdn/w.ladicdn.com/s700x700/5e410597f4aa8d0f29888a88/cd-mockup-20220405013840.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "317981",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - cd-mockup-20220405013840.png",
+      "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - cd-mockup-20220405013840.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.957Z",
+      "updated_at_utc": "2026-10-28T01:12:49.957Z"
+    },
+    {
+      "landing_media_asset_id": "687426cb-943f-4579-87f8-73b672876431",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "enji-laptop-mockup-20200518072000",
+      "file_name": "enji-laptop-mockup-20200518072000.png",
+      "file_path": "ladicdn/w.ladicdn.com/s700x550/5e410597f4aa8d0f29888a88/enji-laptop-mockup-20200518072000.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "224085",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - enji-laptop-mockup-20200518072000.png",
+      "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền - enji-laptop-mockup-20200518072000.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.985Z",
+      "updated_at_utc": "2026-10-28T01:12:49.985Z"
+    },
+    {
+      "landing_media_asset_id": "288b1fe5-6e2f-46f9-a361-c2fa994fc186",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "brand_logo",
+      "file_name": "logo.png",
+      "file_path": "images/logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "85031",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền Logo",
+      "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền Logo",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.011Z",
+      "updated_at_utc": "2026-10-28T01:12:50.011Z"
+    },
+    {
+      "landing_media_asset_id": "4d11718a-3dcc-44f7-9ae8-92b7f1744ee6",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "favicon",
+      "file_name": "favicon.ico",
+      "file_path": "images/favicon.ico",
+      "mime_type": "image/x-icon",
+      "file_size_bytes": "85031",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Favicon",
+      "alt_text_en": "Favicon",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.031Z",
+      "updated_at_utc": "2026-10-28T01:12:50.031Z"
+    },
+    {
+      "landing_media_asset_id": "97466c01-f98f-4e1b-8bc8-a584c24be6e9",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "hero_banner",
+      "file_name": "hero.png",
+      "file_path": "images/hero.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "85031",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền Hero",
+      "alt_text_en": "Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền Hero",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.045Z",
+      "updated_at_utc": "2026-10-28T01:12:50.045Z"
+    },
+    {
+      "landing_media_asset_id": "1722304a-fc26-4604-aad6-7bd801462c84",
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "media_slot_code": "brochure_pdf",
+      "file_name": "brochure.pdf",
+      "file_path": "downloads/brochure.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": "671641",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Tài liệu Brochure Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền",
+      "alt_text_en": "Brochure Foxit PDF Editor — Phần mềm Biên tập & Quản lý Tài liệu PDF Bản quyền",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.062Z",
+      "updated_at_utc": "2026-10-28T01:12:50.062Z"
+    }
+  ],
+  "leads": [],
+  "pageViews": [
+    {
+      "landing_site_id": "37ebc558-a60a-4f16-b466-c473e803200d",
+      "view_date": "2026-10-27",
+      "views_count": 3,
+      "unique_visitors_count": 1
+    }
+  ],
+  "adminAccounts": [
+    {
+      "username": "foxit_admin",
+      "password_hash": "4a208b7ff43bd0a71c3bb331db13040694d36bd9e34b5d9ed62d0be880dc5b58",
+      "display_name": "Quản trị viên Foxit PDF Editor",
+      "role": "site_admin",
+      "landing_site_code": "foxit",
+      "is_active": true
+    },
+    {
+      "username": "admin",
+      "password_hash": "2e6c21501300cc6fa4d50597c1c483c802b6d9f00f119f004d8344f663129109",
+      "display_name": "Quản trị Tổng CIC",
+      "role": "super_admin",
+      "landing_site_code": null,
+      "is_active": true
+    }
+  ]
+}

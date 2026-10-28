@@ -1,0 +1,996 @@
+{
+  "exportedAt": "2026-10-28T01:16:31.426Z",
+  "targetSiteCode": "cubicost",
+  "sectionTypes": [
+    {
+      "landing_section_type_code": "advantages",
+      "landing_section_type_name": "Ưu Điểm Vượt Trội",
+      "category": "feature",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.707Z",
+      "updated_at_utc": "2026-10-28T01:12:40.707Z"
+    },
+    {
+      "landing_section_type_code": "catalog",
+      "landing_section_type_name": "Danh Mục Tính Năng / Giải Pháp",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.719Z",
+      "updated_at_utc": "2026-10-28T01:12:40.719Z"
+    },
+    {
+      "landing_section_type_code": "comparison",
+      "landing_section_type_name": "Bảng So Sánh & Các Gói Bản Quyền",
+      "category": "comparison",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.725Z",
+      "updated_at_utc": "2026-10-28T01:12:40.725Z"
+    },
+    {
+      "landing_section_type_code": "consultation_form",
+      "landing_section_type_name": "Form Đăng Ký Tư Vấn & Tải Dùng Thử",
+      "category": "form",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.731Z",
+      "updated_at_utc": "2026-10-28T01:12:40.731Z"
+    },
+    {
+      "landing_section_type_code": "faq",
+      "landing_section_type_name": "Câu Hỏi Thường Gặp (FAQ)",
+      "category": "faq",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.739Z",
+      "updated_at_utc": "2026-10-28T01:12:40.739Z"
+    },
+    {
+      "landing_section_type_code": "floating_cta",
+      "landing_section_type_name": "Nút Liên Hệ Nổi (Floating CTA)",
+      "category": "cta",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.743Z",
+      "updated_at_utc": "2026-10-28T01:12:40.743Z"
+    },
+    {
+      "landing_section_type_code": "footer",
+      "landing_section_type_name": "Chân Trang (Footer)",
+      "category": "footer",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.750Z",
+      "updated_at_utc": "2026-10-28T01:12:40.750Z"
+    },
+    {
+      "landing_section_type_code": "header",
+      "landing_section_type_name": "Thanh Điều Hướng (Header)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.756Z",
+      "updated_at_utc": "2026-10-28T01:12:40.756Z"
+    },
+    {
+      "landing_section_type_code": "hero",
+      "landing_section_type_name": "Banner Chính (Hero Section)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.762Z",
+      "updated_at_utc": "2026-10-28T01:12:40.762Z"
+    },
+    {
+      "landing_section_type_code": "infrastructure",
+      "landing_section_type_name": "Infrastructure & Specialized Machinery",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.769Z",
+      "updated_at_utc": "2026-10-28T01:12:40.769Z"
+    },
+    {
+      "landing_section_type_code": "intro",
+      "landing_section_type_name": "Giới Thiệu Tổng Quan & Thống Kê",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.773Z",
+      "updated_at_utc": "2026-10-28T01:12:40.773Z"
+    },
+    {
+      "landing_section_type_code": "requirements",
+      "landing_section_type_name": "Yêu Cầu Cấu Hình Hệ Thống",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.777Z",
+      "updated_at_utc": "2026-10-28T01:12:40.777Z"
+    },
+    {
+      "landing_section_type_code": "resources",
+      "landing_section_type_name": "Tài Nguyên & Thư Viện Hỗ Trợ",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.781Z",
+      "updated_at_utc": "2026-10-28T01:12:40.781Z"
+    },
+    {
+      "landing_section_type_code": "video_slider",
+      "landing_section_type_name": "YouTube Video Showcase Slider",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.789Z",
+      "updated_at_utc": "2026-10-28T01:12:40.789Z"
+    }
+  ],
+  "sites": [
+    {
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "landing_site_code": "cubicost",
+      "landing_site_name": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM (LadiPage)",
+      "landing_site_type": "landing",
+      "primary_domain": "cubicost.cic.com.vn",
+      "custom_domains_json": [
+        "cubicost.cic.com.vn",
+        "www.cubicost.cic.com.vn"
+      ],
+      "supported_locales_json": [
+        "vi"
+      ],
+      "default_locale": "vi",
+      "site_status": "active",
+      "brand_config_json": {
+        "email": "info@cic.com.vn",
+        "address": "Tòa nhà CIC, 37 Lê Văn Thiêm, Nhân Chính, Thanh Xuân, Hà Nội",
+        "hotline": "0866 059 659",
+        "logo_alt": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM",
+        "logo_url": "/api/landing/media/cubicost/images/logo.png",
+        "favicon_url": "/api/landing/media/cubicost/images/favicon.ico",
+        "primary_color": "#1d4ed8",
+        "hosting_origin": "LadiPage",
+        "bitrix_loader_url": "https://crm.cic.com.vn/upload/crm/site_button/loader_9_cqbl2r.js"
+      },
+      "seo_meta_json": {
+        "title": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM",
+        "keywords": "CubiCost, BIM 5D, bóc tách khối lượng BIM, dự toán 5D, TAS, TRB, TME, TBQ, Glodon, CIC",
+        "og_image": "/api/landing/media/cubicost/images/hero.png",
+        "description": "Giải pháp phần mềm BIM 5D CubiCost (TAS, TRB, TME, TBQ) tự động hóa bóc tách khối lượng kiến trúc, kết cấu, cốt thép, cơ điện chính xác cao."
+      },
+      "tracking_config_json": {},
+      "created_at_utc": "2026-10-28T01:12:40.821Z",
+      "updated_at_utc": "2026-10-28T01:12:40.821Z"
+    }
+  ],
+  "pages": [
+    {
+      "landing_page_id": "003a4a2d-9fac-4c36-9626-50be931c873a",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "landing_page_slug": "home",
+      "landing_page_locale": "vi",
+      "page_title": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM",
+        "keywords": "CubiCost, BIM 5D, bóc tách khối lượng BIM, dự toán 5D, TAS, TRB, TME, TBQ, Glodon, CIC",
+        "og_image": "/api/landing/media/cubicost/images/hero.png",
+        "description": "Giải pháp phần mềm BIM 5D CubiCost (TAS, TRB, TME, TBQ) tự động hóa bóc tách khối lượng kiến trúc, kết cấu, cốt thép, cơ điện chính xác cao."
+      },
+      "published_at_utc": "2026-10-27T02:49:14.003Z",
+      "created_at_utc": "2026-10-28T01:12:40.908Z",
+      "updated_at_utc": "2026-10-28T01:12:40.908Z"
+    }
+  ],
+  "sections": [
+    {
+      "landing_page_section_id": "7650b7f9-a6dc-4daa-954a-9ec9946c44ef",
+      "landing_page_id": "003a4a2d-9fac-4c36-9626-50be931c873a",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "SECTION16",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Đầu vào dữ liệu linh hoạt",
+            "description": "Bóc tách khối lượng bê tông, ván khuôn, hoàn thiện"
+          },
+          {
+            "title": "Tính năng nhận diện thông minh",
+            "description": "Bóc tách khối lượng cốt thép"
+          },
+          {
+            "title": "Hoàn thiện thông minh",
+            "description": "Bóc tách cơ điện, điều hoà"
+          },
+          {
+            "title": "Diễn giải 3D trên mô hình BIM",
+            "description": "Phục vụ đấu thầu và đánh giá thầu"
+          },
+          {
+            "title": "Kiểm tra trên mô hình BIM",
+            "description": "PHẦN MỀM BIM"
+          },
+          {
+            "title": "Xuất báo cáo tự động",
+            "description": "Cubicost là bộ phần mềm bóc tách khối lượng trên nền tảng BIM, đã đạt được chứng chỉ chuẩn đầu ra, đầu vào IFC của Building Smart. Bộ phần mềm BIM Cubicost bao gồm bốn phần mềm riêng biệt trên trên nền tảng BIM (TASC, TRBC, TME, TBQ), tập trung vào các nhu cầu khác nhau của công việc bóc tách và xử lý khối lượng. Tất cả bốn phần mềm này đem lại hầu như tất cả các yêu cầu chung của công việc dự toán chi phí xây dựng. Phần mềm Cubicost đã được tin dùng ở rất nhiều nước tại Đông Nam Á như Singapore, Malaysia, Phillipine, Thái Lan và Việt Nam. Cubicost hiện đã có phiên bản hỗ trợ Tiếng Việt!"
+          }
+        ],
+        "title": "ƯU ĐIỂM CỦA CUBICOST",
+        "subtitle": "Đầu vào dữ liệu linh hoạt",
+        "description": "Bóc tách khối lượng bê tông, ván khuôn, hoàn thiện"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.003Z",
+      "updated_at_utc": "2026-10-28T01:12:41.003Z"
+    },
+    {
+      "landing_page_section_id": "bc85434a-7b61-4e82-80a7-70e1fc15d2b9",
+      "landing_page_id": "003a4a2d-9fac-4c36-9626-50be931c873a",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "SECTION16",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Đầu vào dữ liệu linh hoạt",
+            "description": "Bóc tách khối lượng bê tông, ván khuôn, hoàn thiện"
+          },
+          {
+            "title": "Tính năng nhận diện thông minh",
+            "description": "Bóc tách khối lượng cốt thép"
+          },
+          {
+            "title": "Hoàn thiện thông minh",
+            "description": "Bóc tách cơ điện, điều hoà"
+          },
+          {
+            "title": "Diễn giải 3D trên mô hình BIM",
+            "description": "Phục vụ đấu thầu và đánh giá thầu"
+          },
+          {
+            "title": "Kiểm tra trên mô hình BIM",
+            "description": "PHẦN MỀM BIM"
+          },
+          {
+            "title": "Xuất báo cáo tự động",
+            "description": "Cubicost là bộ phần mềm bóc tách khối lượng trên nền tảng BIM, đã đạt được chứng chỉ chuẩn đầu ra, đầu vào IFC của Building Smart. Bộ phần mềm BIM Cubicost bao gồm bốn phần mềm riêng biệt trên trên nền tảng BIM (TASC, TRBC, TME, TBQ), tập trung vào các nhu cầu khác nhau của công việc bóc tách và xử lý khối lượng. Tất cả bốn phần mềm này đem lại hầu như tất cả các yêu cầu chung của công việc dự toán chi phí xây dựng. Phần mềm Cubicost đã được tin dùng ở rất nhiều nước tại Đông Nam Á như Singapore, Malaysia, Phillipine, Thái Lan và Việt Nam. Cubicost hiện đã có phiên bản hỗ trợ Tiếng Việt!"
+          }
+        ],
+        "title": "ƯU ĐIỂM CỦA CUBICOST",
+        "subtitle": "Đầu vào dữ liệu linh hoạt",
+        "description": "Bóc tách khối lượng bê tông, ván khuôn, hoàn thiện"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.008Z",
+      "updated_at_utc": "2026-10-28T01:12:41.008Z"
+    },
+    {
+      "landing_page_section_id": "6968a86b-075b-4809-83da-e89f03fc82fe",
+      "landing_page_id": "003a4a2d-9fac-4c36-9626-50be931c873a",
+      "landing_section_type_code": "intro",
+      "section_anchor_id": "SECTION121",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Đầu vào dữ liệu linh hoạt",
+            "description": "Việc dựng mô hình sẽ nhanh chóng và đơn giản hơn rất nhiều với 3 bước nhận diện thông minh của CubiCost giúp nhận diện chính xác đến hơn 90% các cấu kiện chính của công trình như cột, dầm, sàn, ..."
+          },
+          {
+            "title": "Tính năng nhận diện thông minh",
+            "description": "Cubicost có thể nhận dữ liệu đầu vào từ file Revit, IFC, CAD, Vector PFD và thậm chí là bản Scan PDF giúp cho việc xây dựng mô hình linh hoạt và nhanh chóng hơn. Giúp cho những dự án chưa phải trên nền tảng BIM cũng có thể tích hợp được."
+          },
+          {
+            "title": "Hoàn thiện thông minh",
+            "description": "088 691 6666"
+          },
+          {
+            "title": "Diễn giải 3D trên mô hình BIM",
+            "description": "Việc diễn giải khối lượng đã trở nên đơn giản hơn rất nhiều khi CubiCost hỗ trợ việc diễn giải trên mô hình BIM với những diễn giải rất chi tiết từ công thức tính toán tới trình tự tính toán."
+          },
+          {
+            "title": "Kiểm tra trên mô hình BIM",
+            "description": "Việc bóc tách hoàn thiện chưa bao giờ dễ đến vậy, CubiCost cho phép thiết lập hoàn thiện theo từng không gian như phòng ngủ, phòng khách, hành lang, phòng họp và từ đó người dùng chỉ cần thiết lập lựa chọn hoàn thiện theo không gian phòng. Ngoài ra phần mềm cũng giải quyết được những bài toán phức tạp trong hoàn thiện như: Trát dầm, hoàn thiện vệ sinh, nhiều lớp hoàn thiện với cao độ khác nhau."
+          },
+          {
+            "title": "Xuất báo cáo tự động",
+            "description": "Không chỉ phục vụ việc diễn giải, từ các bảng báo cáo số liệu CubiCost cũng cho chúng ta công cụ kiểm tra ngược trên mô hình nếu phát hiện có khối lượng đáng nghi ngờ nào. Giúp cho việc kiểm soát khối lượng đơn giản và hiệu quả hơn rất nhiều"
+          }
+        ],
+        "title": "ƯU ĐIỂM CỦA CUBICOST",
+        "subtitle": "Đầu vào dữ liệu linh hoạt",
+        "description": "Việc dựng mô hình sẽ nhanh chóng và đơn giản hơn rất nhiều với 3 bước nhận diện thông minh của CubiCost giúp nhận diện chính xác đến hơn 90% các cấu kiện chính của công trình như cột, dầm, sàn, ..."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.012Z",
+      "updated_at_utc": "2026-10-28T01:12:41.012Z"
+    },
+    {
+      "landing_page_section_id": "77bb4999-eae6-4ff3-8dbc-d744eab9846f",
+      "landing_page_id": "003a4a2d-9fac-4c36-9626-50be931c873a",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "SECTION2",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Diễn giải 3D trên mô hình BIM",
+            "description": "Việc diễn giải khối lượng đã trở nên đơn giản hơn rất nhiều khi CubiCost hỗ trợ việc diễn giải trên mô hình BIM với những diễn giải rất chi tiết từ công thức tính toán tới trình tự tính toán."
+          },
+          {
+            "title": "Kiểm tra trên mô hình BIM",
+            "description": "Việc bóc tách hoàn thiện chưa bao giờ dễ đến vậy, CubiCost cho phép thiết lập hoàn thiện theo từng không gian như phòng ngủ, phòng khách, hành lang, phòng họp và từ đó người dùng chỉ cần thiết lập lựa chọn hoàn thiện theo không gian phòng. Ngoài ra phần mềm cũng giải quyết được những bài toán phức tạp trong hoàn thiện như: Trát dầm, hoàn thiện vệ sinh, nhiều lớp hoàn thiện với cao độ khác nhau."
+          },
+          {
+            "title": "Xuất báo cáo tự động",
+            "description": "Không chỉ phục vụ việc diễn giải, từ các bảng báo cáo số liệu CubiCost cũng cho chúng ta công cụ kiểm tra ngược trên mô hình nếu phát hiện có khối lượng đáng nghi ngờ nào. Giúp cho việc kiểm soát khối lượng đơn giản và hiệu quả hơn rất nhiều"
+          },
+          {
+            "title": "VÀ CÒN HƠN THẾ NỮA ...",
+            "description": "Cũng giống như các phần mềm trên nền tảng BIM, công việc chủ yếu là ở khâu mô hình, và sau khi mô hình xong thì chỉ cần 1 click chuột là phần mềm sẽ tự động tính toán trong thời gian rất ngắn là chúng ta đã có những báo cáo tự động có kèm theo diễn giải rất chi tiết. Báo cáo này còn có thể tuỳ chỉnh theo nhu cầu như báo cáo theo cấu kiện, theo zone, theo nhà thầu, theo ngày tháng, ..."
+          },
+          {
+            "title": "Hỗ trợ làm việc nhóm",
+            "description": "Hỗ trợ tính năng làm việc nhóm đối với những dự án lớn, CubiCost hỗ trợ chia sẻ mô hình và làm việc nhóm giúp tăng hiệu quả cùng năng suất lao động cũng như tiết kiệm thời gian thực hiện."
+          },
+          {
+            "title": "Hỗ trợ tiêu chuẩn Việt Nam",
+            "description": "Việc tính toán ván cột, dầm sàn khá mất thời gian và không chính xác hoặc những phần tính toán khối lượng cột giao với dầm thì ưu tiên tính khối lượng nào trước. CubiCost hoàn toàn cho chúng ta công cụ để tuỳ chỉnh và thiết lập quy tắc tính toán. Và một điều rất tuyệt vời nữa là phần mềm hoàn toàn tích hợp quy chuẩn Việt Nam trong đo bóc khối lượng"
+          }
+        ],
+        "title": "Hoàn thiện thông minh",
+        "subtitle": "Diễn giải 3D trên mô hình BIM",
+        "description": "Việc diễn giải khối lượng đã trở nên đơn giản hơn rất nhiều khi CubiCost hỗ trợ việc diễn giải trên mô hình BIM với những diễn giải rất chi tiết từ công thức tính toán tới trình tự tính toán."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.020Z",
+      "updated_at_utc": "2026-10-28T01:12:41.020Z"
+    },
+    {
+      "landing_page_section_id": "de5d1081-de4d-491c-b822-c82083a746c4",
+      "landing_page_id": "003a4a2d-9fac-4c36-9626-50be931c873a",
+      "landing_section_type_code": "catalog",
+      "section_anchor_id": "SECTION580",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Xuất báo cáo tự động",
+            "description": "Không chỉ phục vụ việc diễn giải, từ các bảng báo cáo số liệu CubiCost cũng cho chúng ta công cụ kiểm tra ngược trên mô hình nếu phát hiện có khối lượng đáng nghi ngờ nào. Giúp cho việc kiểm soát khối lượng đơn giản và hiệu quả hơn rất nhiều"
+          },
+          {
+            "title": "VÀ CÒN HƠN THẾ NỮA ...",
+            "description": "Cũng giống như các phần mềm trên nền tảng BIM, công việc chủ yếu là ở khâu mô hình, và sau khi mô hình xong thì chỉ cần 1 click chuột là phần mềm sẽ tự động tính toán trong thời gian rất ngắn là chúng ta đã có những báo cáo tự động có kèm theo diễn giải rất chi tiết. Báo cáo này còn có thể tuỳ chỉnh theo nhu cầu như báo cáo theo cấu kiện, theo zone, theo nhà thầu, theo ngày tháng, ..."
+          },
+          {
+            "title": "Hỗ trợ làm việc nhóm",
+            "description": "Hỗ trợ tính năng làm việc nhóm đối với những dự án lớn, CubiCost hỗ trợ chia sẻ mô hình và làm việc nhóm giúp tăng hiệu quả cùng năng suất lao động cũng như tiết kiệm thời gian thực hiện."
+          },
+          {
+            "title": "Hỗ trợ tiêu chuẩn Việt Nam",
+            "description": "Việc tính toán ván cột, dầm sàn khá mất thời gian và không chính xác hoặc những phần tính toán khối lượng cột giao với dầm thì ưu tiên tính khối lượng nào trước. CubiCost hoàn toàn cho chúng ta công cụ để tuỳ chỉnh và thiết lập quy tắc tính toán. Và một điều rất tuyệt vời nữa là phần mềm hoàn toàn tích hợp quy chuẩn Việt Nam trong đo bóc khối lượng"
+          },
+          {
+            "title": "DỊCH VỤ ĐÀO TẠO BIM 5D",
+            "description": "Khi khách hàng trang bị phần mềm Cubicost , CIC sẽ triển khai Dịch vụ đào tạo phần mềm bóc tách khối lượng trên nền tảng BIM 5D bằng phần mềm Cubicost giúp doanh nghiệp khai thác tối đa nền tảng BIM: ⦁ Đội ngũ chuyên gia đào tạo chuyên sâu, giàu kinh nghiệm về nền tảng BIM nói chung và phần mềm Cubicost nói riêng ⦁ Song hành đào tạo cùng triển khai trên dự án thực tế, đem lại khả năng ứng dụng cao nhất ⦁ So sánh, đối chiếu với khối lượng bóc tay ⦁ Hỗ trợ liên tục sau đào tạo Để được tư vấn, vui lòng liên hệ: Mr.Hưng - 088 691 6666"
+          },
+          {
+            "title": "KHÁCH HÀNG CỦA CHÚNG TÔI",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          }
+        ],
+        "title": "Kiểm tra trên mô hình BIM",
+        "subtitle": "Xuất báo cáo tự động",
+        "description": "Không chỉ phục vụ việc diễn giải, từ các bảng báo cáo số liệu CubiCost cũng cho chúng ta công cụ kiểm tra ngược trên mô hình nếu phát hiện có khối lượng đáng nghi ngờ nào. Giúp cho việc kiểm soát khối lượng đơn giản và hiệu quả hơn rất nhiều"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.024Z",
+      "updated_at_utc": "2026-10-28T01:12:41.024Z"
+    },
+    {
+      "landing_page_section_id": "42c57624-9fc0-4d39-895b-919496f0c47a",
+      "landing_page_id": "003a4a2d-9fac-4c36-9626-50be931c873a",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "SECTION853",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "KHÁCH HÀNG CỦA CHÚNG TÔI",
+            "description": "Khi khách hàng trang bị phần mềm Cubicost , CIC sẽ triển khai Dịch vụ đào tạo phần mềm bóc tách khối lượng trên nền tảng BIM 5D bằng phần mềm Cubicost giúp doanh nghiệp khai thác tối đa nền tảng BIM: ⦁ Đội ngũ chuyên gia đào tạo chuyên sâu, giàu kinh nghiệm về nền tảng BIM nói chung và phần mềm Cubicost nói riêng ⦁ Song hành đào tạo cùng triển khai trên dự án thực tế, đem lại khả năng ứng dụng cao nhất ⦁ So sánh, đối chiếu với khối lượng bóc tay ⦁ Hỗ trợ liên tục sau đào tạo Để được tư vấn, vui lòng liên hệ: Mr.Hưng - 088 691 6666"
+          },
+          {
+            "title": "LIÊN HỆ",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Điền thông tin nhận tư vấn & bản dùng thử",
+            "description": "Vui lòng điền đúng thông tin, chúng tôi sẽ liên hệ tư vấn và gửi bản dùng thử qua email của bạn"
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "Khi khách hàng trang bị phần mềm Cubicost , CIC sẽ triển khai Dịch vụ đào tạo phần mềm bóc tách khối lượng trên nền tảng BIM 5D bằng phần mềm Cubicost giúp doanh nghiệp khai thác tối đa nền tảng BIM: ⦁ Đội ngũ chuyên gia đào tạo chuyên sâu, giàu kinh nghiệm về nền tảng BIM nói chung và phần mềm Cubicost nói riêng ⦁ Song hành đào tạo cùng triển khai trên dự án thực tế, đem lại khả năng ứng dụng cao nhất ⦁ So sánh, đối chiếu với khối lượng bóc tay ⦁ Hỗ trợ liên tục sau đào tạo Để được tư vấn, vui lòng liên hệ: Mr.Hưng - 088 691 6666"
+          },
+          {
+            "title": "Hotline: 088 691 6666 - 088 645 2020 (miền Nam)",
+            "description": "Khi khách hàng trang bị phần mềm Cubicost , CIC sẽ triển khai Dịch vụ đào tạo phần mềm bóc tách khối lượng trên nền tảng BIM 5D bằng phần mềm Cubicost giúp doanh nghiệp khai thác tối đa nền tảng BIM: ⦁ Đội ngũ chuyên gia đào tạo chuyên sâu, giàu kinh nghiệm về nền tảng BIM nói chung và phần mềm Cubicost nói riêng ⦁ Song hành đào tạo cùng triển khai trên dự án thực tế, đem lại khả năng ứng dụng cao nhất ⦁ So sánh, đối chiếu với khối lượng bóc tay ⦁ Hỗ trợ liên tục sau đào tạo Để được tư vấn, vui lòng liên hệ: Mr.Hưng - 088 691 6666"
+          },
+          {
+            "title": "Email: info@cic.com.vn",
+            "description": "Khi khách hàng trang bị phần mềm Cubicost , CIC sẽ triển khai Dịch vụ đào tạo phần mềm bóc tách khối lượng trên nền tảng BIM 5D bằng phần mềm Cubicost giúp doanh nghiệp khai thác tối đa nền tảng BIM: ⦁ Đội ngũ chuyên gia đào tạo chuyên sâu, giàu kinh nghiệm về nền tảng BIM nói chung và phần mềm Cubicost nói riêng ⦁ Song hành đào tạo cùng triển khai trên dự án thực tế, đem lại khả năng ứng dụng cao nhất ⦁ So sánh, đối chiếu với khối lượng bóc tay ⦁ Hỗ trợ liên tục sau đào tạo Để được tư vấn, vui lòng liên hệ: Mr.Hưng - 088 691 6666"
+          }
+        ],
+        "title": "DỊCH VỤ ĐÀO TẠO BIM 5D",
+        "subtitle": "KHÁCH HÀNG CỦA CHÚNG TÔI",
+        "description": "Khi khách hàng trang bị phần mềm Cubicost , CIC sẽ triển khai Dịch vụ đào tạo phần mềm bóc tách khối lượng trên nền tảng BIM 5D bằng phần mềm Cubicost giúp doanh nghiệp khai thác tối đa nền tảng BIM: ⦁ Đội ngũ chuyên gia đào tạo chuyên sâu, giàu kinh nghiệm về nền tảng BIM nói chung và phần mềm Cubicost nói riêng ⦁ Song hành đào tạo cùng triển khai trên dự án thực tế, đem lại khả năng ứng dụng cao nhất ⦁ So sánh, đối chiếu với khối lượng bóc tay ⦁ Hỗ trợ liên tục sau đào tạo Để được tư vấn, vui lòng liên hệ: Mr.Hưng - 088 691 6666"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.028Z",
+      "updated_at_utc": "2026-10-28T01:12:41.028Z"
+    },
+    {
+      "landing_page_section_id": "f4b7ce10-d87a-4d08-9507-b63d02d71fbf",
+      "landing_page_id": "003a4a2d-9fac-4c36-9626-50be931c873a",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "SECTION671",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "LIÊN HỆ",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Điền thông tin nhận tư vấn & bản dùng thử",
+            "description": "Vui lòng điền đúng thông tin, chúng tôi sẽ liên hệ tư vấn và gửi bản dùng thử qua email của bạn"
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Hotline: 088 691 6666 - 088 645 2020 (miền Nam)",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Email: info@cic.com.vn",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Website: https://www.cic.com.vn",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          }
+        ],
+        "title": "KHÁCH HÀNG CỦA CHÚNG TÔI",
+        "subtitle": "LIÊN HỆ",
+        "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.035Z",
+      "updated_at_utc": "2026-10-28T01:12:41.035Z"
+    },
+    {
+      "landing_page_section_id": "5714a010-5697-434a-bbef-a7a67b99fd62",
+      "landing_page_id": "003a4a2d-9fac-4c36-9626-50be931c873a",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "SECTION704",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Điền thông tin nhận tư vấn & bản dùng thử",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "Vui lòng điền đúng thông tin, chúng tôi sẽ liên hệ tư vấn và gửi bản dùng thử qua email của bạn"
+          },
+          {
+            "title": "Hotline: 088 691 6666 - 088 645 2020 (miền Nam)",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Email: info@cic.com.vn",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Website: https://www.cic.com.vn",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Vui lòng để lại thông tin, chúng tôi sẽ gửi bản dùng thử qua email của bạn:",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          }
+        ],
+        "title": "LIÊN HỆ",
+        "subtitle": "Điền thông tin nhận tư vấn & bản dùng thử",
+        "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.040Z",
+      "updated_at_utc": "2026-10-28T01:12:41.040Z"
+    }
+  ],
+  "forms": [
+    {
+      "landing_form_id": "a81667ca-ee73-4791-8db6-f3189841d24c",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "form_code": "consultation_form",
+      "form_name": "Biểu mẫu Đăng ký Tư vấn & Báo giá (cubicost)",
+      "fields_schema_json": [
+        {
+          "name": "full_name",
+          "type": "text",
+          "label": "Họ và tên",
+          "required": true,
+          "placeholder": "Nhập họ và tên của bạn"
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "label": "Số điện thoại",
+          "required": true,
+          "placeholder": "Nhập số điện thoại liên hệ"
+        },
+        {
+          "name": "email",
+          "type": "email",
+          "label": "Email công việc",
+          "required": true,
+          "placeholder": "name@company.com"
+        },
+        {
+          "name": "company",
+          "type": "text",
+          "label": "Đơn vị / Công ty",
+          "required": false,
+          "placeholder": "Tên doanh nghiệp / tổ chức"
+        },
+        {
+          "name": "request_type",
+          "type": "select",
+          "label": "Nhu cầu tư vấn",
+          "options": [
+            {
+              "label": "Đăng ký dùng thử & Tài liệu kỹ thuật",
+              "value": "trial"
+            },
+            {
+              "label": "Nhận báo giá bản quyền / thiết bị",
+              "value": "quote"
+            },
+            {
+              "label": "Tư vấn giải pháp & Demo trực tiếp",
+              "value": "consultation"
+            }
+          ],
+          "required": true
+        }
+      ],
+      "notification_emails_json": [
+        "info@cic.com.vn"
+      ],
+      "google_sheet_config_json": {
+        "sheet_name": "CUBICOST",
+        "spreadsheet_id": ""
+      },
+      "success_action": "modal_download",
+      "success_payload_json": {
+        "message": "Cảm ơn quý khách! Chuyên gia CIC sẽ liên hệ tư vấn trong thời gian sớm nhất.",
+        "modal_title": "Đăng ký thành công!",
+        "modal_description": "Quý khách có thể tải xuống tài liệu Brochure giới thiệu giải pháp ngay bên dưới:",
+        "default_download_url": "/api/landing/media/cubicost/downloads/brochure.pdf"
+      },
+      "is_form_active": true,
+      "created_at_utc": "2026-10-28T01:12:42.606Z",
+      "updated_at_utc": "2026-10-28T01:12:42.606Z"
+    }
+  ],
+  "media": [
+    {
+      "landing_media_asset_id": "1d37bfc9-126a-4c19-885d-d26cbed71136",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "cubicost-logo-20200325034634",
+      "file_name": "cubicost-logo-20200325034634.png",
+      "file_path": "ladicdn/w.ladicdn.com/s650x400/5e410597f4aa8d0f29888a88/cubicost-logo-20200325034634.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "52638",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - cubicost-logo-20200325034634.png",
+      "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - cubicost-logo-20200325034634.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.927Z",
+      "updated_at_utc": "2026-10-28T01:12:47.927Z"
+    },
+    {
+      "landing_media_asset_id": "606babf7-a2cb-4a10-aa06-fefe71b01a3a",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "cubicost-logo-20200325034634",
+      "file_name": "cubicost-logo-20200325034634.png",
+      "file_path": "ladicdn/w.ladicdn.com/s700x400/5e410597f4aa8d0f29888a88/cubicost-logo-20200325034634.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "52638",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - cubicost-logo-20200325034634.png",
+      "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - cubicost-logo-20200325034634.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.938Z",
+      "updated_at_utc": "2026-10-28T01:12:47.938Z"
+    },
+    {
+      "landing_media_asset_id": "f5da23df-6ac8-4c0b-9162-7a618d022265",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "logocic-20191218034215",
+      "file_name": "logocic-20191218034215.png",
+      "file_path": "ladicdn/w.ladicdn.com/s500x400/5def5421715a2921b62e6a5d/logocic-20191218034215.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "27655",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - logocic-20191218034215.png",
+      "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - logocic-20191218034215.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.950Z",
+      "updated_at_utc": "2026-10-28T01:12:47.950Z"
+    },
+    {
+      "landing_media_asset_id": "a1de1175-e1c2-43f0-971d-fdb03035430e",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "logocic-20191218034215",
+      "file_name": "logocic-20191218034215.png",
+      "file_path": "ladicdn/w.ladicdn.com/s600x450/5def5421715a2921b62e6a5d/logocic-20191218034215.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "27655",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - logocic-20191218034215.png",
+      "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - logocic-20191218034215.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.957Z",
+      "updated_at_utc": "2026-10-28T01:12:47.957Z"
+    },
+    {
+      "landing_media_asset_id": "ac0da401-87f3-42fd-b9fb-01a7451ab145",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "logo-cic-20200221081126",
+      "file_name": "logo-cic-20200221081126.png",
+      "file_path": "ladicdn/w.ladicdn.com/s450x350/5e410597f4aa8d0f29888a88/logo-cic-20200221081126.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "13252",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - logo-cic-20200221081126.png",
+      "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - logo-cic-20200221081126.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.967Z",
+      "updated_at_utc": "2026-10-28T01:12:47.967Z"
+    },
+    {
+      "landing_media_asset_id": "8d2517d8-6f8c-4eb0-8328-3ae981fae533",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "cubicost-favicon-20200327013432",
+      "file_name": "cubicost-favicon-20200327013432.png",
+      "file_path": "ladicdn/static.ladipage.net/5e410597f4aa8d0f29888a88/cubicost-favicon-20200327013432.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "34288",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - cubicost-favicon-20200327013432.png",
+      "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - cubicost-favicon-20200327013432.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.973Z",
+      "updated_at_utc": "2026-10-28T01:12:47.973Z"
+    },
+    {
+      "landing_media_asset_id": "df64f2fc-575f-4f6a-84a0-668a6fdf8ce1",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "lam-viec-nhom-20200330021101",
+      "file_name": "lam-viec-nhom-20200330021101.png",
+      "file_path": "ladicdn/w.ladicdn.com/s700x550/5e410597f4aa8d0f29888a88/lam-viec-nhom-20200330021101.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "523652",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - lam-viec-nhom-20200330021101.png",
+      "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - lam-viec-nhom-20200330021101.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:47.985Z",
+      "updated_at_utc": "2026-10-28T01:12:47.985Z"
+    },
+    {
+      "landing_media_asset_id": "5dd5c838-e122-436c-9a70-a064b3b7d909",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "lam-viec-nhom-20200330021101",
+      "file_name": "lam-viec-nhom-20200330021101.png",
+      "file_path": "ladicdn/w.ladicdn.com/s750x550/5e410597f4aa8d0f29888a88/lam-viec-nhom-20200330021101.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "523652",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - lam-viec-nhom-20200330021101.png",
+      "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - lam-viec-nhom-20200330021101.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:48.027Z",
+      "updated_at_utc": "2026-10-28T01:12:48.027Z"
+    },
+    {
+      "landing_media_asset_id": "15f0fa79-bd04-4a1d-9120-2dc38e49eefe",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "3246-20200330021406",
+      "file_name": "3246-20200330021406.jpg",
+      "file_path": "ladicdn/w.ladicdn.com/s768x1065/5e410597f4aa8d0f29888a88/3246-20200330021406.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "318832",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - 3246-20200330021406.jpg",
+      "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - 3246-20200330021406.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:48.071Z",
+      "updated_at_utc": "2026-10-28T01:12:48.071Z"
+    },
+    {
+      "landing_media_asset_id": "a010674d-2c53-4f02-a038-1030d1a0cc4d",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "3246-20200330021406",
+      "file_name": "3246-20200330021406.jpg",
+      "file_path": "ladicdn/w.ladicdn.com/s1440x720/5e410597f4aa8d0f29888a88/3246-20200330021406.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "267414",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - 3246-20200330021406.jpg",
+      "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - 3246-20200330021406.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:48.104Z",
+      "updated_at_utc": "2026-10-28T01:12:48.104Z"
+    },
+    {
+      "landing_media_asset_id": "7e2a9a65-1378-4a06-ad0c-0b268cfb6414",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "call-icon-5-20200327021012",
+      "file_name": "call-icon-5-20200327021012.gif",
+      "file_path": "ladicdn/w.ladicdn.com/5e410597f4aa8d0f29888a88/call-icon-5-20200327021012.gif",
+      "mime_type": "image/gif",
+      "file_size_bytes": "234938",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - call-icon-5-20200327021012.gif",
+      "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - call-icon-5-20200327021012.gif",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:48.135Z",
+      "updated_at_utc": "2026-10-28T01:12:48.135Z"
+    },
+    {
+      "landing_media_asset_id": "ec9cad0f-d7b6-406c-b93d-c02ac000e9b6",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "bao-gia-20200330064910",
+      "file_name": "bao-gia-20200330064910.png",
+      "file_path": "ladicdn/w.ladicdn.com/s450x400/5e410597f4aa8d0f29888a88/bao-gia-20200330064910.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "218164",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - bao-gia-20200330064910.png",
+      "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - bao-gia-20200330064910.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:48.170Z",
+      "updated_at_utc": "2026-10-28T01:12:48.170Z"
+    },
+    {
+      "landing_media_asset_id": "19d12c75-ce3a-4f60-840a-f7b80009023b",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "duoi-20200330020620",
+      "file_name": "duoi-20200330020620.png",
+      "file_path": "ladicdn/w.ladicdn.com/s850x550/5e410597f4aa8d0f29888a88/duoi-20200330020620.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "202594",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - duoi-20200330020620.png",
+      "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - duoi-20200330020620.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:48.197Z",
+      "updated_at_utc": "2026-10-28T01:12:48.197Z"
+    },
+    {
+      "landing_media_asset_id": "bacb24fe-229a-4b28-b211-395be79062bd",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "bao-cao-20200326081647",
+      "file_name": "bao-cao-20200326081647.png",
+      "file_path": "ladicdn/w.ladicdn.com/s700x550/5e410597f4aa8d0f29888a88/bao-cao-20200326081647.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "184797",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - bao-cao-20200326081647.png",
+      "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - bao-cao-20200326081647.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:48.257Z",
+      "updated_at_utc": "2026-10-28T01:12:48.257Z"
+    },
+    {
+      "landing_media_asset_id": "03cf4ab9-c66f-4f10-ba4d-ecb6520b2590",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "bao-cao-20200326081647",
+      "file_name": "bao-cao-20200326081647.png",
+      "file_path": "ladicdn/w.ladicdn.com/s750x550/5e410597f4aa8d0f29888a88/bao-cao-20200326081647.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "184797",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - bao-cao-20200326081647.png",
+      "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - bao-cao-20200326081647.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:48.325Z",
+      "updated_at_utc": "2026-10-28T01:12:48.325Z"
+    },
+    {
+      "landing_media_asset_id": "a26754c8-810f-45d7-8480-a8f4d1bcac90",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "23185-20200330021406",
+      "file_name": "23185-20200330021406.jpg",
+      "file_path": "ladicdn/w.ladicdn.com/s768x732/5e410597f4aa8d0f29888a88/23185-20200330021406.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "171649",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - 23185-20200330021406.jpg",
+      "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM - 23185-20200330021406.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:48.385Z",
+      "updated_at_utc": "2026-10-28T01:12:48.385Z"
+    },
+    {
+      "landing_media_asset_id": "b99833d1-416c-4fc0-bc06-0e77b101cae6",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "brand_logo",
+      "file_name": "logo.png",
+      "file_path": "images/logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "52638",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM Logo",
+      "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM Logo",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:48.403Z",
+      "updated_at_utc": "2026-10-28T01:12:48.403Z"
+    },
+    {
+      "landing_media_asset_id": "f1543cb3-895d-478c-95b9-994486bf1232",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "favicon",
+      "file_name": "favicon.ico",
+      "file_path": "images/favicon.ico",
+      "mime_type": "image/x-icon",
+      "file_size_bytes": "34288",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Favicon",
+      "alt_text_en": "Favicon",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:48.415Z",
+      "updated_at_utc": "2026-10-28T01:12:48.415Z"
+    },
+    {
+      "landing_media_asset_id": "c8fc8255-e617-41ae-915b-f696cca54cac",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "hero_banner",
+      "file_name": "hero.png",
+      "file_path": "images/hero.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "52638",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM Hero",
+      "alt_text_en": "Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM Hero",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:48.424Z",
+      "updated_at_utc": "2026-10-28T01:12:48.424Z"
+    },
+    {
+      "landing_media_asset_id": "cd63b5f8-1e51-4500-9a68-26155153f0a1",
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "media_slot_code": "brochure_pdf",
+      "file_name": "brochure.pdf",
+      "file_path": "downloads/brochure.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": "671641",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Tài liệu Brochure Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM",
+      "alt_text_en": "Brochure Phần mềm BIM CubiCost — Giải pháp Bóc tách Khối lượng & Dự toán 5D BIM",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:48.439Z",
+      "updated_at_utc": "2026-10-28T01:12:48.439Z"
+    }
+  ],
+  "leads": [],
+  "pageViews": [
+    {
+      "landing_site_id": "7bc190e6-5774-4ec3-8871-d13191b78f04",
+      "view_date": "2026-10-27",
+      "views_count": 3,
+      "unique_visitors_count": 1
+    }
+  ],
+  "adminAccounts": [
+    {
+      "username": "cubicost_admin",
+      "password_hash": "4a208b7ff43bd0a71c3bb331db13040694d36bd9e34b5d9ed62d0be880dc5b58",
+      "display_name": "Quản trị viên Phần mềm BIM CubiCost",
+      "role": "site_admin",
+      "landing_site_code": "cubicost",
+      "is_active": true
+    },
+    {
+      "username": "admin",
+      "password_hash": "2e6c21501300cc6fa4d50597c1c483c802b6d9f00f119f004d8344f663129109",
+      "display_name": "Quản trị Tổng CIC",
+      "role": "super_admin",
+      "landing_site_code": null,
+      "is_active": true
+    }
+  ]
+}

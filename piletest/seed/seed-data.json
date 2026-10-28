@@ -1,0 +1,1000 @@
+{
+  "exportedAt": "2026-10-28T01:16:49.461Z",
+  "targetSiteCode": "piletest",
+  "sectionTypes": [
+    {
+      "landing_section_type_code": "advantages",
+      "landing_section_type_name": "Ưu Điểm Vượt Trội",
+      "category": "feature",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.707Z",
+      "updated_at_utc": "2026-10-28T01:12:40.707Z"
+    },
+    {
+      "landing_section_type_code": "catalog",
+      "landing_section_type_name": "Danh Mục Tính Năng / Giải Pháp",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.719Z",
+      "updated_at_utc": "2026-10-28T01:12:40.719Z"
+    },
+    {
+      "landing_section_type_code": "comparison",
+      "landing_section_type_name": "Bảng So Sánh & Các Gói Bản Quyền",
+      "category": "comparison",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.725Z",
+      "updated_at_utc": "2026-10-28T01:12:40.725Z"
+    },
+    {
+      "landing_section_type_code": "consultation_form",
+      "landing_section_type_name": "Form Đăng Ký Tư Vấn & Tải Dùng Thử",
+      "category": "form",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.731Z",
+      "updated_at_utc": "2026-10-28T01:12:40.731Z"
+    },
+    {
+      "landing_section_type_code": "faq",
+      "landing_section_type_name": "Câu Hỏi Thường Gặp (FAQ)",
+      "category": "faq",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.739Z",
+      "updated_at_utc": "2026-10-28T01:12:40.739Z"
+    },
+    {
+      "landing_section_type_code": "floating_cta",
+      "landing_section_type_name": "Nút Liên Hệ Nổi (Floating CTA)",
+      "category": "cta",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.743Z",
+      "updated_at_utc": "2026-10-28T01:12:40.743Z"
+    },
+    {
+      "landing_section_type_code": "footer",
+      "landing_section_type_name": "Chân Trang (Footer)",
+      "category": "footer",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.750Z",
+      "updated_at_utc": "2026-10-28T01:12:40.750Z"
+    },
+    {
+      "landing_section_type_code": "header",
+      "landing_section_type_name": "Thanh Điều Hướng (Header)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.756Z",
+      "updated_at_utc": "2026-10-28T01:12:40.756Z"
+    },
+    {
+      "landing_section_type_code": "hero",
+      "landing_section_type_name": "Banner Chính (Hero Section)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.762Z",
+      "updated_at_utc": "2026-10-28T01:12:40.762Z"
+    },
+    {
+      "landing_section_type_code": "infrastructure",
+      "landing_section_type_name": "Infrastructure & Specialized Machinery",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.769Z",
+      "updated_at_utc": "2026-10-28T01:12:40.769Z"
+    },
+    {
+      "landing_section_type_code": "intro",
+      "landing_section_type_name": "Giới Thiệu Tổng Quan & Thống Kê",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.773Z",
+      "updated_at_utc": "2026-10-28T01:12:40.773Z"
+    },
+    {
+      "landing_section_type_code": "requirements",
+      "landing_section_type_name": "Yêu Cầu Cấu Hình Hệ Thống",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.777Z",
+      "updated_at_utc": "2026-10-28T01:12:40.777Z"
+    },
+    {
+      "landing_section_type_code": "resources",
+      "landing_section_type_name": "Tài Nguyên & Thư Viện Hỗ Trợ",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.781Z",
+      "updated_at_utc": "2026-10-28T01:12:40.781Z"
+    },
+    {
+      "landing_section_type_code": "video_slider",
+      "landing_section_type_name": "YouTube Video Showcase Slider",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.789Z",
+      "updated_at_utc": "2026-10-28T01:12:40.789Z"
+    }
+  ],
+  "sites": [
+    {
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "landing_site_code": "piletest",
+      "landing_site_name": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi (LadiPage)",
+      "landing_site_type": "landing",
+      "primary_domain": "piletest.cic.com.vn",
+      "custom_domains_json": [
+        "piletest.cic.com.vn",
+        "www.piletest.cic.com.vn"
+      ],
+      "supported_locales_json": [
+        "vi"
+      ],
+      "default_locale": "vi",
+      "site_status": "active",
+      "brand_config_json": {
+        "email": "info@cic.com.vn",
+        "address": "Tòa nhà CIC, 37 Lê Văn Thiêm, Nhân Chính, Thanh Xuân, Hà Nội",
+        "hotline": "0866 059 659",
+        "logo_alt": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi",
+        "logo_url": "/api/landing/media/piletest/images/logo.png",
+        "favicon_url": "/api/landing/media/piletest/images/favicon.ico",
+        "primary_color": "#0284c7",
+        "hosting_origin": "LadiPage",
+        "bitrix_loader_url": "https://crm.cic.com.vn/upload/crm/site_button/loader_6_sawqsz.js"
+      },
+      "seo_meta_json": {
+        "title": "Piletest — Thiết bị Siêu âm Cọc khoan nhồi Chính hãng",
+        "keywords": "Piletest, thiết bị siêu âm cọc khoan nhồi, kiểm định cọc bê tông, thí nghiệm móng cọc, CHUM, PET, CIC",
+        "og_image": "/api/landing/media/piletest/images/hero.png",
+        "description": "Thiết bị thí nghiệm siêu âm cọc khoan nhồi, kiểm tra độ đồng nhất bê tông móng cọc công nghệ hiện đại từ Piletest phân phối chính hãng bởi CIC."
+      },
+      "tracking_config_json": {
+        "ga4_id": "",
+        "gtm_id": "GTM-W5S3HD9",
+        "fb_pixel_id": ""
+      },
+      "created_at_utc": "2026-10-28T01:12:40.852Z",
+      "updated_at_utc": "2026-10-28T01:12:40.852Z"
+    }
+  ],
+  "pages": [
+    {
+      "landing_page_id": "6b09936d-b0a8-4a02-800b-8b527479a08d",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "landing_page_slug": "home",
+      "landing_page_locale": "vi",
+      "page_title": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi",
+        "keywords": "Piletest, thiết bị siêu âm cọc khoan nhồi, kiểm định cọc bê tông, thí nghiệm móng cọc, CHUM, PET, CIC",
+        "og_image": "/api/landing/media/piletest/images/hero.png",
+        "description": "Thiết bị thí nghiệm siêu âm cọc khoan nhồi, kiểm tra độ đồng nhất bê tông móng cọc công nghệ hiện đại từ Piletest phân phối chính hãng bởi CIC."
+      },
+      "published_at_utc": "2026-10-27T02:49:16.301Z",
+      "created_at_utc": "2026-10-28T01:12:40.890Z",
+      "updated_at_utc": "2026-10-28T01:12:40.890Z"
+    }
+  ],
+  "sections": [
+    {
+      "landing_page_section_id": "66e92c70-c1d2-4982-aef0-5818ff606c6d",
+      "landing_page_id": "6b09936d-b0a8-4a02-800b-8b527479a08d",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "SECTION191",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "CHUM - Cross Hole Ultrasonic Monitor",
+            "description": "0976 268 036"
+          },
+          {
+            "title": "PET - Pile Echo Tester",
+            "description": "Bảo hành 3 năm và hoàn tiền trong 30 ngày Chính xác, hiệu quả và dễ sử dụng 10 năm nâng cấp phần mềm hoàn toàn miễn phí Liên kết đa dạng nền tảng (Windows, Android, laptop, tablet, Smartphone) 24 năm kinh nghiệm trong phát triển hệ thống kiểm tra chất lượng và độ bền của cọc công trình."
+          },
+          {
+            "title": "BIT - Borehole Inclination Tester",
+            "description": "Cross Hole Ultrasonic Monitor (CHUM) sử dụng phương pháp Crosshole Sonic Logging (CSL) để thực hiện việc kiểm tra chất lượng các hệ thống móng sâu. Hệ thống sử dụng sóng siêu âm được gửi đi từ đầu phát tới đầu thu qua môi trường ống có đầy nước được nhúng trong lòng bê tông. Chất lượng bê tông được thể hiện trên phần mềm CHUM. Đầu phát và đầu thu có thể lắp lẫn giúp giảm chi phí cho hàng lưu kho. Không giống với các hệ thống sử dụng máy tính nhúng (có thể sắp bị lỗi thời) khác, CHUM có sẵn kết nối tới các cổng USB của máy tính xách tay hoặc máy tính bảng thông thường."
+          },
+          {
+            "title": "PSI - Parallel Seismic Instrument",
+            "description": "Piletest’s Pile Echo Tester (PET) là một giải pháp cơ động cao, thân thiện với người sử dụng trong việc kiểm tra một số lượng lớn các hệ móng sâu một cách nhanh chóng và chính xác. Không đòi hỏi phải mất nhiều thời gian đào tạo, PET là một hệ mô đun độc lập, dễ dàng kết nối với máy tính, điện thoại thông qua kết nối USB hoặc bluetooth. Để kiểm tra 1 cọc, người sử dụng dùng búa nhẹ trong gói dụng cụ, gõ vào cọc. Tín hiệu kết quả (còn gọi là biểu đồ phản ứng) được ghi lại và phân tích bằng gia tốc kế số của PET, từ đó cung cấp các thông tin về chiều dài và hình dạng của cọc."
+          },
+          {
+            "title": "Ưu đãi đặc biệt",
+            "description": "BIT - Borehole Inclination Tester không giống như các hệ thống truyền thống, BIT sử dụng luôn bản thân mũi khoan của máy khoan làm trục thẳng đứng, cho phép loại trừ những hệ thống cồng kênh, khó di chuyển, nhằm xác định độ nghiêng của cọc trong cả lỗ khoan khô và ướt. Đối với những lỗ khoan lớn, chỉ cần thực hiện xác định độ nghiêng vài lần trong quá trình đào nhằm có thể điều chỉnh kịp thời. Độ nghiêng của cọc đã hoàn thành có thể được đo thông qua ống siêu âm chôn sẵn. Đặc biệt, BIT đo độ nghiên của cọc theo 2 phương chỉ với 1 lần đo."
+          },
+          {
+            "title": "NHẬN TƯ VẤN",
+            "description": "PSI - Parallel Seismic Instrument sử dụng phương pháp địa chấn song song (Parallel Seismic) để xác định chiều sâu của các móng công trình hiện hữu (đặc biệt là cọc) khi mà các kết cấu bên trên không cho phép chạm tới đầu cọc."
+          }
+        ],
+        "title": "Thiết bị kiểm tra cọc công trình hàng đầu tới từ Israel",
+        "subtitle": "CHUM - Cross Hole Ultrasonic Monitor",
+        "description": "0976 268 036"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.645Z",
+      "updated_at_utc": "2026-10-28T01:12:41.645Z"
+    },
+    {
+      "landing_page_section_id": "8f2c1f05-166d-4049-b016-f3d5c754d258",
+      "landing_page_id": "6b09936d-b0a8-4a02-800b-8b527479a08d",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "SECTION191",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "CHUM - Cross Hole Ultrasonic Monitor",
+            "description": "0976 268 036"
+          },
+          {
+            "title": "PET - Pile Echo Tester",
+            "description": "Bảo hành 3 năm và hoàn tiền trong 30 ngày Chính xác, hiệu quả và dễ sử dụng 10 năm nâng cấp phần mềm hoàn toàn miễn phí Liên kết đa dạng nền tảng (Windows, Android, laptop, tablet, Smartphone) 24 năm kinh nghiệm trong phát triển hệ thống kiểm tra chất lượng và độ bền của cọc công trình."
+          },
+          {
+            "title": "BIT - Borehole Inclination Tester",
+            "description": "Cross Hole Ultrasonic Monitor (CHUM) sử dụng phương pháp Crosshole Sonic Logging (CSL) để thực hiện việc kiểm tra chất lượng các hệ thống móng sâu. Hệ thống sử dụng sóng siêu âm được gửi đi từ đầu phát tới đầu thu qua môi trường ống có đầy nước được nhúng trong lòng bê tông. Chất lượng bê tông được thể hiện trên phần mềm CHUM. Đầu phát và đầu thu có thể lắp lẫn giúp giảm chi phí cho hàng lưu kho. Không giống với các hệ thống sử dụng máy tính nhúng (có thể sắp bị lỗi thời) khác, CHUM có sẵn kết nối tới các cổng USB của máy tính xách tay hoặc máy tính bảng thông thường."
+          },
+          {
+            "title": "PSI - Parallel Seismic Instrument",
+            "description": "Piletest’s Pile Echo Tester (PET) là một giải pháp cơ động cao, thân thiện với người sử dụng trong việc kiểm tra một số lượng lớn các hệ móng sâu một cách nhanh chóng và chính xác. Không đòi hỏi phải mất nhiều thời gian đào tạo, PET là một hệ mô đun độc lập, dễ dàng kết nối với máy tính, điện thoại thông qua kết nối USB hoặc bluetooth. Để kiểm tra 1 cọc, người sử dụng dùng búa nhẹ trong gói dụng cụ, gõ vào cọc. Tín hiệu kết quả (còn gọi là biểu đồ phản ứng) được ghi lại và phân tích bằng gia tốc kế số của PET, từ đó cung cấp các thông tin về chiều dài và hình dạng của cọc."
+          },
+          {
+            "title": "Ưu đãi đặc biệt",
+            "description": "BIT - Borehole Inclination Tester không giống như các hệ thống truyền thống, BIT sử dụng luôn bản thân mũi khoan của máy khoan làm trục thẳng đứng, cho phép loại trừ những hệ thống cồng kênh, khó di chuyển, nhằm xác định độ nghiêng của cọc trong cả lỗ khoan khô và ướt. Đối với những lỗ khoan lớn, chỉ cần thực hiện xác định độ nghiêng vài lần trong quá trình đào nhằm có thể điều chỉnh kịp thời. Độ nghiêng của cọc đã hoàn thành có thể được đo thông qua ống siêu âm chôn sẵn. Đặc biệt, BIT đo độ nghiên của cọc theo 2 phương chỉ với 1 lần đo."
+          },
+          {
+            "title": "NHẬN TƯ VẤN",
+            "description": "PSI - Parallel Seismic Instrument sử dụng phương pháp địa chấn song song (Parallel Seismic) để xác định chiều sâu của các móng công trình hiện hữu (đặc biệt là cọc) khi mà các kết cấu bên trên không cho phép chạm tới đầu cọc."
+          }
+        ],
+        "title": "Thiết bị kiểm tra cọc công trình hàng đầu tới từ Israel",
+        "subtitle": "CHUM - Cross Hole Ultrasonic Monitor",
+        "description": "0976 268 036"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.651Z",
+      "updated_at_utc": "2026-10-28T01:12:41.651Z"
+    },
+    {
+      "landing_page_section_id": "41eb9c43-2329-414b-b423-afe7cfe390c1",
+      "landing_page_id": "6b09936d-b0a8-4a02-800b-8b527479a08d",
+      "landing_section_type_code": "intro",
+      "section_anchor_id": "SECTION23",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "PET - Pile Echo Tester",
+            "description": "Cross Hole Ultrasonic Monitor (CHUM) sử dụng phương pháp Crosshole Sonic Logging (CSL) để thực hiện việc kiểm tra chất lượng các hệ thống móng sâu. Hệ thống sử dụng sóng siêu âm được gửi đi từ đầu phát tới đầu thu qua môi trường ống có đầy nước được nhúng trong lòng bê tông. Chất lượng bê tông được thể hiện trên phần mềm CHUM. Đầu phát và đầu thu có thể lắp lẫn giúp giảm chi phí cho hàng lưu kho. Không giống với các hệ thống sử dụng máy tính nhúng (có thể sắp bị lỗi thời) khác, CHUM có sẵn kết nối tới các cổng USB của máy tính xách tay hoặc máy tính bảng thông thường."
+          },
+          {
+            "title": "BIT - Borehole Inclination Tester",
+            "description": "Piletest’s Pile Echo Tester (PET) là một giải pháp cơ động cao, thân thiện với người sử dụng trong việc kiểm tra một số lượng lớn các hệ móng sâu một cách nhanh chóng và chính xác. Không đòi hỏi phải mất nhiều thời gian đào tạo, PET là một hệ mô đun độc lập, dễ dàng kết nối với máy tính, điện thoại thông qua kết nối USB hoặc bluetooth. Để kiểm tra 1 cọc, người sử dụng dùng búa nhẹ trong gói dụng cụ, gõ vào cọc. Tín hiệu kết quả (còn gọi là biểu đồ phản ứng) được ghi lại và phân tích bằng gia tốc kế số của PET, từ đó cung cấp các thông tin về chiều dài và hình dạng của cọc."
+          },
+          {
+            "title": "PSI - Parallel Seismic Instrument",
+            "description": "BIT - Borehole Inclination Tester không giống như các hệ thống truyền thống, BIT sử dụng luôn bản thân mũi khoan của máy khoan làm trục thẳng đứng, cho phép loại trừ những hệ thống cồng kênh, khó di chuyển, nhằm xác định độ nghiêng của cọc trong cả lỗ khoan khô và ướt. Đối với những lỗ khoan lớn, chỉ cần thực hiện xác định độ nghiêng vài lần trong quá trình đào nhằm có thể điều chỉnh kịp thời. Độ nghiêng của cọc đã hoàn thành có thể được đo thông qua ống siêu âm chôn sẵn. Đặc biệt, BIT đo độ nghiên của cọc theo 2 phương chỉ với 1 lần đo."
+          },
+          {
+            "title": "Ưu đãi đặc biệt",
+            "description": "PSI - Parallel Seismic Instrument sử dụng phương pháp địa chấn song song (Parallel Seismic) để xác định chiều sâu của các móng công trình hiện hữu (đặc biệt là cọc) khi mà các kết cấu bên trên không cho phép chạm tới đầu cọc."
+          },
+          {
+            "title": "ĐĂNG KÝ NHẬN TƯ VẤN",
+            "description": "ĐỔI CŨ LẤY MỚI"
+          },
+          {
+            "title": "NHẬN TƯ VẤN",
+            "description": "Giảm ngay 30% giá mua sản phẩm Piletest khi khách hàng đổi trả thiết bị cũ Thiết bị đổi trả phải mang thương hiệu Piletest Chấp nhận mọi hình thức thiết bị cũ, bao gồm cả thiết bị đã hư hỏng"
+          }
+        ],
+        "title": "CHUM - Cross Hole Ultrasonic Monitor",
+        "subtitle": "PET - Pile Echo Tester",
+        "description": "Cross Hole Ultrasonic Monitor (CHUM) sử dụng phương pháp Crosshole Sonic Logging (CSL) để thực hiện việc kiểm tra chất lượng các hệ thống móng sâu. Hệ thống sử dụng sóng siêu âm được gửi đi từ đầu phát tới đầu thu qua môi trường ống có đầy nước được nhúng trong lòng bê tông. Chất lượng bê tông được thể hiện trên phần mềm CHUM. Đầu phát và đầu thu có thể lắp lẫn giúp giảm chi phí cho hàng lưu kho. Không giống với các hệ thống sử dụng máy tính nhúng (có thể sắp bị lỗi thời) khác, CHUM có sẵn kết nối tới các cổng USB của máy tính xách tay hoặc máy tính bảng thông thường."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.655Z",
+      "updated_at_utc": "2026-10-28T01:12:41.655Z"
+    },
+    {
+      "landing_page_section_id": "e0bd68cc-d3ee-4c7c-8a00-531979286ee8",
+      "landing_page_id": "6b09936d-b0a8-4a02-800b-8b527479a08d",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "SECTION7",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "BIT - Borehole Inclination Tester",
+            "description": "Piletest’s Pile Echo Tester (PET) là một giải pháp cơ động cao, thân thiện với người sử dụng trong việc kiểm tra một số lượng lớn các hệ móng sâu một cách nhanh chóng và chính xác. Không đòi hỏi phải mất nhiều thời gian đào tạo, PET là một hệ mô đun độc lập, dễ dàng kết nối với máy tính, điện thoại thông qua kết nối USB hoặc bluetooth. Để kiểm tra 1 cọc, người sử dụng dùng búa nhẹ trong gói dụng cụ, gõ vào cọc. Tín hiệu kết quả (còn gọi là biểu đồ phản ứng) được ghi lại và phân tích bằng gia tốc kế số của PET, từ đó cung cấp các thông tin về chiều dài và hình dạng của cọc."
+          },
+          {
+            "title": "PSI - Parallel Seismic Instrument",
+            "description": "BIT - Borehole Inclination Tester không giống như các hệ thống truyền thống, BIT sử dụng luôn bản thân mũi khoan của máy khoan làm trục thẳng đứng, cho phép loại trừ những hệ thống cồng kênh, khó di chuyển, nhằm xác định độ nghiêng của cọc trong cả lỗ khoan khô và ướt. Đối với những lỗ khoan lớn, chỉ cần thực hiện xác định độ nghiêng vài lần trong quá trình đào nhằm có thể điều chỉnh kịp thời. Độ nghiêng của cọc đã hoàn thành có thể được đo thông qua ống siêu âm chôn sẵn. Đặc biệt, BIT đo độ nghiên của cọc theo 2 phương chỉ với 1 lần đo."
+          },
+          {
+            "title": "Ưu đãi đặc biệt",
+            "description": "PSI - Parallel Seismic Instrument sử dụng phương pháp địa chấn song song (Parallel Seismic) để xác định chiều sâu của các móng công trình hiện hữu (đặc biệt là cọc) khi mà các kết cấu bên trên không cho phép chạm tới đầu cọc."
+          },
+          {
+            "title": "ĐĂNG KÝ NHẬN TƯ VẤN",
+            "description": "ĐỔI CŨ LẤY MỚI"
+          },
+          {
+            "title": "NHẬN TƯ VẤN",
+            "description": "Giảm ngay 30% giá mua sản phẩm Piletest khi khách hàng đổi trả thiết bị cũ Thiết bị đổi trả phải mang thương hiệu Piletest Chấp nhận mọi hình thức thiết bị cũ, bao gồm cả thiết bị đã hư hỏng"
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          }
+        ],
+        "title": "PET - Pile Echo Tester",
+        "subtitle": "BIT - Borehole Inclination Tester",
+        "description": "Piletest’s Pile Echo Tester (PET) là một giải pháp cơ động cao, thân thiện với người sử dụng trong việc kiểm tra một số lượng lớn các hệ móng sâu một cách nhanh chóng và chính xác. Không đòi hỏi phải mất nhiều thời gian đào tạo, PET là một hệ mô đun độc lập, dễ dàng kết nối với máy tính, điện thoại thông qua kết nối USB hoặc bluetooth. Để kiểm tra 1 cọc, người sử dụng dùng búa nhẹ trong gói dụng cụ, gõ vào cọc. Tín hiệu kết quả (còn gọi là biểu đồ phản ứng) được ghi lại và phân tích bằng gia tốc kế số của PET, từ đó cung cấp các thông tin về chiều dài và hình dạng của cọc."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.659Z",
+      "updated_at_utc": "2026-10-28T01:12:41.659Z"
+    },
+    {
+      "landing_page_section_id": "d9578faa-dd8d-4f90-8bd4-3988cdde9028",
+      "landing_page_id": "6b09936d-b0a8-4a02-800b-8b527479a08d",
+      "landing_section_type_code": "catalog",
+      "section_anchor_id": "SECTION69",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "PSI - Parallel Seismic Instrument",
+            "description": "BIT - Borehole Inclination Tester không giống như các hệ thống truyền thống, BIT sử dụng luôn bản thân mũi khoan của máy khoan làm trục thẳng đứng, cho phép loại trừ những hệ thống cồng kênh, khó di chuyển, nhằm xác định độ nghiêng của cọc trong cả lỗ khoan khô và ướt. Đối với những lỗ khoan lớn, chỉ cần thực hiện xác định độ nghiêng vài lần trong quá trình đào nhằm có thể điều chỉnh kịp thời. Độ nghiêng của cọc đã hoàn thành có thể được đo thông qua ống siêu âm chôn sẵn. Đặc biệt, BIT đo độ nghiên của cọc theo 2 phương chỉ với 1 lần đo."
+          },
+          {
+            "title": "Ưu đãi đặc biệt",
+            "description": "PSI - Parallel Seismic Instrument sử dụng phương pháp địa chấn song song (Parallel Seismic) để xác định chiều sâu của các móng công trình hiện hữu (đặc biệt là cọc) khi mà các kết cấu bên trên không cho phép chạm tới đầu cọc."
+          },
+          {
+            "title": "ĐĂNG KÝ NHẬN TƯ VẤN",
+            "description": "ĐỔI CŨ LẤY MỚI"
+          },
+          {
+            "title": "NHẬN TƯ VẤN",
+            "description": "Giảm ngay 30% giá mua sản phẩm Piletest khi khách hàng đổi trả thiết bị cũ Thiết bị đổi trả phải mang thương hiệu Piletest Chấp nhận mọi hình thức thiết bị cũ, bao gồm cả thiết bị đã hư hỏng"
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Hotline: 0976 268 036",
+            "description": "Vui lòng cung cấp một vài thông tin cơ bản dưới đây, chúng tôi sẽ liên hệ tư vấn thiết bị phù hợp nhất với nhu cầu của quý khách."
+          }
+        ],
+        "title": "BIT - Borehole Inclination Tester",
+        "subtitle": "PSI - Parallel Seismic Instrument",
+        "description": "BIT - Borehole Inclination Tester không giống như các hệ thống truyền thống, BIT sử dụng luôn bản thân mũi khoan của máy khoan làm trục thẳng đứng, cho phép loại trừ những hệ thống cồng kênh, khó di chuyển, nhằm xác định độ nghiêng của cọc trong cả lỗ khoan khô và ướt. Đối với những lỗ khoan lớn, chỉ cần thực hiện xác định độ nghiêng vài lần trong quá trình đào nhằm có thể điều chỉnh kịp thời. Độ nghiêng của cọc đã hoàn thành có thể được đo thông qua ống siêu âm chôn sẵn. Đặc biệt, BIT đo độ nghiên của cọc theo 2 phương chỉ với 1 lần đo."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.661Z",
+      "updated_at_utc": "2026-10-28T01:12:41.661Z"
+    },
+    {
+      "landing_page_section_id": "09dee0fe-dd55-4a4b-ade8-0ea73631f2d8",
+      "landing_page_id": "6b09936d-b0a8-4a02-800b-8b527479a08d",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "SECTION116",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Ưu đãi đặc biệt",
+            "description": "PSI - Parallel Seismic Instrument sử dụng phương pháp địa chấn song song (Parallel Seismic) để xác định chiều sâu của các móng công trình hiện hữu (đặc biệt là cọc) khi mà các kết cấu bên trên không cho phép chạm tới đầu cọc."
+          },
+          {
+            "title": "ĐĂNG KÝ NHẬN TƯ VẤN",
+            "description": "ĐỔI CŨ LẤY MỚI"
+          },
+          {
+            "title": "NHẬN TƯ VẤN",
+            "description": "Giảm ngay 30% giá mua sản phẩm Piletest khi khách hàng đổi trả thiết bị cũ Thiết bị đổi trả phải mang thương hiệu Piletest Chấp nhận mọi hình thức thiết bị cũ, bao gồm cả thiết bị đã hư hỏng"
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Hotline: 0976 268 036",
+            "description": "Vui lòng cung cấp một vài thông tin cơ bản dưới đây, chúng tôi sẽ liên hệ tư vấn thiết bị phù hợp nhất với nhu cầu của quý khách."
+          },
+          {
+            "title": "Email: cic.stc@cic.com.vn",
+            "description": "PSI - Parallel Seismic Instrument sử dụng phương pháp địa chấn song song (Parallel Seismic) để xác định chiều sâu của các móng công trình hiện hữu (đặc biệt là cọc) khi mà các kết cấu bên trên không cho phép chạm tới đầu cọc."
+          }
+        ],
+        "title": "PSI - Parallel Seismic Instrument",
+        "subtitle": "Ưu đãi đặc biệt",
+        "description": "PSI - Parallel Seismic Instrument sử dụng phương pháp địa chấn song song (Parallel Seismic) để xác định chiều sâu của các móng công trình hiện hữu (đặc biệt là cọc) khi mà các kết cấu bên trên không cho phép chạm tới đầu cọc."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.667Z",
+      "updated_at_utc": "2026-10-28T01:12:41.667Z"
+    },
+    {
+      "landing_page_section_id": "d3675941-6cb4-4ff0-92b3-92d8ba24613d",
+      "landing_page_id": "6b09936d-b0a8-4a02-800b-8b527479a08d",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "SECTION314",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "ĐĂNG KÝ NHẬN TƯ VẤN",
+            "description": "ĐỔI CŨ LẤY MỚI"
+          },
+          {
+            "title": "NHẬN TƯ VẤN",
+            "description": "Giảm ngay 30% giá mua sản phẩm Piletest khi khách hàng đổi trả thiết bị cũ Thiết bị đổi trả phải mang thương hiệu Piletest Chấp nhận mọi hình thức thiết bị cũ, bao gồm cả thiết bị đã hư hỏng"
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Hotline: 0976 268 036",
+            "description": "Vui lòng cung cấp một vài thông tin cơ bản dưới đây, chúng tôi sẽ liên hệ tư vấn thiết bị phù hợp nhất với nhu cầu của quý khách."
+          },
+          {
+            "title": "Email: cic.stc@cic.com.vn",
+            "description": "ĐỔI CŨ LẤY MỚI"
+          },
+          {
+            "title": "Website: https://www.cic.com.vn",
+            "description": "ĐỔI CŨ LẤY MỚI"
+          }
+        ],
+        "title": "Ưu đãi đặc biệt",
+        "subtitle": "ĐĂNG KÝ NHẬN TƯ VẤN",
+        "description": "ĐỔI CŨ LẤY MỚI"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.669Z",
+      "updated_at_utc": "2026-10-28T01:12:41.669Z"
+    },
+    {
+      "landing_page_section_id": "fcfda038-2a6e-4571-8210-8405b8e6ceb3",
+      "landing_page_id": "6b09936d-b0a8-4a02-800b-8b527479a08d",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "SECTION322",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Hotline: 0976 268 036",
+            "description": "Vui lòng cung cấp một vài thông tin cơ bản dưới đây, chúng tôi sẽ liên hệ tư vấn thiết bị phù hợp nhất với nhu cầu của quý khách."
+          },
+          {
+            "title": "Email: cic.stc@cic.com.vn",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Website: https://www.cic.com.vn",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Vui lòng để lại thông tin, chúng tôi sẽ liên hệ tư vấn giải pháp phù hợp nhất tới quý khách:",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "ĐĂNG KÝ",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          }
+        ],
+        "title": "ĐĂNG KÝ NHẬN TƯ VẤN",
+        "subtitle": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+        "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.672Z",
+      "updated_at_utc": "2026-10-28T01:12:41.672Z"
+    }
+  ],
+  "forms": [
+    {
+      "landing_form_id": "e782eeb3-b190-447c-8cf7-27096ee20f59",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "form_code": "consultation_form",
+      "form_name": "Biểu mẫu Đăng ký Tư vấn & Báo giá (piletest)",
+      "fields_schema_json": [
+        {
+          "name": "full_name",
+          "type": "text",
+          "label": "Họ và tên",
+          "required": true,
+          "placeholder": "Nhập họ và tên của bạn"
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "label": "Số điện thoại",
+          "required": true,
+          "placeholder": "Nhập số điện thoại liên hệ"
+        },
+        {
+          "name": "email",
+          "type": "email",
+          "label": "Email công việc",
+          "required": true,
+          "placeholder": "name@company.com"
+        },
+        {
+          "name": "company",
+          "type": "text",
+          "label": "Đơn vị / Công ty",
+          "required": false,
+          "placeholder": "Tên doanh nghiệp / tổ chức"
+        },
+        {
+          "name": "request_type",
+          "type": "select",
+          "label": "Nhu cầu tư vấn",
+          "options": [
+            {
+              "label": "Đăng ký dùng thử & Tài liệu kỹ thuật",
+              "value": "trial"
+            },
+            {
+              "label": "Nhận báo giá bản quyền / thiết bị",
+              "value": "quote"
+            },
+            {
+              "label": "Tư vấn giải pháp & Demo trực tiếp",
+              "value": "consultation"
+            }
+          ],
+          "required": true
+        }
+      ],
+      "notification_emails_json": [
+        "info@cic.com.vn"
+      ],
+      "google_sheet_config_json": {
+        "sheet_name": "PILETEST",
+        "spreadsheet_id": ""
+      },
+      "success_action": "modal_download",
+      "success_payload_json": {
+        "message": "Cảm ơn quý khách! Chuyên gia CIC sẽ liên hệ tư vấn trong thời gian sớm nhất.",
+        "modal_title": "Đăng ký thành công!",
+        "modal_description": "Quý khách có thể tải xuống tài liệu Brochure giới thiệu giải pháp ngay bên dưới:",
+        "default_download_url": "/api/landing/media/piletest/downloads/brochure.pdf"
+      },
+      "is_form_active": true,
+      "created_at_utc": "2026-10-28T01:12:42.590Z",
+      "updated_at_utc": "2026-10-28T01:12:42.590Z"
+    }
+  ],
+  "media": [
+    {
+      "landing_media_asset_id": "66c91924-5827-441e-b1aa-02509e77e5c5",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "pile-test-png-logo-20200220095501",
+      "file_name": "pile-test-png-logo-20200220095501.png",
+      "file_path": "ladicdn/w.ladicdn.com/s600x500/5e410597f4aa8d0f29888a88/pile-test-png-logo-20200220095501.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "108756",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - pile-test-png-logo-20200220095501.png",
+      "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - pile-test-png-logo-20200220095501.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:48.931Z",
+      "updated_at_utc": "2026-10-28T01:12:48.931Z"
+    },
+    {
+      "landing_media_asset_id": "a9aa36cd-a22f-493b-bfb5-47a6b756dc27",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "pile-test-png-logo-20200220095501",
+      "file_name": "pile-test-png-logo-20200220095501.png",
+      "file_path": "ladicdn/w.ladicdn.com/s450x400/5e410597f4aa8d0f29888a88/pile-test-png-logo-20200220095501.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "76540",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - pile-test-png-logo-20200220095501.png",
+      "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - pile-test-png-logo-20200220095501.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:48.944Z",
+      "updated_at_utc": "2026-10-28T01:12:48.944Z"
+    },
+    {
+      "landing_media_asset_id": "3fb8933a-1b88-4d66-b539-0c560ec0c670",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "logocic-20191218034215",
+      "file_name": "logocic-20191218034215.png",
+      "file_path": "ladicdn/w.ladicdn.com/s500x400/5def5421715a2921b62e6a5d/logocic-20191218034215.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "27655",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - logocic-20191218034215.png",
+      "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - logocic-20191218034215.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:48.959Z",
+      "updated_at_utc": "2026-10-28T01:12:48.959Z"
+    },
+    {
+      "landing_media_asset_id": "a1668742-605a-44bc-89f5-c4c9740d84fc",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "logocic-20191218034215",
+      "file_name": "logocic-20191218034215.png",
+      "file_path": "ladicdn/w.ladicdn.com/s550x450/5def5421715a2921b62e6a5d/logocic-20191218034215.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "27655",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - logocic-20191218034215.png",
+      "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - logocic-20191218034215.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:48.969Z",
+      "updated_at_utc": "2026-10-28T01:12:48.969Z"
+    },
+    {
+      "landing_media_asset_id": "8db64efb-689a-4be9-925c-70be0e4f6635",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "logo-cic-20200221081126",
+      "file_name": "logo-cic-20200221081126.png",
+      "file_path": "ladicdn/w.ladicdn.com/s450x350/5e410597f4aa8d0f29888a88/logo-cic-20200221081126.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "13252",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - logo-cic-20200221081126.png",
+      "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - logo-cic-20200221081126.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:48.976Z",
+      "updated_at_utc": "2026-10-28T01:12:48.976Z"
+    },
+    {
+      "landing_media_asset_id": "685f185c-c853-48fd-968e-37b588cd1e72",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "banner-1-20200302090248",
+      "file_name": "banner-1-20200302090248.png",
+      "file_path": "ladicdn/w.ladicdn.com/s550x550/5e410597f4aa8d0f29888a88/banner-1-20200302090248.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "138666",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - banner-1-20200302090248.png",
+      "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - banner-1-20200302090248.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:48.988Z",
+      "updated_at_utc": "2026-10-28T01:12:48.988Z"
+    },
+    {
+      "landing_media_asset_id": "5370b319-7747-4109-91e0-ed4eb0843971",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "banner-1-20200302090248",
+      "file_name": "banner-1-20200302090248.png",
+      "file_path": "ladicdn/w.ladicdn.com/s500x500/5e410597f4aa8d0f29888a88/banner-1-20200302090248.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "115757",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - banner-1-20200302090248.png",
+      "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - banner-1-20200302090248.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.005Z",
+      "updated_at_utc": "2026-10-28T01:12:49.005Z"
+    },
+    {
+      "landing_media_asset_id": "e71a01e6-e72e-4ffb-bcaf-783383528d98",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "scluw9l6c220200221083151",
+      "file_name": "scluw9l6c220200221083151.png",
+      "file_path": "ladicdn/w.ladicdn.com/s800x750/5e410597f4aa8d0f29888a88/scluw9l6c220200221083151.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "667525",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - scluw9l6c220200221083151.png",
+      "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - scluw9l6c220200221083151.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.023Z",
+      "updated_at_utc": "2026-10-28T01:12:49.023Z"
+    },
+    {
+      "landing_media_asset_id": "fe90d3b2-fdb1-4f72-b2e3-0497ea745a72",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "scluw9l6c220200221083151",
+      "file_name": "scluw9l6c220200221083151.png",
+      "file_path": "ladicdn/w.ladicdn.com/s750x700/5e410597f4aa8d0f29888a88/scluw9l6c220200221083151.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "585496",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - scluw9l6c220200221083151.png",
+      "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - scluw9l6c220200221083151.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.101Z",
+      "updated_at_utc": "2026-10-28T01:12:49.101Z"
+    },
+    {
+      "landing_media_asset_id": "b08c4a47-c50e-4c40-b67b-4991b4d46cf8",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "pet_with_android-20200221092107",
+      "file_name": "pet_with_android-20200221092107.png",
+      "file_path": "ladicdn/w.ladicdn.com/s850x700/5e410597f4aa8d0f29888a88/pet_with_android-20200221092107.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "541527",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - pet_with_android-20200221092107.png",
+      "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - pet_with_android-20200221092107.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.159Z",
+      "updated_at_utc": "2026-10-28T01:12:49.159Z"
+    },
+    {
+      "landing_media_asset_id": "b4b23240-11ab-4ff4-b99d-510639330f6e",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "pet_with_android-20200221092107",
+      "file_name": "pet_with_android-20200221092107.png",
+      "file_path": "ladicdn/w.ladicdn.com/s750x650/5e410597f4aa8d0f29888a88/pet_with_android-20200221092107.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "476415",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - pet_with_android-20200221092107.png",
+      "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - pet_with_android-20200221092107.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.207Z",
+      "updated_at_utc": "2026-10-28T01:12:49.207Z"
+    },
+    {
+      "landing_media_asset_id": "2f72b7dd-3c89-4a51-bd7b-96a07bc8d825",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "29881-20200220095011",
+      "file_name": "29881-20200220095011.jpg",
+      "file_path": "ladicdn/w.ladicdn.com/s1440x720/5e410597f4aa8d0f29888a88/29881-20200220095011.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "396515",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - 29881-20200220095011.jpg",
+      "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - 29881-20200220095011.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.252Z",
+      "updated_at_utc": "2026-10-28T01:12:49.252Z"
+    },
+    {
+      "landing_media_asset_id": "dd404d89-2eb1-4163-b0ca-00db435c6e1d",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "bit_system-png-20200221082101",
+      "file_name": "bit_system-png-20200221082101.png",
+      "file_path": "ladicdn/w.ladicdn.com/s600x750/5e410597f4aa8d0f29888a88/bit_system-png-20200221082101.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "288551",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - bit_system-png-20200221082101.png",
+      "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - bit_system-png-20200221082101.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.302Z",
+      "updated_at_utc": "2026-10-28T01:12:49.302Z"
+    },
+    {
+      "landing_media_asset_id": "67bb642a-29b2-44f2-b685-c4bbbffafd52",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "bit_system-png-20200221082101",
+      "file_name": "bit_system-png-20200221082101.png",
+      "file_path": "ladicdn/w.ladicdn.com/s550x700/5e410597f4aa8d0f29888a88/bit_system-png-20200221082101.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "248628",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - bit_system-png-20200221082101.png",
+      "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - bit_system-png-20200221082101.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.332Z",
+      "updated_at_utc": "2026-10-28T01:12:49.332Z"
+    },
+    {
+      "landing_media_asset_id": "c252f4b2-9d01-4105-a0dc-f71baaa681ef",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "16234-20200224025922",
+      "file_name": "16234-20200224025922.jpg",
+      "file_path": "ladicdn/w.ladicdn.com/s1440x605/5e410597f4aa8d0f29888a88/16234-20200224025922.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "190359",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - 16234-20200224025922.jpg",
+      "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - 16234-20200224025922.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.359Z",
+      "updated_at_utc": "2026-10-28T01:12:49.359Z"
+    },
+    {
+      "landing_media_asset_id": "62945f60-94aa-4c83-bead-77f798adabb0",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "piletest-ava-20200327024912",
+      "file_name": "piletest-ava-20200327024912.jpg",
+      "file_path": "ladicdn/static.ladipage.net/5e410597f4aa8d0f29888a88/piletest-ava-20200327024912.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "180099",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - piletest-ava-20200327024912.jpg",
+      "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi - piletest-ava-20200327024912.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.386Z",
+      "updated_at_utc": "2026-10-28T01:12:49.386Z"
+    },
+    {
+      "landing_media_asset_id": "ed9ebf63-3a59-47e9-a631-ba37b00ef20b",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "brand_logo",
+      "file_name": "logo.png",
+      "file_path": "images/logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "108756",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi Logo",
+      "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi Logo",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.416Z",
+      "updated_at_utc": "2026-10-28T01:12:49.416Z"
+    },
+    {
+      "landing_media_asset_id": "1b748b2b-fb00-400e-b55b-b8b0580bfe45",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "favicon",
+      "file_name": "favicon.ico",
+      "file_path": "images/favicon.ico",
+      "mime_type": "image/x-icon",
+      "file_size_bytes": "108756",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Favicon",
+      "alt_text_en": "Favicon",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.434Z",
+      "updated_at_utc": "2026-10-28T01:12:49.434Z"
+    },
+    {
+      "landing_media_asset_id": "0d10b8f9-be58-4f3f-a76c-28f14902c862",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "hero_banner",
+      "file_name": "hero.png",
+      "file_path": "images/hero.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "108756",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi Hero",
+      "alt_text_en": "Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi Hero",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.451Z",
+      "updated_at_utc": "2026-10-28T01:12:49.451Z"
+    },
+    {
+      "landing_media_asset_id": "69d35e1c-2536-4bb4-9b3b-86e36655152a",
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "media_slot_code": "brochure_pdf",
+      "file_name": "brochure.pdf",
+      "file_path": "downloads/brochure.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": "671641",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Tài liệu Brochure Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi",
+      "alt_text_en": "Brochure Piletest — Thiết bị Thí nghiệm Siêu âm & Kiểm định Cọc khoan nhồi",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:49.476Z",
+      "updated_at_utc": "2026-10-28T01:12:49.476Z"
+    }
+  ],
+  "leads": [],
+  "pageViews": [
+    {
+      "landing_site_id": "69ebd3f9-02d2-4701-8d73-357c06f6ff17",
+      "view_date": "2026-10-27",
+      "views_count": 4,
+      "unique_visitors_count": 2
+    }
+  ],
+  "adminAccounts": [
+    {
+      "username": "piletest_admin",
+      "password_hash": "4a208b7ff43bd0a71c3bb331db13040694d36bd9e34b5d9ed62d0be880dc5b58",
+      "display_name": "Quản trị viên Piletest",
+      "role": "site_admin",
+      "landing_site_code": "piletest",
+      "is_active": true
+    },
+    {
+      "username": "admin",
+      "password_hash": "2e6c21501300cc6fa4d50597c1c483c802b6d9f00f119f004d8344f663129109",
+      "display_name": "Quản trị Tổng CIC",
+      "role": "super_admin",
+      "landing_site_code": null,
+      "is_active": true
+    }
+  ]
+}

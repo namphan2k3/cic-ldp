@@ -1,0 +1,18 @@
+/*Writer by BackPhan - EONE */.list-inline li{padding: 0 15px;}
+.counter ul li{display:inline-block;padding:0 5px}
+.counter{margin:20px;font-family:'Lucida',sans-serif}
+.counter-box{padding:10px 5px;margin:3px 0;background-color:#fffffa;color:#333333;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;width:95px}
+.number{color:#FF3A00;font-size:45px;line-height:1em;font-weight:bold}
+.duration{font-weight:bold;font-size: 15px;line-height: 15px;margin-top: 3px;}
+@media only screen and (max-width:992px){header.smaller{position:relative}.top-menu-1 ul{text-align:center}
+.counter-box{width:90px}
+.number{font-size:25px}
+.counter .list-inline li{padding-left:0px;padding-right:0px}
+.counter-box{padding:15px 5px;width:50px}
+.duration{font-size:9px}.section-main-header:before{margin-top:-120px;height:120px}}@media only screen and (max-width:320px){img#logo{margin-left: 78px;}.top-menu-1
+.list-inline li{padding: 0 5px;}.bn-hero{padding: 15px 20px;}
+.counter{margin: 0 0 20px 42px;}
+@media only screen and (min-width:321px) and (max-width:480px){.counter{margin-left: 124px;}.details-box{width: 210px;}}
+@media only screen and (min-width:481px) and (max-width:600px){.counter{margin-left: 81px;}}
+@media only screen and (min-width:768px) and (max-width:800px){.counter{margin-left: 135px;}
+@media only screen and (min-width:1024px) and (max-width:1199px){.list-inline li{padding: 0 5px;}.timer .col-lg-12{width:100%}.counter{margin-left:0}}

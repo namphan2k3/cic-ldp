@@ -1,0 +1,137 @@
+{
+  "exportedAt": "2026-10-22T08:20:20.154Z",
+  "source": {
+    "id": "3",
+    "code": "robot_landing_page",
+    "name": "Robot Công Trình — Khách đăng ký tư vấn (Landing Page)",
+    "spreadsheet_id": "1izAJ8r7SeyicYJ2tNnCxXlSah-6meMlpYwQqvaU_A24",
+    "sheet_name": "Landing Page",
+    "key_columns": [
+      "thoi_gian_gui",
+      "so_dien_thoai"
+    ],
+    "column_schema": [
+      {
+        "key": "thoi_gian_gui",
+        "type": "datetime",
+        "header": "Thời gian gửi",
+        "hidden": false,
+        "position": 1
+      },
+      {
+        "key": "ho_va_ten",
+        "type": "text",
+        "header": "Họ và tên",
+        "hidden": false,
+        "position": 2
+      },
+      {
+        "key": "so_dien_thoai",
+        "type": "phone",
+        "header": "Số điện thoại",
+        "hidden": false,
+        "position": 3
+      },
+      {
+        "key": "email",
+        "type": "email",
+        "header": "Email",
+        "hidden": false,
+        "position": 4
+      },
+      {
+        "key": "cong_ty_don_vi",
+        "type": "text",
+        "header": "Công ty / Đơn vị",
+        "hidden": false,
+        "position": 5
+      },
+      {
+        "key": "giai_phap_quan_tam",
+        "type": "text",
+        "header": "Giải pháp quan tâm",
+        "hidden": false,
+        "position": 6
+      },
+      {
+        "key": "nhu_cau",
+        "type": "text",
+        "header": "Nhu cầu",
+        "hidden": false,
+        "position": 7
+      },
+      {
+        "key": "trang_thai",
+        "type": "text",
+        "header": "Trạng thái",
+        "hidden": false,
+        "position": 8
+      },
+      {
+        "key": "nguoi_phu_trach",
+        "type": "text",
+        "header": "Người phụ trách",
+        "hidden": false,
+        "position": 9
+      },
+      {
+        "key": "ghi_chu_cham_soc",
+        "type": "text",
+        "header": "Ghi chú chăm sóc",
+        "hidden": false,
+        "position": 10
+      }
+    ]
+  },
+  "rowCount": 3,
+  "rows": [
+    {
+      "row_key": "14/10/2026 23:08:59|0983232012",
+      "row_number": 3,
+      "data": {
+        "email": "luatnkt@coteccons.vn",
+        "ho_va_ten": "KhuuTrongLuat Nguyen",
+        "so_dien_thoai": "0983232012",
+        "thoi_gian_gui": "14/10/2026 23:08:59",
+        "cong_ty_don_vi": "Coteccons JSC",
+        "ghi_chu_cham_soc": "19/10/2026: chưa nghe máy, chiều gọi lại",
+        "giai_phap_quan_tam": "Cần CIC tư vấn lựa chọn"
+      },
+      "data_hash": "5de0eefeed09d398e51bc7d3ac0edc24ed36be6b803fa4f9273defdc1219a0e0",
+      "first_seen_at": "2026-10-22T08:20:19.939Z",
+      "last_seen_at": "2026-10-22T08:20:19.939Z"
+    },
+    {
+      "row_key": "16/10/2026 10:18:10|0384345570",
+      "row_number": 4,
+      "data": {
+        "email": "trangpv@fecon.com.vn",
+        "ho_va_ten": "Phạm Văn Trang",
+        "so_dien_thoai": "0384345570",
+        "thoi_gian_gui": "16/10/2026 10:18:10",
+        "cong_ty_don_vi": "Công ty cổ phần Tập đoàn FECON",
+        "ghi_chu_cham_soc": "19/10/2026: chưa nghe máy, chiều gọi lại\nanh Trang bận nên kết bạn zalo gửi tài liệu trước\n20/10/2026: Anh Trang chia sẻ bên anh làm nhiều về dự án to + dài , bao gồm nhiều nhà thầu phụ.",
+        "giai_phap_quan_tam": "Cần CIC tư vấn lựa chọn"
+      },
+      "data_hash": "cdfd03345fd7f78cebfb7276b2c61ed065838b631ff5d3497cf9747753e2cea5",
+      "first_seen_at": "2026-10-22T08:20:19.939Z",
+      "last_seen_at": "2026-10-22T08:20:19.939Z"
+    },
+    {
+      "row_key": "22/10/2026 08:23:25|0903235579",
+      "row_number": 5,
+      "data": {
+        "email": "longvt@cjsc.com.vn",
+        "nhu_cau": "cả 4 loại robot mình đều quan tâm, liên hệ qua cty mình trao đổi nhé",
+        "ho_va_ten": "VŨ Thành Long",
+        "so_dien_thoai": "0903235579",
+        "thoi_gian_gui": "22/10/2026 08:23:25",
+        "cong_ty_don_vi": "Công ty CP Cjsc (www.cjsc.com.vn",
+        "giai_phap_quan_tam": "Hoàn thiện sàn bê tông"
+      },
+      "data_hash": "febc8af3d081d2fa0373ed1c12427858bb2309bb1b7ab691aa8f8409254d9561",
+      "first_seen_at": "2026-10-22T08:20:19.939Z",
+      "last_seen_at": "2026-10-22T08:20:19.939Z"
+    }
+  ]
+}

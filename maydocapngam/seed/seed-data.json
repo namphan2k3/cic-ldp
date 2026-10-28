@@ -1,0 +1,1000 @@
+{
+  "exportedAt": "2026-10-28T01:17:07.988Z",
+  "targetSiteCode": "maydocapngam",
+  "sectionTypes": [
+    {
+      "landing_section_type_code": "advantages",
+      "landing_section_type_name": "Ưu Điểm Vượt Trội",
+      "category": "feature",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.707Z",
+      "updated_at_utc": "2026-10-28T01:12:40.707Z"
+    },
+    {
+      "landing_section_type_code": "catalog",
+      "landing_section_type_name": "Danh Mục Tính Năng / Giải Pháp",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.719Z",
+      "updated_at_utc": "2026-10-28T01:12:40.719Z"
+    },
+    {
+      "landing_section_type_code": "comparison",
+      "landing_section_type_name": "Bảng So Sánh & Các Gói Bản Quyền",
+      "category": "comparison",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.725Z",
+      "updated_at_utc": "2026-10-28T01:12:40.725Z"
+    },
+    {
+      "landing_section_type_code": "consultation_form",
+      "landing_section_type_name": "Form Đăng Ký Tư Vấn & Tải Dùng Thử",
+      "category": "form",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.731Z",
+      "updated_at_utc": "2026-10-28T01:12:40.731Z"
+    },
+    {
+      "landing_section_type_code": "faq",
+      "landing_section_type_name": "Câu Hỏi Thường Gặp (FAQ)",
+      "category": "faq",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.739Z",
+      "updated_at_utc": "2026-10-28T01:12:40.739Z"
+    },
+    {
+      "landing_section_type_code": "floating_cta",
+      "landing_section_type_name": "Nút Liên Hệ Nổi (Floating CTA)",
+      "category": "cta",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.743Z",
+      "updated_at_utc": "2026-10-28T01:12:40.743Z"
+    },
+    {
+      "landing_section_type_code": "footer",
+      "landing_section_type_name": "Chân Trang (Footer)",
+      "category": "footer",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.750Z",
+      "updated_at_utc": "2026-10-28T01:12:40.750Z"
+    },
+    {
+      "landing_section_type_code": "header",
+      "landing_section_type_name": "Thanh Điều Hướng (Header)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.756Z",
+      "updated_at_utc": "2026-10-28T01:12:40.756Z"
+    },
+    {
+      "landing_section_type_code": "hero",
+      "landing_section_type_name": "Banner Chính (Hero Section)",
+      "category": "hero",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.762Z",
+      "updated_at_utc": "2026-10-28T01:12:40.762Z"
+    },
+    {
+      "landing_section_type_code": "infrastructure",
+      "landing_section_type_name": "Infrastructure & Specialized Machinery",
+      "category": "catalog",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.769Z",
+      "updated_at_utc": "2026-10-28T01:12:40.769Z"
+    },
+    {
+      "landing_section_type_code": "intro",
+      "landing_section_type_name": "Giới Thiệu Tổng Quan & Thống Kê",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.773Z",
+      "updated_at_utc": "2026-10-28T01:12:40.773Z"
+    },
+    {
+      "landing_section_type_code": "requirements",
+      "landing_section_type_name": "Yêu Cầu Cấu Hình Hệ Thống",
+      "category": "content",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.777Z",
+      "updated_at_utc": "2026-10-28T01:12:40.777Z"
+    },
+    {
+      "landing_section_type_code": "resources",
+      "landing_section_type_name": "Tài Nguyên & Thư Viện Hỗ Trợ",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.781Z",
+      "updated_at_utc": "2026-10-28T01:12:40.781Z"
+    },
+    {
+      "landing_section_type_code": "video_slider",
+      "landing_section_type_name": "YouTube Video Showcase Slider",
+      "category": "media",
+      "field_schema_json": {},
+      "default_payload_json": {},
+      "preview_image_url": null,
+      "is_active": true,
+      "created_at_utc": "2026-10-28T01:12:40.789Z",
+      "updated_at_utc": "2026-10-28T01:12:40.789Z"
+    }
+  ],
+  "sites": [
+    {
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "landing_site_code": "maydocapngam",
+      "landing_site_name": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm (LadiPage)",
+      "landing_site_type": "landing",
+      "primary_domain": "maydocapngam.cic.com.vn",
+      "custom_domains_json": [
+        "maydocapngam.cic.com.vn",
+        "www.maydocapngam.cic.com.vn"
+      ],
+      "supported_locales_json": [
+        "vi"
+      ],
+      "default_locale": "vi",
+      "site_status": "active",
+      "brand_config_json": {
+        "email": "info@cic.com.vn",
+        "address": "Tòa nhà CIC, 37 Lê Văn Thiêm, Nhân Chính, Thanh Xuân, Hà Nội",
+        "hotline": "0866 059 659",
+        "logo_alt": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm",
+        "logo_url": "/api/landing/media/maydocapngam/images/logo.png",
+        "favicon_url": "/api/landing/media/maydocapngam/images/favicon.ico",
+        "primary_color": "#dc2626",
+        "hosting_origin": "LadiPage",
+        "bitrix_loader_url": "https://crm.cic.com.vn/upload/crm/site_button/loader_6_sawqsz.js"
+      },
+      "seo_meta_json": {
+        "title": "Thiết bị Định vị Dò Cáp ngầm RadioDetection Chính hãng — CIC",
+        "keywords": "máy dò cáp ngầm, RadioDetection, định vị cáp điện ngầm, dò đường ống ngầm, thiết bị đo kiểm, CIC",
+        "og_image": "/api/landing/media/maydocapngam/images/hero.png",
+        "description": "Thiết bị định vị dò tìm cáp điện ngầm, cáp viễn thông và đường ống ngầm RadioDetection (Vương Quốc Anh) chính xác cao do CIC phân phối."
+      },
+      "tracking_config_json": {
+        "ga4_id": "G-ENKRCNGD1B",
+        "gtm_id": "",
+        "fb_pixel_id": ""
+      },
+      "created_at_utc": "2026-10-28T01:12:40.845Z",
+      "updated_at_utc": "2026-10-28T01:12:40.845Z"
+    }
+  ],
+  "pages": [
+    {
+      "landing_page_id": "c0b9109e-bb64-408b-98b4-59ddc3dfa54d",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "landing_page_slug": "home",
+      "landing_page_locale": "vi",
+      "page_title": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm",
+      "page_status": "published",
+      "is_home_page": true,
+      "page_seo_json": {
+        "title": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm",
+        "keywords": "máy dò cáp ngầm, RadioDetection, định vị cáp điện ngầm, dò đường ống ngầm, thiết bị đo kiểm, CIC",
+        "og_image": "/api/landing/media/maydocapngam/images/hero.png",
+        "description": "Thiết bị định vị dò tìm cáp điện ngầm, cáp viễn thông và đường ống ngầm RadioDetection (Vương Quốc Anh) chính xác cao do CIC phân phối."
+      },
+      "published_at_utc": "2026-10-27T02:49:18.366Z",
+      "created_at_utc": "2026-10-28T01:12:40.976Z",
+      "updated_at_utc": "2026-10-28T01:12:40.976Z"
+    }
+  ],
+  "sections": [
+    {
+      "landing_page_section_id": "89293b0e-15e4-4d64-8235-a1e04ce66537",
+      "landing_page_id": "c0b9109e-bb64-408b-98b4-59ddc3dfa54d",
+      "landing_section_type_code": "header",
+      "section_anchor_id": "SECTION191",
+      "section_order": 1,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Ưu điểm thiết bị RadioDetection",
+            "description": "0976 268 036"
+          },
+          {
+            "title": "Các cải tiến mới",
+            "description": "Ứng dụng cho các ngành: Điện, Nước, Viễn Thông, Gas, Dầu khí, Xây dựng …. Xác định vị trí và độ sâu dây cáp điện, dây cáp viễn thông trong công trình ngầm Lập bản đồ mạng lưới các đường ống, cáp ngầm Phát hiện lỗi rò rỉ trên các tuyến cáp ngầm"
+          },
+          {
+            "title": "ĐĂNG KÝ NHẬN TƯ VẤN",
+            "description": "Độ nhạy: 6E-15 Tesla, 5µA at 1 meter (33kHz) Dải động: 140dB rms/√Hz Độ sâu tối đa: Cable / Pipe: 30m Sonde: 19.5m Độ chính xác: 3% Thời lượng pin: 30h Tần số: 50 - 200 kHz (21 tần số) Tích hợp GPS Chế độ dò thụ động: Cáp điện, cáp viễn thông, ..."
+          },
+          {
+            "title": "Radiodetection là công ty hàng đầu thế giới trong lĩnh vực quản lý công trình ngầm. Các sản phẩm của Radiodetection được sản xuất tại Anh với tiêu chuẩn cao nhất mang lại độ tin cậy và khả năng hoạt động bền bỉ trong các môi trường khắc nghiệt. Máy dò cáp ngầm RD8200 đã được nhiều đơn vị tại Việt Nam sử dụng giúp định vị chính xác các tuyến cáp ngầm, giảm rủi ro và nguy hiểm khi thi công.",
+            "description": "Độ chính xác và độ tin cậy cao Khả năng chống nước và bụi IP65 Chức năng lọc nguồn cho phép xác định được các sợi cáp ngầm đi song song gần nhau Chức năng iLOC™ cho phép điều khiển máy phát từ xa thông qua Bluetooth (khoảng cách kết nối đến 450m) Chức năng Trudepth™: đo chính xác độ sâu của cáp và ống ngầm RD Map: Lập bản đồ các tiện ích ngầm theo thời gian thực, tương thích với Google Map Thời gian bảo hành 3 năm"
+          },
+          {
+            "title": "NHẬN TƯ VẤN",
+            "description": "Hệ thống cảnh báo rung lắc: Máy dò phải được giữ vuông góc với mặt đất để có độ chính xác cao nhất. RD8200 và RD7200 có hệ thống đo lường tích hợp con quay hồi chuyển, cảnh báo người dùng về việc rung lắc quá mức. Hệ thống âm thanh hiệu suất cao cho phép hoạt động trong môi trường nhiều tiếng ồn: Bộ định vị mới có vỏ loa chống thấm nước, được định vị để phản hồi tối đa cho người vận hành và được điều chỉnh để có được sự cộng hưởng tối ưu cho các tần số âm đã chọn. Với 5 mức công suất đầu ra hỗ trợ kỹ thuật viên làm việc trong các môi trường nhiều tiếng ồn."
+          },
+          {
+            "title": "Thông số",
+            "description": "Hệ thống phản hồi rung để giảm nguy cơ lỡ cảnh báo: Tay cầm máy dò có gắn cảm biến rung khi có cảnh báo, khiến người điều khiển giảm nguy cơ bị lỡ cảnh báo, tập trung vào công việc. Hệ thống ghi nhật ký tự động: GPS được tích hợp trên RD8200G và tự động ghi nhật ký định vị cho phép người dùng quản lý công việc tốt hơn."
+          }
+        ],
+        "title": "Thông số kỹ thuật",
+        "subtitle": "Ưu điểm thiết bị RadioDetection",
+        "description": "0976 268 036"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.963Z",
+      "updated_at_utc": "2026-10-28T01:12:41.963Z"
+    },
+    {
+      "landing_page_section_id": "862850e3-8fac-48e8-91ee-89fbff2a63b2",
+      "landing_page_id": "c0b9109e-bb64-408b-98b4-59ddc3dfa54d",
+      "landing_section_type_code": "hero",
+      "section_anchor_id": "SECTION191",
+      "section_order": 2,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Ưu điểm thiết bị RadioDetection",
+            "description": "0976 268 036"
+          },
+          {
+            "title": "Các cải tiến mới",
+            "description": "Ứng dụng cho các ngành: Điện, Nước, Viễn Thông, Gas, Dầu khí, Xây dựng …. Xác định vị trí và độ sâu dây cáp điện, dây cáp viễn thông trong công trình ngầm Lập bản đồ mạng lưới các đường ống, cáp ngầm Phát hiện lỗi rò rỉ trên các tuyến cáp ngầm"
+          },
+          {
+            "title": "ĐĂNG KÝ NHẬN TƯ VẤN",
+            "description": "Độ nhạy: 6E-15 Tesla, 5µA at 1 meter (33kHz) Dải động: 140dB rms/√Hz Độ sâu tối đa: Cable / Pipe: 30m Sonde: 19.5m Độ chính xác: 3% Thời lượng pin: 30h Tần số: 50 - 200 kHz (21 tần số) Tích hợp GPS Chế độ dò thụ động: Cáp điện, cáp viễn thông, ..."
+          },
+          {
+            "title": "Radiodetection là công ty hàng đầu thế giới trong lĩnh vực quản lý công trình ngầm. Các sản phẩm của Radiodetection được sản xuất tại Anh với tiêu chuẩn cao nhất mang lại độ tin cậy và khả năng hoạt động bền bỉ trong các môi trường khắc nghiệt. Máy dò cáp ngầm RD8200 đã được nhiều đơn vị tại Việt Nam sử dụng giúp định vị chính xác các tuyến cáp ngầm, giảm rủi ro và nguy hiểm khi thi công.",
+            "description": "Độ chính xác và độ tin cậy cao Khả năng chống nước và bụi IP65 Chức năng lọc nguồn cho phép xác định được các sợi cáp ngầm đi song song gần nhau Chức năng iLOC™ cho phép điều khiển máy phát từ xa thông qua Bluetooth (khoảng cách kết nối đến 450m) Chức năng Trudepth™: đo chính xác độ sâu của cáp và ống ngầm RD Map: Lập bản đồ các tiện ích ngầm theo thời gian thực, tương thích với Google Map Thời gian bảo hành 3 năm"
+          },
+          {
+            "title": "NHẬN TƯ VẤN",
+            "description": "Hệ thống cảnh báo rung lắc: Máy dò phải được giữ vuông góc với mặt đất để có độ chính xác cao nhất. RD8200 và RD7200 có hệ thống đo lường tích hợp con quay hồi chuyển, cảnh báo người dùng về việc rung lắc quá mức. Hệ thống âm thanh hiệu suất cao cho phép hoạt động trong môi trường nhiều tiếng ồn: Bộ định vị mới có vỏ loa chống thấm nước, được định vị để phản hồi tối đa cho người vận hành và được điều chỉnh để có được sự cộng hưởng tối ưu cho các tần số âm đã chọn. Với 5 mức công suất đầu ra hỗ trợ kỹ thuật viên làm việc trong các môi trường nhiều tiếng ồn."
+          },
+          {
+            "title": "Thông số",
+            "description": "Hệ thống phản hồi rung để giảm nguy cơ lỡ cảnh báo: Tay cầm máy dò có gắn cảm biến rung khi có cảnh báo, khiến người điều khiển giảm nguy cơ bị lỡ cảnh báo, tập trung vào công việc. Hệ thống ghi nhật ký tự động: GPS được tích hợp trên RD8200G và tự động ghi nhật ký định vị cho phép người dùng quản lý công việc tốt hơn."
+          }
+        ],
+        "title": "Thông số kỹ thuật",
+        "subtitle": "Ưu điểm thiết bị RadioDetection",
+        "description": "0976 268 036"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.969Z",
+      "updated_at_utc": "2026-10-28T01:12:41.969Z"
+    },
+    {
+      "landing_page_section_id": "814e3fac-f6a0-4742-a1fc-33a8f904cbeb",
+      "landing_page_id": "c0b9109e-bb64-408b-98b4-59ddc3dfa54d",
+      "landing_section_type_code": "intro",
+      "section_anchor_id": "ThongSo",
+      "section_order": 3,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Ưu điểm thiết bị RadioDetection",
+            "description": "Độ nhạy: 6E-15 Tesla, 5µA at 1 meter (33kHz) Dải động: 140dB rms/√Hz Độ sâu tối đa: Cable / Pipe: 30m Sonde: 19.5m Độ chính xác: 3% Thời lượng pin: 30h Tần số: 50 - 200 kHz (21 tần số) Tích hợp GPS Chế độ dò thụ động: Cáp điện, cáp viễn thông, ..."
+          },
+          {
+            "title": "Các cải tiến mới",
+            "description": "Độ chính xác và độ tin cậy cao Khả năng chống nước và bụi IP65 Chức năng lọc nguồn cho phép xác định được các sợi cáp ngầm đi song song gần nhau Chức năng iLOC™ cho phép điều khiển máy phát từ xa thông qua Bluetooth (khoảng cách kết nối đến 450m) Chức năng Trudepth™: đo chính xác độ sâu của cáp và ống ngầm RD Map: Lập bản đồ các tiện ích ngầm theo thời gian thực, tương thích với Google Map Thời gian bảo hành 3 năm"
+          },
+          {
+            "title": "ĐĂNG KÝ NHẬN TƯ VẤN",
+            "description": "Hệ thống cảnh báo rung lắc: Máy dò phải được giữ vuông góc với mặt đất để có độ chính xác cao nhất. RD8200 và RD7200 có hệ thống đo lường tích hợp con quay hồi chuyển, cảnh báo người dùng về việc rung lắc quá mức. Hệ thống âm thanh hiệu suất cao cho phép hoạt động trong môi trường nhiều tiếng ồn: Bộ định vị mới có vỏ loa chống thấm nước, được định vị để phản hồi tối đa cho người vận hành và được điều chỉnh để có được sự cộng hưởng tối ưu cho các tần số âm đã chọn. Với 5 mức công suất đầu ra hỗ trợ kỹ thuật viên làm việc trong các môi trường nhiều tiếng ồn."
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "Hệ thống phản hồi rung để giảm nguy cơ lỡ cảnh báo: Tay cầm máy dò có gắn cảm biến rung khi có cảnh báo, khiến người điều khiển giảm nguy cơ bị lỡ cảnh báo, tập trung vào công việc. Hệ thống ghi nhật ký tự động: GPS được tích hợp trên RD8200G và tự động ghi nhật ký định vị cho phép người dùng quản lý công việc tốt hơn."
+          },
+          {
+            "title": "Hotline: 0976 268 036",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Email: cic.stc@cic.com.vn",
+            "description": "Vui lòng cung cấp một vài thông tin cơ bản dưới đây, chúng tôi sẽ liên hệ tư vấn thiết bị phù hợp nhất với nhu cầu của quý khách."
+          }
+        ],
+        "title": "Thông số kỹ thuật",
+        "subtitle": "Ưu điểm thiết bị RadioDetection",
+        "description": "Độ nhạy: 6E-15 Tesla, 5µA at 1 meter (33kHz) Dải động: 140dB rms/√Hz Độ sâu tối đa: Cable / Pipe: 30m Sonde: 19.5m Độ chính xác: 3% Thời lượng pin: 30h Tần số: 50 - 200 kHz (21 tần số) Tích hợp GPS Chế độ dò thụ động: Cáp điện, cáp viễn thông, ..."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.972Z",
+      "updated_at_utc": "2026-10-28T01:12:41.972Z"
+    },
+    {
+      "landing_page_section_id": "013e6f32-2511-419a-891f-dc3798c7b4f3",
+      "landing_page_id": "c0b9109e-bb64-408b-98b4-59ddc3dfa54d",
+      "landing_section_type_code": "advantages",
+      "section_anchor_id": "Uudiem",
+      "section_order": 4,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Các cải tiến mới",
+            "description": "Độ chính xác và độ tin cậy cao Khả năng chống nước và bụi IP65 Chức năng lọc nguồn cho phép xác định được các sợi cáp ngầm đi song song gần nhau Chức năng iLOC™ cho phép điều khiển máy phát từ xa thông qua Bluetooth (khoảng cách kết nối đến 450m) Chức năng Trudepth™: đo chính xác độ sâu của cáp và ống ngầm RD Map: Lập bản đồ các tiện ích ngầm theo thời gian thực, tương thích với Google Map Thời gian bảo hành 3 năm"
+          },
+          {
+            "title": "ĐĂNG KÝ NHẬN TƯ VẤN",
+            "description": "Hệ thống cảnh báo rung lắc: Máy dò phải được giữ vuông góc với mặt đất để có độ chính xác cao nhất. RD8200 và RD7200 có hệ thống đo lường tích hợp con quay hồi chuyển, cảnh báo người dùng về việc rung lắc quá mức. Hệ thống âm thanh hiệu suất cao cho phép hoạt động trong môi trường nhiều tiếng ồn: Bộ định vị mới có vỏ loa chống thấm nước, được định vị để phản hồi tối đa cho người vận hành và được điều chỉnh để có được sự cộng hưởng tối ưu cho các tần số âm đã chọn. Với 5 mức công suất đầu ra hỗ trợ kỹ thuật viên làm việc trong các môi trường nhiều tiếng ồn."
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "Hệ thống phản hồi rung để giảm nguy cơ lỡ cảnh báo: Tay cầm máy dò có gắn cảm biến rung khi có cảnh báo, khiến người điều khiển giảm nguy cơ bị lỡ cảnh báo, tập trung vào công việc. Hệ thống ghi nhật ký tự động: GPS được tích hợp trên RD8200G và tự động ghi nhật ký định vị cho phép người dùng quản lý công việc tốt hơn."
+          },
+          {
+            "title": "Hotline: 0976 268 036",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Email: cic.stc@cic.com.vn",
+            "description": "Vui lòng cung cấp một vài thông tin cơ bản dưới đây, chúng tôi sẽ liên hệ tư vấn thiết bị phù hợp nhất với nhu cầu của quý khách."
+          },
+          {
+            "title": "Website: https://www.cic.com.vn",
+            "description": "Độ chính xác và độ tin cậy cao Khả năng chống nước và bụi IP65 Chức năng lọc nguồn cho phép xác định được các sợi cáp ngầm đi song song gần nhau Chức năng iLOC™ cho phép điều khiển máy phát từ xa thông qua Bluetooth (khoảng cách kết nối đến 450m) Chức năng Trudepth™: đo chính xác độ sâu của cáp và ống ngầm RD Map: Lập bản đồ các tiện ích ngầm theo thời gian thực, tương thích với Google Map Thời gian bảo hành 3 năm"
+          }
+        ],
+        "title": "Ưu điểm thiết bị RadioDetection",
+        "subtitle": "Các cải tiến mới",
+        "description": "Độ chính xác và độ tin cậy cao Khả năng chống nước và bụi IP65 Chức năng lọc nguồn cho phép xác định được các sợi cáp ngầm đi song song gần nhau Chức năng iLOC™ cho phép điều khiển máy phát từ xa thông qua Bluetooth (khoảng cách kết nối đến 450m) Chức năng Trudepth™: đo chính xác độ sâu của cáp và ống ngầm RD Map: Lập bản đồ các tiện ích ngầm theo thời gian thực, tương thích với Google Map Thời gian bảo hành 3 năm"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.976Z",
+      "updated_at_utc": "2026-10-28T01:12:41.976Z"
+    },
+    {
+      "landing_page_section_id": "00e85832-cfac-414d-9106-57818d7d7a5d",
+      "landing_page_id": "c0b9109e-bb64-408b-98b4-59ddc3dfa54d",
+      "landing_section_type_code": "catalog",
+      "section_anchor_id": "Caitien",
+      "section_order": 5,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "ĐĂNG KÝ NHẬN TƯ VẤN",
+            "description": "Hệ thống cảnh báo rung lắc: Máy dò phải được giữ vuông góc với mặt đất để có độ chính xác cao nhất. RD8200 và RD7200 có hệ thống đo lường tích hợp con quay hồi chuyển, cảnh báo người dùng về việc rung lắc quá mức. Hệ thống âm thanh hiệu suất cao cho phép hoạt động trong môi trường nhiều tiếng ồn: Bộ định vị mới có vỏ loa chống thấm nước, được định vị để phản hồi tối đa cho người vận hành và được điều chỉnh để có được sự cộng hưởng tối ưu cho các tần số âm đã chọn. Với 5 mức công suất đầu ra hỗ trợ kỹ thuật viên làm việc trong các môi trường nhiều tiếng ồn."
+          },
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "Hệ thống phản hồi rung để giảm nguy cơ lỡ cảnh báo: Tay cầm máy dò có gắn cảm biến rung khi có cảnh báo, khiến người điều khiển giảm nguy cơ bị lỡ cảnh báo, tập trung vào công việc. Hệ thống ghi nhật ký tự động: GPS được tích hợp trên RD8200G và tự động ghi nhật ký định vị cho phép người dùng quản lý công việc tốt hơn."
+          },
+          {
+            "title": "Hotline: 0976 268 036",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Email: cic.stc@cic.com.vn",
+            "description": "Vui lòng cung cấp một vài thông tin cơ bản dưới đây, chúng tôi sẽ liên hệ tư vấn thiết bị phù hợp nhất với nhu cầu của quý khách."
+          },
+          {
+            "title": "Website: https://www.cic.com.vn",
+            "description": "Hệ thống cảnh báo rung lắc: Máy dò phải được giữ vuông góc với mặt đất để có độ chính xác cao nhất. RD8200 và RD7200 có hệ thống đo lường tích hợp con quay hồi chuyển, cảnh báo người dùng về việc rung lắc quá mức. Hệ thống âm thanh hiệu suất cao cho phép hoạt động trong môi trường nhiều tiếng ồn: Bộ định vị mới có vỏ loa chống thấm nước, được định vị để phản hồi tối đa cho người vận hành và được điều chỉnh để có được sự cộng hưởng tối ưu cho các tần số âm đã chọn. Với 5 mức công suất đầu ra hỗ trợ kỹ thuật viên làm việc trong các môi trường nhiều tiếng ồn."
+          },
+          {
+            "title": "Vui lòng để lại thông tin, chúng tôi sẽ liên hệ tư vấn giải pháp phù hợp nhất tới quý khách:",
+            "description": "Hệ thống cảnh báo rung lắc: Máy dò phải được giữ vuông góc với mặt đất để có độ chính xác cao nhất. RD8200 và RD7200 có hệ thống đo lường tích hợp con quay hồi chuyển, cảnh báo người dùng về việc rung lắc quá mức. Hệ thống âm thanh hiệu suất cao cho phép hoạt động trong môi trường nhiều tiếng ồn: Bộ định vị mới có vỏ loa chống thấm nước, được định vị để phản hồi tối đa cho người vận hành và được điều chỉnh để có được sự cộng hưởng tối ưu cho các tần số âm đã chọn. Với 5 mức công suất đầu ra hỗ trợ kỹ thuật viên làm việc trong các môi trường nhiều tiếng ồn."
+          }
+        ],
+        "title": "Các cải tiến mới",
+        "subtitle": "ĐĂNG KÝ NHẬN TƯ VẤN",
+        "description": "Hệ thống cảnh báo rung lắc: Máy dò phải được giữ vuông góc với mặt đất để có độ chính xác cao nhất. RD8200 và RD7200 có hệ thống đo lường tích hợp con quay hồi chuyển, cảnh báo người dùng về việc rung lắc quá mức. Hệ thống âm thanh hiệu suất cao cho phép hoạt động trong môi trường nhiều tiếng ồn: Bộ định vị mới có vỏ loa chống thấm nước, được định vị để phản hồi tối đa cho người vận hành và được điều chỉnh để có được sự cộng hưởng tối ưu cho các tần số âm đã chọn. Với 5 mức công suất đầu ra hỗ trợ kỹ thuật viên làm việc trong các môi trường nhiều tiếng ồn."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.979Z",
+      "updated_at_utc": "2026-10-28T01:12:41.979Z"
+    },
+    {
+      "landing_page_section_id": "e504514f-4b55-49ac-998f-d3d195f12366",
+      "landing_page_id": "c0b9109e-bb64-408b-98b4-59ddc3dfa54d",
+      "landing_section_type_code": "comparison",
+      "section_anchor_id": "SECTION116",
+      "section_order": 6,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "Hệ thống phản hồi rung để giảm nguy cơ lỡ cảnh báo: Tay cầm máy dò có gắn cảm biến rung khi có cảnh báo, khiến người điều khiển giảm nguy cơ bị lỡ cảnh báo, tập trung vào công việc. Hệ thống ghi nhật ký tự động: GPS được tích hợp trên RD8200G và tự động ghi nhật ký định vị cho phép người dùng quản lý công việc tốt hơn."
+          },
+          {
+            "title": "Hotline: 0976 268 036",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Email: cic.stc@cic.com.vn",
+            "description": "Vui lòng cung cấp một vài thông tin cơ bản dưới đây, chúng tôi sẽ liên hệ tư vấn thiết bị phù hợp nhất với nhu cầu của quý khách."
+          },
+          {
+            "title": "Website: https://www.cic.com.vn",
+            "description": "Hệ thống phản hồi rung để giảm nguy cơ lỡ cảnh báo: Tay cầm máy dò có gắn cảm biến rung khi có cảnh báo, khiến người điều khiển giảm nguy cơ bị lỡ cảnh báo, tập trung vào công việc. Hệ thống ghi nhật ký tự động: GPS được tích hợp trên RD8200G và tự động ghi nhật ký định vị cho phép người dùng quản lý công việc tốt hơn."
+          },
+          {
+            "title": "Vui lòng để lại thông tin, chúng tôi sẽ liên hệ tư vấn giải pháp phù hợp nhất tới quý khách:",
+            "description": "Hệ thống phản hồi rung để giảm nguy cơ lỡ cảnh báo: Tay cầm máy dò có gắn cảm biến rung khi có cảnh báo, khiến người điều khiển giảm nguy cơ bị lỡ cảnh báo, tập trung vào công việc. Hệ thống ghi nhật ký tự động: GPS được tích hợp trên RD8200G và tự động ghi nhật ký định vị cho phép người dùng quản lý công việc tốt hơn."
+          },
+          {
+            "title": "ĐĂNG KÝ",
+            "description": "Hệ thống phản hồi rung để giảm nguy cơ lỡ cảnh báo: Tay cầm máy dò có gắn cảm biến rung khi có cảnh báo, khiến người điều khiển giảm nguy cơ bị lỡ cảnh báo, tập trung vào công việc. Hệ thống ghi nhật ký tự động: GPS được tích hợp trên RD8200G và tự động ghi nhật ký định vị cho phép người dùng quản lý công việc tốt hơn."
+          }
+        ],
+        "title": "ĐĂNG KÝ NHẬN TƯ VẤN",
+        "subtitle": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+        "description": "Hệ thống phản hồi rung để giảm nguy cơ lỡ cảnh báo: Tay cầm máy dò có gắn cảm biến rung khi có cảnh báo, khiến người điều khiển giảm nguy cơ bị lỡ cảnh báo, tập trung vào công việc. Hệ thống ghi nhật ký tự động: GPS được tích hợp trên RD8200G và tự động ghi nhật ký định vị cho phép người dùng quản lý công việc tốt hơn."
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.985Z",
+      "updated_at_utc": "2026-10-28T01:12:41.985Z"
+    },
+    {
+      "landing_page_section_id": "9884a22e-b712-45b5-b375-08e05f1edc4b",
+      "landing_page_id": "c0b9109e-bb64-408b-98b4-59ddc3dfa54d",
+      "landing_section_type_code": "consultation_form",
+      "section_anchor_id": "Lienhe",
+      "section_order": 7,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Hotline: 0976 268 036",
+            "description": "Vui lòng cung cấp một vài thông tin cơ bản dưới đây, chúng tôi sẽ liên hệ tư vấn thiết bị phù hợp nhất với nhu cầu của quý khách."
+          },
+          {
+            "title": "Email: cic.stc@cic.com.vn",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Website: https://www.cic.com.vn",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Vui lòng để lại thông tin, chúng tôi sẽ liên hệ tư vấn giải pháp phù hợp nhất tới quý khách:",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "ĐĂNG KÝ",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          }
+        ],
+        "title": "ĐĂNG KÝ NHẬN TƯ VẤN",
+        "subtitle": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+        "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.989Z",
+      "updated_at_utc": "2026-10-28T01:12:41.989Z"
+    },
+    {
+      "landing_page_section_id": "480ddb46-9584-4ba1-b70f-00b2bb5310a2",
+      "landing_page_id": "c0b9109e-bb64-408b-98b4-59ddc3dfa54d",
+      "landing_section_type_code": "footer",
+      "section_anchor_id": "Lienhe",
+      "section_order": 8,
+      "is_section_enabled": true,
+      "published_payload_json": {
+        "items": [
+          {
+            "title": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Hotline: 0976 268 036",
+            "description": "Vui lòng cung cấp một vài thông tin cơ bản dưới đây, chúng tôi sẽ liên hệ tư vấn thiết bị phù hợp nhất với nhu cầu của quý khách."
+          },
+          {
+            "title": "Email: cic.stc@cic.com.vn",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Website: https://www.cic.com.vn",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "Vui lòng để lại thông tin, chúng tôi sẽ liên hệ tư vấn giải pháp phù hợp nhất tới quý khách:",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          },
+          {
+            "title": "ĐĂNG KÝ",
+            "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+          }
+        ],
+        "title": "ĐĂNG KÝ NHẬN TƯ VẤN",
+        "subtitle": "Địa chỉ: 37 Lê Đại Hành - Hai Bà Trưng - Hà Nội (Bộ Xây dựng)",
+        "description": "CÔNG TY CP CÔNG NGHỆ VÀ TƯ VẤN CIC"
+      },
+      "draft_payload_json": null,
+      "typography_config_json": {},
+      "custom_css_class": null,
+      "created_at_utc": "2026-10-28T01:12:41.992Z",
+      "updated_at_utc": "2026-10-28T01:12:41.992Z"
+    }
+  ],
+  "forms": [
+    {
+      "landing_form_id": "73360e32-a969-4dfa-b631-6a3a72203882",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "form_code": "consultation_form",
+      "form_name": "Biểu mẫu Đăng ký Tư vấn & Báo giá (maydocapngam)",
+      "fields_schema_json": [
+        {
+          "name": "full_name",
+          "type": "text",
+          "label": "Họ và tên",
+          "required": true,
+          "placeholder": "Nhập họ và tên của bạn"
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "label": "Số điện thoại",
+          "required": true,
+          "placeholder": "Nhập số điện thoại liên hệ"
+        },
+        {
+          "name": "email",
+          "type": "email",
+          "label": "Email công việc",
+          "required": true,
+          "placeholder": "name@company.com"
+        },
+        {
+          "name": "company",
+          "type": "text",
+          "label": "Đơn vị / Công ty",
+          "required": false,
+          "placeholder": "Tên doanh nghiệp / tổ chức"
+        },
+        {
+          "name": "request_type",
+          "type": "select",
+          "label": "Nhu cầu tư vấn",
+          "options": [
+            {
+              "label": "Đăng ký dùng thử & Tài liệu kỹ thuật",
+              "value": "trial"
+            },
+            {
+              "label": "Nhận báo giá bản quyền / thiết bị",
+              "value": "quote"
+            },
+            {
+              "label": "Tư vấn giải pháp & Demo trực tiếp",
+              "value": "consultation"
+            }
+          ],
+          "required": true
+        }
+      ],
+      "notification_emails_json": [
+        "info@cic.com.vn"
+      ],
+      "google_sheet_config_json": {
+        "sheet_name": "MAYDOCAPNGAM",
+        "spreadsheet_id": ""
+      },
+      "success_action": "modal_download",
+      "success_payload_json": {
+        "message": "Cảm ơn quý khách! Chuyên gia CIC sẽ liên hệ tư vấn trong thời gian sớm nhất.",
+        "modal_title": "Đăng ký thành công!",
+        "modal_description": "Quý khách có thể tải xuống tài liệu Brochure giới thiệu giải pháp ngay bên dưới:",
+        "default_download_url": "/api/landing/media/maydocapngam/downloads/brochure.pdf"
+      },
+      "is_form_active": true,
+      "created_at_utc": "2026-10-28T01:12:42.664Z",
+      "updated_at_utc": "2026-10-28T01:12:42.664Z"
+    }
+  ],
+  "media": [
+    {
+      "landing_media_asset_id": "f1da31ea-fa9a-4bf0-87ce-d1ae473e3393",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "radiologo-20211221101005",
+      "file_name": "radiologo-20211221101005.png",
+      "file_path": "ladicdn/w.ladicdn.com/s650x350/5e410597f4aa8d0f29888a88/radiologo-20211221101005.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "33274",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - radiologo-20211221101005.png",
+      "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - radiologo-20211221101005.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.114Z",
+      "updated_at_utc": "2026-10-28T01:12:50.114Z"
+    },
+    {
+      "landing_media_asset_id": "f15d4dd1-7dce-4f07-81bc-68879ea3af45",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "radiologo-20211221101005",
+      "file_name": "radiologo-20211221101005.png",
+      "file_path": "ladicdn/w.ladicdn.com/s750x350/5e410597f4aa8d0f29888a88/radiologo-20211221101005.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "33274",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - radiologo-20211221101005.png",
+      "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - radiologo-20211221101005.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.123Z",
+      "updated_at_utc": "2026-10-28T01:12:50.123Z"
+    },
+    {
+      "landing_media_asset_id": "bb3ccdc5-f40a-423d-9f99-3c9c85c4cd0d",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "logocic-20191218034215",
+      "file_name": "logocic-20191218034215.png",
+      "file_path": "ladicdn/w.ladicdn.com/s500x400/5def5421715a2921b62e6a5d/logocic-20191218034215.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "27655",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - logocic-20191218034215.png",
+      "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - logocic-20191218034215.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.132Z",
+      "updated_at_utc": "2026-10-28T01:12:50.132Z"
+    },
+    {
+      "landing_media_asset_id": "134c5e6c-6e64-4b4e-8177-38246b3b21d3",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "logocic-20191218034215",
+      "file_name": "logocic-20191218034215.png",
+      "file_path": "ladicdn/w.ladicdn.com/s550x450/5def5421715a2921b62e6a5d/logocic-20191218034215.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "27655",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - logocic-20191218034215.png",
+      "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - logocic-20191218034215.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.139Z",
+      "updated_at_utc": "2026-10-28T01:12:50.139Z"
+    },
+    {
+      "landing_media_asset_id": "1645d3e7-1096-469a-b435-d33ec59a0152",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "logo-cic-20200221081126",
+      "file_name": "logo-cic-20200221081126.png",
+      "file_path": "ladicdn/w.ladicdn.com/s450x350/5e410597f4aa8d0f29888a88/logo-cic-20200221081126.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "13252",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - logo-cic-20200221081126.png",
+      "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - logo-cic-20200221081126.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.148Z",
+      "updated_at_utc": "2026-10-28T01:12:50.148Z"
+    },
+    {
+      "landing_media_asset_id": "8f5ad6ce-659e-4c44-89c5-3f380cd9f830",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "1-20211221072657",
+      "file_name": "1-20211221072657.jpg",
+      "file_path": "ladicdn/w.ladicdn.com/s1440x720/5e410597f4aa8d0f29888a88/1-20211221072657.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "1101229",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 1-20211221072657.jpg",
+      "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 1-20211221072657.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.163Z",
+      "updated_at_utc": "2026-10-28T01:12:50.163Z"
+    },
+    {
+      "landing_media_asset_id": "527190e8-c882-4e72-a585-941bc5d5f164",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "1-20211221072657",
+      "file_name": "1-20211221072657.jpg",
+      "file_path": "ladicdn/w.ladicdn.com/s768x693/5e410597f4aa8d0f29888a88/1-20211221072657.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "1101229",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 1-20211221072657.jpg",
+      "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 1-20211221072657.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.249Z",
+      "updated_at_utc": "2026-10-28T01:12:50.249Z"
+    },
+    {
+      "landing_media_asset_id": "5c3f7d89-a867-4fee-a72c-a16c57e3e356",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "download-20211222030421",
+      "file_name": "download-20211222030421.png",
+      "file_path": "ladicdn/w.ladicdn.com/s650x650/5e410597f4aa8d0f29888a88/download-20211222030421.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "414285",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - download-20211222030421.png",
+      "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - download-20211222030421.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.350Z",
+      "updated_at_utc": "2026-10-28T01:12:50.350Z"
+    },
+    {
+      "landing_media_asset_id": "31bb89fc-3cdd-4451-94c9-ae13a6055e8e",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "10-20211222033204",
+      "file_name": "10-20211222033204.png",
+      "file_path": "ladicdn/w.ladicdn.com/s650x650/5e410597f4aa8d0f29888a88/10-20211222033204.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "399334",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 10-20211222033204.png",
+      "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 10-20211222033204.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.387Z",
+      "updated_at_utc": "2026-10-28T01:12:50.387Z"
+    },
+    {
+      "landing_media_asset_id": "79547d08-ffca-4d1f-9a35-1427202b3ed6",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "8-20211222031251",
+      "file_name": "8-20211222031251.png",
+      "file_path": "ladicdn/w.ladicdn.com/s650x700/5e410597f4aa8d0f29888a88/8-20211222031251.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "388182",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 8-20211222031251.png",
+      "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 8-20211222031251.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.424Z",
+      "updated_at_utc": "2026-10-28T01:12:50.424Z"
+    },
+    {
+      "landing_media_asset_id": "e8ce2d4c-b134-44d4-9043-c05c00fe6b43",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "download-20211222030421",
+      "file_name": "download-20211222030421.png",
+      "file_path": "ladicdn/w.ladicdn.com/s600x600/5e410597f4aa8d0f29888a88/download-20211222030421.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "358633",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - download-20211222030421.png",
+      "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - download-20211222030421.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.455Z",
+      "updated_at_utc": "2026-10-28T01:12:50.455Z"
+    },
+    {
+      "landing_media_asset_id": "70d23030-eed5-42f2-9130-c8027b905ae9",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "8-20211222031251",
+      "file_name": "8-20211222031251.png",
+      "file_path": "ladicdn/w.ladicdn.com/s550x650/5e410597f4aa8d0f29888a88/8-20211222031251.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "289723",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 8-20211222031251.png",
+      "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 8-20211222031251.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.499Z",
+      "updated_at_utc": "2026-10-28T01:12:50.499Z"
+    },
+    {
+      "landing_media_asset_id": "2911920d-a8fb-4984-acef-1d19a536c361",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "7-20211222023257",
+      "file_name": "7-20211222023257.jpg",
+      "file_path": "ladicdn/w.ladicdn.com/s768x836/5e410597f4aa8d0f29888a88/7-20211222023257.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "222782",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 7-20211222023257.jpg",
+      "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 7-20211222023257.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.527Z",
+      "updated_at_utc": "2026-10-28T01:12:50.527Z"
+    },
+    {
+      "landing_media_asset_id": "e4e75a0f-e491-47cb-b97a-68ee9df79638",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "7-20211222023257",
+      "file_name": "7-20211222023257.jpg",
+      "file_path": "ladicdn/w.ladicdn.com/s1440x563/5e410597f4aa8d0f29888a88/7-20211222023257.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "171455",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 7-20211222023257.jpg",
+      "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 7-20211222023257.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.550Z",
+      "updated_at_utc": "2026-10-28T01:12:50.550Z"
+    },
+    {
+      "landing_media_asset_id": "187827d6-ff98-4081-97c0-08edff27f936",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "qr-zalo-20200303042740",
+      "file_name": "qr-zalo-20200303042740.png",
+      "file_path": "ladicdn/w.ladicdn.com/s650x750/5e410597f4aa8d0f29888a88/qr-zalo-20200303042740.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "170380",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - qr-zalo-20200303042740.png",
+      "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - qr-zalo-20200303042740.png",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.569Z",
+      "updated_at_utc": "2026-10-28T01:12:50.569Z"
+    },
+    {
+      "landing_media_asset_id": "e37c4cd8-43d5-43c1-9639-5ba036cc6b06",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "1-20211222032140",
+      "file_name": "1-20211222032140.jpg",
+      "file_path": "ladicdn/w.ladicdn.com/s1440x416/5e410597f4aa8d0f29888a88/1-20211222032140.jpg",
+      "mime_type": "image/jpeg",
+      "file_size_bytes": "169807",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 1-20211222032140.jpg",
+      "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm - 1-20211222032140.jpg",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.590Z",
+      "updated_at_utc": "2026-10-28T01:12:50.590Z"
+    },
+    {
+      "landing_media_asset_id": "fdb9f6a5-0628-47b1-a668-deb5524b3d4c",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "brand_logo",
+      "file_name": "logo.png",
+      "file_path": "images/logo.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "33274",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm Logo",
+      "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm Logo",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.610Z",
+      "updated_at_utc": "2026-10-28T01:12:50.610Z"
+    },
+    {
+      "landing_media_asset_id": "546c6f79-b7fe-4752-a5df-308cd5782f1f",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "favicon",
+      "file_name": "favicon.ico",
+      "file_path": "images/favicon.ico",
+      "mime_type": "image/x-icon",
+      "file_size_bytes": "33274",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Favicon",
+      "alt_text_en": "Favicon",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.622Z",
+      "updated_at_utc": "2026-10-28T01:12:50.622Z"
+    },
+    {
+      "landing_media_asset_id": "a8507c69-976d-4139-b899-1df8cb02e2c4",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "hero_banner",
+      "file_name": "hero.png",
+      "file_path": "images/hero.png",
+      "mime_type": "image/png",
+      "file_size_bytes": "33274",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm Hero",
+      "alt_text_en": "RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm Hero",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.633Z",
+      "updated_at_utc": "2026-10-28T01:12:50.633Z"
+    },
+    {
+      "landing_media_asset_id": "594781e6-45a5-4139-9143-b2fde7043253",
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "media_slot_code": "brochure_pdf",
+      "file_name": "brochure.pdf",
+      "file_path": "downloads/brochure.pdf",
+      "mime_type": "application/pdf",
+      "file_size_bytes": "671641",
+      "width_px": null,
+      "height_px": null,
+      "alt_text_vi": "Tài liệu Brochure RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm",
+      "alt_text_en": "Brochure RadioDetection — Thiết bị Định vị Dò tìm Cáp ngầm & Đường ống ngầm",
+      "storage_provider": "local",
+      "created_at_utc": "2026-10-28T01:12:50.646Z",
+      "updated_at_utc": "2026-10-28T01:12:50.646Z"
+    }
+  ],
+  "leads": [],
+  "pageViews": [
+    {
+      "landing_site_id": "ec5e1345-b3ac-4793-a1ae-2908a69dcac6",
+      "view_date": "2026-10-27",
+      "views_count": 3,
+      "unique_visitors_count": 1
+    }
+  ],
+  "adminAccounts": [
+    {
+      "username": "maydocapngam_admin",
+      "password_hash": "4a208b7ff43bd0a71c3bb331db13040694d36bd9e34b5d9ed62d0be880dc5b58",
+      "display_name": "Quản trị viên RadioDetection",
+      "role": "site_admin",
+      "landing_site_code": "maydocapngam",
+      "is_active": true
+    },
+    {
+      "username": "admin",
+      "password_hash": "2e6c21501300cc6fa4d50597c1c483c802b6d9f00f119f004d8344f663129109",
+      "display_name": "Quản trị Tổng CIC",
+      "role": "super_admin",
+      "landing_site_code": null,
+      "is_active": true
+    }
+  ]
+}

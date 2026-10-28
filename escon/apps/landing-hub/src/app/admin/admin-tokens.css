@@ -1,0 +1,122 @@
+/* ==========================================================================
+   CIC DESIGN SYSTEM TOKENS (SYNCED 100% WITH https://cic-web-sandy.vercel.app/)
+   ========================================================================== */
+:root {
+  /* Core Brand Colors */
+  --token-color-brand-primary: #ea580c;   /* Orange-600: Primary CTA, Active Accents, Focus Rings */
+  --token-color-brand-hover: #c2410c;     /* Orange-700: Hover states */
+  --token-color-brand-active: #9a3412;    /* Orange-800: Active/Pressed states */
+  --token-color-brand-light: #fff7ed;     /* Orange-50: Active filter badges, subtle highlights */
+  --token-color-brand-navy: #0b1b36;      /* Deep CIC Brand Navy: Header, Hero & Dark Brand Surfaces */
+
+  /* Surface & Background Tokens */
+  --token-color-surface-page: #ffffff;
+  --token-color-surface-card: #f8fafc;
+  --token-color-surface-card-dark: #0f172a;
+
+  /* Text Hierarchy Tokens */
+  --token-color-text-primary: #0f172a;    /* Slate-900 */
+  --token-color-text-secondary: #475569;  /* Slate-600 */
+  --token-color-text-muted: #64748b;      /* Slate-500 */
+
+  /* Border & Radius Tokens */
+  --token-color-border-default: #e2e8f0;  /* Slate-200 */
+  --token-radius-control: 8px;            /* Standard Input/Button/Badge radius */
+  --token-radius-card: 10px;              /* Standard Card radius */
+  --token-radius-pill: 9999px;            /* Pill tags & badges */
+}
+
+/* ==========================================================================
+   CMS SHELL TYPOGRAPHY, SELECT & TABLE CONTRACTS (FROM CIC-WEB)
+   ========================================================================== */
+.cms-shell {
+  --cms-header-height: 3.75rem;
+  --cms-type-page-title: 1.375rem;
+  --cms-type-section-title: 1rem;
+  --cms-type-card-title: 0.9375rem;
+  --cms-type-body: 0.8125rem;
+  --cms-type-label: 0.75rem;
+  --cms-type-caption: 0.6875rem;
+  font-family: var(--font-admin-roboto), Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: var(--cms-type-body);
+  line-height: 1.5;
+  color: var(--token-color-text-primary);
+}
+
+.cms-shell ::selection {
+  background-color: var(--token-color-brand-primary) !important;
+  color: #ffffff !important;
+}
+
+.cms-shell table,
+.cms-shell [data-cms-numeric="true"] {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Custom Select Dropdown with CIC Brand Orange Chevron */
+.cms-shell select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%23ea580c' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.65rem center;
+  background-size: 0.85rem;
+  padding-right: 2.25rem !important;
+  border-radius: var(--token-radius-control);
+  transition: border-color 150ms ease, box-shadow 150ms ease, background-color 150ms ease;
+}
+
+.cms-shell select:hover {
+  border-color: #cbd5e1;
+}
+
+.cms-shell select:focus {
+  outline: none;
+  border-color: var(--token-color-brand-primary) !important;
+  box-shadow: 0 0 0 2px rgba(234, 88, 12, 0.2) !important;
+}
+
+.cms-shell select option {
+  background-color: #ffffff;
+  color: #0f172a;
+  font-weight: 500;
+  padding: 8px 12px;
+}
+
+.cms-shell select option:checked {
+  background-color: var(--token-color-brand-light);
+  color: var(--token-color-brand-primary);
+  font-weight: 700;
+}
+
+.cms-shell input:focus,
+.cms-shell textarea:focus {
+  outline: none;
+  border-color: var(--token-color-brand-primary) !important;
+  box-shadow: 0 0 0 2px rgba(234, 88, 12, 0.16) !important;
+}
+
+/* Standard CMS Data Table Contract */
+.cms-shell button,
+.cms-shell a[class*="rounded"] {
+  white-space: nowrap;
+}
+
+.cms-data-table th {
+  padding: 0.625rem 1rem;
+  font-size: var(--cms-type-label);
+  line-height: 1rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: var(--token-color-text-secondary);
+}
+
+.cms-data-table td {
+  padding: 0.75rem 1rem;
+  font-size: var(--cms-type-body);
+  line-height: 1.25rem;
+  vertical-align: middle;
+}
