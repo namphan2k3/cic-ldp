@@ -180,12 +180,32 @@ function copyDirFiltered(srcDir: string, destDir: string, excludeNames: Set<stri
   }
 }
 
+const SITE_PORT_MAP: Record<string, number> = {
+  'cms-intellicad': 3005,
+  'robot-cong-trinh': 3006,
+  allplan: 3007,
+  bim: 3008,
+  enjicad: 3009,
+  escon: 3010,
+  revit: 3011,
+  autocad: 3012,
+  cubicost: 3013,
+  enjicadpro: 3014,
+  piletest: 3015,
+  foxit: 3016,
+  maydocapngam: 3017,
+  cabinetvision: 3018,
+};
+
 export async function exportDeployFolder(
   targetSiteCode?: string,
-  customDestDir?: string
+  customDestDir?: string,
+  customFolderName?: string
 ): Promise<DeployExportSummary> {
   const isSpecific = Boolean(targetSiteCode && targetSiteCode !== 'ALL');
-  const packageName = isSpecific ? `deploy-${targetSiteCode}` : 'deploy-cic-landing-hub';
+  const packageName =
+    customFolderName?.trim() ||
+    (isSpecific ? `deploy-${targetSiteCode}` : 'deploy-cic-landing-hub');
 
   const { appRoot, monorepoRoot } = resolveWorkspaceRoots();
   const baseParentDir =
@@ -218,7 +238,7 @@ export async function exportDeployFolder(
   fs.writeFileSync(path.join(seedDir, 'auto-seed.mjs'), AUTO_SEED_MJS_TEMPLATE, 'utf8');
   fs.writeFileSync(path.join(seedDir, 'seed-data.json'), JSON.stringify(payload, null, 2), 'utf8');
 
-  // 2. Copy root workspace files & shared packages
+  // 2. Copy root workspace files, infra/supabase, & shared packages
   for (const rootFile of ['package.json', 'package-lock.json', 'tsconfig.base.json']) {
     const srcFile = path.join(monorepoRoot, rootFile);
     if (fs.existsSync(srcFile)) {
@@ -226,10 +246,34 @@ export async function exportDeployFolder(
     }
   }
 
+  // Customize standalone root package.json scripts for 1-command setup/seed/build/start
+  const pkgJsonPath = path.join(outputDir, 'package.json');
+  if (fs.existsSync(pkgJsonPath)) {
+    try {
+      const pkgObj = JSON.parse(fs.readFileSync(pkgJsonPath, 'utf8'));
+      pkgObj.name = packageName;
+      pkgObj.scripts = {
+        dev: 'npm --workspace @cic/landing-hub run dev',
+        build: 'npm --workspace @cic/landing-hub run build',
+        start: 'npm --workspace @cic/landing-hub run start',
+        'db:seed': 'node seed/auto-seed.mjs',
+        setup: 'npm install && node seed/auto-seed.mjs && npm --workspace @cic/landing-hub run build',
+      };
+      fs.writeFileSync(pkgJsonPath, JSON.stringify(pkgObj, null, 2) + '\n', 'utf8');
+    } catch {
+      // keep original package.json if parse fails
+    }
+  }
+
   const excludeCommon = new Set(['node_modules', '.git', '.turbo', 'dist-deploy', '.DS_Store']);
   copyDirFiltered(
     path.join(monorepoRoot, 'packages'),
     path.join(outputDir, 'packages'),
+    excludeCommon
+  );
+  copyDirFiltered(
+    path.join(monorepoRoot, 'infra', 'supabase'),
+    path.join(outputDir, 'infra', 'supabase'),
     excludeCommon
   );
   copyDirFiltered(
@@ -266,6 +310,7 @@ export async function exportDeployFolder(
   }
 
   // 4. Write .env.example and .env template to both package root (for auto-seed.mjs) and apps/landing-hub (for next start)
+  const defaultPort = (isSpecific && targetSiteCode && SITE_PORT_MAP[targetSiteCode]) || 3000;
   const defaultSiteLine = isSpecific ? `DEFAULT_SITE_CODE=${targetSiteCode}\n` : '';
   const activeDbUrl = (
     process.env.DATABASE_URL?.trim() ||
@@ -275,7 +320,7 @@ export async function exportDeployFolder(
   const envTemplate = [
     '# Cấu hình Kết nối Database chung trên Host',
     `DATABASE_URL=${activeDbUrl}`,
-    'PORT=3000',
+    `PORT=${defaultPort}`,
     defaultSiteLine.trim(),
   ]
     .filter(Boolean)
@@ -290,36 +335,59 @@ export async function exportDeployFolder(
   );
   fs.writeFileSync(path.join(outputDir, 'apps', 'landing-hub', '.env'), envTemplate, 'utf8');
 
+  const pkgGitignore = `node_modules/
+.next/
+.turbo/
+.DS_Store
+*.log
+`;
+  fs.writeFileSync(path.join(outputDir, '.gitignore'), pkgGitignore, 'utf8');
+  fs.writeFileSync(
+    path.join(outputDir, 'apps', 'landing-hub', '.gitignore'),
+    pkgGitignore,
+    'utf8'
+  );
+
   // 5. Write 1-click Startup Scripts (Linux start.sh, Windows start.bat, PM2 ecosystem.config.cjs, README)
   const startSh = `#!/usr/bin/env bash
 set -e
+if [ ! -f ".env" ] && [ -f ".env.example" ]; then
+  cp .env.example .env
+fi
+if [ ! -f "apps/landing-hub/.env" ] && [ -f "apps/landing-hub/.env.example" ]; then
+  cp apps/landing-hub/.env.example apps/landing-hub/.env
+fi
 echo "=== [1/3] Kiểm tra thư viện hệ thống ==="
 if [ ! -d "node_modules" ]; then
   npm install
 fi
-if [ ! -d "apps/landing-hub/.next" ]; then
-  npm --prefix apps/landing-hub run build
-fi
-echo "=== [2/3] Tự động khởi tạo & nạp dữ liệu vào Database chung (Auto-Seed) ==="
+echo "=== [2/3] Tự động khởi tạo & nạp dữ liệu vào Database (Auto-Seed) ==="
 node seed/auto-seed.mjs
-echo "=== [3/3] Khởi chạy máy chủ (${packageName}) ==="
-cd apps/landing-hub && npx next start -p \${PORT:-3000}
+if [ ! -d "apps/landing-hub/.next" ]; then
+  echo "=== [2.5/3] Biên dịch gói giao diện Production ==="
+  npm --workspace @cic/landing-hub run build
+fi
+echo "=== [3/3] Khởi chạy máy chủ (${packageName} - cổng \${PORT:-${defaultPort}}) ==="
+cd apps/landing-hub && npx next start -p \${PORT:-${defaultPort}}
 `;
 
   const startBat = `@echo off
+if not exist ".env" if exist ".env.example" copy /Y ".env.example" ".env" >nul
+if not exist "apps\\landing-hub\\.env" if exist "apps\\landing-hub\\.env.example" copy /Y "apps\\landing-hub\\.env.example" "apps\\landing-hub\\.env" >nul
 echo === [1/3] Kiem tra thu vien he thong ===
 if not exist "node_modules" (
   call npm install
 )
-if not exist "apps\\landing-hub\\.next" (
-  call npm --prefix apps/landing-hub run build
-)
-echo === [2/3] Tu dong khoi tao va nap du lieu vao Database chung (Auto-Seed) ===
+echo === [2/3] Tu dong khoi tao va nap du lieu vao Database (Auto-Seed) ===
 node seed/auto-seed.mjs
 if %ERRORLEVEL% neq 0 exit /b %ERRORLEVEL%
-echo === [3/3] Khoi chay may chu (${packageName}) ===
+if not exist "apps\\landing-hub\\.next" (
+  echo === [2.5/3] Bien dich goi giao dien Production ===
+  call npm --workspace @cic/landing-hub run build
+)
+echo === [3/3] Khoi chay may chu (${packageName} - cong ${defaultPort}) ===
 cd apps\\landing-hub
-npx next start -p 3000
+npx next start -p ${defaultPort}
 `;
 
   const pm2Config = `module.exports = {

@@ -186,7 +186,13 @@ import postgres from 'postgres';
 import dotenv from 'dotenv';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-dotenv.config({ path: path.resolve(__dirname, '../.env') });
+const envPath = path.resolve(__dirname, '../.env');
+const envExamplePath = path.resolve(__dirname, '../.env.example');
+if (fs.existsSync(envPath)) {
+  dotenv.config({ path: envPath });
+} else if (fs.existsSync(envExamplePath)) {
+  dotenv.config({ path: envExamplePath });
+}
 
 const rawDbUrl =
   process.env.DATABASE_URL?.trim() ||
